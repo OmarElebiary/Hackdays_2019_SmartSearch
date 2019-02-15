@@ -1,8 +1,0 @@
-Hersteller: Infastaub GmbH
-Typ: AJM 710-1000-18P
-Serien Nr.: 4390  Herstellungsdatum: 12.10-01
-Betriebsspannung: 230V DC
-Steuerspannung: 24V DC		IP66
-Volumenstrom: 500m³/h
-Betriebstemperatur: 20-50°C
-Betriebsdruck: 6bar

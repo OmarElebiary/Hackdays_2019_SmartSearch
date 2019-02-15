@@ -1,5 +1,0 @@
-Hersteller: WAM
-Typ: MT100LH04145
-Batch No.: 10060567
-Baujahr: 2010
-Gewicht: 35 kg

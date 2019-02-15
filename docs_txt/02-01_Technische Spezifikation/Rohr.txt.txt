@@ -1,3 +1,0 @@
-Material: Edelstahl
-DN:50
-PN 10

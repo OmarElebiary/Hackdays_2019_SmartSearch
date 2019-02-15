@@ -1,338 +1,0 @@
-E-Serie
-Kennlinien
-E 08
-
-Bitte wählen Sie
-die Pumpengröße!
-
-E 10
-E 15
-E 25
-
-Die Daten beziehen sich auf Wasser bei 20°C,
-unter Verwendung verschiedener
-Pumpenvarianten (z.B. Kugelventilversion,
-Dämpfervorbereitung usw.), eines Kompressors
-Atlas Copco VSG 30 und kalibrierter Messmittel.
-
-E 40
-E 50
-
-Die Daten beziehen sich auf
-Wasser. Zu beachten ist der
-Einfluss der Medienviskosität
-auf die Fördermenge.
-
-Änderungen vorbehalten, 07/09
-
-E 08
-
-E 10
-
-E 15
-
-E 25
-
-E 40
-
-E 50
-
-Viskosität
-Die in den Pumpenkennlinien
-angegebenen Fördermengen sind generell
-auf Wasser (1 mPa·s) bezogen. Für
-Fördermedien mit höherer Viskosität ist
-eine entsprechende Reduzierung zu
-berücksichtigen.
-Das Diagramm ermöglicht ein direktes
-Ablesen der Auslegungsfördermenge, für
-die dann eine passende Pumpengröße
-ausgewählt werden kann.
-Das gezeigt Beispiel legt eine gewünschte
-Fördermenge von 10 m³/h bei einer
-Produktviskosität von 6000 mPa·s
-zugrunde. Die strichpunktierte Linie
-schneidet die Skala der AuslegungsFördermenge bei 17 m³/h.
-
- 
-ALMATEE"
-A TDOVER) comany
- 
-ALMATEE"
-A TDOVER) comany
-PSIG mws
-
-10077 70
-E 08
-90
-60 3 — Antriebsluftdruck (bar)
-80 —  Luftbedarf (Nm?¥/min)
-
- 
-
-70 - 50
- 
-
- 
-
- 
- 
-
-0 0.1 02
-
-0,3 0,4 0,5 0,6 0,7 [0X:} 0,9 m¥h
-
- 
-
-T T T 1
-0 02 04 06 08
-
-I
-1
-
-T 1 T T 1T 1T 1T 1T T T 1T T 1
-12 14 16 1,8 2 22 24 26 28 3 32 34 3,6 38 USGPM
-
-Fordermenge
- 
-ALMATEE"
-A TDOVER) comany
-PSIG mws
-
-100
-
-E 10
-20
-
-— Antriebsluftdruck (bar)
-80
-
-——  Luftbedarf (Nm*min)
-
-70
-
- 
- 
-0,5
-
-0,6
-
-07 08
-
-1,2
-
-1,3
-
-1,4 m¥%h
-
- 
-
-I
-25
-
-T T
-3 35
-
-Fordermenge
-
-T
-55
-
-I
-6 USGPM
- 
-ALMATEE"
-A TDOVER) comany
-PSIG
-100
-
-90
-
-80
-
-70
-
-E15
-
- 
-
-Antriebsluftdruck (bar)
-~——  Luftbedarf (Nm*/min)
-
- 
- 
-10
-
-10
-
- 
-
- 
-
- 
-
-0 02 04 06 08 1 4 8 2 22 24 2,6 28 3 32 3,4 m*h
-[ I I
-0 1 2 3 5 6 7 8 9 10 11 12 13 14 USGPM
-
-Fordermenge
- 
-ALMATEE"
-A TDOVER) comany
-PSIG
-100
-
-90
-
-80
-
-70
-
-i
-
- 
-
-Antriebsluftdruck (bar)
-~——  Luftbedarf (Nm%min)
-
- 
- 
-2,5
-
-3
-
-35 4 45
-
-5 55
-
-6 65
-
-7
-
-75 8m¥h
-
- 
-
-8
-
-T
-10
-
-I
-12
-
-I
-14
-
-T 1
-16 18 20
-
-Fordermenge
-
-T 1
-22 24
-
-T 1
-26 28 30
-
-T
-32
-
-I
-34 USGPM
- 
-ALMATEE"
-A TDOVER) comany
-PSIG
-
-100
-*® — Antriebsluftdruck (bar)
-80 ~—— Luftbedarf (Nm?*/min)
-
- 
-
-70
- 
- 
-
-19 20 m¥%h
-
-9 10 11 12 13 14 15 16 17 18
-
-8
-
- 
-
-80 USGPM
-
-70
-
-30 40 50 60
-
-20
-
-10
-
-Fordermenge
- 
-ALMATEE"
-A TDOVER) comany
-PSIG
-
-100
-
-E 50
-e — Antriebsluftdruck (bar)
-80 ——  Luftbedarf (Nm?®min)
-
- 
-
-70
- 
-
- 
-16 18 20 22 24 26 28
-
- 
-
-30 32 34 36m¥h
-
- 
-
-T T T T I T
-70 80 90 100 110 120
-
-Fordermenge
-
-T 1 1
-130 140 150 USGPM
- 
-ALMATEE"
-A TDOVER) comany
-Gewdinschte Fordermenge Auslegungsfordermenge
-m3/h I/min V/min m3/h
-
-30 —— 500 0——0
-
- 
-
-400 Viskositat des Fordermediums
-o) in €
-- (bezogen auf
-o spez. Gewicht 1)
-
- 
-
- 
-
-P in mPass
-%, baw. P L
-
- 
-
- 
-
- 
-
- 
-

@@ -1,904 +1,0 @@
-TYPE
-
-APR
-ATTUATORE PNEUMATICO
-PNEUMATIC ACTUATORS
-
-DOPPIO EFFETTO
-SINGOLO EFFETTO
-DOUBLE ACTING (D.A.)
-SINGLE ACTING (S.A.)
-
-ACTIONNEURS PNEUMATIQUE
-PNEUMATISCHE ANTRIEBE
-
-According to S.I.L. 3
-
-DN
-APR D.A.
-APR S.A.
-
-CONNECTION ADLER’S VALVES STRAIGHT WAY PN 40 / ACTUATORS WITH AIR AT 5 bar
-10
-15
-20
-25
-32
-40
-50
-65
-80
-100
-125
-150
-200
-32
-50
-50
-63
-63
-75
-85
-100
-115
-125
-160
-160
-200
-50
-50
-63
-75
-75
-85
-100
-115
-125
-140
-160
-200
-270
-
-250*
-200
-270
-
-300*
-270
-
-* PN 16
-
-PRESSIONE DI
-ALIMENTAZIONE:
-
-min. pressione di alimentazione 5 bar.
-max. pressione di alimentazione 10 bar .
-
-PRESSURE RANGE:
-
-ALIMENTAZIONE:
-
-aria secca o lubrificata, filtrata.
-
-SUPPLY:
-
-TEMPERATURA:
-
--20°C a +80°C
-
-TEMPERATURE RANGE:
-
--20°C to +80°C
-
-CORSA:
-
-90° con regolazione meccanica ±3°.
-
-STROKE:
-
-90° with standard adjustment ±3°.
-
-LUBRIFICAZIONE:
-
-tutte le parti in movimento sono lubrificate a vita.
-idonea per essere installata in ambienti interni ed esterni.
-
-LUBRICATION:
-
-all moving parts are factory lubricated for cycle life of the actuator.
-
-CONSTRUCTION:
-
-suitable for indoor and outdoor installation.
-bottom drilling to match valve in accordance with ISO 5211/DIN
-3337.
-Interface for solenoid valve, shaft top end and top drilling to assemble
-accessories are in accordance with VDI/VDE 3845, NAMUR.
-
-COSTRUZIONE:
-CONNESSIONI:
-
-foratura inferiore per accoppiamento valvola, secondo NORME ISO 5211/DIN
-3337.
-Interfaccia per elettrovalvola, estremità superiore albero e foratura superiore per
-fissaggio accessori secondo NORME VDI/VDE 3845, NAMUR.
-
-CONNECTIONS:
-
-min. working pressure 5 bar.
-max. working pressure 10 bar.
-filtered dry or lubricated air.
-
-ADLER SpA – VALVOLE A SFERA
-20010 S. STEFANO TICINO (MI) ITALY V.le BORLETTI, 14 Tel. +39/02974842.11 FAX +39/0297271698
-E-mail: adler@adlerspa.com http://www.adlerspa.com
-
-TYPE
-
-APR
-
-ATTUATORE PNEUMATICO
-PNEUMATIC ACTUATORS
-ACTIONNEURS PNEUMATIQUE
-PNEUMATISCHE ANTRIEBE
-
-DOPPIO EFFETTO
-SINGOLO EFFETTO
-DOUBLE ACTING (D.A.)
-SINGLE ACTING (S.A.)
-
-Pos. Item
-
-DESCRIZIONE DESCRIPTION
-
-Q.tà –
-Q.ty
-
-Corpo attuatore
-1
-Actuator body
-Pistone
-2-2B
-1+1
-Piston
-Testata
-3-3B
-1+1
-End-cap
-Albero
-4
-1
-Pinion
-Guida pistone
-5*
-2
-Piston guide
-Anello inf. Guida albero
-6*
-1
-Lower Pinion guide ring
-“O” ring
-7*
-1
-“O” ring
-Anello sup. guida albero
-8*
-1
-Upper Pinion guide ring
-“O” ring
-9*
-1
-“O” ring
-Seeger
-10
-1
-Circlip
-Anello distanziale
-11
-1
-Distance ring
-Tappo
-12*
-2
-Plug
-Molle
-13
-4÷12
-Springs
-Vite di regolazione esterna
-14
-1
-External adjusting screw
-Vite di regolazione interna
-14B*
-1
-Internal adjusting screw
-“O” ring
-15*
-2
-“O” ring
-Rosetta
-16
-2
-Washer
-Dado di bloccaggio
-17
-2
-Stop nut
-Vite testate
-18
-8
-Screw end-cap
-“O” ring
-19*
-2
-“O” ring
-Anello guida pistone
-20*
-2
-Piston guide ring
-“O” ring
-21*
-2
-“O” ring
-Seeger blocca albero
-22
-1
-Circlip anti-blow out
-Rosetta
-23
-8
-Washer
-Tappo filettato
-24
-1
-Threared plug
-“O” ring
-25
-1
-“O” ring
-* Parti di ricambio consigliate per ordinaria manutenzione
-* Suggested spare parts list for maintenance.
-1
-
-DESCRIZIONE - DESCRIPTION MATERIALI STANDARD – STANDARD MATERIALS
-
-FINITURA – FINISHING
-
-CORPO ATTUATORE / ACTUATOR BODY
-
-LEGA D’ALLUMINIO ESTRUSO / EXTRUDED ALUMINIUM ALLOY
-
-ANOD. ORO O DURO / GOLD OR HARD ANODIZED
-
-PISTONE / PISTON
-
-LEGA D’ALLUMINIO PRESSOFUSO / PRESSURE DIE CASTING ALUMINIUM ALLOY
-
-NATURALE / NATURAL
-
-TESTATA / END-CAP
-
-LEGA D’ALLUMINIO PRESSOFUSO / PRESSURE DIE CASTING ALUMINIUM ALLOY
-
-RIVEST. EPOSSIDICO NERO / BLACK EPOXY COATED
-
-ALBERO / PINION
-
-ACCIAIO AL CARBONIO / CARBON STEEL
-
-NICHELATURA CHIMICA / E.N.P.
-
-GUIDA PISTONE / PISTON GUIDE
-
-DELRIN / DELRIN
-
-NATURALE / NATURAL
-
-“O” RINGS / “O” RINGS
-
-GOMMA NITRILICA (BUNA N) / NITRILE RUBBER (BUNA N)
-
-60 IRHD / 60 IRHD
-
-MOLLE / SPRINGS
-
-ACCIAIO PER MOLLE / SPRING STEEL
-
-VERNIC. IN CATAFORESI / CATAPHORESIS COATED
-
-VITI E DADI / SCREW AND NUTS
-
-ACCIAIO INOX / STAINLESS STEEL
-
-NATURALE / NATURAL
-
-ADLER SpA – VALVOLE A SFERA
-20010 S. STEFANO TICINO (MI) ITALY V.le BORLETTI, 14 Tel. +39/02974842.11 FAX +39/0297271698
-E-mail: adler@adlerspa.com http://www.adlerspa.com
-
-TYPE
-APR D.A.
-
-APR S.A.*
-
-32
-6
-
-TORQUE OUTPUT FROM ACTUATORS Nm
-75
-85
-100
-115
-125
-50
-85
-119
-218
-278
-24
-48
-57
-106.6
-135
-
-140
-394
-200
-
-160
-567
-280
-
-200
-1064
-504
-
-270
-2695
-1316
-
-7.6
-
-16
-
-25
-
-37
-
-68
-
-86
-
-113.3
-
-167
-
-320
-
-872
-
-15.9
-12.3
-
-34
-26
-
-60
-37
-
-82
-62
-
-150
-111.4
-
-192
-143
-
-280.8
-194.1
-
-400
-287
-
-744
-560
-
-1823
-1376
-
-50
-14.8
-7
-
-63
-23.5
-11.2
-
-4.8
-10
-7.8
-
-*S.A. WITH 5 SPRINGS ON EACH SIDE
-
-SPRING STROKE 90°
-
-SPRING STROKE 0°
-
-DATI E CARATTERISTICHE SOGGETTI A VARIAZIONI SENZA PREAVVISO
-SPECIFICATIONS SUNJECT TO MODIFICATION WITHOUT PRIOR NOTICE
-
-0°
-
-90°
-
-TOURS DROITS MODIFICATION RESERVES
-KONSTRUKTIONSÄNDERUNGEN VORBEHALTEN
-
-TYPE
-DA
-
-APR
-
-SA
-
-ATTUATORE PNEUMATICO-PNEUMATIC ACTUATORS-ACTIONNEURS PNEUMATIQUE-PNEUMATISCHE ANTRIEBE
-
-TYPE
-
-A
-
-B
-
-C
-
-D
-
-E
-
-APR32
-APR50
-APR63
-APR75
-APR85
-APR100
-APR115
-APR125
-APR140
-APR160
-APR200
-APR270
-
-115
-142
-155
-213
-236
-276
-310
-366
-388
-468
-563
-750
-
-45
-67
-83
-100
-110
-125
-142
-155
-176
-200
-250
-335
-
-51
-60
-73
-85
-98
-110
-128
-140
-160
-175
-215
-290
-
-65
-87
-103
-120
-130
-145
-172
-185
-206
-230
-300
-385
-
-20
-20
-20
-20
-20
-20
-30
-30
-30
-30
-50
-50
-
-F
-
-G
-
-H
-
-K
-
-42
-42
-50
-50
-50
-58
-
-41
-44.5
-49.5
-53
-58
-69
-
-12
-12
-14
-19
-19
-28
-28
-36
-36
-48
-48
-
-8
-8
-8
-10
-14
-14
-20
-20
-28
-28
-32
-32
-
-L
-
-130
-130
-130
-130
-130
-130
-
-M
-
-N
-
-S
-
-50
-80
-80
-80
-80
-80
-80
-80
-80
-80
-
-25
-30
-30
-30
-30
-30
-30
-30
-30
-30
-30
-30
-
-9
-9
-11
-14
-17
-17
-22
-22
-27
-27
-36
-46
-
-T
-M5
-M6
-M6
-M8
-M8
-M8 M10
-M10
-M10
-M12
-M12
-M16
-M20
-M5
-M5
-M6
-
-U
-
-V
-
-W*
-
-36
-50
-50
-70
-70
-70 102
-102
-102
-125
-125
-140
-165
-
-1/8”
-1/8”
-1/4”
-1/4”
-1/4”
-1/4”
-1/4”
-1/4”
-1/4”
-1/4”
-1/4”
-1/4”
-
-40
-40
-40
-60
-60
-60
-60
-60
-60
-80
-80
-100
-
-36
-42
-50
-
-ISO 5211
-STD
-F03
-F03 - F05
-F05
-F05 - F07
-F07
-F07 - F10
-F10
-F10
-F12
-F12
-F14
-F16
-
-LITERS
-DA
-SA
-0.05
-0.10
-0.08
-0.16
-0.12
-0.44
-0.24
-0.56
-0.48
-0.96
-0.68
-1.6
-1
-2.16
-1.4
-2.56
-1.6
-4
-3.2
-8.6
-5.3
-16.5
-14.2
-
-*W= altezza gabbietta attacco valvola/attuatore – height bracket connection valve/actuator
-TYPE
-APR32
-APR50
-APR63
-APR75
-APR85
-APR100
-APR115
-APR125
-APR140
-APR160
-APR200
-APR270
-
-∼kg
-DA
-0.51
-1
-1.42
-2.54
-3.68
-5.1
-8.24
-10.1
-13.94
-19.66
-36.6
-77
-
-PISTON IN OPENING STAGE
-
-PISTON IN CLOSING STAGE
-
-SA
-1.12
-1.56
-3.1
-4.3
-6.2
-9.67
-12.62
-17.09
-23.86
-44.82
-101
-
-DATI E CARATTERISTICHE
-SOGGETTI A VARIAZIONI SENZA
-PREAVVISO
-SPECIFICATIONS SUNJECT TO
-MODIFICATION WITHOUT PRIOR
-NOTICE TOURS DROITS
-MODIFICATION RESERVES
-KONSTRUKTIONSÄNDERUNGEN
-VORBEHALTEN
-
-ADLER SpA – VALVOLE A SFERA
-20010 S. STEFANO TICINO (MI) ITALY V.le BORLETTI, 14 Tel. +39/02974842.11 FAX +39/0297271698
-E-mail: adler@adlerspa.com http://www.adlerspa.com
-
-ATTUATORI
-A DOPPIO
-EFFETTO
-DOUBLE
-ACTING
-ACTUATORS
-
-ATTUATORI
-A SEMPLICE
-EFFETTO
-SINGLE
-ACTING
-ACTUATORS
-
- 
-T8
-
-Indicators / dicator  camma/ cam l‘ Ingerto Indicators / inciator inpert
-
-. ‘ insario camma / cam insert
-
-    
- 
- 
-
- 
-
- 
-
-    
-   
-
-  
- 
-
- 
-
-T
-Swv\:o—ExMw:‘ ‘ Alimentazcne - AT N Aimentazre AWIN‘ ’ Searco - Exaust
-(Port 'B') (Port A') (Port B) (Port A"}
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-125/ e Ty}
-
-VA
-LR
-“VDI/VOE 3845”
-
- 
-Connessione per
-
-= oIV R Y
-“NAMUR® connection
-for solenoid valve
-
- 
- 
-
-J St pnlyn) )
-
-(oo /31y T ) 0311
-
- 
- 
-

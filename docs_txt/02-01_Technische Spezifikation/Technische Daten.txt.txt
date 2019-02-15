@@ -1,5 +1,0 @@
-Hersteller: Warex
-PLS gesteuererte Durchgangsklappe
-
-DN:250
-PN:16
