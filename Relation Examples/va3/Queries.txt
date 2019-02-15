@@ -1,0 +1,2 @@
+Temperatur von MT100LH04145
+"MT100LH04145" contained in Technische Daten_4.txt -> Doku-...pdf also contains "WAM" (manufacturer) -> contains Temperatur

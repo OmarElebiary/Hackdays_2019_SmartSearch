@@ -1,0 +1,4 @@
+? no real relation found
+
+
+No relation between Typenschild_3.jpg and Betriebsanleitung Drehstrommotor.pdf even though they both contain (after OCR) "abb (or ABB)" (although abb not as a whole word in one of them -> lower score if it's not a whole word), "motor" and "torque"
