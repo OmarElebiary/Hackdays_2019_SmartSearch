@@ -1,0 +1,4388 @@
+ARI-ZESA® / ARI-GESA® / THEA®
+
+Absperrklappen
+
+ARI-ZESA® - Fig. 012 - Wartungsfreie Zwischenflanschklappe weichdichtend
+ARI-GESA® - Fig. 013 - Wartungsfreie Gewindeflanschklappe weichdichtend
+
+ARI-ZESA® / ARI-GESA®
+mit Rasthebel
+Seite 6
+
+ARI-ZESA® / ARI-GESA®
+mit Klemmhebel
+• mit Winkelbegrenzung
+• stufenlos einstellbar
+
+Seite 6
+Fig. 012 - ARI-ZESA®
+
+ARI-ZESA® / ARI-GESA®
+mit Schneckenrad-Getriebe
+
+THEA®
+THErmo-Anzeige
+
+• stufenlos einstellbar
+• selbsthemmend
+
+Seite 6
+
+ARI-ZESA® / ARI-GESA®
+mit elektrischem Schwenkantrieb ARI-OM
+
+• für Kurzzeitbetrieb S 2-5 Min.
+(Aussetzbetrieb S3 30% ED)
+• 230V 50Hz, 24V DC, 24V 50Hz
+• Schutzart IP 67
+
+Seite 7
+
+ARI-ZESA® / ARI-GESA®
+mit elektrischem Schwenkantrieb Deufra
+• für Stellbetrieb S4 30% (Regelbetrieb S4 50%)
+• 230V 50Hz (400V 50Hz)
+• Schutzart IP 67
+
+ARI-ZESA® / ARI-GESA®
+mit elektrischem Schwenkantrieb Auma
+
+• für Kurzzeitbetrieb S 2-15 Min. (Regelbetrieb S4 25%)
+• 400V 50Hz (230V 50Hz)
+• Schutzart IP 68
+
+ARI-ZESA® / ARI-GESA®
+mit pneumatischem Schwenkantrieb
+AIR-TORQUE / bar
+
+• Funktion: Doppeltwirkend
+• Funktion: Einfachwirkend, Feder schließt (öffnet)
+• Steuerdruck 6 bar (=0,6 MPa)
+
+ARI-ZESA® / ARI-GESA®
+mit integrierter Thermo - Anzeige
+• separat für Kälte (-20 bis +40°C)
+und Wärme (0 bis +120°C)
+• mit Hebel
+• Genauigkeitsklasse 1,0
+
+Fig. 013 - ARI-GESA®
+Seite 8
+Merkmale:
+• Weichdichtend
+• Wartungsfrei
+• Günstige Zeta-Werte
+• EPDM/NBR/FPM Manschettendichtung
+Seite 9
+• Zweifache Abdichtung der Klappenwelle
+• Edelstahlscheibe
+• Voll isolierbar gemäß Energieeinsparverordnung - EnEV
+• Taupunktsperre
+• Zentrische Scheibenlagerung
+• Gehäuse aus Sphäroguss
+• EPDM mit DIN DVGW Registrierung: Trinkwasser
+(DW6201BR0244)
+Seite 10 / 11
+ARI-ZESA®:
+• Gehäuse mit Zentrieraugen
+ARI-GESA®:
+• Gehäuse mit Gewindeaugen
+• als Endklappe
+• Rohrleitung einseitig abflanschbar
+Seite 12
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+Datenblatt 010001 deutsch
+
+ARI-ZESA® 012
+
+Technische Daten
+
+Absperrklappe mit Zentrieraugen (Sphäroguss)
+
+Figur
+
+Nenndruck
+
+Ausführungen
+
+Werkstoff
+
+Nennweite
+
+20.012 (in 22.012 enthalten) PN6
+
+EN-JS1030
+
+DN25-300
+
+21.012 (in 22.012 enthalten) PN10
+
+EN-JS1030
+
+DN25-500
+
+22.012
+
+EN-JS1030
+
+DN25-500
+
+PN16
+
+DN25-65
+
+DN80-100
+
+DN125-150
+
+DN200
+
+DN250-300
+
+DN350-500
+Klappenscheibe
+
+Welle
+
+1.4581
+
+1.4021+QT
+(optional: ≤ DN300 1.4571 /
+≥ DN350 1.4542)
+
+Manschette:
+• EPDM -10 °C bis +130 °C  / NBR -10 °C bis +80 °C / FPM 0 °C bis +150 °C (nicht für Heißwasser einsetzbar)
+Max. Differenzdruck:
+• 16 bar (DN25-150) / 10 bar (DN200-500)
+Betätigungselement:
+• Rasthebel / Klemmhebel / Schneckenrad-Getriebe
+• Elektrischer Antrieb (ARI-OM, Deufra, Auma) / Pneumatischer Antrieb (AIR-TORQUE, bar)
+Prüfung:
+Dichtheitsprüfung:
+DVGW-Registrierung:
+
+• DIN EN 12266-1 Leckrate A  (DIN 3230 T3 Leckrate 1)
+• EPDM für Wasser DW-6201BR0244, nach DIN EN 1074-1/-2 einschließlich Desinfektionsprüfung,
+DVGW VP646 und DVGW W270 für Trinkwasser
+
+Teileliste
+Pos. Ers.
+1
+2
+
+Bezeichnung
+Gehäuse
+Manschette
+
+3
+
+Klappenscheibe
+
+4
+
+Zapfen
+
+5
+
+Welle
+
+6
+8
+9
+10
+11
+
+(siehe Seite 6-11)
+
+Kegelstift
+x
+Isolierkappe
+x
+Dichtring
+x
+Verschlussschraube
+x
+O-Ring
+└ Ersatzteile
+
+Fig. 20. / 21. / 22.012
+EN-GJS-400-15, EN-JS1030
+EPDM 73 / NBR 73 / FPM 73
+GX5CrNiMoN19-11-2, 1.4581
+(optional: DN40-500 CuAl10Fe5Ni5-C, CC333G)
+X20Cr13+QT, 1.4021+QT
+(optional: ≤ DN300 X6CrNiMoTi17 12 2, 1.4571 / ≥ DN350 X5CrNiCuNb16-4, 1.4542)
+X20Cr13+QT, 1.4021+QT
+(optional: ≤ DN300 X6CrNiMoTi17 12 2, 1.4571 / ≥ DN350 X5CrNiCuNb16-4, 1.4542)
+X6CrNiMoTi17 12 2, 1.4571
+PA 6
+CU
+5.8-A2G
+EPDM 73 / NBR 73 / FPM 73
+
+Angaben / Einschränkungen der Regelwerke sind zu beachten!
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+Das Einsatzgebiet der Armatur unterliegt der Verantwortung des Anlagenplaners bzw. -betreibers.
+Beständigkeit und Eignung sind zu prüfen und beim Hersteller anzufragen (siehe Produktübersicht und Beständigkeitsliste).
+2
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+ARI-ZESA® 012
+
+Technische Daten
+
+DN
+
+25
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+46
+
+52
+
+56
+
+56
+
+60
+
+68
+
+78
+
+78
+
+102
+
+114
+
+127
+
+Baulänge FTF Grundreihe 20 nach DIN EN 558-1
+L
+
+(mm)
+
+33
+
+33
+
+33
+
+43
+
+46
+
+H
+
+(mm)
+
+128
+
+128
+
+134
+
+140
+
+150
+
+158
+
+179
+
+196
+
+212
+
+246
+
+273
+
+302
+
+358
+
+407
+
+442
+
+495
+
+E
+
+(mm)
+
+58
+
+58
+
+66
+
+69
+
+81
+
+100
+
+109
+
+124
+
+140
+
+167
+
+203
+
+232
+
+258
+
+298
+
+319
+
+354
+
+l
+
+(mm)
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+18
+
+18
+
+18
+
+24
+
+24
+
+26
+
+42
+
+39
+
+42
+
+SW
+
+(mm)
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+17
+
+17
+
+17
+
+22
+
+22
+
+22
+
+30
+
+36
+
+30
+
+26
+
+26,5
+
+49,6
+
+116
+
+259
+
+377
+
+763
+
+1030
+
+1790
+
+3460
+
+5070
+
+7430
+
+0,93
+
+2,4
+
+1,7
+
+0,75
+
+0,43
+
+0,46
+
+0,27
+
+0,37
+
+0,25
+
+0,21
+
+0,24
+
+0,23
+
+Abmessungen
+
+Kvs-Wert / Zeta-Wert 
+Kvs-Wert
+
+(m3/h)
+
+Zeta-Wert
+
+--
+
+Diagramm siehe Seite 13.
+10320 13290 15200 21180
+0,23
+
+0,23
+
+0,28
+
+0,22
+
+Standard-Flanschmaße / 6kt-Schraube (Anzahl, Gewinde, Länge)
+
+PN6
+
+ØK
+
+(mm)
+
+75
+
+90
+
+100
+
+110
+
+130
+
+150
+
+170
+
+200
+
+225
+
+280
+
+335
+
+395
+
+n x Ød1
+
+(mm)
+
+4x11
+
+4x14
+
+4x14
+
+4x14
+
+4x14
+
+4x18
+
+4x18
+
+8x18
+
+8x18
+
+8x18
+
+8x18
+
+8x22
+
+Schrauben (Stk.)
+Gewinde
+
+PN10
+
+4
+
+4
+
+4
+
+4
+
+4
+
+4
+
+8
+
+8
+
+8
+
+12
+
+12
+
+M12
+
+M12
+
+M12
+
+M12
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M20
+160
+
+--
+
+auf Anfrage
+
+Länge
+
+(mm)
+
+80
+
+80
+
+80
+
+90
+
+90
+
+100
+
+110
+
+120
+
+120
+
+130
+
+140
+
+ØK
+
+(mm)
+
+85
+
+100
+
+110
+
+125
+
+145
+
+160
+
+180
+
+210
+
+240
+
+295
+
+350
+
+400
+
+460
+
+515
+
+565
+
+620
+
+n x Ød1
+
+(mm)
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+8x18
+
+8x22
+
+8x22
+
+8x22
+
+8x22
+
+4x22
+
+4x28
+
+4x28
+
+4x28
+
+Schrauben (Stk.)
+Gewinde
+
+PN16
+
+4
+M10
+
+4
+
+4
+
+4
+
+4
+
+4
+
+8
+
+8
+
+8
+
+8
+
+8
+
+12
+
+12
+
+16
+
+16
+
+20
+
+20
+
+M12
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M20
+
+M20
+
+M20
+
+M20
+
+M20
+
+M24
+
+M24
+
+M24
+220
+
+Länge
+
+(mm)
+
+90
+
+90
+
+90
+
+100
+
+110
+
+110
+
+120
+
+130
+
+130
+
+140
+
+150
+
+160
+
+160
+
+200
+
+200
+
+ØK
+
+(mm)
+
+85
+
+100
+
+110
+
+125
+
+145
+
+160
+
+180
+
+210
+
+240
+
+295
+
+355
+
+410
+
+470
+
+525
+
+585
+
+650
+
+n x Ød1
+
+(mm)
+
+4x14
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+4x18
+
+8x18
+
+8x22
+
+8x22
+
+8x26
+
+8x26
+
+4x26
+
+4x30
+
+20x30
+
+4x33
+
+Schrauben (Stk.)
+
+4
+
+4
+
+4
+
+4
+
+4
+
+8
+
+8
+
+8
+
+8
+
+12
+
+12
+
+12
+
+16
+
+16
+
+20
+
+20
+
+M12
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M20
+
+M20
+
+M24
+
+M24
+
+M24
+
+M27
+
+M27
+
+M30
+
+(mm)
+
+90
+
+90
+
+90
+
+100
+
+110
+
+110
+
+120
+
+130
+
+130
+
+140
+
+160
+
+170
+
+180
+
+220
+
+220
+
+260
+
+(kg)
+
+1,4
+
+1,4
+
+1,6
+
+2
+
+2,6
+
+3,2
+
+4
+
+4,6
+
+8,6
+
+12,6
+
+19,4
+
+29,4
+
+43,9
+
+67,7
+
+129
+
+111
+
+Gewinde
+Länge
+Gewichte
+Fig. 20./21./22.012
+Einbauvarianten
+
+Vorschweißflansche
+PN 6 / PN 10 / PN 16
+DIN EN 1092-1 / 11 / B1
+(für Bördelflansche nach DIN EN 1092-1 ZIVA verwenden)
+6kt-Schraube
+DIN EN ISO 4016 W.-Nr. 4.6
+6kt-Mutter
+DIN EN ISO 4034 W.-Nr. 5
+
+ZESA® -Einklemm-Armatur
+Zwischenwerte der max. zulässigen Betriebsdrücke dürfen durch lineare Interpolation zwischen dem
+nächstliegenden niederen und höheren Temperaturwert errechnet werden.
+
+Druck-Temperatur-Zuordnung
+nach DIN EN 1092-2
+
+PN
+
+EN-JS1030
+
+16
+
+(bar)
+
+-10°C bis 120°C
+
+130°C
+
+150°C
+
+16
+
+15,8
+
+15,5
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+3
+
+ARI-GESA® 013
+
+Technische Daten
+
+Absperrklappe mit Gewindeaugen (Sphäroguss)
+
+Ausführungen
+
+DN25-65
+
+DN80-150
+
+DN200
+
+DN250-300
+
+DN350-500
+Figur
+
+Nenndruck
+
+Werkstoff
+
+Nennweite
+
+21.013
+
+PN10
+
+EN-JS1030
+
+DN25-500
+
+22.013
+
+PN16
+
+EN-JS1030
+
+DN25-500
+
+Klappenscheibe
+1.4581
+
+Welle
+1.4021+QT
+(optional: ≤ DN300 1.4571 /
+≥ DN350 1.4542)
+
+Manschette:
+• EPDM -10 °C bis +130 °C  / NBR -10 °C bis +80 °C / FPM 0 °C bis +150 °C (nicht für Heißwasser einsetzbar)
+Max. Differenzdruck:
+• 16 bar (DN25-150) / 10 bar (DN200-500)
+Betätigungselement:
+• Rasthebel / Klemmhebel / Schneckenrad-Getriebe
+• Elektrischer Antrieb (ARI-OM, Deufra, Auma) / Pneumatischer Antrieb (AIR-TORQUE, bar)
+Prüfung:
+Dichtheitsprüfung:
+DVGW-Registrierung:
+
+• DIN EN 12266-1 Leckrate A  (DIN 3230 T3 Leckrate 1)
+• EPDM für Wasser DW-6201BR0244, nach DIN EN 1074-1/-2 einschließlich Desinfektionsprüfung,
+DVGW VP646 und DVGW W270 für Trinkwasser
+
+Teileliste
+Pos. Ers.
+1
+2
+
+Bezeichnung
+Gehäuse
+Manschette
+
+3
+
+Klappenscheibe
+
+4
+
+Zapfen
+
+5
+
+Welle
+
+6
+8
+9
+10
+11
+14
+
+Kegelstift
+Isolierkappe
+Dichtring
+Verschlussschraube
+O-Ring
+Zylinderbuchse
+└ Ersatzteile
+x
+x
+x
+x
+
+(siehe Seite 6-11)
+
+Fig. 21. / 22.013
+EN-GJS-400-15, EN-JS1030
+EPDM 73 / NBR 73 / FPM 73
+GX5CrNiMoN19-11-2, 1.4581
+(optional: DN40-500 CuAl10Fe5Ni5-C, CC333G)
+X20Cr13+QT, 1.4021+QT
+(optional: ≤ DN300 X6CrNiMoTi17 12 2, 1.4571 / ≥ DN350 X5CrNiCuNb16-4, 1.4542)
+X20Cr13+QT, 1.4021+QT
+(optional: ≤ DN300 X6CrNiMoTi17 12 2, 1.4571 / ≥ DN350 X5CrNiCuNb16-4, 1.4542)
+X6CrNiMoTi17 12 2, 1.4571
+PA 6
+CU
+5.8-A2G
+EPDM 73 / NBR 73 / FPM 73
+P1
+
+Angaben / Einschränkungen der Regelwerke sind zu beachten!
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+Das Einsatzgebiet der Armatur unterliegt der Verantwortung des Anlagenplaners bzw. -betreibers.
+Beständigkeit und Eignung sind zu prüfen und beim Hersteller anzufragen (siehe Produktübersicht und Beständigkeitsliste).
+4
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+ARI-GESA®
+
+Ausführungen / Einbauvarianten / Flanschmaße
+DN
+
+25
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Baulänge FTF Grundreihe 20 nach DIN EN 558-1
+L
+
+(mm)
+
+33
+
+33
+
+33
+
+43
+
+46
+
+46
+
+52
+
+56
+
+56
+
+60
+
+68
+
+78
+
+78
+
+102
+
+114
+
+127
+
+H
+
+(mm)
+
+128
+
+128
+
+134
+
+140
+
+150
+
+158
+
+179
+
+196
+
+212
+
+246
+
+273
+
+302
+
+358
+
+407
+
+442
+
+495
+
+E
+
+(mm)
+
+58
+
+58
+
+66
+
+69
+
+81
+
+100
+
+109
+
+124
+
+140
+
+167
+
+203
+
+232
+
+258
+
+298
+
+319
+
+354
+
+l
+
+(mm)
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+18
+
+18
+
+18
+
+24
+
+24
+
+26
+
+42
+
+39
+
+42
+
+SW
+
+(mm)
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+11
+
+17
+
+17
+
+17
+
+22
+
+22
+
+22
+
+30
+
+36
+
+30
+
+Abmessungen
+
+Kvs-Wert / Zeta-Wert 
+Kvs-Wert
+
+(m3/h)
+
+Zeta-Wert
+
+--
+
+Diagramm siehe Seite 13.
+26
+
+26,5
+
+49,6
+
+116
+
+259
+
+377
+
+763
+
+1030
+
+1790
+
+3460
+
+5070
+
+7430
+
+10320 13290 15200 21180
+
+0,93
+
+2,4
+
+1,7
+
+0,75
+
+0,43
+
+0,46
+
+0,27
+
+0,37
+
+0,25
+
+0,21
+
+0,24
+
+0,23
+
+0,23
+
+0,23
+
+0,28
+
+0,22
+
+145
+
+160
+
+180
+
+210
+
+240
+
+295
+
+350
+
+400
+
+460
+
+515
+
+565
+
+620
+
+Standard-Flanschmaße / 6kt-Schraube (Anzahl, Gewinde, Länge)
+
+PN10
+
+ØK
+
+(mm)
+
+nxM
+
+(mm)
+
+Schrauben (Stk.)
+Gewinde
+
+PN16
+
+85
+
+100
+
+110
+
+125
+
+4xM12 4xM16 4xM16 4xM16 4xM16 8xM16 8xM16 8xM16 8xM20 8xM20 12xM20 12xM20 16xM20 16xM24 20xM24 20xM24
+8
+
+8
+
+8
+
+8
+
+8
+
+16
+
+16
+
+16
+
+16
+
+16
+
+24
+
+24
+
+32
+
+32
+
+40
+
+40
+
+M12
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M20
+
+M20
+
+M20
+
+M20
+
+M20
+
+M24
+
+M24
+
+M24
+
+Länge
+
+(mm)
+
+30
+
+30
+
+30
+
+35
+
+35
+
+40
+
+40
+
+45
+
+45
+
+50
+
+55
+
+55
+
+60
+
+70
+
+70
+
+85
+
+ØK
+
+(mm)
+
+85
+
+100
+
+110
+
+125
+
+145
+
+160
+
+180
+
+210
+
+240
+
+295
+
+355
+
+410
+
+470
+
+525
+
+585
+
+650
+
+n x Ød1
+
+(mm)
+
+Schrauben (Stk.)
+
+8
+
+8
+
+8
+
+8
+
+8
+
+16
+
+16
+
+16
+
+16
+
+24
+
+24
+
+24
+
+32
+
+32
+
+40
+
+40
+
+M12
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M16
+
+M20
+
+M20
+
+M24
+
+M24
+
+M24
+
+M27
+
+M27
+
+M30
+
+(mm)
+
+30
+
+30
+
+30
+
+35
+
+35
+
+40
+
+40
+
+45
+
+45
+
+50
+
+55
+
+60
+
+60
+
+75
+
+75
+
+100
+
+(kg)
+
+1,8
+
+1,8
+
+2
+
+2,8
+
+3,2
+
+4,8
+
+6,2
+
+8,8
+
+11
+
+15,6
+
+24,8
+
+36
+
+55,6
+
+85
+
+130
+
+146
+
+Gewinde
+Länge
+
+4xM12 4xM16 4xM16 4xM16 4xM16 8xM16 8xM16 8xM16 8xM20 12xM20 12xM24 12xM24 16xM24 16xM27 20xM27 20xM30
+
+Gewichte
+Fig. 20./21./22.013
+Einbauvarianten
+
+Bei Einsatz der Armatur als Endabschluss wird bei
+Instandsetzungsarbeiten eine Sicherungsmaßnahme
+z.B. Steckscheibe, Blindflansch ect., entsprechend
+Vorgabe der Berufsgenossenschaft der Gas- und
+Wasserwerke, gefordert.
+Um die Dichtheit im Abschluss zu gewährleisten ist
+ein Blind- oder Gegenflansch notwendig.
+Der Einbau zwischen abweichenden Flanschen ist
+nicht oder nur unter besonderer Sorgfalt möglich. Ggf.
+bitten wir um Rücksprache.
+Bei Einbau-, Umbau- und Wartungsarbeiten sind
+geltende Vorschriften und ARI-Betriebsanleitungen
+zu beachten.
+
+GESA®-Einklemm-Armatur
+Vorschweißflansche
+PN 10 / PN 16
+DIN EN 1092-1 / 11 / B1
+(für Bördelflansche nach DIN EN 1092-1 ZIVA verwenden)
+6kt-Schraube
+DIN EN ISO 4016 W.-Nr. 4.6
+
+GESA®-End-Armatur
+Vorschweißflansche
+PN 10 / PN 16
+DIN EN 1092-1 / 11 / B1
+(für Bördelflansche nach DIN EN 1092-1 ZIVA
+verwenden)
+6kt-Schraube
+DIN EN ISO 4016 W.-Nr. 4.6
+
+Druck-Temperatur-Zuordnung
+
+Zwischenwerte der max. zulässigen Betriebsdrücke dürfen durch lineare Interpolation zwischen dem
+nächstliegenden niederen und höheren Temperaturwert errechnet werden.
+
+nach DIN EN 1092-2
+
+PN
+
+EN-JS1030
+
+16
+
+(bar)
+
+-10°C bis 120°C
+
+130°C
+
+150°C
+
+16
+
+15,8
+
+15,5
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+5
+
+ARI-ZESA® / ARI-GESA®
+
+Rasthebel / Klemmhebel / Schneckenrad-Getriebe
+ARI-ZESA® / ARI-GESA® mit manuellem Betätigungselement
+Rasthebel
+
+(bis Mitte Klappe)
+
+Zur leichteren Bedienbarkeit empfehlen wir ab DN125 den Aufbau eines Getriebes,
+insbesondere bei unzugänglichen Einbauverhältnissen (siehe unten).
+
+Klemmhebel
+
+(bis Mitte Klappe)
+
+• Kappe umrüstbar für Klemmhebelausführung
+• mit Winkelbegrenzung (stufenlos einstellbar)
+Zur leichteren Bedienbarkeit empfehlen wir ab DN125 den Aufbau eines Getriebes,
+insbesondere bei unzugänglichen Einbauverhältnissen (siehe unten).
+
+Schneckenrad-Getriebe
+
+• stufenlos einstellbar
+• selbsthemmend
+Endanschlagschraube
+Kontermutter
+(bis Mitte Klappe)
+
+Stellungsanzeiger
+
+Die ZU-Stellung ist durch eine justierbare Endanschlagschraube auf ±5° verstellbar.
+
+Teileliste
+Pos. Ers. Bezeichnung
+7
+x
+Rasthebelkappe
+8
+x
+Isolierkappe
+20
+x
+6kt-Mutter
+21
+x
+Zylinderschraube
+50
+Rasthebel
+50
+Klemmhebel
+50
+Schneckenrad-Getriebe
+└ Ersatzteile
+DN
+
+25
+
+Abmessungen
+mit Hebel
+H1
+mit Getriebe
+P1
+P2
+ØC
+Getriebetyp
+Gewichte
+ZESA®
+GESA®
+ZESA®
+GESA®
+6
+
+Fig. 20. / 21. / 22.012; 21. / 22.013
+PA 6
+PA 6
+5-A2B
+8.8-A2B
+DC01, 1.0330 (oberflächenbehandelt)
+DC01, 1.0330 (oberflächenbehandelt)
+
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+
+(kg)
+(kg)
+(kg)
+mit Getriebe
+(kg)
+mit Hebel
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+187
+187
+193
+199
+209
+217
+238
+263
+279
+313
+------210
+210
+216
+222
+232
+240
+261
+278
+294
+349
+425
+455
+510
+603
+780
+833
+184
+184
+184
+184
+184
+184
+184
+273
+273
+273
+------147
+147
+147
+147
+147
+147
+147
+147
+147
+147
+249
+244
+244
+333
+361
+361
+125
+125
+125
+125
+125
+125
+125
+125
+125
+125
+250
+250
+250
+300
+600
+600
+242-10S 242-10S 242-10S 242-10S 242-10S 242-10S 242-10S 242-10M 242-10M 242-10M 242-20M 242-30S 242-30S 242-30L 242-40M 242-40M
+1,8
+2,2
+3,3
+3,7
+
+1,8
+2,2
+3,3
+3,7
+
+2,0
+2,4
+3,5
+3,9
+
+2,4
+3,2
+3,9
+4,7
+
+3,0
+3,6
+4,5
+5,1
+
+3,6
+5,2
+5,1
+6,7
+
+4,4
+6,6
+5,9
+8,1
+
+7,4
+9,6
+8,5
+10,7
+
+9,4
+13,4
+-11,8 14,9/16,4 -10,5
+14,5
+24,4
+12,9 16/17,8 29,8
+
+--34,4
+41
+
+--49
+61
+
+--75,6
+97
+
+--135
+136
+
+--120
+157
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+ARI-ZESA® / ARI-GESA®
+
+ARI-OM
+
+Absperrklappe mit elektrischem Schwenkantrieb
+Typ: ARI-OM
+• für Kurzzeitbetrieb S 2-5 Min.
+(Aussetzbetrieb S3 30% ED, max. 60 c/h,
+max. Regelmoment = ca. 50% Nennmoment)
+• Schutzart IP 67
+• Temperaturwächter im Motor
+Spannungen:
+• 230V 50Hz
+• 24V AC/DC
+(andere Spannungen auf Anfrage)
+Zusatzoptionen:
+• Potentiometer (1000 Ohm)
+• Stellungsregler 4-20 mA
+• Stellungsrückmeldung 4-20 mA
+• Heizung  
+• Wegschalter
+Beim Anschluss der Antriebe ist nach dem Anschlussplan in der jeweiligen
+Betriebsanleitung vorzugehen!
+
+DN
+
+25
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+OM-A
+24
+
+OM-2
+17
+
+150
+
+200
+
+250
+
+300*
+
+Antrieb
+Antriebstyp
+Stellzeit
+
+(s)
+
+Abmessungen
+H1
+P1
+P2
+P3
+P4
+
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+
+278
+35
+80
+54
+54
+
+278
+35
+80
+54
+54
+
+284
+35
+80
+54
+54
+
+290
+35
+80
+54
+54
+
+300
+35
+80
+54
+54
+
+308
+35
+80
+54
+54
+
+379
+54
+54
+54
+54
+
+451
+82
+118
+100
+230
+
+467
+82
+118
+100
+230
+
+501
+82
+118
+100
+230
+
+588
+94
+126
+110
+262
+
+617
+94
+126
+110
+262
+
+Gewichte
+ZESA®
+GESA®
+
+(kg)
+(kg)
+
+3,3
+3,7
+
+3,3
+3,7
+
+3,5
+4
+
+4
+4,7
+
+4,4
+5,2
+
+5
+6,8
+
+6,9
+9,3
+
+16
+18,5
+
+17,7
+20
+
+22,1
+25
+
+36,9
+42,3
+
+46,9
+53,5
+
+OM-1
+13
+
+OM-3
+26
+
+OM-4
+18
+
+* Max. Differenzdruck gegen Dichtschließen 6 bar.
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+7
+
+ARI-ZESA® / ARI-GESA®
+
+Deufra
+
+Absperrklappe mit elektrischem Schwenkantrieb
+Typ: Deufra
+• für Stellbetrieb S4 30% (optional: Regelbetrieb S4 50%)
+• Schutzart IP 67
+• Temperaturwächter im Motor
+• Heizung
+Spannungen:
+• 230V 50Hz
+• 400V 50Hz (nicht bei SQ4)
+andere Spannungen auf Anfrage
+Zusatzoptionen:
+• Wegschalter
+• Potentiometer
+• Stellungsregler 0-10V / 4-20mA
+• Stellungsrückmeldung
+Sonderantriebe:
+• Netzausfallrückstellung Typ FQ
+Beim Anschluss der Antriebe ist nach dem Anschlussplan in der jeweiligen
+Betriebsanleitung vorzugehen!
+
+DN
+
+25
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+200
+
+250
+
+SQ15
+15
+
+SQ25
+10
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Antrieb
+Antriebstyp
+Stellzeit
+
+(s)
+
+Abmessungen
+H1
+h
+ØC
+P1
+P2
+P3
+P4
+
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+
+352
+53
+60
+90
+160
+65
+125
+
+352
+53
+60
+90
+160
+65
+125
+
+358
+53
+60
+90
+160
+65
+125
+
+364
+53
+60
+90
+160
+65
+125
+
+374
+53
+60
+90
+160
+65
+125
+
+382
+53
+60
+90
+160
+65
+125
+
+403
+53
+60
+90
+202
+65
+125
+
+420
+53
+60
+90
+202
+65
+125
+
+436
+53
+60
+90
+202
+65
+125
+
+470
+53
+100
+98
+260
+65
+125
+
+453
+100
+160
+167
+312
+89
+226
+
+527
+100
+250
+169
+340
+89
+226
+
+585
+100
+250
+169
+340
+89
+226
+
+620
+86
+250
+172
+392
+133
+284
+
+655
+86
+250
+172
+392
+133
+284
+
+708
+86
+250
+172
+392
+133
+284
+
+Gewichte
+ZESA ®
+GESA®
+
+(kg)
+(kg)
+
+7,1
+7,5
+
+7,1
+7,5
+
+7,3
+7,8
+
+7,8
+8,5
+
+8,2
+9
+
+8,8
+10,6
+
+9,9
+12,2
+
+13,4
+15,8
+
+14,8
+17,2
+
+18,9
+21,1/21,8
+
+37,4
+43
+
+45,5
+54
+
+61
+74
+
+100
+121
+
+159
+160
+
+141
+181
+
+SQ4
+6
+
+SQ6
+6
+
+SQ10
+6
+
+SQ60
+30
+
+SQ120
+30
+
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+
+8
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+ARI-ZESA® / ARI-GESA®
+
+Auma
+
+Absperrklappe mit elektrischem Schwenkantrieb
+Typ: Auma
+• für Kurzzeitbetrieb S 2-15 Min. (Regelbetrieb S4 25%)
+• Schutzart IP 68
+• Temperaturwächter im Motor
+• Heizung
+Spannungen:
+• 400V 50Hz
+• 230V 50Hz
+(andere Spannungen auf Anfrage)
+Zusatzoptionen:
+• Wegschalter
+• Potentiometer
+• Auma Matic
+• Stellungsregler 0-10V / 4-20mA
+• Stellungsrückmeldung
+Beim Anschluss der Antriebe ist nach dem Anschlussplan in der jeweiligen
+Betriebsanleitung vorzugehen!
+
+DN
+
+25
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Antrieb
+Antriebstyp
+Stellzeit
+
+(s)
+
+Abmessungen
+H1
+h
+ØC
+P1
+P2
+P3
+P4
+
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+(mm)
+
+472
+134
+160
+238
+62,5
+265
+249
+
+472
+134
+160
+238
+62,5
+265
+249
+
+478
+134
+160
+238
+62,5
+265
+249
+
+484
+134
+160
+238
+62,5
+265
+249
+
+494
+134
+160
+238
+62,5
+265
+249
+
+502
+134
+160
+238
+62,5
+265
+249
+
+523
+134
+160
+238
+62,5
+265
+249
+
+540
+134
+160
+238
+62,5
+265
+249
+
+556
+134
+160
+238
+62,5
+265
+249
+
+590
+134
+160
+238
+62,5
+265
+249
+
+643
+160
+160
+238
+62,5
+265
+249
+
+663
+151
+200
+248
+80
+265
+254
+
+721
+151
+200
+248
+80
+265
+254
+
+834
+215
+200
+248
+105
+265
+254
+
+869
+215
+200
+248
+105
+265
+254
+
+922
+215
+200
+248
+105
+265
+254
+
+Gewichte
+ZESA ®
+GESA®
+
+(kg)
+(kg)
+
+24,4
+24,8
+
+24,4
+24,8
+
+24,6
+25
+
+25
+25,8
+
+25,6
+26,2
+
+26,2
+27,8
+
+27
+29,2
+
+27,6
+31,8
+
+31,6
+34
+
+35,6
+38,6
+
+42,9
+48,3
+
+56,4
+63
+
+70,9
+82,6
+
+99,7
+117
+
+161
+163
+
+143
+178
+
+SQ05.2
+16
+
+SQ07.2
+16
+
+SQ10.2
+16
+
+SQ12.2
+22
+
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+9
+
+ARI-ZESA® / ARI-GESA®
+AIR TORQUE
+
+Absperrklappe mit pneumatischem Schwenkantrieb
+Typ: AIR TORQUE
+• Funktion: doppelt wirkend
+einfach wirkend, Feder schließt (öffnet)
+• Steuerdruck 6 bar (=0,6 MPa)
+• Stellungsanzeiger
+Zusatzoptionen:
+• Endschalter auf / zu
+• Magnetventil
+• Drosselschalldämpfer (doppelt wirkend)
+• Drosselplatte (einfach wirkend)
+• Stellungsregler
+• andere Steuerdrücke auf Anfrage
+Beim Anschluss der Antriebe ist nach dem Anschlussplan in der jeweiligen
+Betriebsanleitung vorzugehen!
+
+DN
+
+25
+
+32
+
+40
+
+doppelt wirkend
+
+Antrieb
+Antriebstyp
+
+50
+
+65
+
+80
+
+DR30
+
+100
+DR60
+
+125
+
+150
+
+DR100
+
+200
+
+250
+
+DR150 DR220
+
+300
+
+350
+
+DR450
+
+450
+
+500
+
+DR600 DR900 DR1200
+
+Abmessungen
+H1
+(mm)
+P1
+(mm)
+P2
+(mm)
+
+233
+159
+83
+
+233
+159
+83
+
+239
+159
+83
+
+245
+159
+83
+
+255
+159
+83
+
+263
+159
+83
+
+301
+211
+95
+
+331
+248
+106
+
+347
+248
+106
+
+393
+269
+123
+
+448
+315
+141
+
+509
+409
+172
+
+567
+409
+172
+
+635
+438
+187
+
+713
+474
+200
+
+792
+543
+222
+
+Gewichte
+ZESA®
+GESA®
+
+3
+3,4
+
+3
+3,4
+
+3,2
+3,7
+
+3,7
+4,4
+
+4,1
+4,9
+
+4,7
+6,5
+
+6,6
+9
+
+10
+12,4
+
+11,4
+13,8
+
+18,6
+19,5/21
+
+27,8
+33,9
+
+43
+51,5
+
+59
+72
+
+90
+111
+
+153
+154
+
+147
+187
+
+(kg)
+(kg)
+
+Antrieb
+
+einfach wirkend
+
+400
+
+Antriebstyp (schließt)
+
+SC 30- 6
+
+SC 60- 6 SC 100- 6 SC 150- 6 SC 220- 6 SC 300- 6 SC 450- 6 SC 600- 6
+
+SC 1200- 6
+
+Antriebstyp (öffnet)
+
+SO 30- 5
+
+SO 60- 5
+
+SO 150- 5
+
+SO 900- 5
+
+SO 100- 5
+
+SO 220- 5
+
+SO 450- 5
+
+SC
+SC
+SC
+2000- 6 2000- 6 3000- 6
+SO
+SO
+SO
+1200- 5 2000- 6 2000- 5
+
+Abmessungen
+H1
+(mm)
+P1
+(mm)
+P2
+(mm)
+
+233
+159
+83
+
+233
+159
+83
+
+239
+159
+83
+
+245
+159
+83
+
+272
+211
+95
+
+293
+248
+106
+
+326
+269
+123
+
+371
+315
+141
+
+399
+345
+152
+
+453
+409
+172
+
+500
+438
+187
+
+597
+543
+222
+
+655
+543
+222
+
+758
+621
+262
+
+791
+605
+262
+
+877
+684
+330
+
+Gewichte
+ZESA®
+GESA®
+
+3,1
+3,5
+
+3,1
+3,5
+
+3,3
+3,8
+
+3,8
+4,5
+
+5,7
+6,5
+
+7,5
+9,3
+
+10,4
+12,8
+
+16
+18,4
+
+20,2
+22,6
+
+30,2
+32,2/33,7
+
+43,4
+49,5
+
+73,6
+82,1
+
+89
+102
+
+134
+155
+
+162
+163
+
+213
+253
+
+(kg)
+(kg)
+
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+
+Magnetventil:
+zum Steuern von doppelwirkenden Antrieben
+5/2 - Wege
+
+Zusatzoptionen: Endschalter im Gehäuse
+
+Magnetventil:
+zum Steuern von einfachwirkenden Antrieben
+3/2 - Wege
+
+Zusatzoptionen: Magnetventil
+
+10
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+ARI-ZESA® / ARI-GESA®
+
+bar
+
+Absperrklappe mit pneumatischem Schwenkantrieb
+Typ: bar
+• Funktion: doppelt wirkend
+einfach wirkend, Feder schließt (öffnet)
+• Steuerdruck 6 bar (=0,6 MPa)
+Zusatzoptionen:
+• Endschalter auf / zu
+• Magnetventil
+• Drosselschalldämpfer (doppelt wirkend)
+• Drosselplatte (einfach wirkend)
+• Stellungsanzeiger
+• Stellungsregler
+• andere Steuerdrücke auf Anfrage
+Beim Anschluss der Antriebe ist nach dem Anschlussplan in der jeweiligen
+Betriebsanleitung vorzugehen!
+
+DN
+
+25
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+Antrieb
+
+doppelt wirkend
+
+Antriebstyp
+
+GTD 58/90
+
+GTD 68/90
+
+250
+
+GTD
+GTD
+110/90 115/90
+
+300
+
+350
+
+GTD143/90
+
+400
+
+450
+
+500
+
+GTD
+GTD
+GTD
+163/90 185/90 210/90
+
+Abmessungen
+H1
+(mm)
+P1
+(mm)
+P2
+(mm)
+
+232
+127
+72
+
+232
+127
+72
+
+238
+127
+72
+
+244
+127
+72
+
+254
+127
+72
+
+276
+140
+82
+
+297
+140
+82
+
+343
+209
+108
+
+359
+209
+108
+
+416
+222
+120
+
+443
+292
+120
+
+530
+337
+172
+
+588
+337
+172
+
+637
+377
+172
+
+727
+422
+224
+
+782
+462
+224
+
+Gewichte
+ZESA®
+GESA®
+
+2,3
+2,7
+
+2,3
+2,7
+
+2,5
+3
+
+3
+3,7
+
+3,4
+4,2
+
+4,5
+6,3
+
+5,4
+7,7
+
+9,6
+12
+
+11
+13,4
+
+17,3
+19,3/20,2
+
+26,5
+32,6
+
+42,9
+51,4
+
+58,5
+71,5
+
+86,5
+107,5
+
+157
+158
+
+143
+183
+
+GTE
+78/90
+GTE
+78/90
+
+GTE
+88/90
+GTE
+88/90
+
+(kg)
+(kg)
+
+Antrieb
+
+einfach wirkend
+
+GTD 98/90
+
+200
+
+Antriebstyp (schließt)
+
+GTE 68/90
+
+Antriebstyp (öffnet)
+
+GTE 68/90
+
+GTE
+GTE
+GTE
+GTE
+GTE
+98/90 110/90 115/90 127/90 143/90
+GTE
+GTE
+GTE
+GTE 110/90
+115/90 127/90 143/90
+
+GTE 210/90
+
+GTE 250/90
+
+GTE 210/90
+
+GTE 250/90
+
+Abmessungen
+H1
+(mm)
+P1
+(mm)
+P2
+(mm)
+
+246
+140
+82
+
+246
+140
+82
+
+252
+140
+82
+
+258
+140
+82
+
+280
+161
+94
+
+296
+182
+100
+
+349
+222
+120
+
+366
+222
+120
+
+382
+292
+120
+
+436
+298
+137
+
+501
+337
+172
+
+587
+462
+224
+
+645
+462
+224
+
+741
+603
+272
+
+774
+609
+272
+
+829
+603
+272
+
+Gewichte
+ZESA®
+GESA®
+
+3
+3,4
+
+3
+3,4
+
+3,2
+3,7
+
+3,7
+4,5
+
+4,9
+5,6
+
+6
+7,8
+
+9,8
+12,2
+
+12,4
+14,8
+
+16
+18,4
+
+22,8
+24,8/25,7
+
+37,5
+43,6
+
+66,8
+75,3
+
+82
+95
+
+136
+157
+
+195
+201
+
+177
+217
+
+(kg)
+(kg)
+
+Betriebsanleitungen stehen zum Download unter www.ari-armaturen.com bereit.
+Magnetventil:
+zum Steuern von doppelwirkenden Antrieben
+5/2 - Wege
+
+Zusatzoptionen: Endschalter im Gehäuse
+
+Magnetventil:
+zum Steuern von einfachwirkenden Antrieben
+3/2 - Wege
+
+Zusatzoptionen: Magnetventil
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+Zusatzoptionen: Endschalter
+
+11
+
+ARI-ZESA® / ARI-GESA®
+
+THErmo-Anzeige / Anschlussflansch
+THEA® - Integrierte THErmo-Anzeige
+
+je ein Thermometer separat für
+- Kälte (-20°C bis +40°C)
+- Wärme (0°C bis +120°C)
+Anzeige:
+
+Nennweitenbereich:
+
+Bestelltext:
+
+Genauigkeitsklasse 1,0
+(Thermometer an ARI-THEA angepasst)
+DN 25 / 32 - DN 40
+DN 50 - DN 80
+DN 100
+DN 125 - DN 200
+Thermo-Anzeige mit Messbereich ................,
+für Nennweitenbereich .........
+
+Montage durch Einstecken in Bohrung des Hebels
+(jederzeit* vor Ort nachrüstbar)
+* nicht möglich bei Welle aus 1.4571
+
+Anschlussflansch
+
+2-flach SW
+
+4-kant SW
+
+DN25-200
+
+DN250-500
+
+DN
+
+25
+
+Anschluss EN ISO 5211
+
+32
+
+40
+
+50
+
+65
+
+80
+
+100
+
+125
+
+150
+
+F 05
+
+F 07
+
+200
+
+250
+
+300
+
+350
+
+400
+
+F 10
+
+450
+
+500
+
+F 14
+
+2-flach SW
+
+(mm)
+
+11 d11
+
+17 d11
+
+--
+
+--
+
+4-kant SW
+
+(mm)
+
+--
+
+--
+
+22 d11
+
+30 d11 1) 36 d11 1) 30 d11 1)
+
+Ød
+
+(mm)
+
+7
+
+9
+
+11
+
+18
+
+ØD1
+
+(mm)
+
+65
+
+90
+
+125
+
+175
+
+ØD2
+
+(mm)
+
+35 H10
+
+55 H10
+
+70 H10
+
+100 H10
+
+ØD3
+
+(mm)
+
+50
+
+70
+
+102
+
+140
+
+ØD4
+
+(mm)
+
+12,9
+
+19,7
+
+--
+
+--
+
+l
+
+(mm)
+
+15
+
+18
+
+24
+
+t
+
+(mm)
+
+3
+
+3
+
+3
+
+40
+
+- Scheiben-/Wellen-Werkstoff
+- Betätigungselement
+- Evtl. Sonderausführungen / Zubehör
+
+40
+
+4
+1) abweichend
+
+Bei Bestellung bitte angeben:
+- Figur-Nummer
+- Nenndruck
+- Nennweite
+- Manschetten-Werkstoff
+
+39
+
+von EN ISO5211
+
+Der Einsatz im Ex-Bereich (ATEX) ist
+bei der Bestellung anzugeben.
+
+Beispiel:
+Figur 22.012; Nenndruck PN16; Nennweite DN100; Manschette aus EPDM, Scheibe/Welle aus 1.4581/1.4021, mit Rasthebel und integrierter Thermo-Anzeige (-20 bis 40°C).
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+12
+
+ARI-ZESA® / ARI-GESA®
+
+Durchflussdiagramm / Klappenüberstand zur Baulänge
+Kvs-Wert / Zeta-Wert
+DN
+Kvs-Wert
+(m3/h)
+Zeta-Wert
+--
+
+25
+26
+0,93
+
+32
+26,5
+2,4
+
+40
+49,6
+1,7
+
+50
+116
+0,75
+
+65
+259
+0,43
+
+80
+377
+0,46
+
+100
+763
+0,27
+
+125
+1030
+0,37
+
+150
+1790
+0,25
+
+200
+3460
+0,21
+
+250
+5070
+0,24
+
+300
+7430
+0,23
+
+350
+400
+450
+10320 13290 15200
+0,23
+0,23
+0,28
+
+500
+21180
+0,22
+
+max. zul. Fließgeschwindindigkeit:
+-Flüssigkeiten
+<4m/s
+-Gase und Dämpfe <30m/s
+
+Öffnungswinkel
+Klappenscheibe
+
+auf
+
+zu
+Anzeige Rasthebel
+
+Klappenüberstand zur Baulänge
+DN
+B
+D
+
+(mm)
+(mm)
+
+25
+---
+
+32
+---
+
+40
+5
+26
+
+50
+5
+29
+
+65
+11
+49
+
+80
+18
+68
+
+100
+25
+88
+
+125
+36
+115
+
+150
+48
+142
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+200
+71
+194
+
+250
+91
+243
+
+300
+112
+292
+
+350
+132
+333
+
+400
+147
+383
+
+450
+168
+436
+
+500
+188
+486
+13
+
+ARI-ZESA® / ARI-GESA®
+
+Zuordnung von Antrieben
+
+DN
+
+25-50
+
+65
+
+80
+
+Anschlussflansch EN ISO 5211
+
+100
+
+125
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+F 05
+
+F 07
+
+F 10
+
+F 14
+
+500
+
+(mm)
+
+11 d11
+
+17 d11
+
+--
+
+--
+
+4-kant SW
+
+(mm)
+
+--
+
+--
+
+22 d11
+
+30 d11
+36 d11
+30 d11
+abweichend abweichend abweichend
+von
+von
+von
+EN ISO5211 EN ISO5211 EN ISO5211
+
+Größe
+
+I
+
+II
+
+--
+
+Größe
+
+I
+
+II
+
+--
+
+242-10S
+
+242-10M
+
+manueller Antrieb
+
+2-flach SW
+
+Rasthebel
+
+Klemmhebel
+
+Typ
+
+242-20M
+
+242-30S
+
+242-30L
+
+242-40M
+
+Elektrischer Schwenkantrieb
+
+Schneckenrad-Getriebe
+Typ
+
+OM-1
+
+OM-A
+
+Typ
+
+SQ4
+
+SQ6
+
+OM-2
+
+OM-3
+
+OM-4
+
+--
+
+ARI-OM (230V 50Hz)
+SQ10
+
+SQ15
+
+SQ25
+
+SQ60
+
+SQ120
+
+SQ07.2
+
+SQ10.2
+
+SQ12.2
+
+DR220
+
+DR450
+
+Deufra (230V 50Hz)
+
+Typ
+
+SQ05.2
+
+DR100
+
+DR150
+
+Feder schließt
+
+DR60
+
+SC 30-6 SC 60-6 SC 100-6 SC 150-6 SC 220-6 SC 300-6 SC 450-6 SC 600-6
+
+Feder öffnet
+
+DR30
+
+Typ
+
+SO 30-5 SO 60-5
+
+SO 100-5
+
+Typ
+
+GTD58/90
+
+GTD68/90
+
+SO
+150-5
+
+SO 220-5
+
+GTD
+110/90
+
+DR900 DR1200
+
+SC 2000-6
+
+SC
+3000-6
+
+SO
+450-5
+
+SO 900-5
+
+SO
+1200-5
+
+SO
+2000-6
+
+SO
+2000-5
+
+GTD
+115/90
+
+GTD143/90
+
+GTD
+163/90
+
+GTD
+185/90
+
+GTD
+210/90
+
+Feder schließt
+
+GTD98/90
+
+SC 1200-6
+
+DR600
+
+Typ
+
+GTE
+GTE
+GTE
+GTE
+GTE
+GTE
+GTE
+GTE
+68/90-12 78/90-10 88/90-10 98/90-12 110/90-12 115/90-12 127/90-12 143/90-12
+
+GTE210/90-10
+
+GTE
+GTE
+GTE
+250/90-8 250/90-9 250/90-8
+
+Feder öffnet
+
+einfach wirkend
+
+bar
+
+Typ
+
+Typ
+
+doppelt wirkend
+
+Pneumatischer Schwenkantrieb
+
+AIR TORQUE
+
+einfach wirkend
+
+doppelt wirkend
+
+Auma (400V 50Hz)
+
+Typ
+
+GTE
+GTE
+GTE
+68/90-8 78/90-8 88/90-8
+
+GTE210/90-8
+
+GTE
+GTE
+GTE
+250/90-6 210/90-10 250/90-6
+
+GTE
+110/90-8
+
+GTE
+GTE
+GTE
+115/90-6 127/90-8 143/90-8
+
+Technik mit Zukunft.
+DEUTSCHE QUALITÄTSARMATUREN
+
+ARI-Armaturen Albert Richter GmbH & Co. KG, D-33750 Schloß Holte-Stukenbrock,
+Tel. +49 (0)5207 / 994-0, Telefax +49 (0)5207 / 994-297 oder 298 Internet: http://www.ari-armaturen.com E-mail: info.vertrieb@ari-armaturen.com
+14
+
+Ausgabe 02/17 - Techn. Änderungen vorbehalten - Ständig aktualisierte Daten unter www.ari-armaturen.com!
+
+

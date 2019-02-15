@@ -1,0 +1,7 @@
+Rotationssiebmaschine
+
+Maschinen NR. WS4-0-0Z-009
+Baujahr: 2012
+El.Versorgung: 400V/50Hz	3Ph 3kVA
+max. Vorsicherung: 20A
+Steuerspannung: 24V DC

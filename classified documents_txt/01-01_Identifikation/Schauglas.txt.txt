@@ -1,0 +1,12 @@
+M40
+Handloch Pulverzugabe
+
+Auﬂendurchmesser 	D=230
+Lochkreis 		LK=205
+Schrauben
+Innendurchmesser	Li=150
+
+
+Zimmerlin
+Druck-Glasdeckel 12bar / -1 bar 1.4571
+DN150 PN10

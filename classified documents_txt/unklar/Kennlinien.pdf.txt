@@ -1,0 +1,57 @@
+E-Serie
+Kennlinien
+E 08
+
+Bitte wählen Sie
+die Pumpengröße!
+
+E 10
+E 15
+E 25
+
+Die Daten beziehen sich auf Wasser bei 20°C,
+unter Verwendung verschiedener
+Pumpenvarianten (z.B. Kugelventilversion,
+Dämpfervorbereitung usw.), eines Kompressors
+Atlas Copco VSG 30 und kalibrierter Messmittel.
+
+E 40
+E 50
+
+Die Daten beziehen sich auf
+Wasser. Zu beachten ist der
+Einfluss der Medienviskosität
+auf die Fördermenge.
+
+Änderungen vorbehalten, 07/09
+
+E 08
+
+E 10
+
+E 15
+
+E 25
+
+E 40
+
+E 50
+
+Viskosität
+Die in den Pumpenkennlinien
+angegebenen Fördermengen sind generell
+auf Wasser (1 mPa·s) bezogen. Für
+Fördermedien mit höherer Viskosität ist
+eine entsprechende Reduzierung zu
+berücksichtigen.
+Das Diagramm ermöglicht ein direktes
+Ablesen der Auslegungsfördermenge, für
+die dann eine passende Pumpengröße
+ausgewählt werden kann.
+Das gezeigt Beispiel legt eine gewünschte
+Fördermenge von 10 m³/h bei einer
+Produktviskosität von 6000 mPa·s
+zugrunde. Die strichpunktierte Linie
+schneidet die Skala der AuslegungsFördermenge bei 17 m³/h.
+
+

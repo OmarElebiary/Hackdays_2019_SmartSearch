@@ -1,0 +1,7 @@
+Stirnradgetriebe-Flanschmotor:
+
+RF47 DRS80 S4 BE1 TH
+
+P=0,75kW; n=73 1/min
+
+Artikel-Nr.: UA041R0804RAL2002
