@@ -65,12 +65,16 @@ def search_token(token, filentoken2tfidf, token2files):
 
     file_scores = []
     for file in token2files[token]:
-        file_scores.append((file, filentoken2tfidf[file, token]))
+        # weight = filentoken2tfidf[file, token]
+        weight = 1
+        file_scores.append((file, weight))
 
     return file_scores
 
 
-results = search('Artech c32 hp1 atex', filentoken2tfidf, debug=True)
+results = search('Artech c32-hp1 atex', filentoken2tfidf, debug=True)
 resultsDirs = [(score, fileDirs[idx], debug) for score, idx, debug in results]
+
+print(resultsDirs)
 
 print('Done.')
