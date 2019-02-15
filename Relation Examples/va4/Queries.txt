@@ -1,0 +1,3 @@
+Gewicht von Schmersaal [Manufacturer]
+"Schmersaal" contained in Betriebsanleitung...pdf, also contained in Technische Daten Schmersaal.pdf (in the filename and OCR output) but "Gewicht only contained in Technische Daten Schmersaal.pdf so rank this one first
+

@@ -1,0 +1,2 @@
+Schaltskizze KA57B [model number]
+KA578 contained in Technische Daten_5.txt -> "Kegelradgetriebemotor" also contained in Betriesanleitung Getriebe.pdf which contains a Schaltskizze
