@@ -1,16 +1,12 @@
 # Loading the data files
 import metrics
-from files import get_filtered_data, tokenize, remove_stopwords
+from files import get_filtered_data
+from preprocessing import preprocess
 
 rootDir = '../docs_txt'
 print("Loading data...")
-(data, fileDirs) = get_filtered_data(rootDir)
-print("Tokenizing...")
-tokens = tokenize(data)
-print("Removing stopwords...")
-tokens_filtered = []
-for t in tokens:
-    tokens_filtered.append(remove_stopwords(t))
+(file_data, file_dirs) = get_filtered_data(rootDir)
+tokens_filtered = preprocess(file_data)
 
 
 token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
