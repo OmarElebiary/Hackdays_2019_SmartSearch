@@ -15,7 +15,7 @@ print('Loading done.')
 
 
 
-def search(query, filentoken2tfidf):
+def search(query, filentoken2tfidf, debug=False):
     """
 
     :param query: Whole query (can be composed of multiple tokens)
@@ -23,6 +23,8 @@ def search(query, filentoken2tfidf):
     :return: Combined result of all tokens with (score, file index)
     """
     query_prep = preprocess([query])[0]
+    if debug:
+        print('"{}" -> {}'.format(query, query_prep))
     T = len(query_prep)
     scores = []
     # accumulate results for individual tokens
@@ -31,14 +33,21 @@ def search(query, filentoken2tfidf):
 
     # combine results
     file2totalscore = defaultdict(float)
+    if debug:
+        file2totalscore_debug = defaultdict(str)
     for i in range(T):
         for file, score in scores[i]:
             file2totalscore[file] += score
+            if debug:
+                file2totalscore_debug[file] += ' + ({}, {:.5f})'.format(query_prep[i], score)
 
     # sort by score
     scorefile = []
     for file, total_score in file2totalscore.items():
-        scorefile.append((total_score, file))
+        if debug:
+            scorefile.append((total_score, file, file2totalscore_debug[file][3:]))
+        else:
+            scorefile.append((total_score, file))
     scorefile = sorted(scorefile)[::-1]
 
     return scorefile
@@ -61,7 +70,7 @@ def search_token(token, filentoken2tfidf, token2files):
     return file_scores
 
 
-results = search('Artech c32 hp1 atex', filentoken2tfidf)
-resultsDirs = [(score, fileDirs[idx]) for score, idx in results]
+results = search('Artech c32 hp1 atex', filentoken2tfidf, debug=True)
+resultsDirs = [(score, fileDirs[idx], debug) for score, idx, debug in results]
 
 print('Done.')
