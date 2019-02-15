@@ -1,0 +1,934 @@
+O/ NS/ 1O
+
+Lumiglas
+
+ 
+
+Installations- und Betriebsanleitung
+
+Lumistar Leuchte ASL 55-LED-Ex, Alu
+I12G Ex d IICT6 Gb
+11 2D Ex tb 1lIC T80°C Db
+
+* Wichtiger Hinweis:
+Schauglas-Leuchten sind zweckbestimmt und ausschlieBlich
+zur Montage an oder auf Schauglas-Flanschfassungen
+konzipiert. Auf gar keinen Fall darf eine Schauglas-Leuchte
+den Deckelflansch oder die komplette Schauglas-Flansch-
+fassung ersetzen bzw. unmittelbar zur Abdeckung einer
+Behalter6ffnung verwendet werden. Leuchten fur den Ex-
+Bereich dirfen nur von dafur ausgebildetem und autorisier-
+
+tem Personal montiert, angeschlossen und gewartet werden.
+
+Daten der EG-Baumusterprifbescheinigung beachten!
+Achtung: Nicht in die Lichtquelle blicken - Gefahr von
+Sehstoérung.
+
+¢ Allgemeine Betriebsbedingungen:
+- Unabhangig vom Behalterinnendruck/Vakuum
+- Zugelassen fur Einsatz in Ex-Bereichen:
+Gas: Zone 1 und 2; Staub: Zone 21 und 22
+- Zugelassen fiir Einsatz in Umgebungstemperaturen
+-20°C bis +40°C
+
+¢ Elektrische Daten allgemein:
+-Spannung, Leistung, Temperaturklasse und Schutzart
+sind dem Typenschild zu entnehmen.
+- Ex-Zulassung nach EG-Baumusterprufbescheinigung:
+BVS 09 ATEX E 170
+112G Exd IICT6 Gb
+Il 2D Ex tb 11IC T80°C Db
+-Die Eingangsspannung wird Gber eine Netzteilkarte
+im Inneren der Leuchte auf die Arbeitsspannung der
+LED-Leuchtmittel umgesetzt.
+- Spannungsart: Wechselspannung/Gleichspannung .
+- Die Leuchte ist intern mit einer Sicherung ausgestattet
+(siehe Tabelle).
+-10% zulassige Spannungstoleranz
+
+¢ Hinweis zum Schutz der eingebauten Elektronik:
+Um die Elektronik zu schitzen ist die Leuchte mit einem
+Temperaturschalter ausgestattet. Sollte der Temperatur-
+schalter durch Ubertemperatur oder falsche Netzspannung
+aktiviert werden, hat das zur Folge, dass die Leuchte
+nicht angeschaltet werden kann. In diesem Fall ist der
+Abkuhlungsvorgang abzuwarten.
+
+¢ Mechanische Montage:
+Die Lumistar Leuchte ASL 55-LED-Ex passt fur folgende
+Nennweiten mit der jeweils entsprechenden Befestigung:
+
+Klappscharnier m
++
+
+Art der Armatur
+
+runde Schauglas-Armatur
+DIN 28120
+
+DIN 28121
+Durchfluss-Schauglaser
+Schraub-Schauglas-
+Armatur
+
+ahnlich DIN 11851
+
+¢ KenngréBen-Temperaturzuordnung:
+
+      
+
+ASL 55-LED-Ex
+Variante Volt
+
+Nennspannung
+
+ 
+
+(120-230V) 11 W 120-230 =
+
+(120-230V) 15 W
+
+ 
+
+Interne
+Absicherung
+
+  
+     
+
+C€o1ss
+
+0093.081.00 g
+
+ 
+
+Lumistar Leuchte ASL 55-LED-Ex
+
+o Befestigung liber Klappscharnier:
+Das Klappscharnier dient zur Befestigung der Leuchte auf
+dem Deckelflansch einer runden Schauglas-Armatur
+(auch fur Durchfluss-Schauglas) oder der Nutmutter bei
+Schraub-Schauglas-Armaturen DIN 11851.
+
+~ Das Klappscharnier wird auf dem erforderlichen Lochkreis
+einer runden Schauglasarmatur mit der zum Scharnier mit
+gelieferten Schraube ‘M8’ befestigt. Bauseits ist ein
+Gewindeloch vorzusehen.
+Alternativ kann das Klappscharnier aufgeschweiBt werden.
+
+» Befestigung iiber Bordel:
+
+Der Bérdel wird mit Hilfe der Nutmutter (DIN 11851)
+
+montiert:
+
+- Zwischen Glasplatte und Bérdel geeignete Dichtung legen.
+
+- Nutmutter aufsetzen und festziehen.
+
+- Leuchte in den Bérdel stecken und sichern.
+
+- Hinweis: die Steriltechnik-Variante der Lumistar Leuchte
+wird Uber den Kragen des Steriltechnik-Bordels gestulpt.
+
+- Seitliche Halteschrauben festziehen.
+
+ Befestigungsteile: bei Bedarf bitte separat bestellen
+
+    
+
+Umgebungstemperaturbereich
+-20°C =< T, < +40°C
+
+ 
+
+F.H.Papenmeier GmbH & Co. KG - Fachbereich Lumiglas
+Talweg 2 - 58239 Schwerte - Deutschland
+
+Telefon: 02304 205-0 - Fax: 02304 205-206
+info.lumi@papenmeier.de - www.lumiglas.de
+
+P/ZIPENMEIER
+Lumiglas
+
+e Elektrischer Anschluss:
+a) ASL 55-LED-Ex mit Anschlussleitung
+
+- Die Anschlussleitung ist bereits herstellerseits in der
+Leuchte betriebsfertig angeschlossen.
+
+- Die auBenliegende Schutzleiterklemme (Pos. 2) muss mit
+separater Betriebserde verbunden werden.
+
+- Die Anschlussleitung ist nach max. 1 m abzufangen.
+
+- Bei Kabelaustausch sind die inneren Anschlisse vor dem
+Herausdrehen der Leitungseinfuhrung zu l6sen.
+
+ 
+
+Auflagen/Bedingungen:
+
+Die Ex-Leuchten werden mit einer dauerhaft verbundenen
+Leitung hergestellt. Die freien Enden der Anschlussleitung
+mussen in einem Gehause der Kategorie 2G/2D installiert
+werden, wenn der Anschluss im explosionsgefahrdeten
+Bereich erfolgt. Vor der Installation oder bei der Instand-
+setzung der Leuchte ist die Leuchte und der Bereich, an
+dem sie installiert werden soll, von Staub zu reinigen.
+
+Die demontierten Teile sind wahrend der Installation oder
+Instandsetzung vor Verunreinigungen zu schitzen.
+
+Beim VerschlieBen der Leuchte ist im hohen MaBe darauf
+zu achten, dass das Innere der Leuchte frei von Staub ist.
+
+Bei den Anschlussvarianten b und c ist der mitgelieferte
+Ferritkern zu verwenden. Alle Anschlussdrahte missen
+mit einer ganzen Windung um den Kern gewickelt werden
+(Foto: Bsp. 230 V). Bei der 24 V-Variante ist der Ferritkern
+10 mm vom Deckel entfernt auf die Leit zu schieben. . .
+SRRE! BT AR Fle LY Ex d-Leitungseinfihrung M20x1,5
+: : Schutzleiterklemme auBen
+
+b) ASL 55-LED-Ex mit Kabelverschraubung (Vergusstechnik)
+
+- Anschlusskabel passend zur Kabelverschraubung M20x1,5 Verscr]hlusss;hfauben M4 A2-70
+
+auswahlen und Kabeldurchmesser beachten (6,7-10,3 mm). Zeuchtlengde aku?e
+-Die Mindesttemperaturbestandigkeit der Anschlussleitung nschiussdecke
+
+P o o Leuchtenschauglas
+halten (-20°C/+85°C).
+ist einzuhalten ( * ) Leuchtenbefestigung (Klappscharnier)
+
+ 
+
+c) ASL 55-LED-Ex {gepriifte Kombination)
+Folgende Kabelverschraubungen und Leitungen dirfen
+nur in Kombination eingesetzt werden:
+
+Kabelverschraubungstypen Einbaudreh-
+momente
+
+HSK-M-Ex-d, Sach-Nr. 9103.123.00
+
+M20x1,5, Ms vernickelt (Fa. Hummel)
+
+KU1BPM20-Ex-d-Alpha X Sach-Nr. 9103.130.00
+M20x1,5, Ms vernickelt (Fa.RST)
+
+ 
+
+Leitungstypen
+
+EVA-Schlauchleitung, Sinotherm 110, Sach-Nr. 3403.017.00
+3x1,5 gmm, 2 8,5 mm
+
+Olflex Heat 180, Sach-Nr. 3403.045.00
+
+ 
+
+3x1,5 gmm, 2 8,9 mm .
+Olflex Heat 180, Silflex UR-AWG18, Sach-Nr. 3403.044.00 Leitungseinfuhrung...
+
+5x1,0 gmm, @ 10,3 mm komplett mit 2 m Anschlussleitung 1084.013.00
+= - komplett mit 5 m Anschlussleitung 1084.015.00
+Olflex Classic 110 Black, Sach-Nr. 3403.051.00 komplett mit 10 m Anschlussleitung 1084.016.00
+3x1,5 gmm, ¢ 10,1 mm komplett mit 20 m Anschlussleitung 1084.017.00
+
+ 
+
+e Achtung: Die Verschlussschrauben fur Anschlussdeckel (M4x12) e Wartung:
+
+und Leuchtenschauglas (M4x25) mussen eine Streckgrenze - Leuchte sauberhalten.
+von = 240 N/mm? haben (A2-70). - Nach Offnen der Leuchte, Flachen des zylindrischen Spalts
+am Anschlussdeckel (Pos. 5) und am Leuchtenschauglas
+
+* Ersatzteile: Sach-Nr. (Pos. 6) bei Verunreinigung saubern. Vor dem Wieder-
+Anschlussdeckel 0821.012.00 einbau auf Beschadigungen kontrollieren und neu fetten
+Leuchtenschauglas (Lichtdurchlass) 1773.012.00 (z. B. mit AEMA-SOL 6 B, Hersteller A. E. Matthes).
+Kabelverschraubung (Ex d M20x1,5) Ms vern.  9103.129.00 - Nur Original-Ersatzteile verwenden.
+O-Ring Dichtung 0862.090.00
+Gewindestift 7446.075.00 * Warnhinweis:
+Zylinderkopfschraube M4x12 A2-70 6911.358.00 - Leuchtengeh&use und Anschlussdeckel sind nicht mit
+Zylinderkopfschraube M4x25 A2-70 6911.218.00 anderen Teilen dieser Baureihe zu vertauschen.
+
+Anderungen vorbehalten - MaBe in mm (soweit nicht anders angegeben) 11.15
+
+ 
+
+F.H.Papenmeier GmbH & Co. KG - Fachbereich Lumiglas
+Talweg 2 - 58239 Schwerte - Deutschland
+
+3 Telefon: 02304 205-0 - Fax: 02304 205-206
+pApENMEIEH info.lislicgpapenmeier.de . \an)l(ww.lumiglas.de
+
+.
+(
+
+i Betriebsbedingungen: Uberdruck: max. 6 bar (h&here Druck-
+
+" e Montage:
+
+ 
+
+A‘\
+
+-~
+
+Lumiglas
+
+Lumiglas Schraub-Schauglas-Armatur MV 3755.118 d
+
+Schraub-Schauglas-Armaturen dhnlich DIN 11851 (Milchver-
+schraubungen), deren runde Schauglasplatten dem Durchblick
+dienen. Die Gewindestutzen sind anschweiBbar.
+
+o Fiir Aseptik-Bereiche nach DIN 11864-1 lieferbar
+
+e Einsatz:
+Fur die Beobachtung des Inneren von Bioreaktoren, Labor-
+mischern, Filtern sowie Kesseln, Tanks, Rithrwerken, Separatoren,
+Rohrleitungen und sonstigen in der Regel geschlossenen
+Behaltern.
+Vorzugsweiser Einsatz in der Pharmazie- und Lebensmittel-
+
+industrie, z. B. Brauereien, Molkereien
+
+stufen auf Anfrage), Vakuum
+
+s Temperaturen: Armatur: max. 280°C bei planer Dichtflache
+mit Flachdichtung und entsprechender Dichtung (Pos. 4), siehe
+Temperatur-Diagramm.
+
+e Kombinationsmdglichkeiten:
+Die Kombination mit verschiedenen Lumiglas Leuchten ist
+moglich. Ab der Ausfiihrung DN 50 kann ein Lumiglas Scheiben-
+wischer SW 1 eingebaut werden. Lumiglas Leuchten-Scheiben-
+wischer-Kombination ist méglich ab DN 125.
+
+ 
+
+Kompletter Lieferumfang einer
+Lumiglas Schraub-Schauglas-Armatur MV
+
+e Teile und alternative Werkstoffe in nebenstehender Ansicht sind:
+
+Pos. Teil Werkstoff
+
+1 Nut-Uberwurfmutter  Edelstahl 1.4301, 1.4307
+
+2 ‘Flachdichtung KLINGERSil C-4400
+
+3 Schauglasplatte - Natron-Kalkglas: thermisch vor-
+
+gespannt, Material nach DIN 8902,
+zul. Betriebstemperatur: 150°C
+- Borosilikatglas: thermisch vorge-
+spannt, Material nach DIN 7080,
+zul. Betriebstemperatur: 280°C
+4 O-Ring Viton, PTFE, Perbunan, Silikon, EPDM
+5. AnschweiBstutzen Edelstahl 1.4301, 1.4307, 1.4404
+6 Behalterwand
+
+e Temperatur-Diagramm dient der Werkstoffwahl:
+
+2%C
+
+280
+250
+
+200
+
+150
+
+Glas
+
+100
+80
+
+   
+
+Kalk:
+Borosilikatglas
+Perbunan
+PTFE, Viton, Silikon
+
+&) | Natron
+
+las Dichtung
+
+Nach dem Verschweifen des Stutzens (5) in der Behalterwand (6)
+werden Dichtring (4), Schauglasplatte (3) und Flachdichtung (2)
+in der dargestellten Folge aufgelegt und mit der Nuttiberwurf-
+mutter (1) gegen den AnschweiBstutzen (5) fest verschraubt. Aufbau einer Lumiglas Schraub-Schauglas-Armatur MV
+
+ 
+
+ 
+
+F.H.Papenmeier GmbH & Co. KG - Fachbereich Lumiglas
+Talweg 2 - 58239 Schwerte - Deutschland
+
+: : cowerte 3 .
+._;l:fls.flfjrr; i(gsg:ezn(:ie(:e:::.-migrsn izg?gs.de p/l p E N M El EH
+Lumiglas
+
+e Abmessungen fiir Lumiglas Schraub-Schauglas-Armatur MV:
+
+ 
+
+Nutiberwurfmutter
+Flachdichtung
+Schauglasplatte
+Dichtring
+AnschweiBstutzen
+
+///////////////////////
+Ay A
+
+ 
+
+ 
+
+jGége | | v+ | 2 | &8 [ 4 | 5 | & ]
+
+      
+
+ 
+
+e Bestellvorgaben: z. B.
+- Lumiglas Schraub-Schauglas-Armatur MV, Material &hnlich DIN 11851
+
+- Nennweite: DN 80 PN 6 bar
+
+- Werkstoffe angeben fur: - Nuttberwurfmutter (ausschlieBlich 1.4301, 1.4307)
+- AnschweiBstutzen
+- Schauglasplatten
+- Dichtungen
+
+Anderungen vorbehalten — MaBe in mm (soweit nicht anders angegeben) 09.15
+
+ 
+
+F.H.Papenmeier GmbH & Co. KG - Fachbereich Lumiglas
+Talweg 2 - 58239 Schwerte - Deutschland
+
+E/ARPENMEIER o balpsprtesler e sl
+Lumiglas
+
+ 
+
+Wichtige Hinweise zum Einsatz von
+Schauglas-Armaturen, Schauglasplatten und Schauglas-Leuchten:
+
+Vor Einbau und Inbetriebnahme bzw. Wartung unbedingt lesen und Vorschriften beachten:
+
+1.
+
+2.
+
+2.1
+
+2:2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+3.3
+
+3.4
+
+Einbau von Schauglas-Armaturen
+Der Einbau durch EinschweiBen, Einléten usw. hat ausschlieBlich von
+geschultem und autorisiertem Personal zu erfolgen.
+
+Einbau von Schauglasplatten in Schauglas-Armaturen
+
+Die Betriebssicherheit von Schauglasern hangt wesentlich vom ordnungs-
+gemaBen Einbau ab.
+
+In den Flanschen missen die Auflageflachen fur die Dichtung flach, eben
+und glatt sein. Die Kanten der Dichtung dirfen auf keinen Fall vom
+Flanschenrand gequetscht werden.
+
+Die Schauglasplatte ist an Ober- und Unterflache mit einer Dichtung,
+die fur den Anwendungsfall geeignet sein muss, mittig in der Schauglas-
+Armatur zu positionieren.
+
+Nur véllig unversehrte Dichtungen verwenden, die plan und sauber sind,
+d. h. frei von Schmutz und Fett.
+
+Vor dem Festziehen von Muttern oder Schrauben nochmals prifen,
+
+dass Deckel und AnschweiBflansch korrekt sitzen und die Oberflachen
+parallel sind!
+
+Das Festziehen der Muttern oder Schrauben hat kreuzweise in mehreren
+Schritten zu erfolgen.
+
+Die Anzugsmomente sind den der Lieferung beigefiigten Datenblattern
+zu entnehmen (oder Lieferanten ansprechen!).
+
+Die Gegenflansch-Schrauben/Muttern kénnen ein erneutes Festziehen
+erfordern, nachdem eine erste Inbetriebnahme des Behalters unter
+Betriebstemperatur und -druck erfolgt ist.
+
+Maximale Belastung von Schauglasplatten
+
+Die ordnungsgeméB eingebauten Schauglasplatten durfen nur im
+
+angegebenen Druck- und Temperaturbereich betrieben werden.
+
+Das Uberschreiten dieser Bereiche kann zur Zerstérung fuhren.
+
+Temperaturwechsel nur in den zuldssigen Grenzen vornehmen:
+
+e Natron-Kalk-Glas (DIN 8902), max. zulassige Temperatur: + 150°C,
+Temperaturwechsel innerhalb einer Minute max. von 120°C auf 20°C
+bei véllig umspultem Glas.
+
+e Borosilikat-Glas (DIN 7080), max. zuladssige Temperatur: + 280°C,
+Temperaturwechsel innerhalb einer Minute max. von 230°C auf 20°C
+bei vollig umspiltem Glas.
+
+Das Abspritzen von noch heien Schauglasplatten mit kalten Flissig-
+
+keiten ist zu vermeiden.
+
+Achtung: Dies kann zum Bruch der Schauglasplatte fuhren.
+
+Sicherheitsvorkehrungen beim Einsatz von Schauglasplatten:
+
+ 
+  
+
+  
+
+3.4.1 Geplante Instandhaltung:
+
+Schauglaser mussen in die geplante Instandhaltung aufgenommen
+werden und periodisch durch Sichtkontrolle und/oder Ultraschall-
+Wanddickenmessung Gberprift werden. Bei Beschadigungen ist eine
+Schauglasplatte unverzuglich bei zuvor stillgelegter Anlage auszu-
+wechseln. Durch eine sorgfaltige und regelmaBige Beobachtung des
+Schauglases muss eine dem individuellen Behalter angepasste Standzeit
+ermittelt werden. Dadurch wird eine praxisbezogene Glaswechsel-
+routine maglich.
+
+ 
+
+3.4.2 Bruch einer Schauglasplatte
+
+3.5
+
+3.6
+
+Trotz sorgfaltigster Montage und vorgabegemaBem Betrieb von
+Schauglasplatten kann in seltenen Fallen nicht ausgeschlossen
+werden, dass es durch duBere Einwirkungen zum Bruch einer Schauglas-
+platte kommt. Um bei kritischen Verfahren vorzubeugen, dass Glasstiicke
+in den Prozess geraten, sind vom Anlagenhersteller oder -betreiber
+entsprechende SicherungsmaBnahmen zu treffen, z. B. in der
+Lebensmitteltechnik.
+Nach Demontage einer Schauglas-Armatur wird unter Hinweis auf die
+DIN 7080 analog fur alle Arten von Schauglasplatten dringend
+empfohlen, vor einer Wiederinbetriebnahme die Schauglasplatte und die
+Dichtungen gegen neue zu ersetzen. Das gilt insbesondere fur
+Druckbehélter und/oder aggressive Medien.
+Nachfolgend Auszug aus der DIN 7080 im Wortlaut:
+“Schauglasplatten diirfen nur von Personen eingebaut werden, die tber
+folgende Notwendigkeiten eingehend informiert worden sind:
+o pflegliche Behandlung der Schauglasplatten;
+¢ Reinigung der Fassungen, Schauglasplatten, Dichtungen und Beilagen
+vor dem Einbau, d. h. Beseitigung von Fremdkérpern (z. B. Spanen);
+e gleichmaBiger Anzug der Befestigungsschrauben.
+Nach betrieblichem Einsatz ausgebaute Schauglasplatten durfen nicht
+wiederverwendet werden.”
+Vollentsalztes Wasser kann Glas auflésen — besonders intensive perio-
+dische Kontrolle erforderlich!
+
+4.
+4.1
+
+4.2
+
+4.3
+
+6.2
+6.3
+
+6.4
+6.5
+
+6.6
+
+6.7
+
+6.8
+
+6.9
+6.10
+6.11
+
+3755.107 f
+
+Scheibenwischer
+
+Priifen, dass der Scheibenwischer korrekt installiert ist (siehe separate
+Einbauanleitung)!
+
+Die Scheibenwischer durfen nur innerhalb des zugelassenen Druck- und
+Temperaturbereiches betrieben werden.
+
+Die Mechanik des Wischerantriebes ist turnusmé&Big auf Dichtigkeit zu
+kontrollieren; ggf. Verschraubung nachziehen, defekte Dichtungen
+ersetzen, Wischblatthalter und Wischblatt von festgesetztem Material
+reinigen, Wischblatt ggf. erneuern, siehe Einbauanleitung.
+
+Sprithvorrichtung
+
+Das Spriihmittel sollte méglichst die Temperatur des Behélterinhaltes
+haben. Auf keinen Fall darf eine erhitzte Schauglasplatte mit einem
+kalten Sprahmittel behandelt werden (siehe Hinweis ‘Temperatur-
+wechsel’ unter Punkt 3).
+
+Schauglas-Leuchten
+Es ist darauf zu achten, dass die Schauglas-Leuchte an die korrekte Span-
+nung angeschlossen wird, wie sie dem Typenschild zu entnehmen ist.
+Schauglas-Leuchten sind zweckbestimmt und ausschlieBlich zur Montage
+an oder auf Schauglas-Flanschfassungen bestimmt.
+Auf keinen Fall darf eine Schauglas-Leuchte den Gegenflansch oder die
+komplette Schauglas-Flanschfassung ersetzen.
+Dauerbetrieb ,EIN” ist nur fur einige Lumiglas-Leuchten zugelassen.
+Vor verbindlicher Bestellung bitte abklaren; im Zweifelsfall den
+Hersteller/Lieferanten ansprechen.
+Schauglas-Leuchten mit eingebautem Taster oder die ausdriicklich nur far
+Tastbetrieb zu verwenden sind, dtrfen nur im Tastbetrieb eingeschaltet
+werden.
+Schauglas-Leuchten, die vom Anwender fur Dauerbetrieb vorgesehen
+sind, sollten mit einem externen Ein-/Ausschalter betrieben werden.
+Weiterhin ist auf Folgendes zu achten:
+o Max. zuldssige Temperatur an der Leitungseinfihrung nicht Gber-
+schreiten.
+e Max. zuldssige Temperatur der Schauglasplatte einhalten (Kessel-
+temperatur plus Temperaturerhdhung durch die Schauglas-Leuchte
+= Schauglasplatten-Temperatur; durch Messung priifen!).
+Bei Ersatz von Gliihlampen nur solche gleichen Typs mit gleicher Leistung/
+Spannung verwenden und auf die max. zulassige Gluhlampenbestiickung
+der jeweiligen Leuchte achten!
+Bei Gluhlampenwechsel Zustand der Fassung prifen!
+Uberspannung verursacht vorzeitigen Gluhlampenausfall.
+Achtung: Nicht in die Lichtquelle blicken - Gefahr von Sehstérung!
+
+Ex-Bereich
+
+Leuchten fur den Ex-Bereich dirfen nur von ausdriicklich dafar
+ausgebildetem und autorisiertem Personal montiert und gewartet
+werden. Die Daten der jeweiligen Prufungsscheine (EG-Baumuster-
+prufbescheinigung) sind unbedingt zu beachten. Einige Lumiglas
+Ex-Leuchten sind mit eingegossener Leitungseinfiihrung ausgestattet.
+Auf keinen Fall darf die Kabelverschraubung los gedreht oder entfernt
+werden! Jeder unsachgemaBe Austausch von Komponenten bei
+Ex-zugelassenen Leuchten fuhrt dazu, dass der Ex-Schutz erlischt!
+
+Kipp- oder schraubbare Leucht-Schauglaser
+
+Vor Inbetriebnahme dieser Armaturen ist deren Dichtigkeit zu tber-
+prufen (evtl. Schrauben nachziehen).
+
+Die Dichtigkeit zwischen dieser Armatur und dem Behalterflansch ist
+durch eine saubere, fettfreie und plane Behalter-Dichtflache sowie einen
+ordnungsgemaB montierten und eingestellten Verschluss sicherzustellen.
+Besonders bei dem Einsatz von klappbaren Leucht-Schauglésern ist
+darauf zu achten, dass sich das Material im Beh&lter mit dem Werkstoff
+des Leucht-Schauglases vertragt. Bei Druckbehéltern darf der maximale
+Betriebsdruck auf keinen Fall den Wert tbersteigen, der fur das
+Schauglas zugelassen ist.
+
+Bitte sprechen Sie im Zweifelsfall den Lieferanten oder Hersteller an!
+
+Anderungen vorbehalten — MaBe in mm (soweit nicht anders angegeben) 06.16
+
+ 
+
+F.H.Papenmeier GmbH & Co. KG - Fachbereich Lumiglas
+Talweg 2 - 58239 Schwerte - Deutschland
+
+Telefon: 02304 205-0 - Fax: 02304 205-206
+info.lumi@papenmeier.de - www.lumiglas.de
+
+PAPENMEIER
+                           
+
+o 1. Nachtrag zur
+EG-Baumusterpriifbescheinigung
+
+(2)  Gerate und Schutzsysteme zur bestimmungsgemaRen Verwendung
+in explosionsgefahrdeten Bereichen - Richtlinie 94/9/EG
+Ergénzung geméal Anhang Ill Ziffer 6
+
+(3)  Nr. der EG-Baumusterprifbescheinigung:  BVS 09 ATEX E 170
+
+(4) Gerat: Leuchte Typ ASL55LED-Ex
+(5) Hersteller: F.H. Papenmeier GmbH & Co. KG
+(6)  Anschrift: 58239 Schwerte
+
+(7)  Die Bauart dieser Gerate sowie die verschiedenen zulassigen Ausfilh
+diesem Nachtrag festgelegt.
+
+(8)  Die Zertifizierungsstelle der DEKRA EXAM GmbH. beh
+Richtlinie 94/9/EG des Europaischen Parlament;
+
+s
+
+dass diese Gerate die grundlegenden//Siéﬁ/e'
+Konzeption und den Bau von Geratén”an
+
+PP
+
+Verwendung in explosionsgeféhrge;tenf;Bereiétjé/,
+
+Ergebnisse der Prufung sind in dénﬁ';Ef[@prétokbl
+
+ 
+
+          
+
+            
+
+ 
+
+(9)
+(10)
+wend
+S [ P11 77 ‘/./ /
+
+   
+
+(11777
+
+   
+      
+
+   
+
+(11) Dieser Nachtrég“_zluf'EGiééumﬁS‘:te,tbrgfb;e;sbljé i lgungbe :lehfsgp,h nur auf dig
+Baumusterprafung der beschriebenen Geréite in Ubereinstimmung mit der'Ric
+
+Far Herstellung und Inverkehrbringen ‘der’ Geréte sind Weiteré’ Anforderung
+
+erfullen, die nicht fdprCh’iqies_e,, Bescheinigung _a_,bbg'edeckt.sihdf
+
+     
+
+/
+
+       
+
+  
+
+ 
+
+(12) Die Kennzeicthh_g desGeratesmuss aie folgendenAngaben ent
+
+&) e Exaiic 16 &b/
+Il 2D Ex tb lIC T80°C Db 1A
+
+DEKRAEXAMGmbH ‘ “"_".1
+Bochum, den 13.06.2012 ' ' A
+
+Zertifizierungsstelle Fachbereich
+
+ 
+
+ 
+ 
+
+Seite 1 von 2 zu BVS 09 ATEX E 170/ N1
+Dieses Zertifikat darf nur vollstandig und unverandert weiterverbraitet werden.
+DEKRA EXAM GmbH, Dinnendahistrae 9, 44809 Bochum, Telefon +49.234.3696-105, Telefax +49.234 3696-110, zs-exam@dekra.com
+
+ 
+ 
+
+                    
+
+(13) Anlage zum
+
+(14) 1. Nachtrag zur EG-Baumusterpriifbescheinigung
+BVS 09 ATEXE 170
+
+(15) 15.1 Gegenstand und T
+
+ 
+
+Leuchte Typ ASL55LED-Ex
+
+15.2 Beschreibun
+
+ 
+
+Die Leuchte Typ ASL55LED-Ex besteht aus einem Aluminiumgehause, das durch eine Trennplatte
+mit Bohrungen in einen Leuchtenraum und einen Anschluss- bzw. Elektronikraum unterteilt ist Der.
+Anschluss- bzw. Elektronikraum wird tiber einen Deckel mit Leitungseinfuhrung ve Sen
+
+     
+                    
+
+verschlossen wird.
+Deckel und Ringflansch sind zusatzlich mit einem O-Ring versehen.
+
+Grund des Nachtrags ist die Anhebung auf den aktuellen Normen'sffégg:und*dl
+weiterer Leuchtenvarianten (24 V und 120-230 V mit jeweils 6-fach LED
+
+ 
+
+15.3 KenngréRen
+
+Elektrische KenngréRen
+
+Variante
+3-fach LED
+
+ 
+
+ 
+
+6-fach LED
+
+ 
+ 
+
+Thermische Kening r‘affs_'_'eh".', /
+
+Umgebungstemb‘érét’u“rpé i
+
+ 
+
+(16) Prufprotokoll |
+BVS PP 10.2007 EG, Stand 13.06.2012 /
+
+;s
+
+ 
+
+  
+
+(17) Besondere Bedingun .'e‘n"fur'ai
+
+ 
+
+Entfallt weiterhin
+
+Seite 2 von 2 zu BVS 09 ATEX E 170/ N1
+Dieses Zertifikat darf nur vollstandig und unverandert weiterverbreitet werden.
+DEKRA EXAM GmbH, Dinnendahlstrale 9, 44809 Bochum, Telefon +49.234.3696-105, Telefax +49.234.3696-110, zs-exam@dekra.com
+EU-Konformitatserklirung
+
+EU-Declaration of Conformity . . ®
+Déclaration de Conformité UE ' lumiglas
+
+Wir (we; nous) Produkt / product / produit
+F. H. Papenmeier GmbH & Co. KG, Talweg 2, 58239 Schwerte,
+
+Germany ASLS55LED-Ex
+erkldren in alleiniger Verantwortung, dass das Produkt - Lumistar-
+
+hereby declare in our sole responsibility, that the product Schauglasleuchte
+déclarons, sous notre seule responsabilité, que le produit Lumistar Luminaire
+
+Projecteur antidéflagrant
+
+mit der EG-Baumusterpriifbescheinigung: BVS 09 ATEXE 170
+under EC-Type Examination Certificate:
+avec Attestation d’examen CE de type: mit 1. Nachtrag
+
+auf das sich diese Erkldrung bezieht, mit folgenden Normen oder normativen
+Dokumenten libereinstimmt
+
+which is the subject of this declaration, is in conformity with the following standards or normative
+documents
+
+ 
+
+ 
+
+auquel cette déclaration se rapporte, est conforme aux normes ou aux documents normatifs suivants
+
+Bestimmung der Richtlinie Nummer sowie Ausgabedatum der Norm
+terms of the directive number and date of issue of the standard
+prescriptions de la directive - | numéro ainsi que date d’émission de la norme
+
+        
+
+2014/34/EU: Atex-Richtlinie
+2014/34/EU: Atex Directive
+2014/34/UE: Directive ATEX
+
+EN 60079 - 0: 2009 *
+EN 60079 - 1: 2007
+EN 60079 - 31:2009 *
+
+ersetzt durch * / replaced by * / remplacée par *
+
+* Hiermit bestitigen wir, dass der oben genannte Typ mit den aktuellen Norm
+EN 60079-0:2012; EN60079-31:2014 konform ist.
+
+We hereby certify that the above type is compliant with the current standards
+EN 60079-0:2012; EN60079-31:2014
+
+Nous certifions par la présente, que les références ci-dessus sont conformes aux normes actuelles
+EN60079-0:2012; EN60079-31:2014
+
+2014/30/EU: EMV-Richtlinie
+2014/30/EU: EMC Directive
+2014/30/UE: Directive CEM
+Qualitdtssicherung der Produktion:
+Production Quality Assessment
+Assurance Qualité Production
+
+Kenn-Nr. der benannten Stelle / Notified Body number / N° de I’organisme de certification: 0158
+
+Schwerte, 20.12.2016 /
+; 4
+U(O /| 1_'1’/‘ )
+
+Ort und Datum
+Udo Gljftenbe ’
+
+Place and Date
+3755334 v
+
+          
+     
+
+    
+
+                    
+
+ 
+
+   
+
+BVS 15 ATEX ZQS/E101
+
+ 
+
+ 
+
+ 
+
+  
+
+Lieu et date
+

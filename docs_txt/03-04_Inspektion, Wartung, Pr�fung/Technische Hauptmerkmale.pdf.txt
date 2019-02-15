@@ -1,0 +1,291 @@
+BB10-0070 Technical datasheet
+
+APPARAT
+
+HAUPTMERKMALE
+
+ 
+
+ANGEBOT NR.
+REV
+
+KUNDE
+DATUM
+
+HAUPTMERKMALE
+GroBe
+Innendurchmesser
+Behalterlange
+Volumen (Nominal)
+
+BERECHNUNGSDATEN
+
+Behalter max. Auslegungsdruck
+Behalter min. Auslegungsdruck
+Behalter max. Auslegungstemperatur
+Behalter min. Auslegungstemperatur
+Druckbehalterverordnung
+Auslegungsnorm
+
+Abnahmebehdrde
+
+GemaB den FDA Vorschriften
+
+Elektronorm
+Ex-Zone innen
+
+Ex-Zone auBen
+
+FLANSCHVERBINDUNGEN
+Flanschnormen
+
+Prozessstutzen
+
+Heizmittelstutzen
+
+StutzengréBe nach Kundenwunsch
+
+N 17/09/2010
+
+ 
+
+ 
+
+BB100070
+
+0
+
+Miinzing Chemie GmbH
+16/09/2010
+
+Horizontaler Tank mit Paddeln
+
+4.000
+1.500 mm
+2.000 mm
+4.000 It
+
+8 barg
+-1 barg
+50 °C
+0°C
+
+PED (97/23/EC)
+AD 2000
+
+TUV
+n.a.
+
+ATEX 100 A (94/9 CE)
+Zone 1/21
+Zone 21
+
+DIN
+
+Slip on
+Welding neck
+
+Ja
+
+BB10-0070 Technical d.. _.eet
+
+RUHRER UND RUHRERANTRIEB
+Beiderseitig gelagerte Welle
+Paddeln
+
+Keilriemen und Scheibe
+
+Getriebe
+
+Hydraulische Kupplung
+
+Stpfbuchse
+
+AUSTRAGSSYSTEM
+
+Produktaustragssystem (Ventil, Klappe, etc)
+
+Position Stutzen
+GroBe
+
+Dichtung
+
+AUFSTELLUNG
+
+Pratzen in der Mitte zum Einhaengen im Stahlbau
+
+OBERFLACHENGUTE
+
+Innenoberflache
+Feinheit
+
+BehalterauBenoberflache (ausgenommen die vom Isoliermantel bt
+
+Feinheit
+
+Isoliemantel
+
+Feinheit
+
+Stutzenschweinahte
+
+Tragteile (Pratzen, FiiBe usw.), Hauben.
+Feinheit
+
+ANSTRICH
+nach 3V COGEIM-Standard
+Zubehbrteile standardmaBig lackiert
+
+ELEKTRISCHE TEILE
+
+Feldinstrumentenverkabelung zu den Klemmkasten
+
+17/09/2010
+
+Ja
+Ja
+Ja
+Ja
+Ja
+Ja
+
+Nicht im Lieferumfang
+Mittig und unten
+
+250 mm
+N/A
+
+gebeizt und passiviert
+n.a. ym
+
+gebeizt und passiviert
+n.a. ym
+
+n.a.
+n.a. gm
+
+Smoothed
+
+Brushed
+n.a gm
+
+Ja
+Ja
+
+Ja
+
+Pulvereintritt DN250
+Pulveraustritt DN250 STEUERUNGS / BEDIENTABLEAUS
+Mannloch DN600 im Liefereung enthalten Nein
+
+BEWEGUNGEN
+Elek. Rotation mit Frequenzumrichter Ja
+
+Drehzahl zirka 10 rpm
+Zwei Drehrichtungen
+
+Pulverbefuellung: Drehrichrtung nach Aussen
+Pulveraustrag: Drehrichtung zur Mitte zum Auslaufstutzen
+-
+
+BB10-0070 Technical datasheet T 17/09/2010 BB10-0070 Technical d.___ieet 17/09/2010
+ELEKTRISCHE RUHRERDREHUNG MIT FREQUENZUMRICHTER
+Nennleistung des E-Motors zur Rihrdrehung 22 kW
+
+Ex-Klasse
+
+Gruppe
+
+Temperaturklasse
+
+Motor IP-Schutz
+
+Spannung
+
+Frequenz
+
+Phase
+
+Pole
+
+FU im Lieferumfang enthalten
+FU IP-Schutz
+
+Bereich mit konstantem Drehmoment
+
+Drehzahl
+
+WERKSTOFFE
+Produktberlhrte Teile
+
+Boden
+
+Behalterflansche
+
+Material der Klammerschrauben
+Stutzen <= DN 250
+
+Stutzen > DN 250
+
+O-Ringe
+
+Dichtungen
+
+EEXD-E
+1B
+
+T3
+
+IP55
+
+400 V AC
+50 Hz
+
+3
+
+4
+Nein
+n.a.
+
+from 10 to 50 Hz
+
+ca. 10 Umdrehungen / min
+(<1 m/s Umfangsgeschwindigkeit)
+
+316L
+
+C-Stahl
+
+C-Stahl platiert AISI 316L
+C-Stahl
+
+316L
+
+C-Stahl platiert AISI 316L
+FEP
+
+PTFE
+
+Ruhrerwellenende C-Stahl platiert
+Rihrerwelle 316L
+Ruhrerarme 316L
+Antriebsunterstiitzung C-Stahl
+Gehéuse fir Keilriemen und Scheibe C-Stahl
+Séttel/Pratzen C-Stahl
+
+INSTRUMENTE
+
+Naherungsinitiator zur Rihrerdrehzahlermittiung Ja
+Endscahlter zur Offnungeniiberwachung Nein
+
+HAUPTUNTERLIEFERANTENLISTE
+
+Motor ABB / Loher
+Antrieb Rossi
+
+7 sy coaw
+
+BEMERKUNGEN
+
+ 
+

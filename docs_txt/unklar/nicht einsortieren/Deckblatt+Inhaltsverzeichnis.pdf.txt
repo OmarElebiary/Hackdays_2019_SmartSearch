@@ -1,0 +1,137 @@
+Montageanleitung
+
+Rotationssiebmaschine
+
+Typ Nr.: WS4-0-0ZS
+
+ 
+
+Original-Montageanleitung
+
+assonic MECHATRONICS GmbH
+Kippdorfstrale 6-24,
+42857 Remscheid
+
+Telefon: +49 (0) 2191 - 59 11-823/-841
+Telefax: +49 (0) 2191 - 59 12-008
+
+E-Mail: info@assonic.de
+
+www.assonic.de :;;:":'9: aSSO n i
+
+MECHATRONICS GMBH
+—
+
+Inhaltsverzeichnis
+
+1 Sehr geehrter Kunde . . . .. .. R ——
+1.1 lhre Sicherheit ist uns wichtig 1-1
+1.2 Technische Fragen 1-1
+1.3 Copyright 1-1
+2 TechnischeDaten ....................2-
+
+2.1 Allgemein
+
+2.2 Elektrische Daten
+
+2.2.1  Schnecken/-Paddelantrieb
+2.2.2  Vibromotor
+
+2.3 EX-Schutz
+
+24 Siebkapazitat
+
+2.5 Digital-Ultraschalleinheit:
+2.6 Linear-Klopfer
+
+NNI\)II\)NI\)I\)N
+WNN - A A A=
+
+3 Sicherhgit .« . .c oo vuwwsssmsnssnss om 5wl
+3.1 Einfihrung 3-1
+3.2 Konformitat mit den EG-Richtlinien 3-2
+3.3 BestimmungsgeméaRe Verwendung 3-3
+3.4 Vorhersehbare Fehlanwendung 3-3
+3.5 Restrisiken 3-3
+3.6 Fachwissen 3-4
+3.6.1  Qualifikation des Personals 3-4
+3.7 Sicherheitssymbole 3-7
+3.7.1  Gefahrzeichen 3-7
+3.7.2 Hinweise 3-9
+3.7.3  Verbotszeichen 3-9
+3.7.4  Gebotszeichen 3-10
+3.8 Sicherheitseinrichtungen 3-11
+3.8.1  Elektrische Sicherheitseinrichtungen 3-11
+3.8.2  Mechanische Sicherheitseinrichtungen 3-14
+3.8.3  Sicherheitsfunktionen 3-14
+3.9 Sicherheit in den Lebensphasen der Maschine 3-15
+3.9.1 Installation, Montage, Demontage 3-15
+3.9.2 Bedienung 3-16
+3.9.3  Wartung, Reparatur, Fehlersuche 3-18
+3.9.4  Notsituationen 3-19
+3.9.5 Entsorgung 3-19
+4 TransSport «...:iscccsnsmmansanswssnns ol
+4.1 Transportuntergestell 4-2
+4.2 Lagerung 4-3
+4.3 Verpackung / Entsorgung 4-3
+5 Funktion und Aufbau .................5-1
+5.1 Aufbau 5-1
+5.1.1  Gehéuse 5-2
+5.1.2  Einlaufrohr 5-2
+5.1.3  Linearklopfer und Ultraschallkonverter 5-3
+5.1.4  Antriebsmotor 5-4
+5.1.5  Luftmesser 5-5
+5.1.6  Pneumatik 5-6
+
+__BA-SONIC SPEED SCREEN WS4-0-1ZS-120615IVZ.fm
+5.1.7  Transportgestell 5-9
+5.1.8  Trichter 5-10
+5.1.9  Elektrische Anlage 5-10
+5.2 Funktion 5-11
+5.2.1 Siebkdrper 5-11
+6 Montage / Demontage ................ 6-1
+6.1 Linearklopfer/ Ultraschallkonverter entfernen 6-1
+6.2 Rotationssieb entfernen 6-2
+6.3 Rotationssieb einbauen 6-6
+6.4 Linearklopfer/ Ultraschallkonverter einbauen 6-8
+6.5 Federelemente montieren 6-10
+7 Inbetriebnahme ..................... 71
+71 Vom Anlagenintegrator zu beachten 7-2
+7.2 Aufstellen der Maschine 7-3
+T3 Pneumatischer Anschluss 7-4
+7.4 Elektrischer Anschluss 7-4
+75 Ein-Auslaufrohre 7-6
+8 Betrieb................. .o ... 841
+8.1 Einschaltbedingungen 8-1
+8.2 Einschalten 8-2
+8.3 Siebbetrieb 8-2
+8.4 Trichter 6ffnen 8-4
+8.5 Maschine anhalten 8-4
+8.5.1 Maschine abschalten 8-5
+8.6 Anhalten im Notfall 8-5
+8.7 Wieder starten nach einem Notfall 8-6
+9 Wartung .............ccoiiiinnnnn... 91
+9.1 Sicherheitshinweise 9-1
+9.1.1 Vor den Arbeiten 9-1
+9.1.2  Wahrend der Arbeiten 9-1
+9.1.3  Vor/ Nach dem Wiedereinschalten 9-2
+9.2 Wartungstabellen 9-2
+9.2.1  Téagliche Prifung 9-2
+9.2.2  Woaéchentliche Priifungen 9-3
+9.2.3  Monatliche Prifungen 9-4
+9.2.4  Vierteljahrliche Prifungen 9-5
+9.2.5 Halbjahrliche Prufungen 9-6
+9.2.6  Jahrliche Prufungen 9-7
+9.3 Fehlersuche 9-8
+10 AP wovwe:mnians onsusssss soses s TS0
+10.1 Konformitatserklarung/ Zertifikate 10-3
+10.2  Ersatzteile/ Ubersichtszeichnung 10-5
+10.2.1 Ersatzteilbestellung 10-7
+10.3 Mechanische Dokumentation 10-9
+10.4 Elektrodokumentation 10-11
+10.5 Dokumentation der Zulieferer 10-13
+
+Inhaltsverzeichnis
+
+__BA-SONIC SPEED SCREEN WS4-0-1ZS-120615IVZ.fm
+

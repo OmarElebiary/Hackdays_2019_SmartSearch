@@ -1,0 +1,2 @@
+Material: Edelstahl
+Durchmesser: DN32 / PN16

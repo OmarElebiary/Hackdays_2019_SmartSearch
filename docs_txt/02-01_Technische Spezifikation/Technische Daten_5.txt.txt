@@ -1,0 +1,7 @@
+Motor Messerantrieb:
+
+Kegelradgetriebemotor
+
+P=1,1kW; Fabrikat SEW
+
+TYP: KA57B DRS80M4/C

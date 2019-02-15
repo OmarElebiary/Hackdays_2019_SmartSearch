@@ -1,0 +1,3598 @@
+ 
+
+ 
+
+  
+
+66°€0 0L
+:31va N NOISH3IA
+90001 ‘3009 INDOVIVD
+
+ 
+
+ 
+
+ 
+
+ 
+
+All rights reserved © OLI S.r.l.
+
+                 
+
+vaino 33NIT
+INOIZVHEIA VT13d FTVNINVIN  »
+
+3QIND 30 S3aNOIN
+NOILVHEIA V13d TINNVIN
+
+NIONNLIFINY
+N3IHOLOWSNOILVHEIAHONENVH o«
+
+S3aNM3aINo
+TVNNVIN HOLOW HOLVHEIA
+
+GUIDELINES
+@ OLI €52 wancrowr
+VIBRATOR MANUAL SELECTION
+
+Hopper emptying
+Formula
+
+The most important factor in selecting the optimal vibrator model is the weight of the material that has to be vibrated.
+Where bins and hoppers are concerned, only the material in the tapered section of the bin or hopper is of interest.
+
+W = Total Weight
+
+PS = Bulk density (Specific Weight) of the material
+
+W = Volume x PS
+
+[(b1 x L1) + (b2 x L2)]
+SQUARE BINS W = wmememememeemmememeeeee e xh xPS
+2
+
+[(r1%2x 3,14) + (r2% x 3,14)]
+CONICAL BINS W =
+
+ 
+
+ 
+
+ 
+
+     
+
+|
+
+ 
+
+WEIGHT OF
+THE
+CONTENT
+
+(kg)
+
+   
+
+   
+
+VIBRATOR TYPE
+
+      
+
+     
+
+ 
+
+      
+
+    
+ 
+
+ 
+
+Turbine C g
+Vibrator Vibrator Electric Vibrator
+
+OR-Type || OT-Type MYE =Type
+
+[ oo | | orw |[ote | weamms |
+s | | omes | otz | wEzon |
+—om
+-
+[ e
+
+Roller
+
+      
+
+ 
+
+   
+
+1
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+          
+  
+
+ 
+
+ 
+
+ 
+
+8,000 l l 2x0OR80 {|2xOT 30 2 x MVE 500/3
+I2xOR100|2xOT36‘ 2 x MVE 800/3 ]
+
+ 
+
+ 
+
+ 
+
+10,000 ‘
+When two vibrators are necessary, the units should be placed opposite each other on the bin or hopper so the
+structure is not stressed too much at one single point.
+
+VIBRATOR MOUNTING CHART
+
+N.T VIBRATOR N.2 VIBRATORS
+
+ 
+ 
+
+General information
+In the selection of the optimal vibrator is necessary to consider:
+
+e Air and electric consumption
+e Noise
+e Frequency and amplitude required
+Vibrating screens
+
+Formula
+W = Weight of screen (moving part) + weight of the material inside
+
+ 
+
+       
+
+    
+
+   
+
+     
+
+   
+
+Ball Roller Turbine Linear
+
+vibrator vibrator vibrator vibrator
+OR-type OT-type || K-type
+noisy silent silent
+
+  
+
+ 
+
+ 
+
+,
+
+K15
+K15
+K15
+K22
+K22
+
+ 
+
+t
+
+ 
+
+ 
+
+o+l
+%g
+W
+
+i
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+s 1111]
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+ 
+
+ 
+
+ 
+
+ 
+
+50 [ s13 K 30
+[ 100 | s20 K 45
+[ 150 ][ s25 OR 50 OT 16 Keo |
+[ 200 [ s30 ] ORS50 oT16 || K60 |
+300 [ s36 | ORes5 OT 25 2xK45
+400 [ 2xs36 | Oorso || oT36 || 2xKe60 |
+s00 [ | ortoo ][ oT3 || 2xK60 |
+750 [ | 2xorso |[ 2xoT30 [ ]
+
+ 
+
+ 
+
+ 
+OLl
+
+ 
+
+GENERAL INFORMATION
+
+ROTATIONAL VIBRATION -
+SINGLE DIRECTION VIBRA-
+TION
+
+Depending on the type of vibra-
+
+tor and the application, vibration
+
+is generated:
+
+° by the rotation of an eccen-
+tric mass (ROTATIONAL
+VIBRATION)
+
+e by the reciprocating linear
+movement of a mass (SIN-
+GLE DIRECTION VIBRA-
+TION)
+
+N.B: the combination of two iden-
+tical rotational opposite direction
+vibrations generate a single di-
+rection vibration.
+
+TYPES OF VIBRATORS
+ELECTRIC VIBRATORS: the
+shaft of an induction electric mo-
+tor is fitted with an eccentric
+mass at either end. This type of
+vibrator generates rotational vi-
+bration.
+
+CIRCULAR VIBRATION PNEU-
+MATIC VIBRATORS: an eccen-
+tric mass is rotated inside the
+body of the vibrator by means of
+a flow of compressed air. Main
+types are: ball, roller and turbo
+vibrators.
+
+UNIDIRECTIONAL VIBRATION
+PNEUMATIC VIBRATORS:
+compressed air generates a line-
+ar reciprocating piston move-
+ment inside the vibrator body.
+HYDRAULIC AND MECHANI-
+CAL VIBRATORS: these are not
+used much due to their very high
+cost.
+
+ROTATIONAL VIBRATION:
+MAIN FEATURES
+eccentric moment
+Mo = Po xro
+Mo = eccentric moment (kg/cm)
+ro = rotating radius: distance
+from eccentric mass centre of
+gravity to rotational axis
+
+(cm)
+Po = eccentric mass weight
+
+centrifugal force
+
+Fc = centrifugal force (kg)
+Fc = Mo/10 x (2rn/60)?
+
+n = rotational speed (rpm)
+
+vibration amplitude
+
+r= (Mo x 10)/Q
+
+Q = vibrator weight + weight of
+the mass to be vibrated
+
+r = vibration amplitude (mm)
+
+ 
+
+ALLGEMEINES
+
+ROTATIONSVIBRATION - EIN-
+
+FACHRICHTUNGSVIBRATION
+
+Je nach Typ des Vibrationsmo-
+
+tors und den Anwendungen wer-
+
+den die Vibrationsbewegungen
+erzeugt durch:
+
+. die Rotation einer Unwucht-
+masse (ROTATIONSVIBRA-
+TION)
+
+. die geradlinige Hin- und Her-
+bewegung einer Masse
+(EINFACHRICHTUNGSVI-
+BRATION)
+
+ANMERKUNG: Durch die Kombi-
+nation von zwei gleichen Rota-
+tionsvibrationen in entgegenge-
+setzter Richtung erhalt man eine
+Einfachrichtungsvibration.
+
+TYPEN VON VIBRATIONSMA-
+SCHINEN
+
+ELEKTRISCHE VIBRATIONSMO-
+TOREN: Die Welle eines Elektro-
+Asynchronmotors trégt an den bei-
+den Enden eine Unwuchtmasse.
+Dieser Typ Vibrationsmaschine er-
+zeugt Rotationsvibrationen.
+PNEUMATISCHE VIBRATOREN
+KREISFORMIGER VIBRATION:
+eine Unwuchtmasse wird durch ei-
+nen Druckluftstrom innerhalb des
+Vibrationskérpers in Rotation ver-
+setzt. Wichtigste Kategorien: Ku-
+gelvibratoren, Rollenvibratoren,
+Turbinenvibratoren.
+PNEUMATISCHE VIBRATOREN
+EINFACHRICHTUNGSVIBRA-
+TION: Die Druckluft erzeugt eine
+geradlinige Hin- und Herbewe-
+gung eines Kolbens, der sich im
+Vibratorkorper befindet.
+HYDRAULISCHE UND MECHA-
+NISCHE VIBRATIONSMOTO-
+REN: Diese letzteren werden nur
+selten benutzt, da sie sehr teuer
+sind.
+
+ROTATIONSVIBRATION:
+HAUPTEIGENSCHAFTEN
+Unwuchtmoment
+Mo = Po x ro
+Mo = Unwuchtmoment (kg/cm)
+ro = Rotationsradius: Abstand
+vom Schwerpunkt der Unwucht-
+masse zur Rotationsachse
+
+(cm)
+Po = Gewicht der Unwuchtmasse
+
+Fliehkraft
+
+Fc = Fliehkraft (kg)
+
+Fc = Mo/10 x (2rn/60)?
+
+n = Rotationsgeschwindigkeit
+(min)
+
+Schwingungsamplitude
+
+r = (Mo x 10)/Q
+
+Q = Gewicht des Vibrationsmo-
+tors + Gewicht der zu rittelnden
+Masse
+
+r = Schwingungsamplitude (mm)
+
+ 
+
+GENERALITES
+
+VIBRATION ROTATIVE - VI-
+BRATION UNIDIRECTIONNELLE
+Suivant le type de vibrateur et les
+applications, les vibrations sont
+produites:
+
+e  parlarotation d'une masse
+excentrique (VIBRATION
+ROTATIVE)
+
+° par le mouvement linéaire
+alterné d'une masse (VI-
+BRATION UNIDIRECTION-
+NELLE)
+
+REMARQUE: la combinaison de
+2 vibrations rotatives identiques
+et dans le sens opposé produit
+une vibration unidirectionnelle.
+
+TYPES DE VIBRATEURS
+VIBRATEURS ELECTRIQUES:
+I'arbre d’'un moteur électrique
+asynchrone porte un excentrique
+aux deux extrémités. Ce type de
+vibrateur produit des vibrations
+rotatives.
+
+VIBRATEURS PNEUMATIQUES
+A VIBRATION CIRCULAIRE: une
+masse excentrique est entrainée
+en rotation par le corps du vibra-
+teur grace a un flux d'air compri-
+mé. Principales catégories: vibra-
+teurs a bille, a rouleau, a turbine.
+VIBRATEURS PNEUMATIQUES
+A VIBRATION UNIDIRECTION-
+NELLE: I'air comprimé provogue un
+mouvement linéaire alterné d'un
+piston a l'intérieur du corps vibrant.
+VIBRATEURS HYDRAULIQUES
+ET MECANIQUES: ces derniers
+sont peu utilisés car pénalisé par
+leur co(t trés élevé.
+
+VIBRATION ROTATIVE: CA-
+RACTERISTIQUES PRINCIPA-
+LES
+moment excentrique
+Mo = Po xro
+Mo = moment excentrique (kg/
+cm)
+ro = rayon de rotation: distance
+du centre de gravité de la mas-
+se a l'axe de rotation
+
+(cm)
+Po = poids de la masse excen-
+trique
+
+force centrifuge
+
+Fc = force centrifuge (kg)
+
+Fc = Mo/10 x (2pn/60)?2
+
+n = vitesse de rotation (tr/mn)
+
+amplitude de vibration
+
+r= (Mo x 10)/Q
+
+Q = poids du vibrateur + poids
+de la masse a vibrer
+
+r = amplitude de vibration (mm)
+
+ 
+
+03-99
+
+E
+
+1000.G. 00.01
+
+GENERALITA’
+
+VIBRAZIONE ROTAZIONALE -
+
+VIBRAZIONE UNIDIREZIONALE
+
+Secondo il tipo di vibratore e le
+
+applicazioni, le vibrazioni sono
+
+generate:
+
+° dalla rotazione di una mas-
+sa eccentrica (VIBRAZIO-
+NE ROTAZIONALE)
+
+° dal movimento lineare alter-
+nato di una massa (VIBRA-
+ZIONE UNIDIREZIONALE)
+
+NOTA: la combinazione di 2 vi-
+brazioni rotazionali identiche ed
+in senso opposto generano una
+vibrazione unidirezionale.
+
+TIPI DI VIBRATORI
+
+VIBRATORI ELETTRICI: I'albero di
+un motore elettrico asincrono mon-
+ta un eccentrico nelle due estremi-
+ta. Questo tipo di vibratore genera
+delle vibrazioni rotazionali.
+VIBRATORI PNEUMATICI A VI-
+BRAZIONE CIRCOLARE: una
+massa eccentrica & trascinata in
+rotazione all'interno del corpo del
+vibratore grazie ad un flusso di
+aria compressa. Principali cate-
+gorie: vibratori a sfera, a rullo, a
+turbina.
+
+VIBRATORI PNEUMATICI A VI-
+BRAZIONE UNIDIREZIONALE:
+I'aria compressa provoca un
+movimento lineare alternato di un
+pistone all'interno del corpo vi-
+brante.
+
+VIBRATORI IDRAULICI E MEC-
+CANICI: questi ultimi sono poco
+utilizzati in quanto sono penaliz-
+zati dal loro altissimo costo.
+
+VIBRAZIONE ROTAZIONALE:
+
+PRINCIPALI CARATTERISTI-
+
+CHE
+
+momento eccentrico
+
+Mo = Pox ro
+
+Mo = momento eccentrico (kg/
+
+cm)
+
+ro = raggio di rotazione: distan-
+
+za dal centro di gravta’ dell’ec-
+
+centrico all’asse di rotazione
+(cm)
+
+Po = peso della massa eccentri-
+
+ca
+
+forza centrifuga
+
+Fc = forza centrifuga (kg)
+
+Fc = Mo/10 x (2rn/60)?
+
+n = velocita’ di rotazione (rpm)
+
+ampiezza di vibrazione
+
+r= (Mo x 10)/Q
+
+Q = peso del vibratore + peso
+della massa da vibrare
+
+r = ampiezza di vibrazione (mm)
+
+ 
+Ol
+
+ 
+
+acceleration
+a = Fc/Q
+a = acceleration (m/s?)
+
+VIBRATOR FUNCTIONAL PA-
+RAMETER REGULATION
+Rotational speed (vibration fre-
+quency) for MVE electric vibra-
+tors is given by the specifica-
+tions of the electric motor. The
+centrifugal force can be modified
+by regulating the eccentric
+mass.
+
+The eccentric mass cannot be
+modified for pneumatic vibrators
+(apart from floating vibrator F)
+but both the frequency and cen-
+trifugal force can be varied by
+regulating compressed air sup-
+ply pressure.
+
+External vibrators are normally
+used in industry, from food pro-
+cessing to mining. They can sol-
+ve numerous granular and
+powder material handling pro-
+blems. This documentation illu-
+strates the main applications
+and indicates the installation sy-
+stem for the most suitable type
+of vibrator.
+
+IMPORTANT NOTICE
+
+The recommendations and for-
+mulas detailed in the following
+pages are based on ongoing
+experience and can be applied
+to a majority of manufacturing
+processes.
+
+This information, though, is of-
+fered without any liability on the
+part of the manufacturer.
+Experience teaches that even a
+minor difference in design can
+change the vibration effect. For
+this reason, it will occasionally
+be necessary to make an in-
+depth examination of the struc-
+ture to be vibrated or carry out
+a preliminary test.
+
+Vibrator applications are for all
+practical purposes infinite. In
+these notes, however, we have
+tried to bring together the most
+frequent vibrator applications
+that can be used as a guide for
+all applications even those not
+mentioned in these pages.
+
+ 
+
+03-99
+
+1000.G. 00.02
+
+ 
+
+Beschleunigung
+a = Fc/Q
+a = Beschleunigung (m/s?)
+
+EINSTELLUNG DER FUNK-
+TIONSPARAMETER EINES VI-
+BRATIONSMOTORS
+
+Bei elektrischen Vibrationsmo-
+toren vom Typ MVE ergibt sich
+die Rotationsgeschwindigkeit
+(Schwingungsfrequenz) aus
+den Eigenschaften des Elektro-
+motors. Die Fliehkraft kann geén-
+dert werden, wenn man die
+Unwuchtmassen einstellt.
+
+Bei den pneumatischen Vibra-
+tionsmaschinen kann die Un-
+wuchtmasse nicht eingestellt
+werden (mit Ausnahme des
+Schwimmuvibrators F); man kann
+die Frequenz und die Fliehkraft
+durch Regulierung des Betrieb-
+sdrucks verandern.
+
+Externe Vibrationsmotoren kom-
+men in der Regel in der Indu-
+strie zum Einsatz, von der
+Nahrungsmittelindustrie bis zum
+Bergbau. Mit ihnen lassen sich
+zahlreiche Probleme beim Han-
+dling von Materialien mit Koér-
+nung und in Pulverform I6sen.
+Diese Dokumentation will die
+wichtigsten Anwendungen zei-
+gen und die am besten geeigne-
+te Einbausituationen fur die Vi-
+brationsmotoren aufzeigen.
+
+WICHTIGER HINWEIS
+
+Die nachfolgenden Hinweise
+und Formeln basieren auf Er-
+fahrung und lassen sich auf den
+groBten Teil der Fertigungspro-
+zesse Ubertragen.
+
+Die Angaben sind aber fiir den
+Hersteller unverbindlich.
+
+Die Erfahrung zeigt namlich, da
+schon ein minimales Konstruk-
+tionsdetail die Vibrations-
+wirkung verandern kann. Aus
+diesem Grund ist manchmal eine
+eingehende Untersuchung der
+zu vibrierenden Struktur oder
+vorherige Versuche erforder-
+lich.
+
+Die Zahl der Anwendungen von
+Vibrationsmotoren ist nahezu
+unendlich. In dieser Ubersicht
+wurde versucht, jene in den
+Vordergrund zu stellen, die am
+haufigsten anzutreffen sind und
+die als Anleitung fir alle nicht
+erwahnten Anwendungen be-
+
+nutzt werden kénnen.
+
+ 
+
+accélération
+a = Fc/Q
+a = accélération (m/s?)
+
+REGLAGE DES PARAMETRES
+DE FONCTIONNEMENT D’UN
+VIBRATEUR
+
+Sur les vibrateurs électriques
+MVE, la vitesse de rotation (fré-
+guence de vibration) est donnée
+par les caractéristiques du mo-
+teur électrique. La force centri-
+fuge peut étre modifiée en ré-
+glant les masses excentriques.
+Sur les vibrateurs pneumatiques,
+la masse excentrique n'est pas
+réglable (a I'exception du vibra-
+teur flottant F) ; on peut modifier
+la fréquence et la force centrifu-
+ge en réglant la pression d’ali-
+mentation.
+
+Les vibrateurs extérieurs sont
+habituellement utilisés dans I'ac-
+tivité industrielle, depuis le sec-
+teur alimentaire jusqu'a I'extrac-
+tion dans les mines. lls permet-
+tent de résoudre les nombreux
+probléemes de manutention des
+matériaux granulaires et en pou-
+dre. Cette documentation mon-
+tre les principales applications et
+indique le systéme de montage
+le plus approprié.
+
+REMARQUE IMPORTANTE
+Les conseils et les formules four-
+nies dans ce document sont le
+fruit d'expériences réelles et ils
+sont applicables a la plupart des
+procédés de production.
+
+Ces données sont communi-
+quées sans engagement de la
+part de la Société OLI.
+L'expérience démontre, en effet,
+que le moindre détail de cons-
+truction peut changer 'effet de la
+vibration. C’est la raison pour la-
+quelle il s'avere parfois indispen-
+sable de faire un examen appro-
+fondi de la structure a vibrer ou
+méme un essai préliminaire.
+
+Les applications des vibrateurs
+sont pratiquement infinies. Dans
+ce recueil nous avons voulu met-
+tre en évidence celles qui sont
+le plus fréquentes et dans tous
+les cas nous pourrons ['utiliser
+comme point de référence pour
+toutes les autres applications qui
+ne sont pas mentionnées
+
+ 
+
+accelerazione
+a = Fc/Q
+a = accelerazione (m/s?)
+
+REGOLAZIONE DEI PARAME-
+TRI DI FUNZIONAMENTO DI
+UN VIBRATORE
+
+Sui vibratori elettrici MVE, la
+velocita’ di rotazione (frequenza
+divibrazione) e’ data dalle carat-
+teristiche del motore elettrico. Si
+puo’ modificare la forza centrifu-
+ga regolando le masse eccentri-
+che.
+
+Sui vibratori pneumatici, la mas-
+sa eccentrica non e’ regolabile
+(tranne nel caso del vibratore
+flottante F); si puo’ modificare la
+frequenza e la forza centrifuga
+regolando la pressione di alimen-
+tazione.
+
+| vibratori esterni sono normal-
+mente utilizzati nell'attivita indu-
+striale, dal settore alimentare fino
+all'estrazione nelle miniere. Essi
+permettono di risolvere i nume-
+rosi problemi di movimentazione
+dei materiali granulari ed in pol-
+vere. Questa documentazione
+mostra le applicazioni principali
+ed indica il sistema di montag-
+gio dei vibratori pill appropriato.
+
+NOTA IMPORTANTE
+
+| consigli e le formule seguenti
+sono state rilevati da esperien-
+ze reali e sono applicabili alla
+maggior parte dei processi pro-
+duttivi.
+
+Questi dati sono comunicati sen-
+za nessun impegno da parte di
+OLlI.
+
+L'esperienza dimostra, infatti,
+che il minimo dettaglio costruttivo
+puo cambiare I'effetto della vibra-
+zione. E’ per questo motivo che
+si rende necessario, talvolta, un
+esame approfondito della strut-
+tura da vibrare oppure una pro-
+va preliminare.
+
+Le applicazioni di vibratori sono
+praticamente infinite. In questa
+raccolta abbiamo cercato di
+evidenziare quelle piu frequenti
+ed in ogni caso possiamo utiliz-
+zarla come guida per tutte le al-
+tre applicazioni non menzionate.
+
+ 
+Ol
+
+1. HOPPER
+EMPTYING
+
+1. ENTLEEREN
+VON TRICHTERN
+
+1. DECHARGEMENT
+DES TREMIES
+
+03-99
+
+1000.G. 01.01
+
+1. SVUOTAMENTO
+TRAMOGGE
+
+ 
+
+During emptying (granular or bulk)
+from silos and hoppers, problems
+with product downward movement
+can occur. Vibration will normally
+solve these kinds of problems.
+
+ 
+
+TYPES OF VIBRATORS
+
+For these kinds of applications,
+average frequency (3000 Rpm)
+electric vibrators, or ball roller
+and unidirectional pneumatic vi-
+brators are normally used.
+
+CENTRIFUGAL FORCE REQUI-
+RED
+
+The centrifugal force required to
+vibrate material in a hopper will
+be a tenth and a twentieth of the
+weight of the material in the tape-
+red section of the hopper depen-
+ding on the characteristics (den-
+sity, fluidity, etc.) of the material.
+For example, a MVE 200/3 vibra-
+tor is suitable for a cone contai-
+ning 2000 to 4000 kg of mate-
+rial.
+
+The same rule holds good for ap-
+plications using pneumatic vibra-
+tors (e.g., Series F, K, S, R).
+
+INSTALLATION
+
+One or more vibrators can be in-
+stalled depending on the size of
+the hopper.
+
+The first vibrator should always
+be installed on the least sloped
+section of the hopper at about a
+third of its height starting from the
+bottom. Vibrator axis should be
+horizontal. Fix the vibrator to a
+rib (@ 100 mm “U” steel beam)
+with a length of 500 to 1500 mm.
+The end of the reinforcing rib
+should be at least 200 mm from
+the base of the hopper. Always
+install a safety wire or chain on
+the vibrator.
+
+If a number of vibrators are used,
+there should be a difference in
+level between them of at least
+100 mm.
+
+IMPORTANT
+
+Run the vibrator(s) only when the
+discharge opening in the cone is
+open.
+
+ 
+
+Wahrend des Entleerens von Si-
+los oder Trichtern, die mit Produk-
+ten mit Kérnung oder mit Schitt-
+gut gefillt sind, kann es zu Pro-
+blemen fihren, wenn das Mate-
+rial nicht rieselfahig ist. Mit der
+Vibrationstechnik bekommt man
+dieses Problem fast immer in den
+Giriff.
+
+TYPEN VON VIBRATIONSMO-
+TOREN
+
+Fir diesen Anwendungstyp be-
+nutzt man in der Regel elektri-
+sche Vibrationsmotoren mit mitt-
+lerer Frequenz (3000 min™') oder
+pneumatische Kugel- oder Rol-
+lenvibratoren und Einfachrich-
+tungsvibrationsmotoren.
+
+ERFORDERLICHE FLIEHKRAFT
+Die Fliehkraft, die erforderlich ist,
+um das Material in den Trichtern
+zu bewegen, liegt zwischen einem
+Zehntel und einem Zwanzigstel
+des Gewichts des Materials, das
+imkonischen Trichterbereich ent-
+halten ist, und zwar je nach den
+Materialeigenschaften (Dichte,
+Rieselfdhigkeit etc.).
+
+So ist beispielsweise ein MVE
+200/3 Vibrationbsmotor fiir einen
+Trichter geeignet, der 2000 bis
+4000 kg Material enthalt.
+
+Die gleiche Regel gilt auch fir die
+Benutzung der pneumatischen
+Vibratoren (z.B. Baureihe F — K
+-S-R).
+
+ 
+
+ 
+
+MONTAGE
+
+Je nach TrichtergréBe kann man
+einen oder mehrere Vibrations-
+motoren verwenden.
+
+Der erste Vibrationsmotor ist im-
+mer dort zu installieren, wo der
+Trichter die geringste Schrage
+aufweist, auf 1/3 seiner Héhe von
+der Basis her. Die Achse des Vi-
+brationsmotors muB horizontal
+liegen. Den Vibrationsmotors auf
+einer Verstarkung (z.B. einem
+100 mm U-Stahl) mit einer Lan-
+ge zwischen 500 und 1500 mm
+befestigen. Das Ende dieser Ver-
+starkung muB einen Mindestab-
+stand von 200 mm von der Tri-
+chterbasis haben. Immer eine
+Kette oder ein Sicherheitskabel
+am Vibrationsmotor vorsehen.
+Wenn man mehrere Vibrations-
+motoren benutzt, diese im Héhe-
+nabstand von mindestens 100
+mm installieren.
+
+WICHTIG
+
+Vibrationsmotor(en) nur bei ge-
+offnetem Trichterauslauf in Be-
+trieb nehmen.
+
+ 
+
+Pendant le déchargement des
+produits (granulaires ou en vrac)
+des silos et des trémies, il est
+probable que des problémes de
+descente des matériaux se vé-
+rifient: en général la vibration
+résout ce type de probléme.
+
+TYPES DE VIBRATEURS
+Pour ce type d'application ont
+utilise généralement des moto-
+vibrateurs électriques a moyen-
+ne fréquence (3000 tr/mn) ou
+bien des vibrateurs pneumati-
+ques a bille, a rouleau et unidi-
+rectionnels.
+
+FORCE CENTRIFUGE REQUISE
+La force centrifuge nécessaire
+a mettre en mouvement la ma-
+tiere dans les trémies est com-
+prise entre un dixiéme et un
+vingtieme du poids du produit
+contenu dans la partie conique,
+selon les caractéristiques (den-
+sité, fluidité, etc.) de ce méme
+produit.
+
+Par exemple, un vibrateur MVE
+200/3 est approprié pour un
+cone qui contient entre 2000 et
+4000 kg de produit.
+
+La méme regle est valable pour
+I'utilisation des vibrateurs pneuma-
+tiques (ex. série F— K-S —R).
+
+MONTAGE
+
+Il est possible d’utiliser 1 ou plu-
+sieurs vibrateurs, sur la base de
+la dimension de la trémie.
+
+Le premier vibrateur doit tou-
+jours étre installé sur la partie la
+moins inclinée de la trémie, a 1/
+3 de sa hauteur, en partant de
+labase. L'arbre du vibrateur doit
+étre mis a I'horizontale. Fixer le
+vibrateur sur un renfort (par ex.:
+un profilé de fer en U de 100
+mm) d’une longueur comprise
+entre 500 et 1500 mm. L'extré-
+mité du renfort doit étre au
+moins a une distance de 200
+mm de la base de la trémie. Pré-
+voir dans tous les cas une chai-
+ne ou bien un cable de sécurité
+sur le vibrateur.
+
+Si on utilise plusieurs vibrateurs,
+prévoir une différence de niveau
+entre-eux d'au moins 100 mm.
+
+ 
+
+IMPORTANT
+
+Faire fonctionner le(s) vibrateur(s)
+uniquement quand la bouche de
+déchargement de la trémie est
+ouverte.
+
+ 
+
+Durante lo svuotamento dei pro-
+dotti (granulari o alla rinfusa) dai
+silos e dalle tramogge, € possi-
+bile che si verifichino problemi di
+discesa del materiale: la vibra-
+zione normalmente risolve que-
+sto tipo di problema.
+
+TIPI DI VIBRATORI
+
+Per questo tipo di applicazione
+vengono generalmente utilizzati
+i motovibratori elettrici a media
+frequenza (3000 rpm) oppure i
+vibratori pneumatici a sfera, rul-
+lo e unidirezionali.
+
+FORZA CENTRIFUGA RICHIE-
+STA
+
+La forza centrifuga necessaria
+per smuovere il materiale nelle
+tramogge € compresa tra un de-
+cimo ed un ventesimo del peso
+del materiale contenuto nella
+parte conica, secondo le carat-
+teristiche
+
+(densita, fluidita, ecc.) del mate-
+riale.
+
+Ad esempio, un vibratore MVE
+200/3 e idoneo per un cono che
+contiene dai 2000 ai 4000 kg di
+materiale.
+
+La stessa regola vale anche per
+I'utilizzo di vibratori pneumatici
+(es. serie F— K-S —R).
+
+MONTAGGIO
+
+Si possono utilizzare 1 o piu vi-
+bratori, dipende dalla misura del-
+la tramoggia.
+
+Il primo vibratore va sempre in-
+stallato sulla parte meno inclina-
+ta della tramoggia, ad 1/3 della
+sua altezza, partendo dalla base.
+L’asse del vibratore deve esse-
+re orizzontale. Fissare il vibrato-
+re su un rinforzo (ad es. ferro ad
+U da 100 mm) di lunghezza tra
+500 e 1500 mm. L'estremita del
+rinforzo deve essere distante al-
+meno 200 mm dalla base della
+tramoggia. Prevedere sempre
+una catena oppure un cavo di
+sicurezza sul vibratore.
+
+Se si usano piu vibratori, preve-
+dere una differenza di livello tra
+di loro di almeno 100 mm.
+
+IMPORTANTE
+
+Fare funzionare il/i vibratore/i
+solo quando la bocca di scarico
+del cono € aperta.
+
+ 
+Ol
+
+CENTRIFUGAL FORCE
+REQUIRED
+
+The centrifugal force required to
+vibrate material in a hopper will
+be a tenth and a twentieth of the
+weight of the material in the tape-
+red section of the hopper.
+
+TYPES OF VIBRATORS:
+
+For these kinds of applications,
+average frequency (3000 Rpm)
+electric vibrators, or ball roller
+and unidirectional pneumatic vi-
+brators are normally used.
+
+ 
+
+ERFORDERLICHE
+FLIEHKRAFT:
+
+von 1/20 bis 1/10 des Gewichts
+des Materials, das im Konusbe-
+reich des Trichters enthalten ist.
+
+TYPEN VON VIBRATIONSMO-
+TOREN:
+
+Elektrische mit Drehzahl von
+3.000 min-' oder pneumatische
+mit Kugeln, Rollen oder
+Einfachrichtungsvibratoren.
+
+ 
+
+ 
+
+FORCE CENTRIFUGE
+REQUISE :
+
+de 1/20e a 1/10e du poids du
+produit contenu dans la partie
+conigue de la trémie.
+
+TYPES DE VIBRATEURS:
+Electriques 3000 tours par minu-
+te ou bien pneumatiques a bille,
+rouleau ou unidirectionnel.
+
+ 
+
+03-99
+
+E
+
+1000.G. 01.02
+
+FORZA CENTRIFUGA
+RICHIESTA:
+
+da 1/20 a 1/10 del peso del ma-
+teriale contanuto nella parte co-
+nica della tramoggia
+
+TIPI DI VIBRATORI:
+
+Elettrici 3000 giri min, oppure
+pneumatici a sfera, rullo oppure
+unidirezionali
+
+Fig.1 Installation of a vibrator on a hopper up to 7 m®
+Anbringung eines Vibrators auf einem Trichter mit
+Fassungsvermégen bis zu 7 m®
+Montage d’un vibrateur sur trémie jusqu'a 7 m?
+
+Montaggio di un vibratore su tramoggia fino a 7 mc
+
+Fig.2 - Installiation of 4 vibrators on a large size hopper
+- Anbringung von 4 Vibratoren auf einem groBvolumigen Trichter
+- Montage de 4 vibrateurs sur une trémie de grandes dimensions
+- Montaggio di 4 vibratori su una tramoggia di grandi dimensioni
+
+ 
+OLl
+
+ 
+
+03-99
+
+E
+
+1000.G. 02.01
+
+ 
+
+2. CONCRETE FORMS
+
+ 
+
+External vibration is used when pre-
+cast concrete elements are being pre-
+pared. Vibration increases element
+
+ 
+
+strength, achieves faster filling and
+produces smoother surfaces (no air
+bubbles)
+
+In vibrating tables, the mould is pla-
+ced on the vibrating surface but in
+forms (very large moulds) the vibra-
+tors are installed directly on the form.
+
+TYPES OF VIBRATOR
+
+Forms for beams and for the majori-
+ty of horizontal forms are best hand-
+led with electric vibrators at 3000/
+6000 Rpm. Vertical forms should be
+vibrated only at high frequency (6000
+or 9000 Rpm). Vertical pipe forms can
+be handled indifferently by vibrators
+at 6000 or 9000 Rpm.
+
+CENTRIFUGAL FORCE REQUI-
+RED
+The formula to calculate the centrifu-
+gal force quickly is the following:
+1 kg of vibrator centrifugal force
+equals 1 kg of concrete (this does not
+hold good for semi-liquid concrete).
+The drier the concrete, the higher the
+centrifugal force needed.
+The following formula can be used to
+calculate the centrifugal force preci-
+sely:
+Fc=K (M + 0.2 B)/10
+Fc = centrifugal force (kg)
+M = weight of the form (kg)
+B = weight of the concrete in the form
+(ka)
+K = coefficient based on form rigidity
+and concrete consistency
+K = 5 for vertical forms
+(“L" beams, walls)
+K = between 5 and 10 for
+horizontal forms
+K = 15 for vertical pipe
+forms
+
+WORKING PRINCIPLE
+
+1. FIXED POSITION VIBRATORS:
+when all the vibration points have
+a separate vibrator.
+
+2.  MOBILE VIBRATORS: when
+the number of vibrators does not cor-
+respond to the required vibration
+points (as in very long walls or in tun-
+nels).
+
+Normally, each form has quick couples
+installed at the set vibration points.
+
+ 
+
+2.VERSCHALUNGEN
+
+ 
+
+Die externe Vibrationstechnik
+wird bei der Herstellung von Be-
+tonfertigteilen eingesetzt, weil
+man mit diesem Verfahren eine
+hoéhere Bestandigkeit des Teils,
+eine schnellere Fillung und glat-
+tere Oberflachen (keine Luftbla-
+sen) erhalt.
+
+Bei Vibrationstischen wird die
+Form auf eine vibrierende Flache
+gestellt, wahrend der Vibrator bei
+Verschalungen (also sehr groBen
+Formen) direkt auf die Verscha-
+lung montiert wird.
+
+VIBRATORTYPEN
+
+Bei Verschalungen fir Trager
+und bei den meisten waagere-
+chten Verschalungen sollte man
+elektrische Vibrationsmotoren
+mit 3000/6000 Umdrehungen
+verwenden. Fir senkrechte Ver-
+schalungen ist dagegen nur die
+hohe Frequenz geeignet (6000
+oder 9000 min’'). Bei senkre-
+chten Verschalungen fiir Rohrlei-
+tungen kann man ohne Unter-
+schied Vibratoren von 6000 oder
+9000 min"' benutzen.
+
+ERFORDERLICHE FLIEHKRAFT
+Die schnellste Formel, um die erfor-
+derliche Fliehkraft zu berechnen, ist
+die folgende:
+1 kg Fliehkraft der Vibrationsma-
+schine entspricht 1 kg Beton (gilt fiir
+halbfliissigen Beton).
+Je trockener der Beton, desto
+héher die erforderliche Flieh-
+kraft.
+Die folgende Formel ermoglicht
+die exakte Berechnungfdie der
+erforderlichen Fliehkraft:
+Fc =K (M + 0,2 B)/10
+Fc = Fliehkraft (kg)
+M = Gewicht der Verschalung (kg)
+B = Gewichts des in der Verscha-
+lung enthaltenen Betons (kg)
+K = von der Steifheit der Verscha-
+lung und der Betondichte abhé&n-
+giger Koeffizient
+K = 5 fiir senkrechte Ver-
+schalungen (L-Eisen, Mauern)
+K = zwischen 5 und 10
+fir waagerechte Verschalungen
+K = 15 bei senkrechten
+Verschalungen fir Rohrleitungen
+
+FUNKTIONSPRINZIPIEN
+
+1. ORTSFESTE VIBRATO-
+REN: Wenn alle festgelegten
+Vibrationsstellen mit einem
+Vibrator ausgestattet sind
+
+2. MOBILE VIBRATOREN:
+Wenn die Zahl der Vibrato-
+ren nicht mit der Zahl der
+festgelegten Vibrationsstel-
+len Obereinstimmt (bei sehr
+langen Tragern oder in Tun-
+neln).
+
+In der Regel ist jede Verschalung
+
+mit allen Schnellanschlissen auf der
+
+Hoéhe der vorgesehenen Vibrations-
+
+stellen ausgeriistet.
+
+ 
+
+2.COFFRAGES
+
+e la vibration extérieure dans la
+préfabrication d'éléments en béton pour
+obtenir une plus grande résistance des
+ouvrages manufacturés, un remplissage
+plus rapide et obtenir des surfaces par-
+faitement lisses (sans bulles d'air).
+Dans les tables vibrantes, le moule est
+placé sur un plan vibrant, tandis que
+dans le cas de coffrage (donc de moule
+trés grand), les vibrateurs sont montés
+directement sur le moule lui-méme.
+
+ 
+
+TYPES DE VIBRATEURS
+
+Dans les coffrages des poutres et dans
+la plupart des coffrages horizontaux,
+nous conseillons d'utiliser des vibra-
+ues a 3000/6000 tours.
+Pour les coffrages verticaux nous con-
+seillons au contraire seulement la haute
+fréquence (6000 ou 9000 tr/mn). Dans
+les coffrages verticaux pour tuyaute-
+ries, il est possible d'utiliser indistinc-
+tement des vibrateurs a 6000 ou 9000
+tr/mn.
+
+ 
+
+FORCE CENTRIFUGE REQUISE
+La formule la plus rapide pour calcu-
+ler la force centrifuge nécessaire est
+la suivante :
+1 kg de force centrifuge du vibrateur
+équivaut a 1 kg de béton (remarque
+valable pour le béton semi-fluide).
+Plus le béton est sec, plus la force
+nécessaire sera élevée.
+La formule suivante nous permet de
+calculer exactement la force centrifuge
+nécessaire:
+Fc=K (M +0,2B)/10
+Fc = force centrifuge (kg)
+M = poids du coffrage (kg)
+B = poids du béton contenu dans les
+coffrages (kg)
+K = coefficient en fonction de la rigi-
+dité du coffrage et de la consistance
+du béton.
+
+K = 5 pour les coffrages
+verticaux (poteaux, murs)
+
+K = entre 5 et 10 pour les
+coffrages horizontaux
+
+K = 15 pour les coffrages
+verticaux destinés aux tuyauteries
+
+PRINCIPES DE FONCTIONNEMENT
+1.  VIBRATEURS FIXES: quand
+tous les points de vibration dé-
+terminés sont équipés d'un vi-
+brateur
+2. VIBRATEURS MOBILES:
+quand le nombre de vibrateurs
+ne correspond pas au nombre
+de points de vibration détermi-
+nés (en cas de poutres trés lon-
+gue ou dans les tunnels).
+Normalement chaque coffrage est
+équipée de tous les raccords rapides
+montés en face des points de vibra-
+tion prévus.
+
+ 
+
+2. CASSEFORME
+
+za la vibrazione esterna nella
+prefabbricazione di elementi in calce-
+struzzo per ottenere una maggiore
+resistenza del manufatto, un riempi-
+mento pil rapido e per avere le su-
+perfici perfettamente lisce (senza bolle
+d'aria).
+
+Nei tavoli vibranti, lo stampo & posto
+su di un piano vibrante, mentre in
+caso di casseforme (quindi di stam-
+po molto grande), i vibratori vengo-
+no montati direttamente sullo stam-
+po stesso.
+
+ 
+
+ 
+ 
+
+TIPI DI VIBRATORI
+
+Nelle casseforme per travi e nella
+maggior parte di casseri orizzontali,
+si consiglia di utilizzare vibratori elet-
+trici 3000/6000 giri. Per le cassefor-
+me verticali & consigliata invece solo
+I'alta frequenza (6000 oppure 9000
+giri/min.). Nelle casseforme verticali
+per tubazioni, si possono utilizzare in-
+distintamente vibratori a 6000 oppu-
+re 9000 rpm.
+
+FORZA CENTRIFUGA RICHIESTA
+La formula pill rapida per calcolare
+la forza centrifuga necessaria ¢ la
+seguente:
+forza centrifuga del vibratore
+ale ad 1 kg di calcestruzzo (nota
+valida per calcestruzzo semi-fluido).
+Pil il calcestruzzo é secco pil la for-
+za necessaria & elevata.
+La seguente formula ci permette di
+calcolare esattamente la forza cen-
+trifuga necessaria:
+Fc=K(M+0,2B)/10
+Fc = forza centrifuga (kg)
+M = peso della cassaforma (kg)
+B = peso del cemento contenuto nei
+casseri (kg)
+K = coefficiente in funzione della ri-
+gidita del cassero e della consisten-
+za del calcestruzzo.
+
+K = 5 per i casseri verti-
+cali (putrelle, muri)
+
+K=tra5 e 10 pericasse-
+ri orizzontali
+
+K = 15 per i casseri verti-
+cali per tubazioni
+
+  
+
+PRINCIPI DI FUNZIONAMENTO
+
+1. VIBRATORI FISSI: quando tutti
+i punti di vibrazione determina-
+ti sono equipaggiati con un vi-
+bratore
+
+2. VIBRATORI MOBILI: quando il
+numero dei vibratori non corri-
+sponde al numero di punti di vi-
+brazione determinati (nel caso
+di travi molto lunghe e nelle
+gallerie).
+
+Normalmente ogni cassaforma &
+
+equipaggiata con tutti gli attacchi
+
+rapidi montati in corrispondenza
+
+dei punti di vibrazione previsti.
+
+ 
+Ol
+
+ 
+
+INSTALLATION
+
+e with horizontal forms, in-
+stall the vibrators by the reinfor-
+cements at a minimum of 1.5 m
+one from the other.
+
+e with forms divided into a
+number of sections, install at
+least one vibrator per section.
+
+o with forms wider than 2.5
+m, install the vibrators in two
+rows at a distance equal to "
+of the total width.
+
+e with forms less than 2.5
+m wide, install the vibrators in a
+single row at the centre of the
+form. In this case, but only for
+horizontal forms, the vibrators
+can be installed at the ends to
+facilitate their installation and re-
+moval.
+
+e with beam forms, install
+the vibrators at regular intervals
+along the entire length (when the
+height is more than 2 m, install
+the vibrators in two repeat rows:
+2/3 of the vibrators on the
+bottom row and 1/3 on the top
+row).with vertical forms, install
+the vibrators slightly inclined on
+the reinforcements at a mini-
+mum distance of 1.5 m (if form
+height is more than 2.5 m install
+the vibrators in two rows).
+
+ 
+
+03-99
+
+E
+
+1000.G. 02.02
+
+ 
+
+MONTAGE
+
+o Bei waagerechten Ver-
+schalungen die Vibratoren auf
+der Héhe der Verstarkungen in
+einem Mindestabstand von 1,5
+m von einander installieren.
+
+» Bei Verschalungen, die in
+mehrere Teile gegliedert sind,
+muB jeder Teil wenigstens ei-
+nen Vibrator vorsehen.
+
+e Bei Verschalungen mit
+Breite uber 2,5 m die Vibratoren
+in 2 Reihen und im Abstand von
+1/4 der Gesamtbreite anbringen.
+
+ Bei Verschalungen mit Brei-
+te unter 2,5 m die Vibratoren in
+einer Reihe in der Mitte der Form
+montieren. In diesem Fall ist es,
+aber nur bei waagerechten Ver-
+schalungen, méglich, die Vibra-
+toren an den Enden vorzusehen,
+um den Ein- und Ausbau zu er-
+leichtern.
+
+e Bei Verschalungen fur
+Trager die Vibratoren im regel-
+maBigen Abstand uber die ge-
+samte Lange montieren (bei Tra-
+gerlangen von mehr als 2 m den
+Vibrator wiederholt auf zwei
+Reihen anordnen: 2/3 der Vibra-
+toren auf der unteren Reihe und
+1/3 auf der oberen Reihe).
+
+¢ Bei senkrechten Verscha-
+lungen sind die Vibratoren mit
+geringer Neigung auf den Ver-
+starkungen zu montieren, und
+zwar im Mindestabstand von 1,5
+m (hat die Verschalung eine
+Héhe von mehr als 2,5 m, den
+Vibrator auf 2 Reihen anord-
+nen).
+
+ 
+
+MONTAGE
+
+e Sur les coffrages horizon-
+taux installer les vibrateurs a la
+hauteur des renforts, a une dis-
+tance minimum de 1,5 m l'un de
+l'autre.
+
+e Sur les coffrages divisés en
+plusieurs parties, chaque partie
+doit prévoir au moins un vibrateur
+
+e Pour les coffrages de plus
+de 2,5 m de largeur, monter les
+vibrateurs sur 2 rangées a une
+distance équivalenta 1/4 dela lar-
+geur totale.
+
+e Pour les coffrages de moins
+de 2,5 m de largeur, monter les
+vibrateurs sur une rangée au cen-
+tre du moule. Dans ce cas, seu-
+lement sur ceux qui sont horizon-
+taux, il est possible de monter les
+vibrateurs aux extrémités pour
+faciliter le montage et le démon-
+tage des vibrateurs.
+
+e Pour les coffrages des pou-
+tres, monter les vibrateurs a une
+distance réguliére sur toute la lon-
+gueur (quand la hauteur de la
+poutre dépasse les 2 metres, dis-
+poser les vibrateurs sur 2 rangées
+a répétition : 2/3 des vibrateurs
+sur la rangée inférieure et 1/3 sur
+la rangée supérieure).
+
+o Sur les coffrages verticaux,
+installer les vibrateurs Iégerement
+inclinés sur les renforts a une dis-
+tance minimum de 1,5 m (si la
+hauteur du moule dépasse 2,5 m,
+placer les vibrateurs sur 2 ran-
+gées).
+
+ 
+
+MONTAGGIO
+
+e Sulle casseforme orizzonta-
+li, installare i vibratori in corrispon-
+denza dei rinforzi, ad una distanza
+minima di 1,5 mt l'uno dall'altro.
+
+e Sulle casseforme suddivise
+in pit parti, ogni parte deve preve-
+dere almeno un vibratore
+
+e Per le casseforme larghe
+oltre i 2,5 mt. , montare i vibra-
+tori su 2 file ad una distanza
+uguale ad 1/4 della larghezza
+totale.
+
+e Per le casseforme larghe
+meno di 2,5 mt., montare i vibra-
+tori su una fila al centro dello
+stampo. In questo caso, solo su
+quelli orizzontali, & possibile
+montare i vibratori alle estremita
+per facilitare il montaggio e lo
+smontaggio dei vibratori.
+
+e Per le casseforme di travi,
+montare i vibratori ad una di-
+stanza regolare su tutta la lun-
+ghezza (quando l'altezza della
+trave & superiore ai 2 mt., di-
+sporre i vibratori su 2 file a ripe-
+tizione: 2/3 dei vibratori sulla fila
+inferiore ed 1/3 sulla fila supe-
+riore).
+
+e Sulle casseforme vertica-
+li, installare i vibratori legger-
+mente inclinati sui rinforzi ad una
+distanza minima di 1,5 mt. (se
+I'altezza dello stampo & superio-
+re a 2,5 mt., disporre i vibratori
+su 2 file).
+
+ 
+Oll
+
+ 
+
+ 
+
+CENTRIFUGAL FORCE RE-
+QUIRED:
+
+Fc=K (M + 0.2 B)
+
+K = 5 for vertical forms
+
+K = between 5 and 10 for hori-
+zontal forms
+
+K = 15 for vertical pipe forms
+
+TYPES OF VIBRATOR:
+Horizontal forms electric vibra-
+tors at 3000/6000 Rpm.
+Vertical forms 6000/9000 Rpm.
+
+ 
+
+ERFORDERLICHE FLIEHKRAFT:
+Fc=k(m+0,2b)
+
+k k = 5 senkrechte Verschalungen
+k = zwischen 5 und 10 flr waage-
+rechte Verschalungen
+
+k = 15 bei senkrechten Verscha-
+lungen fUr Rohrleitungen
+
+VIBRATORTYPEN:
+Elektrische mit Drehzahl von
+3.000/6.000 min' fur waagere-
+chte Verschalungen, 6.000/
+9.000 min"! bei senkrechten Ver-
+schalungen.
+
+ 
+
+Fig.3
+
+-Installation on vertical pipe forms
+
+-Montage an senkrechten Rohrleitungen
+-Montage sur tuyauteries verticales
+-Montaggio su tubazioni verticali
+
+ 
+
+FORCE CENTRIFUGE
+REQUISE: Fc =k (m + 0,2 b)
+
+k k ~ 5 coffrages verticaux
+
+k de 5 a 10 coffrages horizon-
+taux
+
+k k ~ 15 coffrages verticaux pour
+tuyauteries
+
+TYPES DE VIBRATEURS:
+Electriques 3000/6000 tours/mn
+pour coffrages horizontaux et
+6000/9000 tours/mn pour coffra-
+ges verticaux.
+
+Fig.5
+
+ 
+
+ 
+
+03-99
+
+E
+
+1000.G. 02.03
+
+FORZA CENTRIFUGA
+RICHIESTA: Fc = k (m+0.2b)
+
+k k ~ 5 casseforma verticali
+
+k da 5 a 10 casseforme orizzontali
+k k ~ 15 casseforme verticali per
+tubazioni
+
+TIPI DI VIBRATORI:
+
+Elettrici 3000/6000 giri min, per
+casseforme orizzontali, 6000/
+9000 giri min oer casseforme ver-
+ticali.
+
+- Installation on vertical forms
+
+- Montage auf senkrechten Verschalungen
+- Montage sur coffrage vertical
+- Montaggio su cassaforma verticale
+
+ 
+
+Fig.4 - Installation on horizontal forms
+- Montage auf waagerechten Verschalungen
+- Montage sur coffrage horizontal
+- Montaggio su cassaforma orizzontale
+
+Fig.6 - Installation on forms for beams and pillars
+- Montage auf Verschalungen fiir Trager oder Saulen
+- Montage sur coffrage pour poutres et poteaux.
+- Montaggio su cassaforma per travi e colonne
+
+ 
+Ol
+
+ 
+
+3. VIBRATING TABLES
+
+3. VIBRATIONSTISCHE
+
+03-99
+
+1000.G. 03.01
+
+ 
+
+3. TABLES VIBRANTES
+
+3. TAVOLI VIBRANTI
+
+ 
+
+TYPES OF VIBRATOR
+Medium frequency electric vi-
+brators (3000-6000 rpm) are the
+most commonly used in this ap-
+plication.
+
+CENTRIFUGAL FORCE REQUI-
+RED
+
+The quickest way to calculate the
+centrifugal force required is as
+follows:
+
+FORM RESTING ON THE VI-
+BRATING TABLE
+Fc=K(Mt+0.2M + 0.2 B)/10
+
+FORM FIXED TO THE VIBRA-
+TING TABLE
+Fc =K (Mt+ M + 0.2 B)/10
+
+Fc = centrifugal force (kg)
+
+Mt = weight of vibrating section
+of table (kg)
+
+M = weight of form (kg)
+
+B = weight of concrete in the form
+(kg)
+
+K = coefficient depending on form
+rigidity and concrete consistency.
+Generally Kis between 20 and 40.
+
+INSTALLATION
+
+With rotational vibration, the vi-
+brator is installed under the pla-
+te and on the vertical axis at the
+centre of gravity.
+
+With unidirectional vibration, the
+2 identical electric vibrators are
+installed parallel to each other.
+They can be fixed horizontally
+or vertically but must work in
+opposite directions
+
+Fig.7 - Installation on a vibrating table
+- Montage auf Vibrationstisch
+
+- Montage sur table vibrante
+
+- Montaggio su tavolo vibrante
+
+ 
+
+VIBRATORTYPEN
+
+Die elektrischen Vibrationsma-
+schinen im mittleren Frequenz-
+bereich (3000/6000 min') wer-
+den fir diese Einsatzbereiche
+am haufigsten verwendet.
+
+ERFORDERLICHE FLIEHKRAFT
+Die schnellste Formel zur Bere-
+chnung der erforderlichen Flieh-
+kraft ist die folgende:
+
+FORM, DIE AUF VIBRATIONS-
+TISCHAUFLIEGT
+Fc=K(Mt+0,2M + 0,2 B)/10
+
+FORM, DIE AUF VIBRATIONS-
+TISCHBEFESTIGTIST
+Fc=K(Mt+M +0,2B)/10
+
+Fc = Fliehkraft (kg)
+
+Mt = Gewicht des vibrierenden
+Tischteils (kg)
+
+M = Gewicht der Form (kg)
+
+B = Gewicht des Betons in der
+Form (kg)
+
+K = Koeffizient, der von der
+Steifheit der Verschalung und der
+Betondichte abhéngt
+
+In der Regel liegt K zwischen 20
+und 40.
+
+MONTAGE
+
+Im Falle der Rotationsvibration
+ist der Vibrator unter der Platte
+und auf der senkrechten Ach-
+se seines Schwerpunkts mon-
+tiert.
+
+Im Falle von Einfachrichtungsvi-
+bationen sind die 2 identischen
+elektrischen Vibratoren parallel
+einer zu montieren; sie kénnen
+in der waagerechten oder der
+senkrechten Richtung befestigt
+werden und missen in um-
+gekehrter Richtung laufen.
+
+      
+
+ 
+
+TYPES DE VIBRATEURS
+
+Les vibrateurs électriques a
+moyenne fréquence (3000/6000
+tours/mn) sont les plus utilisés
+dans cette application.
+
+FORCE CENTRIFUGE REQUISE
+La formule la plus rapide pour cal-
+culer la force centrifuge nécessai-
+re est la suivante :
+
+COFFRAGE APPUYE SUR LA
+TABLE VIBRANTE
+
+Fc =K (Mt+0,2M + 0,2 B)/10
+
+COFFRAGE FIXE A LA TABLE
+VIBRANTE
+Fc=K (Mt+M +0,2B)/10
+
+Fc = force centrifuge (kg)
+
+Mt = poids de la partie vibrante de
+la table (kg)
+
+M = poids du coffrage (kg)
+
+B = poids du béton contenu dans
+le coffrage (kg)
+
+K = coefficient en fonction de la
+rigidité du coffrage du béton.
+
+En regle générale K est compris
+entre 20 et 40.
+
+MONTAGE
+
+Dans le cas de vibration rotati-
+ve, le vibrateur est monté sous
+la plaque et sur I'axe vertical de
+son centre de gravité.
+
+Dans le cas de vibrations unidi-
+rectionnelles, les 2 vibrateurs
+électriques identiques doivent
+étre montés parallélement I'un
+par rapport a l'autre ; ils peuvent
+étre fixés dans le sens horizon-
+
+tal ou vertical et ils doivent fonc-
+tionner dans le sens opposé.
+
+ 
+
+TIPI DI VIBRATORI
+
+| vibratori elettrici a media fre-
+quenza (3000/6000 giri/min)
+sono i piu utilizzati in questa
+applicazione.
+
+FORZA CENTRIFUGA RICHIE-
+STA
+
+La formula piu rapida per calcola-
+re la forza centrifuga necessaria &
+la seguente:
+
+STAMPO APPOGGIATO SUL
+TAVOLO VIBRANTE
+
+Fc=K (Mt+0,2M+0,2B)/10
+
+STAMPO FISSATO SUL TAVO-
+LO VIBRANTE
+Fc=K (Mt + M+ 0,2 B)/10
+
+Fc = forza centrifuga (kg)
+
+Mt = peso della parte vibrante del
+tavolo (kg)
+
+M = peso dello stampo (kg)
+
+B = peso del calcestruzzo conte-
+nuto nello stampo (kg)
+
+K = coefficiente in funzione della
+ita dello stampo e della con-
+sistenza del calcestruzzo.
+Generalmente K & compreso tra
+20 e 40.
+
+ 
+
+MONTAGGIO
+
+Nel caso di vibrazione rotazio-
+nale, il vibratore & montato sot-
+to la piastra e sull'asse vertica-
+le del suo centro di gravita.
+
+Nel caso di vibrazioni unidirezio-
+nali, i 2 vibratori elettrici identici
+devono essere montati paralle-
+lamente I'uno dall'altro; posso-
+no essere fissati in senso oriz-
+zontale oppure verticale e devo-
+no funzionare in senso opposto.
+
+  
+
+Plate
+Platte
+Plateau
+Piatto
+
+?
+
+Federungselement
+Element sw sunspension
+Elemento di sospensione
+
+Body
+Untergestell
+Bati
+
+Corpo
+
+ 
+4.VIBRATING TABLES:
+
+4.VIBRATIONSTISCHE:
+
+4. TABLES VIBRANTES:
+
+ 
+
+03-99
+
+ 
+
+1000.G. 04.01
+
+4.TAVOLIVIBRANTI:
+
+ 
+
+OTHER APPLICATIONS
+
+In addition to prefabricated rein-
+forced concrete elements, vibra-
+ting tables are used in a variety of
+industrial sectors (for example, to
+compact bulk products and
+powders in their containers).
+They are also used to speed up
+automated filling, weighing and
+packaging (in foundries they are
+used to compact mould and core
+sand).
+
+Vibrating tables can also be used
+to sort numerous products, to
+empty drums and bins or to make
+endurance tests on electronic and
+mechanical components.
+
+ 
+
+TYPES OF VIBRATOR
+Depending on the functions and
+size, vibrating tables use one or
+two medium and low frequency
+electric or pneumatic vibrators or
+a single unidirectional pneumatic
+vibrator.
+
+CENTRIFUGAL FORCE REQUI-
+RED
+
+The quickest way to calculate the
+centrifugal force necessary is the
+following:
+
+LOAD RESTING ON THE VIBRA-
+TING TABLE
+
+Fc = K (Mt + 0.25 C)/10
+
+LOAD FIXED TO THE VIBRA-
+TING TABLE
+Fc = K (Mt + C)/10
+
+Fc = centrifugal force (kg)
+
+Mt = weight of the vibrating sec-
+tion of the table (kg)
+
+C = weight of the load resting on
+or fixed to the table (kg)
+
+K = coefficient depending on ap-
+plication function (foundry tables
+K=30; compacting K between 20
+and 30; fatigue tests on compo-
+nents K=100)
+
+INSTALLATION
+Refer to previous section.
+
+Plate
+Platte
+
+ 
+
+WEITERE ANWENDUNGEN
+
+Neben dem Einsatz im Bereich der
+Herstellung von Betonfertigteilen fin-
+den Vibrationstische auch in an-
+deren Industriebereichen Anwen-
+dung (beispielsweise zum Verdi-
+chten von pulverformigem Schiitt-
+gut in Behaltern). Sie ermogli-
+chen auch die Automatisierung
+und Beschleunigung von Abfiill-
+, Wiege- und Verpackungsablau-
+fen (in GieBereien werden sie
+beispielsweise zum Verdichten
+des Formsands und der Kerne ge-
+braucht).
+
+Vibrationstische eignen sich
+auch zum Sortieren zahlreicher Pro-
+dukte, zum Entleeren von Fas-
+sern und Behaltern, zur Durch-
+fihrung von Standzeitversuchen
+bei mechanischen und elektro-
+nischen Komponenten.
+
+VIBRATORTYPEN
+
+Je nach Anwendung und Abmes-
+sung sind Vibrationstische ein oder
+zwei elektrische oder pneumati-
+sche Vibratoren im mittleren oder
+niedrigen Frequenzbereich oder
+einen einzigen pneumatischen
+Einfachrichtungsvibrator.
+
+ERFORDERLICHE FLIEHKRAFT
+Die schnellste Formel zur Be-re-
+chnung der erforderlichen
+Fliehkraft ist die folgende:
+BELASTUNG AUF VIBRA-
+TIONSTISCH (LOSE LIEGEND)
+Fc = K (Mt + 0,25 C)/10
+
+BELASTUNG AUF VIBRA-
+TIONSTISCH (BEFESTIGT)
+Fc = K (Mt + C)/10
+
+Fc = Fliehkraft (kg)
+Mt = Gewicht des vibrierenden
+Tischteils (kg)
+C = Gewicht der auf dem Tisch
+liegenden oder am Tisch befe-
+stigten Last (kg)
+K = Koeffizient je nach Anwendung
+(GieBereitische K=30; Verdichtung
+K zwischen
+
+20 und 30; Dauerschwin-
+gversuche auf Komponenten
+K=100)
+
+MONTAGE
+Siehe vorheriger Abschnitt.
+
+ 
+
+Plateau
+Piatto
+
+Fig.7 - Installation on a vibrating table
+- Montage auf dem Vibrationstisch
+
+- Montage sur table vibrante
+
+- Montaggio su tavolo vibrante
+
+ 
+
+AUTRES APPLICATIONS
+
+Utilisées dans le secteur de la pré-
+fabrication du béton, les tables vi-
+brantes trouvent différentes appli-
+cations dans de nombreux autres
+secteurs industriels (par exemple
+pour constiper et compacter les
+produits en poudre en vrac dans
+les récipients). Elles permettent
+aussi d'automatiser et de faciliter
+les opérations de remplissage,
+pesage et conditionnement (par
+exemple dans les fonderies elles
+sont utilisées pour compacter les
+terres des moules et les noyaux).
+Les tables vibrantes peuvent aus-
+si étre utilisées dans la sélection
+de nombreux produits, pour vider
+des flts et des récipients, pour fai-
+re des essais de durée sur des
+composants électroniques et mé-
+caniques.
+
+TYPES DE VIBRATEURS
+
+Les tables vibrantes utilisent, en
+fonction des applications et des
+dimensions, un ou deux motovibra-
+teurs électriques ou pneumatiques
+a moyenne et basse fréquence ou
+bien un seul vibrateur pneumatique
+unidirectionnel.
+
+FORCE CENTRIFUGE REQUISE
+La formule la plus rapide pour cal-
+culer la force centrifuge nécessai-
+re est la suivante :
+
+CHARGE APPUYEE SUR LA TA-
+BLE VIBRANTE
+
+Fc = K (Mt + 0,25 C)/10
+
+CHARGE FIXEE A LA TABLE VI-
+BRANTE
+Fc = K (Mt + C)/10
+
+Fc = force centrifuge (kg)
+Mt = poids de la partie vibrante de
+la table (kg)
+C = poids de la charge appuyée
+ou fixée a la table (kg)
+K = coefficient en fonction de I'ap-
+plication (tables de fonderie K=30;
+compactage K compris
+
+entre 20 et 30; essai de fati-
+gue sur les composants K=100)
+
+MONTAGE
+Voir le paragraphe précédent.
+
+ 
+
+ 
+
+ALTRE APPLICAZIONI
+
+Oltre all'utilizzo nel settore della
+prefabbricazione del calcestruzzo,
+i tavoli vibranti trovano applicazio-
+ne nei diversi settori industriali (ad
+esempio per costipare e compat-
+tare i materiali sfusi in polvere nei
+contenitori). Essi consento anche
+di automatizzare e di sveltire le
+operazioni di riempimento, pesa-
+tura e confezionamento (nelle fon-
+derie vengono utilizzati ad esem-
+pio per compattare le terre di
+stampo e le anime).
+
+| tavoli vibranti possono essere
+utilizzati anche nella selezione di
+numerosi prodotti, per vuotare fu-
+sti e contenitori, per fare prove di
+durata su componenti elettronici
+e meccanici.
+
+TIPI DI VIBRATORI
+
+In funzione delle applicazioni e del-
+le dimensioni, i tavoli vibranti u
+zano uno o due vibratori elettrici o
+pneumatici a media e bassa frequen-
+za oppure un solo vibratore pneu-
+matico unidirezionale.
+
+ 
+
+FORZA CENTRIFUGA RICHIE-
+STA
+
+La formula piu rapida per calcola-
+re la forza centrifuga necessaria
+€ la seguente:
+
+CARICO APPOGGIATO SUL TA-
+VOLO VIBRANTE
+
+Fc = K (Mt + 0,25 C)/10
+
+CARICO FISSATO SUL TAVOLO
+VIBRANTE
+Fc = K (Mt + C)/10
+
+Fc = forza centrifuga (kg)
+
+Mt = peso della parte vibrante del
+tavolo (kg)
+
+C = peso del carico appoggiato o
+fissato sul tavolo (kg)
+
+K = coefficiente in funzione del-
+I'applicazione (tavoli da fonderia
+K=30; compattazione K compre-
+so tra 20 e 30; prove di fatica su
+componenti K=100)
+
+MONTAGGIO
+Vedi il paragrafo precedente.
+
+Suspension
+Federungselement
+Element sw sunspension
+Elemento di sospensione
+
+Body
+Stitzrahmen
+Bati
+
+Corpo
+
+ 
+Ol
+
+ 
+
+. VIBRATING SCREENS
+
+ 
+
+Vibrating screens are used
+mainly to sort and size material.
+
+TYPES OF VIBRATOR
+
+The best results are achieved
+with standard (3000 Rpm) and
+low frequency (1000 and 1500
+Rpm) vibrators. Vibration fre-
+quency is inversely proportional
+to the size of screen mesh: the
+larger the mesh, the lower the
+frequency and consequent in-
+creased amplitude.
+
+CENTRIFUGAL FORCE RE-
+QUIRED
+
+As we have seen, frequency and
+amplitude depend on screen
+mesh size. Experience teaches
+that vibrator centrifugal force
+should be at least 3 to 4 times
+the weight of the screen (inclu-
+ding the vibrators) when the
+screen is inclined and rotating.
+
+INSTALLATION
+
+If a single vibrator is used (rota-
+ting), the screen surface must
+be negatively inclined 10° to
+permit the material to slide down
+the surface. In this case the vi-
+brator is installed underneath
+the screen vertically at the cen-
+tre of gravity.
+
+If two identical vibrators are
+used (unidirectional), the scre-
+en can be horizontal. The two
+vibrators will be inclined 45° to
+the horizontal axis and installed
+so that the vibration line pas-
+ses through the screen’s cen-
+tre of gravity (including the vi-
+bration unit).
+
+Depending on the application,
+the 2 vibrators can be installed
+above or below the screen but
+they must rotate in opposite di-
+rections. If the screen is small,
+a single unidirectional pneuma-
+tic vibrator can be installed abo-
+ve or below the screen, inclined
+at 45° to the horizontal so that
+the vibration line passes throu-
+gh the centre of gravity of the
+screen.
+
+IMPORTANT NOTICE
+
+Before starting up any vibrating
+system, check to make sure that
+the vibration dampeners are cor-
+rectly dimensioned and that the
+vibrating structure is dynamical-
+ly balanced.
+
+ 
+
+5. VIBRATIONSSIEBE
+
+Vibrationssiebe werden im wesen-
+tlichen zum Sortieren und Kalibrie-
+ren von Materialien verwendet.
+
+VIBRATORTYPEN
+
+Die besten Ergebnisse erhalt man
+mit Standard-Vibratoren (3000
+min’') und mit niedriger Frequenz
+(1000 und 1500 min'). Die Vi-
+brationsfrequenz steht im um-
+gekehrten Verhaltnis zur GroBe
+der Siebmaschen: Je gréBer die
+Siebmasche ist, desto niedriger
+muB die Frequenz sein und de-
+sto groBer folglich die Amplitu-
+de.
+
+ERFORDERLICHE FLIEHKRAFT
+Wiebereits erwahnt, hangen die
+Frequenz und die Amplitude von
+der GréBe der Siebmaschen ab.
+Die Erfahrung zeigt, daB die Vi-
+brator-Fliehkraft mindestens 3 bis
+4 mal so groB wie das Gewicht
+des Siebes (Vibratoren inbegrif-
+fen) sein muB, falls es sich um
+ein schragstehendes Sieb mit
+Rotationsbewegung handelt.
+
+EINBAU
+
+Wenn man nur einen Vibrator
+benutzt (Rotationsbewegung),
+muB die Sieboberflache um
+mindestens 10° in negativer Ri-
+chtung geneigt werden, um das
+Materizum FlieBen zu bringen:
+In diesem Fall ist der Vibrator
+unterhalb des Siebs anzubrin-
+gen, und zwar auf der senkre-
+chten Achse seines Schwerpunk-
+ts.
+
+Wenn man zwei baugleiche Vi-
+bratoren benutzt (Einfachri-
+chtungsbewegung), kann das
+Sieb waagerecht stehen. Die bei-
+den Vibratoren missen um 45°
+zur waagerechten Achse genei-
+gt sein und missen so montiert
+werden, daB die Vibrationslinie
+durch den Schwerpunkt des
+Siebs einschlieBlich der Vibra-
+toren fahrt.
+
+Fallbezogen kénnen die 2 Vibra-
+toren uber oder unter dem Sieb
+eingebaut werden, aber es ist im-
+mer erforderlich, daB ihre Drehri-
+chtung entgegengesetzt ist.
+Wenn das Sieb klein ist, reicht
+es aus, nur einen pneumatischen
+Einfachrichtungsvibrator zu mon-
+tieren, Uber oder unter dem Sieb,
+der zur Waagerechten um 45°
+geneigt und so angebracht ist,
+daB die Vibrationslinie durch
+den Schwerpunkt des Siebs
+frihrt.
+
+ 
+
+WICHTIGER HINWEIS
+
+Vor der Inbetriebnahme von Vibra-
+tionssystemen egal welcher Art
+sicherstellen, daB die Federung
+korrekt ausgelegt ist und daB die
+Vibrationsstruktur dynamisch au-
+sgewuchtet ist.
+
+ 
+
+03-99
+
+1000.G. 05.01
+
+ 
+
+5. TAMIS VIBRANTS
+
+Les tamis vibrants sont principa-
+lement utilisés pour sélectionner
+et calibrer les matiéres.
+
+TYPES DE VIBRATEURS
+
+Les meilleurs résultats s'obtien-
+nentavec les vibrateurs standards
+(3000 tours/mn) et a basse fré-
+quence (1000 et 1500 tours/mn).
+La fréquence de vibration est in-
+versement proportionnelle a la di-
+mension du tamis : plus la maille
+est grande, plus la fréquence doit
+étre basse et par conséquent plus
+I'amplitude doit augmenter.
+
+FORCE CENTRIFUGE REQUISE
+Comme nous l'avons vu, la fré-
+quence et I'amplitude dépendent
+des mailles du tamis. L'expérien-
+ce nous démontre que la force
+centrifuge du vibrateur doit étre au
+moins 3 ou 4 fois le poids du ta-
+mis (y compris les vibrateurs)
+dans le cas d'un tamis incliné a
+mouvement rotatif.
+
+MONTAGE
+
+Si on utilise un seul vibrateur
+(mouvement rotatif), il faut incliner
+la surface du tamis au moins de
+10° en négatif, pour permettre
+I'écoulement du produit ou de la
+matiéere : dans ce cas le vibrateur
+doit étre installé sous le tamis et
+sur la verticale de son centre de
+gravité.
+
+Si on utilise deux vibrateurs iden-
+tiques (mouvement unidirection-
+nel), le tamis peut étre horizontal.
+Les deux vibrateurs doivent étre
+inclinés de 45° sur I'axe horizon-
+tal et ils doivent étre montés de
+maniéere a ce que la ligne de vi-
+bration passe par le centre de gra-
+vité du tamis (y compris le groupe
+de vibration).
+
+Selon les cas, les 2 vibrateurs
+peuvent étre installés au-dessus
+ou au-dessous du tamis, mais
+dans tous les cas il est indispen-
+sable gu'ils tournent dans le sens
+opposé. Si le tamis est de petites
+dimensions, il est possible de
+monter simplement un seul vibra-
+teur pneumatique unidirectionnel,
+sur ou sous le tamis, incliné de 45
+sur I'horizontale et de maniere a
+ce que la ligne de vibration passe
+par le centre de gravité d’'un ta-
+mis.
+
+REMARQUE IMPORTANTE
+Avant de mettre en marche un
+systeme vibrant quelconque, vé-
+rifier que le systeme de suspen-
+sions élastiques est dimensionné
+correctement et que la structure
+vibrante est équilibrée du point de
+vue dynamique.
+
+ 
+
+5. VAGLI VIBRANTI
+
+ 
+
+| vagli vibranti sono utilizzati prin-
+cipalmente per selezionare e ca-
+librare i materiali.
+
+TIPI DI VIBRATORI
+
+I migliori risultati si ottengono con
+i vibratori standard (3000 giri/min)
+ed a bassa frequenza (1000 e
+1500 giri/min). La frequenza di vi-
+brazione € inversamente propor-
+zionale con la misura della ma-
+glia del vaglio: piu la maglia e
+grande, piu la frequenza deve
+essere bassa e di conseguenza
+deve aumentare I'ampiezza.
+
+ 
+
+FORZA CENTRIFUGA RICHIESTA
+Come abbiamo visto, la frequen-
+za e 'ampiezza dipendono della
+misura delle maglie del vaglio.
+L'esperienza ci dimostra che la
+forza centrifuga del vibratore deve
+essere almeno 3 o0 4 volte il peso
+del vaglio (vibratori compresi) nel
+caso di un vaglio inclinato a movi-
+mento rotazionale.
+
+MONTAGGIO
+
+Se si utilizza un solo vibratore
+(movimento rotazionale), occor-
+re inclinare la superficie del va-
+glio di almeno 10° in negativo, per
+permettere lo scorrimento del
+materiale: in questo caso il vibra-
+tore va installato sotto al vaglio e
+sulla verticale del suo centro di
+gravita.
+
+Se si utilizzano due vibratori iden-
+tici (movimento unidirezionale), il
+vaglio pud essere orizzontale. |
+due vibratori devono essere in-
+clinati di 45° sull’asse orizzonta-
+le e montati in modo tale che la
+linea di vibrazione passi per il
+centro di gravita del vaglio (com-
+preso il gruppo di vibrazione).
+Secondo i casi, i 2 vibratori pos-
+sono essere installati sopra op-
+pure sotto il vaglio, ma in ogni
+caso € necessario che ruotino in
+senso opposto. Se il vaglio e di
+piccole dimensioni, & possibile
+montare un solo vibratore pneu-
+matico unidirezionale, sopra op-
+pure sotto al vaglio, inclinato di
+45° sull'orizzontale ed in modo
+che la linea di vibrazione passi
+per il centro di gravita di un va-
+glio.
+
+ 
+
+ 
+
+ 
+
+NOTA IMPORTANTE
+
+Prima di avviare qualsiasi siste-
+ma vibrante, verificare sempre
+che il sistema di sospensioni ela-
+stiche sia correttamente dimen-
+sionato e che la struttura vibran-
+te sia dinamicamente equilibrata.
+
+ 
+Ol
+
+ 
+
+CENTRIFUGAL FORCE
+REQUIRED
+
+3 or 4 times that the weight of
+the screen (including the vibra-
+tors)
+
+TYPES OF VIBRATOR
+Electric at 1000, 1500, 3000
+Rpm
+
+ERFORDERLICHE FLIEHKRAFT: | FORCE CENTRIFUGE REQUISE
+3 oder 4mal das Gewicht des Sie- | : 3 ou 4 fois le poids du tamis (y
+bes (Vibrationsmaschinen inbe- | compris les vibrateurs)
+
+griffen)
+
+TYPES DE VIBRATEURS :
+VIBRATORTYPEN: Electriques 1000, 1500, 3000
+Elektrisch 1.000, 1.500, 3.000 | tours/mn.
+
+min!
+
+03-99
+
+E
+
+1000.G. 05.02
+
+FORZA CENTRIFUGA
+RICHIESTA: 3 o 4 volte il peso
+del vaglio (vibratori compresi)
+
+TIPI DI VIBRATORI:
+Elettrici 1000, 1500, 3000 giri
+min.
+
+ 
+
+Fig.9 - Installation of a vibrating table
+- Installation eines Vibrationstisches
+- Montage d'une table vibrante
+- Montaggio di un tavolo vibrante
+
+ 
+
+Fig.10 - Installation of two identical vibrators
+- Montage von zwei baugleichen Vibratoren
+- Montage de deux vibrateurs identiques
+- Montaggio di due vibratori identici
+
+ 
+CONVEYING AND
+PRODUCTFEED
+
+Vibrating channels are used to gua-
+rantee even and homogeneous vo-
+lume flow performance.
+
+The shape and configuration of the
+hopper discharge opening is extre-
+mely important for good vibrating
+channel functional performance.
+Hopper discharge must be desi-
+gned to ensure that the pressure
+generated by the material is absor-
+bed by the hopper. If it is not, the
+column of material pushing again-
+st the channel will negatively affect
+its functional performance and re-
+quire the use of unnecessarily
+powerful vibrators.
+
+TYPES OF VIBRATOR
+
+Low frequency (1000-1500 Rpm)
+or standard (3000 Rpm) vibrators
+are ideal for this type of applica-
+tion. The higher the channel feed
+rate, the lower the frequency of the
+vibrator(s).
+
+CENTRIFUGAL FORCE REQUIRED
+The centrifugal force depends on the
+dimensions of the vibrating channel
+and will normally be 4 to 7 times the
+total weight of the channel.
+
+INSTALLATION
+
+A vibrating channel comprises a
+very rigid structure, vibration dam-
+peners and a vibration group (with
+1 or 2 vibrators).
+
+Vibrating channels with a single
+rotating vibrator should be inclined
+15° from the horizontal.
+
+The vibrator is installed beneath
+the channel so that the vibration
+line passes through the channel
+centre of gravity.
+
+Vibrating channels with two rota-
+ting vibrators (identical and in op-
+posite directions) or a single uni-
+directional pneumatic vibrator are
+designed to work horizontally. They
+can be used to convey products
+over long distances and are used,
+in particular, when material has to
+be cooled, heated or dedusted du-
+ring conveying.
+
+The 2 vibrators (or the single unidi-
+rectional vibrator) must be inclined
+from 20° to 30° from the horizontal
+and the vibration line must pass
+through the centre of gravity of the
+channel.
+
+IMPORTANT NOTICE
+
+To ensure efficient functional per-
+formance, channel feed must be
+even and at regularly scheduled
+intervals.
+
+It is also important to prevent the
+material from blocking at hopper di-
+scharge with the possibility of da-
+maging the channel.
+
+ 
+
+ 
+
+6.FORDERUNG
+
+MATERIALAUFGABE
+
+ 
+
+Vibrationsrinnen dienen dazu, eine
+gleichmaBige und regelmaBige For-
+derleistung zu erzielen.
+
+Die Form und der Typ der Auslauféf-
+fnung des Trichters ist entscheidend
+fuir die korrekte Funktionsweise der
+Vibrationsrinne; sie muB namlich so
+ausgelegt sein, daB der Druck des
+Materials vom Trichter aufgenom-
+men wird: Andernfalls behindert die
+Materialsaule, die auf der Rinne la-
+stet, die Funktion des Vibrators und
+zwingt dazu, Vibratoren zu verwen-
+den, die mehr Leistung als tatsachli-
+ch erforderlich abgeben.
+
+VIBRATORTYPEN
+
+Die Vibratoren mit niedriger Frequenz
+(1.000-1.500 min"') oder mit Stan-
+dardfrequenz (3.000 min") eignen
+sich fir diese Anwendungen. Je
+groBer die Forderleistung der Rinne,
+desto niedriger muB die Frequenz
+des oder der Vibratoren sein.
+
+ERFORDERLICHE FLIEHKRAFT
+Die Fliehkraft hangt von der GroBe
+der Vibrationsrinne ab: In der Regel
+wahlt man einen Wert, der zwischen
+dem 4- und 7fachen Gesamtgewicht
+der Rinne liegt.
+
+EINBAU
+
+Vibrationsrinnen bestehen aus einer
+sehr starren Struktur, StoBdampfern
+und der Vibrationseinheit (bestehend
+aus 1 oder 2 Vibratoren).
+
+Die Vibrationsrinnen, die mit nur ei-
+nem Vibrator mit Rotationsvibration
+ausgestattet sind, miissen um min-
+destens 15° zur Waagerechten genei-
+gt stehen.
+
+Der Vibrator wird so unter der Rin-
+nen montiert, daB die Vibrationslinie
+durch ihren Schwerpunkt verlauft.
+Die Vibrationsrinnen, die mit 2 Rota-
+tionsvibratoren (baugleich und in um-
+gekehrter Richtung laufend) oder nur
+einem pneumatischen Einfachri-
+chtungsvibrator ausgestattet sind,
+werden fiir den waagerechten Betrieb
+entwickelt. Sie dienen fiir den Mate-
+rialtransport iiber lange Strecken und
+werden verwendet, wenn das Mate-
+rial wahrend der Férderung gekiihlt,
+erwarmt oder entstaubt werden muB.
+Die 2 Vibratoren (oder die Einfachri-
+chtungsvibratoren) miissen in bezug
+auf die Waagerechte um 20° bis 30°
+geneigt sein, und ihre Vibrationslinie
+muB durch den Schwerpunkt der Rin-
+ne verlaufen.
+
+WICHTIGER HINWEIS
+
+Um wirksam zu funktionieren, muB
+die Rinne gleichmaBig beschickt wer-
+den.
+
+Materialstaus am Trichterauslauf
+kénnen zu Beschadigungen der Rin-
+ne fihren und sind daher unbedingt
+zu vermeiden.
+
+ 
+
+03-99
+
+1000.G. 06.01
+
+ 
+
+6. TRANSPORT
+
+AR pav (o))
+
+ 
+
+Les canaux vibrants permettent
+d'obtenir un débit régulier et ho-
+mogene.
+
+La forme et le type de bouche de
+chargement des trémies sont trés
+importants pour le bon fonction-
+nement du canal vibrant ; il doit
+en effet étre congu de maniére a
+ce que la pression du produit ou
+de la matiére soit absorbée par la
+trémie. Dans le cas contraire, la
+colonne de produit qui pousse sur
+le canal compromet son fonction-
+nement et contraint a utiliser des
+vibrateurs plus puissants du né-
+cessaire.
+
+ 
+
+TYPES DE VIBRATEURS
+
+Les vibrateurs a basse fréquence
+(1000-1500 tours/mn) ou bien
+standards (3000 tours/mn) sont
+indiqués pour ce type d’'applica-
+tion. Plus le débit du canal est
+grand, plus la fréquence du(es)
+vibrateur(s) doit étre basse.
+
+FORCE CENTRIFUGE REQUISE
+La force centrifuge dépend des
+dimensions du canal vibrant : elle
+est normalement comprise entre
+4 et 7 fois le poids total du canal.
+
+MONTAGE
+
+Un canal vibrant est composé
+d’une structure trés rigide, par des
+éléments de suspension et le
+groupe de vibration (composé par
+1 ou 2 vibrateurs).
+
+Les canaux vibrants équipés d’un
+seul vibrateur a vibration rotative
+doivent étre inclinés d'au moins
+15° sur I'horizontale.
+
+Le vibrateur est monté sous le
+canal de maniére a ce que la li-
+gne d’action de la vibration passe
+par son centre de gravité.
+
+Les canaux vibrants équipés de 2
+vibrateurs rotatifs (identiques et
+fonctionnant dans le sens oppo-
+sé) ou bien d'un seul vibrateur
+pneumatique unidirectionnel, sont
+projetés pour fonctionner a I'hori-
+zontale. Ils permettent le transport
+des matiéres sur de longues dis-
+tances et ils sont utilisés pur re-
+froidir, réchauffer, dépoussiérer le
+produit pendant son transport.
+Les 2 vibrateurs (ou le vibrateur
+unidirectionnel) doivent étre incli-
+nés de 20 a 30° sur I'horizontale
+et leur ligne d’action doit passer
+par le centre de gravité du canal.
+
+ 
+
+REMARQUE IMPORTANTE
+Pour garantir un fonctionnement
+efficace, le canal doit étre alimen-
+té de maniere réguliere.
+
+Il est trés important d'éviter que le
+produit se bloque a la sortie de la
+trémie en provoquant des dégats
+au canal.
+
+ 
+
+6. TRASPORTO
+
+ALIMENTAZIONE
+
+ 
+
+| canali vibranti permettono di ot-
+tenere una portata regolare ed
+omogenea.
+
+La forma ed il tipo della bocca di
+scarico della tramoggia & molto
+importante per il buon funziona-
+mento del canale vibrante; deve
+infatti essere progettata in modo
+tale che la pressione del mate-
+riale sia assorbita dalla tramog-
+gia: in caso contrario, la colonna
+di materiale che spinge sul canale
+ne pregiudica il funzionamento e
+costringe ad utilizzare vibratori
+pit potenti del necessario.
+
+TIPI DI VIBRATORI
+
+| vibratori a bassa frequenza
+(1000-1500 giri/min) oppure stan-
+dard (3000 giri/min) sono indicati
+per questo tipo di applicazione.
+Maggiore € la portata del canale,
+piu la frequenza del/i vibratore/i
+deve essere bassa.
+
+FORZA CENTRIFUGA RICHIESTA
+La forza centrifuga dipende dalle
+dimensioni del canale vibrante:
+normalmente € compresatra4 e 7
+volte il peso totale del canale.
+
+MONTAGGIO
+
+Un canale vibrante & composto
+da una struttura molto rigida, da-
+gli ammortizzatori e dal gruppo di
+vibrazione (composto da 1 oppu-
+re 2 vibratori).
+
+| canali vibranti equipaggiati da un
+solo vibratore a vibrazione rotazio-
+nale devono essere inclinati di al-
+meno 15° sull'orizzontale.
+
+Il vibratore & montato sotto al ca-
+nale in modo tale che la linea di
+azione della vibrazione passi per
+il suo centro di gravita.
+
+| canali vibranti equipaggiati con
+2 vibratori rotazionali (identici e
+funzionanti in senso opposto)
+oppure da un solo vibratore pneu-
+matico unidirezionale, sono pro-
+gettati per funzionare orizzontal-
+mente. Essi permettono il tra-
+sporto dei materiali su lunghe di-
+stanze e vengono utilizzati nei
+casi occorra raffreddare, riscal-
+dare, depolverare il materiale
+durante il trasporto.
+
+| 2 vibratori (o il vibratore unidire-
+zionale) devono essere inclinati
+dai 20 ai 30° sull’'orizzontale e la
+loro linea di azione deve passare
+per il centro di gravita del canale.
+
+ 
+
+ 
+
+NOTA IMPORTANTE
+
+Per garantire un funzionamento ef-
+ficace, il canale deve essere alimen-
+tato in modo regolare.
+
+E’ molto importante evitare che il
+materiale si blocchi all'uscita dalla
+tramoggia danneggiando il canale.
+
+ 
+ 
+
+Ol
+
+CENTRIFUGAL  FORCE
+REQUIRED: Fc = k(Mc+0.250)
+
+10
+K = 40-70
+
+TYPES OF VIBRATOR
+Electric 1000, 1500, 3000 Rpm
+or unidirectional pneumatic
+
+Fig.11 - Installing a vibrator
+- Einbau eines Vibrators
+- Montage d'un vibrateur
+- Montaggio di un vibratore
+
+ 
+
+ERFORDERLICHE FLIEHKRAFT
+k (Mc + 0,25 C)/10
+Fo=™ 15
+
+K liegt zwischen 40 und 70
+
+VIBRATORTYPEN:
+Elektrisch 1.000, 1.500, 3.000
+Umdrehungen pro Minute oder
+auch pneumatische Einfachri-
+chtungsvibratoren.
+
+FORCE CENTRIFUGE
+
+REQUISE: Fois 1MIL350
+10
+
+k est compris entre 40 et 70
+
+TYPES DE VIBRATEURS:
+Electriques 1000, 1500, 3000
+tours/mn, ou bien aussi unidirec-
+tionnels.
+
+ 
+
+Fig.12 - Installing two identical vibrators
+- Einbau von zwei baugleichen Vibratoren
+- Montage de deux vibrateurs identiques
+- Montaggio di due vibratori identici
+
+03-99
+
+E
+
+1000.G. 06.02
+
+FORZA CENTRIFUGA
+
+RICHIESTA: Fc = kMc:0.250)
+
+k compreso fra 40 e 70
+
+TIPI DI VIBRATORI:
+
+Elettrici 1000, 1500, 3000 giri
+min. oppure anche pneumatici
+unidirezionali.
+
+ 
+OLl
+
+ 
+
+ 
+
+7.DUST FILTERS
+
+ 
+
+With a dust filter, the vibrator
+intermittently shakes the filter
+bags to clean them. Vibrators
+are also used in the powder
+collecting hopper to facilitate
+emptying.
+
+TYPES OF VIBRATOR
+Standard vibrators at 3000 Rpm
+are recommended for this appli-
+cation.
+
+CENTRIFUGAL FORCE RE-
+QUIRED
+
+The centrifugal force needed is
+between 3 and 4 times the wei-
+ght of the structure to be vibra-
+ted.
+
+INSTALLATION
+
+The vibrator is installed on a pla-
+te (or “U” iron) directly on the fil-
+ter element carrier plate.
+
+ 
+
+7. ENTSTAUBUNGSFILTER
+
+Bei der Anwendung in Entstau-
+bungsfiltern rittelt der Vibrator
+die Filterelemente in bestimmten
+Zeitabstanden, um die Abreini-
+gung zu erzielen. AuBerdem
+werden die Vibratoren auch in
+Staubsammeltrichtern verwen-
+det, um deren Entleerung zu er-
+leichtern.
+
+VIBRATORTYPEN
+
+Fir diese Anwendungen emp-
+fiehlt sich die Verwendung von
+Vibratoren mit Standardfre-
+quenz von 3.000 min'.
+
+ERFORDERLICHE
+FLIEHKRAFT
+
+Die erforderliche Fliehkraft entspri-
+cht dem 3- bis 4fachen Gewicht
+der zu rittelnden Struktur.
+
+EINBAU
+
+Der Vibrator wird auf einer Plat-
+te (oder einem U-Eisen) direkt
+auf der Filterelemente-Halterun-
+gsplatte befestigt.
+
+03-99
+
+ 
+
+1000.G. 07.01
+
+ 
+
+ 
+
+7. FILTRES DEPOUSSIEREURS
+
+Dans I'application sur les filtres
+dépoussiéreurs, le vibrateur se-
+coue les éléments filtrants par
+intermittence, en permettant le
+nettoyage. En outre les vibra-
+teurs sont utilisés aussi dans les
+trémies de récupération des
+poussieres pour favoriser le vi-
+dage.
+
+TYPES DE VIBRATEURS
+Pour ce type d'application nous
+conseillons les vibrateurs stan-
+dards a 3000 tours/mn.
+
+FORCE CENTRIFUGE REQUISE
+La force centrifuge nécessaire
+est comprise entre 3 et 4 fois le
+poids de la structure a vibrer.
+
+MONTAGE
+
+Le vibrateur est installé sur une
+plague (ou un fer en U) directe-
+ment sur le disque porte-élé-
+ments filtrants.
+
+ 
+
+ 
+
+7. FILTRIDEPOLVERATORI
+
+Nell’applicazione su filtri depol-
+veratori, il vibratore scuote gli
+elementi filtranti ad intermitten-
+za, consentendone la pulizia.
+Inoltre i vibratori vengono utiliz-
+zati anche nelle tramogge dirac-
+coglimento delle polveri per fa-
+vorirne lo svuotamento.
+
+ 
+
+TIPI DI VIBRATORI
+Per questo tipo di applicazione
+sono consigliati i vibratori stan-
+dard a 3000 giri/min.
+
+FORZA CENTRIFUGA RICHIE-
+STA
+
+La forza centrifuga necessaria
+e compresatra 3 e 4 volte il peso
+della struttura da vibrare.
+
+MONTAGGIO
+
+Il vibratore viene installato Su
+una piastra (oppure un ferro ad
+U) direttamente sul disco porta
+elementi filtranti.
+
+ 
+
+—~
+Oul
+
+ 
+
+8. OTHER APPLICATIONS
+
+ 
+
+These are situations in which
+vibration is used to prevent the
+plant from shutting down becau-
+se it is clogged.
+
+As a general rule, for intermit-
+tent operation pneumatic vibra-
+tors are used.
+
+The diagrams below highlight a
+number of typical applications.
+
+ 
+
+8. WEITERE ANWENDUNGEN
+
+Hierbei handelt es sich um jene
+Falle, in denen durch Vibration
+vermieden wird, daB Anlagen we-
+gen Verstopfung zum Stehen kom-
+men.
+
+Man verwendet in der Regel
+pneumatische Vibratoren, die im
+Intervallbetrieb arbeiten.
+
+Die folgenden Abbildungen zei-
+gen einige typische Anwendun-
+gen.
+
+ 
+
+8. AUTRES APPLICATIONS
+
+I s’agit des cas ot la vibration évi-
+te l'arrét des équipements en cas
+de colmatage ou d’engorgement.
+En général on préférera les vi-
+brateurs pneumatiques qui fonc-
+tionnent par intermittence.
+
+Les schémas ci-dessous illus-
+trent quelques applications ca-
+ractéristiques.
+
+ 
+
+ 
+
+03-99
+
+E
+
+1000.G. 08.01
+
+8. ALTRE APPLICAZIONI
+
+ 
+
+Sono i casi dove la vibrazione
+evita 'arresto degli impianti per
+intasamento.
+
+Si utilizzano generalmente dei vi-
+bratori pneumatici che funziona-
+no ad intermittenza.
+
+Gli schemi di seguito indicano al-
+cune applicazioni caratteristiche
+
+ 
+

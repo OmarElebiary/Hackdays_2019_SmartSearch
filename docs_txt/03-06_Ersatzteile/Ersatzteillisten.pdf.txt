@@ -1,0 +1,3321 @@
+E-Serie
+Ersatzteillisten
+Polyethylen
+EEE – ETZ
+
+Polyethylen leitfähig
+FEE - FTZ
+
+PTFE
+TEE - TTZ
+
+PTFE leitfähig
+UEE - UTZ
+
+Sonderausstattung
+Code B
+
+Sonderausstattung
+Code C - D
+
+Sonderausstattung
+Code F - W
+Pulsationsdämpfer ET
+
+Pulsationsdämpfer ET-F
+
+Änderungen vorbehalten, 07/09
+
+Ersatzteilliste ALMATEC E-Serie, EEE - ETZ
+Baugröße
+Pos Stck
+1
+2
+2
+2
+3
+2
+4
+1
+5
+4
+6
+8
+
+Benennung
+Werkstoff
+Seitengehäuse
+PE
+Spannscheibe
+1.4301
+Abdeckkappe
+PE
+Zentralgehäuse
+PE
+Verbindungshülse
+PE
+O-Ring, Verbindungshülse, Code EE.
+EPDM
+O-Ring, Verbindungshülse, Code EN.
+NBR
+O-Ring, Verbindungshülse, Code ET.
+FEP/FKM
+7
+2
+Arretierbolzen
+PE
+8
+4
+Gewindebolzen
+PE
+9
+2
+Hubbegrenzer, Druckventil
+PE
+10
+2
+O-Ring, Hubbegrenzer Druckventil, Code EE.
+EPDM
+O-Ring, Hubbegrenzer Druckventil, Code EN.
+NBR
+O-Ring, Hubbegrenzer Druckventil, Code ET.
+FEP/FKM
+11
+2
+Verschlussschraube, Seitengehäuse
+PE
+12
+2
+O-Ring, Verschlussschraube Seitengeh., Code EE.
+EPDM
+O-Ring, Verschlussschraube Seitengeh., Code EN.
+NBR
+O-Ring, Verschlussschraube Seitengeh., Code ET.
+FEP/FKM
+13
+1
+Verschlussschraube, Zentralgehäuse
+PE
+14
+2
+O-Ring, Verschlussschraube Zentralgeh., Code EE.
+EPDM
+O-Ring, Verschlussschraube Zentralgeh., Code EN.
+NBR
+O-Ring, Verschlussschraube Zentralgeh., Code ET.
+FEP/FKM
+15
+4
+Zylinderventilkörper, Code E.Z
+PTFE
+Ventilkugel, Code E.E
+EPDM
+Ventilkugel, Code E.N
+NBR
+Ventilkugel, Code E.S
+Edelstahl
+Ventilkugel, Code E.T
+PTFE
+16
+4
+Ventilsitz, Kugelventile
+PE
+Ventilsitz, Zylinderventile
+PE
+17
+4
+Schwingungsdämpfer
+NR
+18
+2
+Membrane, Code EE.
+EPDM
+Membrane, Code EN.
+NBR
+Membrane, Code ET.
+PTFE
+19
+*
+Zuganker, kpl.
+1.4305
+20
+1
+Kolbenstange
+1.4301
+21
+2
+Gewindestift, Kolbenstange
+1.4305
+22
+2
+Kolbenstangendichtung, kpl.
+PTFE
+23
+1
+Luftanschluss
+PETP
+24
+1
+Luftfilter
+PE
+25
+1
+Schalldämpfer, kpl.
+PE
+26
+1
+PERSWING P ® Luftsteuersystem, kpl.
+PETP
+27**
+6
+O-Ring, Steuerventilgehäuse
+NBR
+* für E 15 und E 25: 6 Stück; für E 40 und E 50: 8 Stück ** in Pos. 26 enthalten
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Ausgabe 07/2009
+E 15 E..
+Teilnummer
+7 15 010 51
+7 15 008 22
+7 15 009 51
+7 15 011 51
+2 15 012 51
+9 20 631 72
+9 20 631 71
+9 20 631 59
+7 15 013 52
+2 08 014 52
+7 15 015 51
+9 24 625 72
+9 24 625 71
+9 24 625 59
+7 15 017 51
+9 25 610 72
+9 25 610 71
+9 25 610 59
+7 15 019 51
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 15 016 60
+1 15 032 72
+1 15 032 71
+1 15 032 22
+1 15 032 60
+2 15 018 52
+7 15 018 52
+1 15 322 85
+1 15 031 72
+1 15 031 70
+1 15 031 67
+7 15 020 22
+2 15 030 22
+9 10 220 22
+1 15 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 51
+2 15 001 84
+9 35 504 71
+
+E 25 E..
+Teilnummer
+7 25 010 51
+7 25 008 22
+7 25 009 51
+7 25 011 51
+2 25 012 51
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 25 013 52
+2 10 014 52
+7 25 015 51
+9 38 626 72
+9 38 626 71
+9 38 626 59
+7 25 017 51
+9 40 613 72
+9 40 613 71
+9 40 613 59
+7 25 019 51
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 25 016 60
+1 25 032 72
+1 25 032 71
+1 25 032 22
+1 25 032 60
+2 25 018 52
+7 25 018 52
+1 15 322 85
+1 25 031 72
+1 25 031 70
+1 25 031 67
+7 25 020 22
+2 25 030 22
+9 12 221 22
+1 25 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 51
+2 15 001 84
+9 35 504 71
+
+E 40 E..
+Teilnummer
+7 40 010 51
+7 40 008 22
+7 40 009 51
+7 40 011 51
+2 40 012 51
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 40 013 52
+2 15 014 52
+7 40 015 51
+9 57 627 72
+9 57 627 71
+9 57 627 59
+7 40 017 51
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 019 51
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 016 60
+1 40 032 72
+1 40 032 71
+1 40 032 60
+2 40 018 52
+7 40 018 52
+1 40 322 85
+1 40 031 72
+1 40 031 70
+1 40 031 67
+7 40 020 22
+2 40 030 22
+9 16 222 22
+1 40 041 64
+1 40 047 84
+1 40 043 51
+1 40 244 51
+2 40 001 84
+9 46 515 71
+
+E 50 E..
+Teilnummer
+7 50 010 51
+7 50 008 22
+7 50 009 51
+7 50 011 51
+2 50 012 51
+9 62 634 72
+9 62 634 59
+7 50 013 52
+2 15 014 52
+7 50 015 51
+9 76 628 72
+9 76 628 59
+7 50 017 51
+9 79 353 72
+9 79 353 59
+7 50 019 51
+9 73 635 72
+9 73 635 59
+7 50 016 60
+1 50 032 72
+1 50 032 60
+2 50 018 52
+7 50 018 52
+1 40 322 85
+1 50 031 72
+1 50 031 67
+7 50 020 22
+2 50 030 22
+9 20 223 22
+1 50 041 64
+1 40 047 84
+1 40 043 51
+1 50 244 51
+2 50 201 84
+9 66 533 71
+
+Änderungen vorbehalten!
+
+Ersatzteilliste ALMATEC E-Serie, FEE - FTZ
+Baugröße
+Pos Stck
+1
+2
+2
+2
+3
+2
+4
+1
+5
+4
+6
+8
+
+Benennung
+Werkstoff
+Seitengehäuse
+PE-leitfähig
+Spannscheibe
+1.4301
+Abdeckkappe
+PE-leitfähig
+Zentralgehäuse
+PE-leitfähig
+Verbindungshülse
+PE-leitfähig
+O-Ring, Verbindungshülse, Code FE.
+EPDM
+O-Ring, Verbindungshülse, Code FN.
+NBR
+O-Ring, Verbindungshülse, Code FT.
+FEP/FKM
+7
+2
+Arretierbolzen
+PE-leitfähig
+8
+4
+Gewindebolzen
+PE-leitfähig
+9
+2
+Hubbegrenzer, Druckventil
+PE-leitfähig
+10
+2
+O-Ring, Hubbegrenzer Druckventil, Code FE.
+EPDM
+O-Ring, Hubbegrenzer Druckventil, Code FN.
+NBR
+O-Ring, Hubbegrenzer Druckventil, Code FT.
+FEP/FKM
+11
+2
+Verschlussschraube, Seitengehäuse
+PE-leitfähig
+12
+2
+O-Ring, Verschlussschraube Seitengeh., Code FE.
+EPDM
+O-Ring, Verschlussschraube Seitengeh., Code FN.
+NBR
+O-Ring, Verschlussschraube Seitengeh., Code FT.
+FEP/FKM
+13
+1
+Verschlussschraube, Zentralgehäuse
+PE-leitfähig
+14
+2
+O-Ring, Verschlussschraube Zentralgeh., Code FE.
+EPDM
+O-Ring, Verschlussschraube Zentralgeh., Code FN.
+NBR
+O-Ring, Verschlussschraube Zentralgeh., Code FT.
+FEP/FKM
+15
+4
+Zylinderventilkörper, Code F.Z
+PTFE
+Ventilkugel, Code F.E
+EPDM
+Ventilkugel, Code F.N
+NBR
+Ventilkugel, Code F.S
+Edelstahl
+Ventilkugel, Code F.T
+PTFE
+16
+4
+Ventilsitz, Kugelventile
+PE-leitfähig
+Ventilsitz, Zylinderventile
+PE-leitfähig
+17
+4
+Schwingungsdämpfer
+NR
+18
+2
+Membrane, Code FE.
+EPDM
+Membrane, Code FN.
+NBR
+Membrane, Code FT.
+PTFE
+19
+*
+Zuganker, kpl.
+1.4305
+20
+1
+Kolbenstange
+1.4301
+21
+2
+Gewindestift, Kolbenstange
+1.4305
+22
+2
+Kolbenstangendichtung, kpl.
+PTFE
+23
+1
+Luftanschluss
+PETP
+24
+1
+Luftfilter
+PE
+25
+1
+Schalldämpfer, leitfähig
+Bz
+26
+1
+PERSWING P ® Luftsteuersystem, kpl.
+PETP
+27**
+6
+O-Ring, Steuerventilgehäuse
+NBR
+* für E 15 und E 25: 6 Stück; für E 40 und E 50: 8 Stück ** in Pos. 26 enthalten
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Ausgabe 07/2009
+E 15 F..
+Teilnummer
+7 15 010 55
+7 15 008 22
+7 15 009 55
+7 15 011 55
+2 15 012 55
+9 20 631 72
+9 20 631 71
+9 20 631 59
+7 15 013 56
+2 08 014 56
+7 15 015 55
+9 24 625 72
+9 24 625 71
+9 24 625 59
+7 15 017 55
+9 25 610 72
+9 25 610 71
+9 25 610 59
+7 15 019 55
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 15 016 60
+1 15 032 72
+1 15 032 71
+1 15 032 22
+1 15 032 60
+2 15 018 56
+7 15 018 56
+1 15 322 85
+1 15 031 72
+1 15 031 70
+1 15 031 67
+7 15 020 22
+2 15 030 22
+9 10 220 22
+1 15 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 34
+2 15 001 84
+9 35 504 71
+
+E 25 F..
+Teilnummer
+7 25 010 55
+7 25 008 22
+7 25 009 55
+7 25 011 55
+2 25 012 55
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 25 013 56
+2 10 014 56
+7 25 015 55
+9 38 626 72
+9 38 626 71
+9 38 626 59
+7 25 017 55
+9 40 613 72
+9 40 613 71
+9 40 613 59
+7 25 019 55
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 25 016 60
+1 25 032 72
+1 25 032 71
+1 25 032 22
+1 25 032 60
+2 25 018 56
+7 25 018 56
+1 15 322 85
+1 25 031 72
+1 25 031 70
+1 25 031 67
+7 25 020 22
+2 25 030 22
+9 12 221 22
+1 25 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 34
+2 15 001 84
+9 35 504 71
+
+E 40 F..
+Teilnummer
+7 40 010 55
+7 40 008 22
+7 40 009 55
+7 40 011 55
+2 40 012 55
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 40 013 56
+2 15 014 56
+7 40 015 55
+9 57 627 72
+9 57 627 71
+9 57 627 59
+7 40 017 55
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 019 55
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 016 60
+1 40 032 72
+1 40 032 71
+1 40 032 60
+2 40 018 56
+7 40 018 56
+1 40 322 85
+1 40 031 72
+1 40 031 70
+1 40 031 67
+7 40 020 22
+2 40 030 22
+9 16 222 22
+1 40 041 64
+1 40 047 84
+1 40 043 51
+1 40 244 34
+2 40 001 84
+9 46 515 71
+
+E 50 F..
+Teilnummer
+7 50 010 55
+7 50 008 22
+7 50 009 55
+7 50 011 55
+2 50 012 55
+9 62 634 72
+9 62 634 59
+7 50 013 56
+2 15 014 56
+7 50 015 55
+9 76 628 72
+9 76 628 59
+7 50 017 55
+9 79 353 72
+9 79 353 59
+7 50 019 55
+9 73 635 72
+9 73 635 59
+7 50 016 60
+1 50 032 72
+1 50 032 60
+2 50 018 56
+7 50 018 56
+1 40 322 85
+1 50 031 72
+1 50 031 67
+7 50 020 22
+2 50 030 22
+9 20 223 22
+1 50 041 64
+1 40 047 84
+1 40 043 51
+1 40 244 34
+2 50 201 84
+9 66 533 71
+
+Änderungen vorbehalten!
+
+Ersatzteilliste ALMATEC E-Serie, TEE - TTZ
+Baugröße
+Pos Stck
+1
+2
+2
+2
+3
+2
+4
+1
+5
+4
+6
+8
+
+Benennung
+Werkstoff
+Seitengehäuse
+PTFE
+Spannscheibe
+1.4301
+Abdeckkappe
+PE
+Zentralgehäuse
+PTFE
+Verbindungshülse
+PTFE
+O-Ring, Verbindungshülse, Code TE.
+EPDM
+O-Ring, Verbindungshülse, Code TN.
+NBR
+O-Ring, Verbindungshülse, Code TT.
+FEP/FKM
+7
+2
+Arretierbolzen
+PTFE
+8
+4
+Gewindebolzen
+PTFE
+9
+2
+Hubbegrenzer, Druckventil
+PTFE
+10
+2
+O-Ring, Hubbegrenzer Druckventil, Code TE.
+EPDM
+O-Ring, Hubbegrenzer Druckventil, Code TN.
+NBR
+O-Ring, Hubbegrenzer Druckventil, Code TT.
+FEP/FKM
+11
+2
+Verschlussschraube, Seitengehäuse
+PTFE
+12
+2
+O-Ring, Verschlussschraube Seitengeh., Code TE.
+EPDM
+O-Ring, Verschlussschraube Seitengeh., Code TN.
+NBR
+O-Ring, Verschlussschraube Seitengeh., Code TT.
+FEP/FKM
+13
+1
+Verschlussschraube, Zentralgehäuse
+PTFE
+14
+2
+O-Ring, Verschlussschraube Zentralgeh., Code TE.
+EPDM
+O-Ring, Verschlussschraube Zentralgeh., Code TN.
+NBR
+O-Ring, Verschlussschraube Zentralgeh., Code TT.
+FEP/FKM
+15
+4
+Zylinderventilkörper, Code T.Z
+PTFE
+Ventilkugel, Code T.E
+EPDM
+Ventilkugel, Code T.N
+NBR
+Ventilkugel, Code T.S
+Edelstahl
+Ventilkugel, Code T.T
+PTFE
+16
+4
+Ventilsitz, Kugelventile
+PTFE
+Ventilsitz, Zylinderventile
+PTFE
+17
+4
+Schwingungsdämpfer
+NR
+18
+2
+Membrane, Code TE.
+EPDM
+Membrane, Code TN.
+NBR
+Membrane, Code TT.
+PTFE
+19
+*
+Zuganker, kpl.
+1.4305
+20
+1
+Kolbenstange
+1.4301
+21
+2
+Gewindestift, Kolbenstange
+1.4305
+22
+2
+Kolbenstangendichtung, kpl.
+PTFE
+23
+1
+Luftanschluss
+PETP
+24
+1
+Luftfilter
+PE
+25
+1
+Schalldämpfer, kpl.
+PE
+26
+1
+PERSWING P® Luftsteuersystem, kpl.
+PETP
+27**
+6
+O-Ring, Steuerventilgehäuse
+NBR
+* für E 08 und E 10: 4 Stück; für E 15 und E 25: 6 Stück; für E 40 und E 50: 8 Stück
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Ausgabe 09/2009
+E 08 T..
+Teilnummer
+7 08 010 60
+7 08 008 22
+7 08 009 51
+7 08 011 60
+2 08 012 69
+9 12 629 59
+7 08 013 60
+7 08 014 60
+7 08 015 60
+9 16 623 59
+7 08 017 60
+9 14 178 59
+7 08 019 60
+9 20 631 59
+7 08 016 60
+1 10 032 72
+1 10 032 22
+1 10 032 60
+2 08 018 60
+7 08 018 60
+1 08 322 85
+1 08 031 67
+7 08 020 22
+2 08 030 22**
+1 08 047 84
+1 08 244 51
+2 08 001 84
+9 26 519 71
+** in Pos. 26 enthalten
+
+E 10 T..
+Teilnummer
+7 10 010 60
+7 10 008 22
+7 10 009 51
+7 10 011 60
+2 10 012 69
+9 15 630 72
+9 15 630 59
+7 10 013 60
+7 08 014 60
+7 10 015 60
+9 19 624 72
+9 19 624 59
+7 10 017 60
+9 20 602 72
+9 20 602 59
+7 10 019 60
+9 20 631 72
+9 20 631 59
+7 10 016 60
+4 15 032 72
+4 15 032 22
+4 15 032 60
+2 10 018 60
+7 10 018 60
+1 08 322 85
+1 10 031 72
+1 10 031 67
+7 10 020 22
+2 08 030 22**
+1 08 047 84
+1 08 244 51
+2 08 001 84
+9 26 519 71
+
+E 15 T..
+Teilnummer
+7 15 010 60
+7 15 008 22
+7 15 009 51
+7 15 011 60
+2 15 012 69
+9 20 631 72
+9 20 631 71
+9 20 631 59
+7 15 013 60
+2 08 014 60
+7 15 015 60
+9 24 625 72
+9 24 625 71
+9 24 625 59
+7 15 017 60
+9 25 610 72
+9 25 610 71
+9 25 610 59
+7 15 019 60
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 15 016 60
+1 15 032 72
+1 15 032 71
+1 15 032 22
+1 15 032 60
+2 15 018 60
+7 15 018 60
+1 15 322 85
+1 15 031 72
+1 15 031 70
+1 15 031 67
+7 15 020 22
+2 15 030 22
+9 10 220 22
+1 15 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 51
+2 15 001 84
+9 35 504 71
+
+E 25 T..
+Teilnummer
+7 25 010 60
+7 25 008 22
+7 25 009 51
+7 25 011 60
+2 25 012 69
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 25 013 60
+2 10 014 60
+7 25 015 60
+9 38 626 72
+9 38 626 71
+9 38 626 59
+7 25 017 60
+9 40 613 72
+9 40 613 71
+9 40 613 59
+7 25 019 60
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 25 016 60
+1 25 032 72
+1 25 032 71
+1 25 032 60
+2 25 018 60
+7 25 018 60
+1 15 322 85
+1 25 031 72
+1 25 031 70
+1 25 031 67
+7 25 020 22
+2 25 030 22
+9 12 221 22
+1 25 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 51
+2 15 001 84
+9 35 504 71
+
+E 40 T..
+Teilnummer
+7 40 010 60
+7 40 008 22
+7 40 009 51
+7 40 011 60
+2 40 012 69
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 40 013 60
+2 15 014 60
+7 40 015 60
+9 57 627 72
+9 57 627 71
+9 57 627 59
+7 40 017 60
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 019 60
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 016 60
+1 40 032 72
+1 40 032 71
+1 40 032 60
+2 40 018 60
+7 40 018 60
+1 40 322 85
+1 40 031 72
+1 40 031 70
+1 40 031 67
+7 40 020 22
+2 40 030 22
+9 16 222 22
+1 40 041 64
+1 40 047 84
+1 40 043 51
+1 40 244 51
+2 40 001 84
+9 46 515 71
+
+E 50 T..
+Teilnummer
+7 50 010 60
+7 50 008 22
+7 50 009 51
+7 50 011 60
+2 50 012 69
+9 62 634 72
+9 62 634 59
+7 50 013 60
+2 15 014 60
+7 50 015 60
+9 76 628 72
+9 76 628 59
+7 50 017 60
+9 79 353 72
+9 79 353 59
+7 50 019 60
+9 73 635 72
+9 73 635 59
+7 50 016 60
+1 50 032 72
+1 50 032 60
+2 50 018 60
+7 50 018 60
+1 40 322 85
+1 50 031 72
+1 50 031 67
+7 50 020 22
+2 50 030 22
+9 20 223 22
+1 50 041 64
+1 40 047 84
+1 40 043 51
+1 50 244 51
+2 50 201 84
+9 66 533 71
+
+Änderungen vorbehalten!
+
+Ersatzteilliste ALMATEC E-Serie, UEE - UTZ
+Baugröße
+Pos Stck
+1
+2
+2
+2
+3
+2
+4
+1
+5
+4
+6
+8
+
+E 08 U..
+Benennung
+Werkstoff
+Teilnummer
+Seitengehäuse
+PTFE-leitfähig
+7 08 010 65
+Spannscheibe
+1.4301
+7 08 008 22
+Abdeckkappe
+PE-leitfähig
+7 08 009 55
+Zentralgehäuse
+PTFE-leitfähig
+7 08 011 65
+Verbindungshülse
+PTFE-leitfähig
+2 08 012 68
+O-Ring, Verbindungshülse, Code UE.
+EPDM
+O-Ring, Verbindungshülse, Code UN.
+NBR
+O-Ring, Verbindungshülse, Code UT.
+FEP/FKM
+9 12 629 59
+7
+2
+Arretierbolzen
+PTFE-leitfähig
+7 08 013 65
+8
+4
+Gewindebolzen
+PTFE-leitfähig
+7 08 014 65
+9
+2
+Hubbegrenzer, Druckventil
+PTFE-leitfähig
+7 08 015 65
+10
+2
+O-Ring, Hubbegrenzer Druckventil, Code UE.
+EPDM
+O-Ring, Hubbegrenzer Druckventil, Code UN.
+NBR
+O-Ring, Hubbegrenzer Druckventil, Code UT.
+FEP/FKM
+9 16 623 59
+11
+2
+Verschlussschraube, Seitengehäuse
+PTFE-leitfähig
+7 08 017 65
+12
+2
+O-Ring, Verschlussschraube Seitengeh., Code UE.
+EPDM
+O-Ring, Verschlussschraube Seitengeh., Code UN.
+NBR
+O-Ring, Verschlussschraube Seitengeh., Code UT.
+FEP/FKM
+9 14 178 59
+13
+1
+Verschlussschraube, Zentralgehäuse
+PTFE-leitfähig
+7 08 019 65
+14
+2
+O-Ring, Verschlussschraube Zentralgeh., Code UE.
+EPDM
+O-Ring, Verschlussschraube Zentralgeh., Code UN.
+NBR
+O-Ring, Verschlussschraube Zentralgeh., Code UT.
+FEP/FKM
+9 20 631 59
+15
+4
+Zylinderventilkörper, Code U.Z
+PTFE
+7 08 016 60
+Ventilkugel, Code U.E
+EPDM
+1 10 032 72
+Ventilkugel, Code U.N
+NBR
+Ventilkugel, Code U.S
+Edelstahl
+1 10 032 22
+Ventilkugel, Code U.T
+PTFE
+1 10 032 60
+16
+4
+Ventilsitz, Kugelventile
+PTFE-leitfähig
+2 08 018 65
+Ventilsitz, Zylinderventile
+PTFE-leitfähig
+7 08 018 65
+17
+4
+Schwingungsdämpfer
+NR
+1 08 322 85
+18
+2
+Membrane, Code UE.
+EPDM
+Membrane, Code UN.
+NBR
+Membrane, Code UT.
+PTFE
+1 08 031 67
+19
+*
+Zuganker, kpl.
+1.4305
+7 08 020 22
+20
+1
+Kolbenstange
+1.4301
+2 08 030 22**
+21
+2
+Gewindestift, Kolbenstange
+1.4305
+22
+2
+Kolbenstangendichtung, kpl.
+PTFE
+23
+1
+Luftanschluss
+PETP
+1 08 047 84
+24
+1
+Luftfilter
+PE
+25
+1
+Schalldämpfer
+PE/Bz
+1 08 244 51
+26
+1
+PERSWING P® Luftsteuersystem, kpl.
+PETP
+2 08 001 84
+27**
+6
+O-Ring, Steuerventilgehäuse
+NBR
+9 26 519 71
+* für E 08 und E 10: 4 Stück; für E 15 und E 25: 6 Stück; für E 40 und E 50: 8 Stück ** in Pos. 26 enthalten
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Ausgabe 09/2009
+E 10 U..
+Teilnummer
+7 10 010 65
+7 10 008 22
+7 10 009 55
+7 10 011 65
+2 10 012 68
+9 15 630 72
+9 15 630 59
+7 10 013 65
+7 08 014 65
+7 10 015 65
+9 19 624 72
+9 19 624 59
+7 10 017 65
+9 20 602 72
+9 20 602 59
+7 10 019 65
+9 20 631 72
+9 20 631 59
+7 10 016 60
+4 15 032 72
+4 15 032 22
+4 15 032 60
+2 10 018 65
+7 10 018 65
+1 08 322 85
+1 10 031 72
+1 10 031 67
+7 10 020 22
+2 08 030 22**
+1 08 047 84
+1 08 244 51
+2 08 001 84
+9 26 519 71
+
+E 15 U..
+Teilnummer
+7 15 010 65
+7 15 008 22
+7 15 009 55
+7 15 011 65
+2 15 012 68
+9 20 631 72
+9 20 631 71
+9 20 631 59
+7 15 013 65
+2 08 014 65
+7 15 015 65
+9 24 625 72
+9 24 625 71
+9 24 625 59
+7 15 017 65
+9 25 610 72
+9 25 610 71
+9 25 610 59
+7 15 019 65
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 15 016 60
+1 15 032 72
+1 15 032 71
+1 15 032 22
+1 15 032 60
+2 15 018 65
+7 15 018 65
+1 15 322 85
+1 15 031 72
+1 15 031 70
+1 15 031 67
+7 15 020 22
+2 15 030 22
+9 10 220 22
+1 15 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 34
+2 15 001 84
+9 35 504 71
+
+E 25 U..
+Teilnummer
+7 25 010 65
+7 25 008 22
+7 25 009 55
+7 25 011 65
+2 25 012 68
+9 33 632 72
+9 33 632 71
+9 33 632 59
+7 25 013 65
+2 10 014 65
+7 25 015 65
+9 38 626 72
+9 38 626 71
+9 38 626 59
+7 25 017 65
+9 40 613 72
+9 40 613 71
+9 40 613 59
+7 25 019 65
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 25 016 60
+1 25 032 72
+1 25 032 71
+1 25 032 60
+2 25 018 65
+7 25 018 65
+1 15 322 85
+1 25 031 72
+1 25 031 70
+1 25 031 67
+7 25 020 22
+2 25 030 22
+9 12 221 22
+1 25 041 64
+1 15 047 84
+1 15 043 51
+1 15 244 34
+2 15 001 84
+9 35 504 71
+
+E 40 U..
+Teilnummer
+7 40 010 65
+7 40 008 22
+7 40 009 55
+7 40 011 65
+2 40 012 68
+9 50 633 72
+9 50 633 71
+9 50 633 59
+7 40 013 65
+2 15 014 65
+7 40 015 65
+9 57 627 72
+9 57 627 71
+9 57 627 59
+7 40 017 65
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 019 65
+9 62 634 72
+9 62 634 71
+9 62 634 59
+7 40 016 60
+1 40 032 72
+1 40 032 71
+1 40 032 60
+2 40 018 65
+7 40 018 65
+1 40 322 85
+1 40 031 72
+1 40 031 70
+1 40 031 67
+7 40 020 22
+2 40 030 22
+9 16 222 22
+1 40 041 64
+1 40 047 84
+1 40 043 51
+1 40 244 34
+2 40 001 84
+9 46 515 71
+
+E 50 U..
+Teilnummer
+7 50 010 65
+7 50 008 22
+7 50 009 55
+7 50 011 65
+2 50 012 68
+9 62 634 72
+9 62 634 59
+7 50 013 65
+2 15 014 65
+7 50 015 65
+9 76 628 72
+9 76 628 59
+7 50 017 65
+9 79 353 72
+9 79 353 59
+7 50 019 65
+9 73 635 72
+9 73 635 59
+7 50 016 60
+1 50 032 72
+1 50 032 60
+2 50 018 65
+7 50 018 65
+1 40 322 85
+1 50 031 72
+1 50 031 67
+7 50 020 22
+2 50 030 22
+9 20 223 22
+1 50 041 64
+1 40 047 84
+1 40 043 51
+1 40 244 34
+2 50 201 84
+9 66 533 71
+
+Änderungen vorbehalten!
+
+Ersatzteilliste ALMATEC E-Serie, Sonderausstattung Sperrkammersystem, Code B
+Baugröße
+Code
+
+Pos
+
+B1
+
+5
+
+Stck Benennung
+4
+
+Werkstoff
+
+Ausgabe 07/2009
+E 10
+
+E 15
+
+E 25
+
+E 40
+
+E 50
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+-
+
+2 15 112 51
+
+2 25 112 51
+
+2 40 112 51
+
+2 50 112 51
+2 50 112 55
+
+Verbindungshülse, Sperrkammer, Code E..
+
+PE
+
+Verbindungshülse, Sperrkammer, Code F..
+
+PE-leitfähig
+
+-
+
+2 15 112 55
+
+2 25 112 55
+
+2 40 112 55
+
+Verbindungshülse, Sperrkammer, Code T..
+
+PTFE
+
+2 10 112 69
+
+2 15 112 69
+
+2 25 112 69
+
+2 40 112 69
+
+2 50 112 69
+
+Verbindungshülse, Sperrkammer, Code U..
+
+PTFE-leitfähig
+
+2 10 112 68
+
+2 15 112 68
+
+2 25 112 68
+
+2 40 112 68
+
+2 50 112 68
+
+7 10 120 22
+
+7 15 120 22
+
+7 25 120 22
+
+7 40 120 22
+
+7 50 120 22
+
+19
+
+*
+
+Zuganker, Sperrkammer, kpl.
+
+1.4305
+
+21
+
+2
+
+Gewindestift, Kolbenstange, Sperrkammer
+
+1.4305
+
+-
+
+9 10 223 22
+
+9 12 224 22
+
+9 16 225 22
+
+9 20 226 22
+
+40
+
+2
+
+Distanzhülse
+
+PETP
+
+2 10 078 84
+
+2 15 078 84
+
+2 25 078 84
+
+-
+
+-
+
+41
+
+2
+
+Distanzbolzen
+
+1.4301
+
+2 10 079 22
+
+-
+
+-
+
+-
+
+-
+
+42
+
+2
+
+Sperrkammer
+
+PE-leitfähig
+
+7 10 076 55
+
+7 15 076 55
+
+7 25 076 55
+
+7 40 076 55
+
+7 50 076 55
+
+43
+
+2
+
+Sensorhülse
+
+PE
+
+2 10 069 51
+
+2 10 069 51
+
+2 10 069 51
+
+2 10 069 51
+
+2 10 069 51
+
+44
+
+2
+
+O-Ring, Sensorhülse
+
+FKM
+
+9 10 544 74
+
+9 10 544 74
+
+9 10 544 74
+
+9 10 544 74
+
+9 10 544 74
+
+45
+
+4
+
+Leitfähigkeitssensor, kpl.
+
+diverse
+
+7 00 074 99
+
+7 00 074 99
+
+7 00 074 99
+
+7 00 074 99
+
+7 00 074 99
+
+46
+
+4
+
+O-Ring, Leitfähigkeitssensor
+
+FKM
+
+9 06 538 74
+
+9 06 538 74
+
+9 06 538 74
+
+9 06 538 74
+
+9 06 538 74
+
+47
+
+2
+
+Verschlußschraube GPN 730
+
+PA
+
+48
+
+2
+
+O-Ring, Verschlußschraube
+
+FKM
+
+49
+
+2
+
+Innenmembrane
+
+EPDM
+
+1 10 231 72
+
+1 15 131 72
+
+1 25 131 72
+
+1 40 131 72
+
+1 50 131 72
+
+51
+
+2
+
+Füllstandssensor, Namur
+
+diverse
+
+1 00 673 99
+
+1 00 673 99
+
+1 00 673 99
+
+1 00 673 99
+
+1 00 673 99
+
+52
+
+2
+
+O-Ring, Füllstandssensor
+
+FKM
+
+9 10 544 74
+
+9 10 544 74
+
+9 10 544 74
+
+9 10 544 74
+
+9 10 544 74
+
+53
+
+2
+
+Spannhülse, Füllstandsensor
+
+PE-leitfähig
+
+7 10 073 56
+
+7 10 073 56
+
+7 10 073 56
+
+7 10 073 56
+
+7 10 073 56
+
+-
+
+1
+
+Trennschaltgerät
+
+diverse
+
+1 00 370 99
+
+1 00 370 99
+
+1 00 370 99
+
+1 00 370 99
+
+1 00 370 99
+
+-
+
+1
+
+Leitfähigkeitsschaltgerät
+
+diverse
+
+1 00 075 99
+
+1 00 075 99
+
+1 00 075 99
+
+1 00 075 99
+
+1 00 075 99
+
+B3
+
+730 R 1/4
+
+730 R 1/4
+
+730 R 1/4
+
+730 R 1/4
+
+730 R 1/4
+
+9 13 575 74
+
+9 13 575 74
+
+9 13 575 74
+
+9 13 575 74
+
+9 13 575 74
+
+wie B 1, jedoch zusätzlich:
+
+B4
+
+wie B 3, jedoch in [EExia] II C:
+-
+
+1
+
+Trennschaltgerät
+
+diverse
+
+1 00 370 99
+
+1 00 370 99
+
+1 00 370 99
+
+1 00 370 99
+
+1 00 370 99
+
+-
+
+1
+
+Leitfähigkeitsschaltgerät
+
+diverse
+
+1 00 175 99
+
+1 00 175 99
+
+1 00 175 99
+
+1 00 175 99
+
+1 00 175 99
+
+für E 10: 4 Stück; für E 15 und E 25: 6 Stück; für E 40 und E 50: 8 Stück
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Änderungen vorbehalten!
+
+ALMATEC Maschinenbau GmbH · Carl-Friedrich-Gauß-Str. 5 · 47475 Kamp-Lintfort, Deutschland · Tel. +49/2842/961-0, Fax +49/2842/961-40 · info@almatec.de · www.almatec.de
+
+Ersatzteilliste ALMATEC E-Serie, Sonderausstattungen, Code C - D
+
+Ausgabe 07/2009
+
+Baugröße
+Code
+
+Pos
+
+C2
+
+4*
+
+Stck Benennung
+1
+
+Zentralgehäuse für Sensor, Code E..
+Zentralgehäuse für Sensor, Code F..
+Zentralgehäuse für Sensor, Code T..
+Zentralgehäuse für Sensor, Code U..
+50
+1
+Hubzählsensor, Namur
+1
+O-Ring, Hubzählsensor
+C3
+wie C 2, jedoch zusätzlich:
+1
+Klemmverstärker
+1
+Hubzähler
+C4
+wie C 2, jedoch zusätzlich:
+1
+Trennschaltgerät
+1
+Hubzähler
+C9
+4*
+1
+Zentralgehäuse mit zusätzl. Luftanschluss R 1/4, Code E..
+Zentralgehäuse mit zusätzl. Luftanschluss R 1/4, Code F..
+Zentralgehäuse mit zusätzl. Luftanschluss R 1/4, Code T..**
+Zentralgehäuse mit zusätzl. Luftanschluss R 1/4, Code U..***
+1
+Winkelverschraubung (E 10 gerade Verschraubung)
+1
+Schlauch
+1
+Druckschalter, kpl.
+1
+Steckdose mit Kabel
+C10
+wie C 9, jedoch zusätzlich:
+1
+Hubzähler
+D1
+51
+1
+Membransensor, Namur
+D3
+51
+1
+Membransensor, Namur
+1
+Trennschaltgerät
+* Ersatzteilnummern für Zentralgehäuse mit ANSI-Anschlüssen auf Anfrage
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+E 10
+
+E 15
+
+E 25
+
+E 40
+
+E 50
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+PE
+PE-leitfähig
+PTFE
+PTFE-leitfähig
+diverse
+NBR
+
+-
+
+7 15 111 51
+7 15 111 55
+7 15 111 60
+7 15 111 65
+1 00 072 99
+9 25 535 71
+
+7 25 111 51
+7 25 111 55
+7 25 111 60
+7 25 111 65
+1 00 072 99
+9 25 535 71
+
+7 40 111 51
+7 40 111 55
+7 40 111 60
+7 40 111 65
+1 00 072 99
+9 25 535 71
+
+7 50 111 51
+7 50 111 55
+7 50 111 60
+7 50 111 65
+1 00 072 99
+9 25 535 71
+
+diverse
+diverse
+
+-
+
+1 00 171 99
+1 00 071 99
+
+1 00 171 99
+1 00 071 99
+
+1 00 171 99
+1 00 071 99
+
+1 00 171 99
+1 00 071 99
+
+7 10 311 60
+7 10 311 65
+1 00 877 51
+1 00 876 51
+1 00 972 99
+1 00 973 99
+
+1 00 370 99
+1 00 071 99
+7 15 311 51
+7 15 311 55
+7 15 311 60
+7 15 311 65
+1 00 875 51
+1 00 876 51
+1 00 972 99
+1 00 973 99
+
+1 00 370 99
+1 00 071 99
+7 25 311 51
+7 25 311 55
+7 25 311 60
+7 25 311 65
+1 00 875 51
+1 00 876 51
+1 00 972 99
+1 00 973 99
+
+1 00 370 99
+1 00 071 99
+7 40 311 51
+7 40 311 55
+7 40 311 60
+7 40 311 65
+1 00 875 51
+1 00 876 51
+1 00 972 99
+1 00 973 99
+
+1 00 370 99
+1 00 071 99
+7 50 311 51
+7 50 311 55
+7 50 311 60
+7 50 311 65
+1 00 875 51
+1 00 876 51
+1 00 972 99
+1 00 973 99
+
+diverse
+1 00 071 99
+diverse
+1 00 773 99
+diverse
+1 00 773 99
+diverse
+1 00 370 99
+** für Baugröße E 08: 7 08 311 60
+
+1 00 071 99
+1 00 773 99
+1 00 773 99
+1 00 370 99
+
+1 00 071 99
+1 00 071 99
+1 00 773 99
+1 00 773 99
+1 00 773 99
+1 00 773 99
+1 00 370 99
+1 00 370 99
+*** für Baugröße E 08: 7 08 311 65
+
+1 00 071 99
+1 00 773 99
+1 00 773 99
+1 00 370 99
+
+Werkstoff
+
+diverse
+diverse
+PE
+PE-leitfähig
+PTFE
+PTFE-leitfähig
+PP
+PE
+diverse
+diverse
+
+Änderungen vorbehalten!
+
+ALMATEC Maschinenbau GmbH · Carl-Friedrich-Gauß-Str. 5 · 47475 Kamp-Lintfort, Deutschland · Tel. +49/2842/961-0, Fax +49/2842/961-40 · info@almatec.de · www.almatec.de
+
+Ersatzteilliste ALMATEC E-Serie, Sonderausstattungen, Code F - W
+
+Ausgabe 07/2009
+
+Baugröße
+Code
+F3
+F3w
+F4
+F4w
+F5
+F5w
+P
+R1
+
+Pos
+30
+30
+30
+30
+30
+30
+18
+1
+
+Stck
+12
+2
+12
+2
+12
+2
+12
+2
+12
+2
+12
+2
+2
+2
+
+31
+32
+33
+
+2
+2
+2
+
+31
+
+2
+
+32
+35
+36
+37
+
+2
+2
+2
+4
+
+31
+
+2
+
+31
+
+2
+
+31
+4
+
+2
+1
+
+R2
+R3
+
+R4
+R5
+R6
+W
+
+Benennung
+Gewindebuchse, Zentralgehäuse DIN
+Flansch-O-Ring, Zentralgehäuse DIN
+Gewindebuchse, Zentralgehäuse ANSI
+Flansch-O-Ring, Zentralgehäuse ANSI
+Gewindebuchse, Zentralgehäuse DIN
+Flansch-O-Ring, Zentralgehäuse DIN
+Gewindebuchse, Zentralgehäuse ANSI
+Flansch-O-Ring, Zentralgehäuse ANSI
+Gewindebuchse, Zentralgehäuse DIN
+Flansch-O-Ring, Zentralgehäuse DIN
+Gewindebuchse, Zentralgehäuse ANSI
+Flansch-O-Ring, Zentralgehäuse ANSI
+Membrane aus modifiziertem PTFE
+Seitengehäuse für Rückspülsystem, Code E..
+Seitengehäuse für Rückspülsystem, Code F..
+Seitengehäuse für Rückspülsystem, Code T..
+Seitengehäuse für Rückspülsystem, Code U..
+O-Ring, Seitengehäuse für Rückspülsystem
+Rückspülstopfen
+Dichtstopfen
+wie R 1, jedoch:
+O-Ring, Seitengehäuse für Rückspülsystem
+wie R 1, jedoch:
+Dichtkolben
+Dichtkolbenhülse
+Dichtkolbendeckel
+O-Ring, Dichtkolben u. -deckel
+wie R 3, jedoch:
+O-Ring, Seitengehäuse für Rückspülsystem
+wie R 1, jedoch:
+O-Ring, Seitengehäuse für Rückspülsystem
+wie R 3, jedoch:
+O-Ring, Seitengehäuse für Rückspülsystem
+Zentralgehäuse ANSI, Code E..
+Zentralgehäuse ANSI, Code F..
+Zentralgehäuse ANSI, Code T..
+Zentralgehäuse ANSI, Code U..
+
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+E 10
+
+E 15
+
+E 25
+
+E 40
+
+E 50
+
+Teilnummer
+-
+
+Teilnummer
+2 15 169 22
+9 33 632 72
+3 15 069 22
+9 23 588 72
+2 15 169 22
+9 33 632 59
+3 15 069 22
+9 23 588 59
+2 15 169 22
+9 33 632 71
+3 15 069 22
+9 23 588 71
+1 15 031 98
+7 15 110 51
+7 15 110 55
+7 15 110 60
+7 15 110 65
+9 20 631 72
+2 15 023 60
+7 15 022 60
+
+Teilnummer
+2 15 169 22
+9 50 633 72
+3 15 069 22
+9 40 613 72
+2 15 169 22
+9 50 633 59
+3 15 069 22
+9 40 613 59
+2 15 169 22
+9 50 633 71
+3 15 069 22
+9 40 613 71
+1 25 031 98
+7 25 110 51
+7 25 110 55
+7 25 110 60
+7 25 110 65
+9 20 631 72
+2 15 023 60
+7 15 022 60
+
+Teilnummer
+2 40 169 22
+9 62 634 72
+3 15 069 22
+9 62 634 72
+2 40 169 22
+9 62 634 59
+3 15 069 22
+9 62 634 59
+2 40 169 22
+9 62 634 71
+3 15 069 22
+9 62 634 71
+1 40 031 98
+7 40 110 51
+7 40 110 55
+7 40 110 60
+7 40 110 65
+9 33 632 72
+2 40 023 60
+7 40 022 60
+
+Teilnummer
+2 40 169 22
+9 73 635 72
+3 25 069 22
+9 73 635 72
+2 40 169 22
+9 73 635 59
+3 25 069 22
+9 73 635 59
+1 50 031 98
+7 50 110 51
+7 50 110 55
+7 50 110 60
+7 50 110 65
+9 33 632 72
+2 40 023 60
+7 40 022 60
+
+FEP/FKM
+
+-
+
+9 20 631 59
+
+9 20 631 59
+
+9 33 632 59
+
+9 33 632 59
+
+PTFE
+PE-leitfähig
+PE-leitfähig
+NBR/EPDM
+
+-
+
+2 15 024 60
+2 15 025 55
+2 15 026 55
+9 28 534 71
+
+2 15 024 60
+2 25 025 55
+2 15 026 55
+9 28 534 71
+
+2 40 024 60
+2 40 025 56
+2 40 026 55
+9 37 603 72
+
+2 40 024 60
+2 50 025 56
+2 40 026 55
+9 37 603 72
+
+FEP/FKM
+
+-
+
+9 20 631 59
+
+9 20 631 59
+
+9 33 632 59
+
+9 33 632 59
+
+NBR
+
+-
+
+9 20 631 71
+
+9 20 631 71
+
+9 33 632 71
+
+-
+
+NBR
+PE
+PE-leitfähig
+PTFE
+PTFE-leitfähig
+
+-
+
+9 20 631 71
+7 15 411 51
+7 15 411 55
+7 15 411 60
+7 15 411 65
+
+9 20 631 71
+7 25 411 51
+7 25 411 55
+7 25 411 60
+7 25 411 65
+
+9 33 632 71
+7 40 411 51
+7 40 411 55
+7 40 411 60
+7 40 411 65
+
+7 50 411 51
+7 50 411 55
+7 50 411 60
+7 50 411 65
+
+Werkstoff
+1.4305
+EPDM
+1.4305
+EPDM
+1.4305
+FEP/FKM
+1.4305
+FEP/FKM
+1.4305
+NBR
+1.4305
+NBR
+PTFE mod.
+PE
+PE-leitfähig
+PTFE
+PTFE-leitfähig
+EPDM
+PTFE
+PTFE
+
+Änderungen vorbehalten!
+
+ALMATEC Maschinenbau GmbH · Carl-Friedrich-Gauß-Str. 5 · 47475 Kamp-Lintfort, Deutschland · Tel. +49/2842/961-0, Fax +49/2842/961-40 · info@almatec.de · www.almatec.de
+
+Ersatzteilliste ALMATEC Pulsationsdämpfer ET für die E-Serie, EAE - UFT
+Baugröße
+Pos
+1
+
+2
+
+Stck Benennung
+1
+
+1
+
+Werkstoff
+
+Ausgabe 07/2009
+ET 10
+
+ET 15
+
+ET 25
+
+ET 40
+
+ET 50
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+-
+
+7 15 080 52
+
+7 25 080 52
+
+7 40 080 52
+
+7 50 080 52
+7 50 080 56
+
+Dämpfergehäuse, Code E..
+
+PE
+
+Dämpfergehäuse, Code F..
+
+PE-leitfähig
+
+-
+
+7 15 080 56
+
+7 25 080 56
+
+7 40 080 56
+
+Dämpfergehäuse, Code T..
+
+PTFE
+
+7 10 080 69
+
+7 15 080 69
+
+7 25 080 69
+
+7 40 080 60
+
+7 50 080 60
+
+Dämpfergehäuse, Code U..
+
+PTFE-leitfähig
+
+7 10 080 68
+
+7 15 080 68
+
+7 25 080 68
+
+7 40 080 65
+
+7 50 080 65
+
+Membrane, Code ..E
+
+EPDM
+
+-
+
+1 10 031 72
+
+1 15 031 72
+
+1 25 031 72
+
+1 40 031 72
+
+Membrane, Code ..N
+
+NBR
+
+-
+
+1 10 031 70
+
+1 15 031 70
+
+1 25 031 70
+
+1 40 031 70
+
+Membrane, Code ..T
+
+PTFE
+
+1 08 031 67
+
+1 10 031 67
+
+1 15 031 67
+
+1 25 031 67
+
+1 40 031 67
+
+Membrane, Code ..T - P
+
+PTFE-mod.
+
+-
+
+-
+
+1 15 031 98
+
+1 25 031 98
+
+1 40 031 98
+
+PA
+
+7 10 081 53
+
+7 15 081 53
+
+7 25 081 53
+
+7 40 081 53
+
+7 50 081 53
+
+3
+
+1
+
+Dämpferkopf, Code .A.
+Dämpferkopf, Code .F.
+
+PE-leitfähig
+
+7 10 081 55
+
+7 15 081 55
+
+7 25 081 55
+
+7 40 081 55
+
+7 50 081 55
+
+4
+
+1
+
+Spannscheibe
+
+1.4301
+
+7 08 008 22
+
+7 10 008 22
+
+7 15 008 22
+
+7 25 008 22
+
+7 40 008 22
+
+5
+
+1
+
+Abdeckkappe, Code .A.
+
+PE
+
+7 08 009 51
+
+7 10 009 51
+
+7 15 009 51
+
+7 25 009 51
+
+7 40 009 51
+
+Abdeckkappe, Code .F.
+
+PE-leitfähig
+
+7 08 009 55
+
+7 10 009 55
+
+7 15 009 55
+
+7 25 009 55
+
+7 40 009 55
+
+6
+
+*
+
+Zuganker, kpl.
+
+1.4301
+
+7 10 083 22
+
+7 15 083 22
+
+7 25 083 22
+
+7 40 083 22
+
+7 50 083 22
+
+7
+
+1
+
+Steuerstange
+
+1.4301
+
+1 08 482 22
+
+1 10 482 22
+
+1 15 482 22
+
+1 25 482 22
+
+1 40 482 22
+
+8
+
+3
+
+Kolbenstangendichtung, kpl.
+
+PTFE
+
+1 08 041 64
+
+1 08 041 64
+
+1 15 041 64
+
+1 25 041 64
+
+1 40 041 64
+
+9
+
+1
+
+Schalldämpfer
+
+PE
+
+1 08 644 51
+
+1 08 644 51
+
+1 15 644 51
+
+1 25 644 51
+
+1 40 644 51
+
+10
+
+1
+
+Flansch-O-Ring, Zentralgehäuse DIN, Code ..E
+
+EPDM
+
+9 20 631 72
+
+9 33 632 72
+
+9 50 633 72
+
+9 62 634 72
+
+9 73 635 72
+
+Flansch-O-Ring, Zentralgehäuse DIN, Code ..N
+
+NBR
+
+-
+
+9 33 632 71
+
+9 50 633 71
+
+9 62 634 71
+
+9 73 635 71
+
+Flansch-O-Ring, Zentralgehäuse DIN, Code ..T
+
+FEP/FKM
+
+9 20 631 59
+
+9 33 632 59
+
+9 50 633 59
+
+9 62 634 59
+
+9 73 635 59
+
+Flansch-O-Ring, Zentralgehäuse ANSI, Code ..E
+
+EPDM
+
+9 20 631 72
+
+9 23 588 72
+
+9 40 613 72
+
+9 62 634 72
+
+9 73 635 72
+
+Flansch-O-Ring, Zentralgehäuse ANSI, Code ..N
+
+NBR
+
+-
+
+9 23 588 71
+
+9 40 613 71
+
+9 62 634 71
+
+9 73 635 71
+
+Flansch-O-Ring, Zentralgehäuse ANSI, Code ..T
+
+FEP/FKM
+
+9 20 631 59
+
+9 23 588 59
+
+9 40 613 59
+
+9 62 634 59
+
+9 73 635 59
+
+* für ET 10 und ET 15: 4 Stück; für ET 25 und ET 40: 6 Stück; für ET 50: 8 Stück
+
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Änderungen vorbehalten
+
+ALMATEC Maschinenbau GmbH · Carl-Friedrich-Gauß-Str. 5 · 47475 Kamp-Lintfort, Deutschland · Tel. +49/2842/961-0, Fax +49/2842/961-40 · info@almatec.de · www.almatec.de
+
+Ersatzteilliste ALMATEC Pulsationsdämpfer ET-F für die E-Serie, EAE - UFT
+Baugröße
+Pos
+1
+
+2
+
+ET 15 - F
+
+ET 25 - F
+
+ET 40 - F
+
+ET 50 - F
+
+Werkstoff
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Teilnummer
+
+Dämpfergehäuse DIN, Code E..
+
+PE
+
+7 15 180 52
+
+7 25 180 52
+
+7 40 180 52
+
+7 50 180 52
+
+Dämpfergehäuse DIN, Code F..
+
+PE-leitfähig
+
+7 15 180 56
+
+7 25 180 56
+
+7 40 180 56
+
+7 50 180 56
+
+Dämpfergehäuse DIN, Code T..
+
+PTFE
+
+7 15 180 69
+
+7 25 180 69
+
+7 40 180 60
+
+7 50 180 60
+
+Dämpfergehäuse DIN, Code U..
+
+PTFE-leitfähig
+
+7 15 180 68
+
+7 25 180 68
+
+7 40 180 65
+
+7 50 180 65
+
+Dämpfergehäuse ANSI, Code E..-W
+
+PE
+
+7 15 280 52
+
+7 25 280 52
+
+7 40 280 52
+
+7 50 280 52
+
+Dämpfergehäuse ANSI, Code F..-W
+
+PE-leitfähig
+
+7 15 280 56
+
+7 25 280 56
+
+7 40 280 56
+
+7 50 280 56
+
+Dämpfergehäuse ANSI, Code T..-W
+
+PTFE
+
+7 15 280 69
+
+7 25 280 69
+
+7 40 280 60
+
+7 50 280 60
+
+Dämpfergehäuse ANSI, Code U..-W
+
+PTFE-leitfähig
+
+7 15 280 68
+
+7 25 280 68
+
+7 40 280 65
+
+7 50 280 65
+
+Membrane, Code ..E
+
+EPDM
+
+1 10 031 72
+
+1 15 031 72
+
+1 25 031 72
+
+1 40 031 72
+
+Membrane, Code ..N
+
+NBR
+
+1 10 031 70
+
+1 15 031 70
+
+1 25 031 70
+
+1 40 031 70
+
+Membrane, Code ..T
+
+PTFE
+
+1 10 031 67
+
+1 15 031 67
+
+1 25 031 67
+
+1 40 031 67
+
+Membrane, Code ..T - P
+
+PTFE-mod.
+
+-
+
+1 15 031 98
+
+1 25 031 98
+
+1 40 031 98
+
+PA
+
+7 15 081 53
+
+7 25 081 53
+
+7 40 081 53
+
+7 50 081 53
+
+Stck Benennung
+1
+
+1
+
+Ausgabe 07/2009
+
+3
+
+1
+
+Dämpferkopf, Code .A.
+Dämpferkopf, Code .F.
+
+PE-leitfähig
+
+7 15 081 55
+
+7 25 081 55
+
+7 40 081 55
+
+7 50 081 55
+
+4
+
+1
+
+Spannscheibe
+
+1.4301
+
+7 10 008 22
+
+7 15 008 22
+
+7 25 008 22
+
+7 40 008 22
+
+5
+
+1
+
+Abdeckkappe, Code .A.
+
+PE
+
+7 10 009 51
+
+7 15 009 51
+
+7 25 009 51
+
+7 40 009 51
+
+Abdeckkappe, Code .F.
+
+PE-leitfähig
+
+7 10 009 55
+
+7 15 009 55
+
+7 25 009 55
+
+7 40 009 55
+
+6
+
+*
+
+Zuganker, kpl.
+
+1.4301
+
+7 15 083 22
+
+7 25 083 22
+
+7 40 083 22
+
+7 50 083 22
+
+7
+
+1
+
+Steuerstange
+
+1.4301
+
+1 10 482 22
+
+1 15 482 22
+
+1 25 482 22
+
+1 40 482 22
+
+8
+
+3
+
+Kolbenstangendichtung, kpl.
+
+PTFE
+
+1 08 041 64
+
+1 15 041 64
+
+1 25 041 64
+
+1 40 041 64
+
+9
+
+1
+
+Schalldämpfer
+
+PE
+
+1 08 644 51
+
+1 15 644 51
+
+1 25 644 51
+
+1 40 644 51
+
+10
+
+1
+
+Flansch-O-Ring, Zentralgehäuse DIN, Code ..E
+
+EPDM
+
+9 33 632 72
+
+9 50 633 72
+
+9 62 634 72
+
+9 73 635 72
+
+Flansch-O-Ring, Zentralgehäuse DIN, Code ..N
+
+NBR
+
+9 33 632 71
+
+9 50 633 71
+
+9 62 634 71
+
+9 73 635 71
+
+Flansch-O-Ring, Zentralgehäuse DIN, Code ..T
+
+FEP/FKM
+
+9 33 632 59
+
+9 50 633 59
+
+9 62 634 59
+
+9 73 635 59
+
+Flansch-O-Ring, Zentralgehäuse ANSI, Code ..E
+
+EPDM
+
+9 23 588 72
+
+9 40 613 72
+
+9 62 634 72
+
+9 73 635 72
+
+Flansch-O-Ring, Zentralgehäuse ANSI, Code ..N
+
+NBR
+
+9 23 588 71
+
+9 40 613 71
+
+9 62 634 71
+
+9 73 635 71
+
+Flansch-O-Ring, Zentralgehäuse ANSI, Code ..T
+
+FEP/FKM
+
+9 23 588 59
+
+9 40 613 59
+
+9 62 634 59
+
+9 73 635 59
+
+11
+
+4
+
+Sechskantmutter DIN 934
+
+1.4305
+
+9 12 101 22
+
+9 12 101 22
+
+9 16 101 22
+
+9 16 101 22
+
+12
+13
+14
+
+4
+4
+4
+
+Gewindestift DIN 913
+Tellerfeder DIN 2093
+Scheibe DIN 125
+
+1.4305
+1.4301
+1.4301
+
+9 12 225 22
+9 12 154 22
+9 13 151 22
+
+9 12 225 22
+9 12 154 22
+9 13 151 22
+
+9 16 226 22
+9 08 154 22
+9 17 151 22
+
+9 16 227 22
+9 08 154 22
+9 17 151 22
+
+* für ET 15 -F: 4 Stück; für ET 25 -F und ET 40 -F: 6 Stück; für ET 50 -F: 8 Stück
+
+Bei Bestellungen unbedingt die Seriennummer der Pumpe angeben!
+
+Änderungen vorbehalten
+
+ALMATEC Maschinenbau GmbH · Carl-Friedrich-Gauß-Str. 5 · 47475 Kamp-Lintfort, Deutschland · Tel. +49/2842/961-0, Fax +49/2842/961-40 · info@almatec.de · www.almatec.de
+
+ 
+ALMATEE"
+A TDOVER) comany
+

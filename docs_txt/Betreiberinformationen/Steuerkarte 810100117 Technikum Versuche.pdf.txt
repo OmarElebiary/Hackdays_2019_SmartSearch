@@ -1,0 +1,268 @@
+20—+ Fadd 2403 4
+
+Steuerkarte MORASTC Original
+17.01.2012 Seite 1/ 2
+
+Anfires 810100117 DRI R
+
+Technikum-Versuche mit Siebmaschine SONI
+
+Kundenbestellnr. Hr. Lob
+Starttermin 17.01.2012 Endtermin 28.02.2012
+Prioritat
+Status FREI KGES KKMP VOKL
+Technischer Platz 07024650 P20_R235_Pulveranlage
+Equipment
+Baugruppe
+Standort !
+IH-Planergruppe HM1 HN Mechanik IH-Werk HI70
+V.Arbeitsplatz 773-51 HI70 Industriemechaniker
+Wartungsplan Wart.planPos
+Auftraggeber 44653 Miinzing Chemie GmbH
+
+Salzstr.
+
+74076 Heilbronn
+V.Gruppe Krawczyk
+
+Technikum-Versuche mit Siebmaschine SONIC SPEED SCREEN WS2-0-0Z im
+Technikum von Asonic
+
+Grundsatz-Entwurfsplanung des Einbau der Siebmaschine aufgrund der
+durchgefiihrten Versuche in die Pulverproduktionsanlage zur Ermittlung
+
+der Investiionskosten
+
+Planungskosten ca. 10% der Investitionssumme ca. 60.000 EUR
+
+Abnahmeerklarung
+
+Nach erfolgreich durchgefiihrter Priifung, die ergeben hat, dass die/das von der
+BIS Maintenance Stidwest GmbH erstellte Maschine/Maschinenteil bzw. die erbrachte Leistung in allen wesentlichen Punkten die
+vertraglich vorgesehenen Anforderungen erfillt, erklart der Auftraggeber,
+
+a) dass die BIS Maintenance Siidwest GmbH mit Ausnahme der nachfolgend unter d) genannten, noch vorzunehmenden
+Arbeiten, samtliche geschuldeten Leistungen ordnungsgeman erbracht hat,
+
+dass der Auftraggeber diese ordnungsgeman erbrachten Leistungen abnimmt und
+
+dass das auf der Grundlage des o. g. Vertrags von der BIS Maintenance Siidwest GmbH zu erstellende Werk hiermit, bis
+auf die nachfolgend unter d) genannten Arbeiten, abgeschlossen ist.
+
+ 
+
+ 
+
+Bei der Abnahme wurden O keine umseitig aufgefiihrte Mangel festgestellt.
+
+ 
+
+ 
+
+Beginn der Gewahrleistung ist der Tag der Abnahme.
+
+ 
+
+Auftrag erledigt: ja Onein
+Anlage ubergeben: ja nein
+
+1G-02 . A% [
+
+Datum Name, Untersehrift BIS Mi Name, Unterschrift Kunde
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dieses Dokument ist als Anlage zum Auftrag zu archivieren!
+
+ 
+Steuerkarte MORASTC Original
+
+17.01.2012 Seite 2 / 2
+Auftrag 8101001 17
+Technikum-Versuche mit Siebmaschine SONI
+Vorgang 0010 Technikum-Versuche mit Siebmaschine SONI
+Status FREI KGES KKMP VOKL
+Arbeitsplatz 773-51 HI70 Industriemechaniker
+Arbeit 0,0 H
+
+Ausfuhrungsfaktor 1
+Letzter Anderer: MORASTC
+
+Dieses Dokument ist als Anlage zum Auftrag zu archivieren!
+
+ 
+ 
+
++b o owdwete  Laloeluanle bxcc.r;&
+
+- Kﬁ.mr\_wr,\,w% 7@(«({5
+& QSﬁrmﬁnWms "alled Wmogc(TﬁL
+
+— N NQSTQA ,V\,\Cs Fhr?f mw\\. f,cS_m 3
+
+@ﬁb wlL U,\ﬂ(rg
+
+~ Kaswa Ysgf/@((.f\r ey ere,mhcﬁ‘\(
+
+ 
+
+( oA
+0\
+  
+
+2.\ Maintenance
+g5/ Stdwest
+Ga0r00MNMF
+
+Auftrag anlegen
+
+Datum: 16.01.2012 Erfasser: Peter Krawczyk
+
+ 
+
+Notwendige Daten:
+
+     
+
+       
+
+Miinzing Chemie GmbH
+
+Chr. Lob/BL
+
+[] Auf Sammelauftrag Bestell-Nr.:
+
+  
+
+Name des Bestellers
+
+ 
+
+Art der Bestellung
+
+     
+
+D Einzelauftrag kommt
+
+       
+
+Art des Auftrags
+(810; 001 (Summe angeben); 610)
+
+Beschreibung
+(Art der Arbeit)
+
+N 1L 1 Z . oA
+H_aw‘ﬁ%i gu\aV\A&\QC/\AM
+Accounic
+
+\ .,CL,L EGWO&{)»
+
+~
+
+          
+
+Technikum-Versuche mit Siebmaschine SONIC SPEED SCREEN
+WS_Z-O-OZ im Technikum von Asonic
+
+      
+
+       
+
+Grundsatz-Entwurfsplanung des Einbau der Siebmaschine
+
+ 
+
+aufgrund der durchgefiihrten Versuche in die
+
+  
+   
+
+   
+
+Pulverproduktionsanlage zur Ermittlung der
+
+ 
+
+Investitionskosten.
+
+        
+   
+
+  
+      
+
+Planungskosten ca. 1
+
+“|EA. € 60.000
+I
+Verantw. Arb.pl. / Planergrp. “
+
+28.02.2012
+
+0% der Investitionssumme
+
+ 
+
+  
+
+Kostenstelle Kunde
+
+   
+
+      
+
+     
+
+  
+
+vereinbarter Liefertermin
+(vorraussichtliche Fertigstellung)
+
+ 
+
+ 
+
+/'_\
+Unterschrift
+Besteller
+Unterschrift _ ) w
+BIS KST.-Verantwortlicher ; "- M/\/\/
+
+ 
+
+Original zuriick an Vertriebsinnendienst
+
+C:\Dokumente und Einstellungen\krawczyk.RUM\Desktop\Kopie von Auftrag anlegen mindliche Kundenbestellung.xls
+Adlweqg 840400 473
+o ok : Roduwinols me% “
+
+ 
+
+Qdvodelo R -
+22 b Boduwdasenluig " 28.000 €
+a5 b 2elhadeddluae ~ 3 .00 &
+B Hovwwcw(whu ~ A.ocoo €
+b MOR ~  3.000¥
+
+» - T oo’
+N Sreddlsenc
+= $0. oo -
+e
+\f Al WL
+WL
+

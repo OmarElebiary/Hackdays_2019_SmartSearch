@@ -1,0 +1,3194 @@
+8l UOA Z| 8}I8S vyIN - 4O INIFO0D A€
+
+dOL1OINOHIMITE '€
+
+¢ LLINHOSaV
+/
+\
+
+Low Volitage Motors for Hazardous Areas
+
+Manusal
+
+ 
+
+ 
+
+afety
+MABNUA] ..icvnecinsovesinsocsessensansrsronsere EN S
+
+Montage-, Belriebs-,
+Wartungs- und
+Sicherheitsanleltung....ccccceecenne.. DE 21
+
+Manuel d’installation,
+d’exploitation, de mainienance
+et de SECUNITE..cccnnmerreccnriercecimrenss FR 41
+
+Manual de instalacidn,
+funcionamiento, mantenimiento
+Y seguridad ....ccoovmmmmcrcesmsssesenneensac ES 61
+
+Manuale d’installazione,
+funzionamento e
+MANUECNZIONE .oeceverresssevensnarssonsuns [T 83
+
+More languages ~ see web sife
+www.abb.com/moiorsé&drives
+> Motors > Document library
+Niederspannungsmotoren flr explosionsgefahrdete
+
+Bereiche
+
+Montage-, Betriebs-, Wartungs- und Sicherheitsanleitung
+
+Inhaltsverzeichnis Seite
+
+Niederspannungsmotoren fiir explosionsgefahrdete Bereiche .....cccccccverccccrerneiencceeenn 21
+
+1.
+
+ 
+
+1.1 Konformitatserklarung............ e et eee e tteeeeeeneeeeeeearaar—reeennrereaeete e earbaaaaeeennraaaeeeaes 23
+T2 GUIIGKEI ..ottt et e e st ee e et e e e b e e s eren s 23
+1.3 KONTOIMITAL.....cooieee et st e e sen e e 23
+1.4 Vorabprlifungen ..........covvieiriiieiiiie e e et e aaa e e 24
+Handhabung............ .24
+2.1 Eingangsprifung............. . .24
+2.2 Transport und Lagerung
+
+2.3 Anheben.........
+
+2.4 Motorgewicht
+Installation Und INbetriebNaRMe ...oesmssssnissinsms s omsissam i o0
+
+3.1 Allgemein........ 4 A e R G S A R 8 4 5 e G S R R SR S S T RV S SR e e s 25
+3.2 Prifung des Isolationswiderstandes ..........ccooveeiierieriiiiin e 26
+3.3  FUNdamentiBrung s s s mussisrmni s imsinass issss s s ssamesssiiviosyssia sisasssns e s 20
+3.4 Auswuchten und Anbau von Kupplungshélften und Rlemenschelben v s 26
+3.5 Einbau und Ausrichtung des Motors.........ccceevveeeeeinivinneenn, S R 2B
+3.6 Spannschienen und RiemMentriEbe .......ccoeiiiiiiiiiiiiiiiiiee et 27
+3.7 Motoren mit Kondenswasser-Ablaufstopfen ........c.occeveiiiiiiiiin s 27
+3.8 Kabel und elektrische Anschlisse............. 0 4 S SN S T VRS TE  S EE SR 27
+
+3.8.1 Motoren mit druckiesier Kapselung........ccccccevriiieiien e s OB
+
+3.8.2 Druckfest gekapselte Motoren, DIP, EX 1D ....cccccooviiiiiiiiiiiiiiiiiiiincciicce 28
+
+3.8.3 Anschlisse fir unterschiedliche Startmethoden...........ccocevviiiiiieenniiciinnene 28
+
+3.8.4 Anschllsse von ZUDBehOr ......cccceeiviciieeiiniiiieeieiiienen. T 29
+3.9 Anschlussklemmen und Drehrichtung .......ccoooieeviiiecinineiienen. S — 29
+3.10 Schutz gegen Uberlast und Blockieren..........cocovevevevevevevennen. sors cxse s s R 29
+BetriebShetiNGUNGEN ccirsesssssssmmsssssssnssinssanesinssssassvssssssssnsansssnssassnss ssssesssssssssansaessssnssses o0
+4.1 Betrieb......coosiiesininenine s S RS R R A 4 S R B S RS 29
+4.2  KUORIUNG s sssssnssssusssasssssnsnss Y S R B A R S S 29
+4.3 SichethEHShINWEISE .u:suumussasmonsmvimssssnsvssmsss v asss s ssvs seiarrsssssvsseines cxsaEES 30
+
+Ex-Motoren mit Drehzahlregelung......c.cccccciivesneemmmmnnimnmmennmnssssisssessessessseenenseneseneesn 30
+
+5.1 Einfihrung
+5.2 Die wichtigsten Anforderungen nach EN- und IEC- Normen
+
+       
+
+ 
+
+          
+ 
+
+5.3 Wicklungsisolierung .........ccccceueen. S S R S S S RR Y .
+5.3.1 Phase- zu-Phase-Spannung. . R s
+5.3.2 Phase-gegen-Erde-Spannung .......cccvueeeeeeiiiiiiieeinenneieee e 31
+5.3.3 Auswahl der Wicklungs isolierung flir ACS800-Frequenzumrichter ...........ccocveennne. 31
+5.3.4 Auswahl der Wicklungs-isolierung fur alle anderen Frequenzumrichter .....31
+5.4 Warmeschutz der WICKIUNGEN .......uiiiiiiiieiiiie et .31
+
+5.5 Lagerstrome
+
+5.5.1 Verhindern von Lagerstrémen ACS800- quuemumnchtern von ABB
+
+5.5.2 Verhindern von Lagerstrémen bei allen anderen Frequenzumrichtern .
+
+5.6 Verkabelung, Erdung und EMV................ s v e
+
+5.7 Betriebsdrehzahl
+
+5.8 Dimensionierung des drehzahlgeregelten Motors ..
+
+5.8.1 Allgemein
+
+5.8.2 Dimensionierung von ACS800- Frequenzumrlchtern mit DTC-Regelung ....33
+5.8.3 Dimensionierung von Antrieben mit anderen polweitenmodulierten
+
+Frequenzumrichtern mit Spannungszwischenkreis .........ccccevevevieenns —
+
+5.8.4 Kurzzeitige Uberlasten..........ccooeveeeeeeeirsesennns
+
+5.9 Leistungsschilder..........ceeveins
+
+ 
+
+      
+
+ 
+
+   
+   
+  
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+21 -DE
+
+DE
+5.10 Inbetriebnahme des drehzahigeregelten Antriebs ................ R T ST S N AR RS 33
+
+. 6% NV ATTUN G consunvuensnssnmsmsmnsssssnsssssdsss oossiss s snse s amssssms s ve e e AR e F R RS SR A A3 SR TSR e s S 5a s v
+
+( 6:1  Allgemeine KONIIOUS . s cusassisn ivsisassunam s comes s57vmsaa 3 4457505 059755508 Wk aa o050 53 4 svansns 34
+B2 SCHINICIUNG uass svsenssisimssnmsas ssaio snsse s 55595556800 43 555 0465545 65 b 3R SAFE TR 64078 R A A TR 34
+
+6.2.1 Motoren mit dauergeschmierten Lagern.......... T SRR .34
+
+6.2.2 Motoren mit nachschmierbarem Lager ......cccccovevriiriiiiiiiin e, 35
+
+6.2.3 Schmierintervalle Und -MENJEN ....cccoiiiiviiiiiiiinee e see e s e ssririarreeeee s 35
+
+B.2:4  SChMiSIrSIONE wusvmmussmmssrvmrmeramarmsens svvrss s s3vsssarEvasrsy S5VS (LR ToTs v 865550 495 25550 36
+
+7. Kundendienst.
+7.1 Ersatzteile
+
+ 
+
+i LL B - o L R R TR R 37
+- 8. UmwelanforderUNQgen ...cwsssissssassssssssssssnsassssnsusrsssonssssnsesssssessssasnananssssnanaasonsssssasssnasssssond 4.
+8.1 'GETAUSCHDETEI . ussusnisvssssmmsmumsrmmmves sssrmsusssisessonision SRR P, 37
+
+9. Motor-StorungssSUCRIADEIIE sesussuesssmssmssssesvmnsscrvmmemsensasnanssassenasssussssassmnssnnsusssnssanonsessnnssns O
+
+DE -22 ABB/Low Voltage Motors/ Ex manual 01-2007
+1. Einfahrung
+
+WICHTIG!
+
+Die nachstehenden Anweisungen sind genau zu
+befolgen, um die Sicherheit bei der Installation, beim
+Betrieb und bei der Wartung des Motors zu gewéhr-
+leisten. Jede/r Mitarbeiter/in, der/die an der Montage,
+am Betrieb oder an der Wartung des Motors oder
+dessen Zubehor beteiligt ist, sollte von diesen
+Anweisungen in Kenntnis gesetzt werden. Die
+Nichtbefolgung der Anweisungen kann den Verlust
+aller anwendbaren Gewahrleistungen zur Folge
+haben.
+
+ 
+
+ACHTUNG
+
+Motoren in explosionsgefahrdeten Bereichen
+werden geman den geltenden Vorschriften nach
+dem jeweiligen Explosionsrisiko ausgelegt. Die
+zuverlassige Funktion dieser Motoren kann beein-
+tréchtigt werden, wenn sie unsachgema einge-
+setzt, unkorrekt angeschlossen oder Veranderun-
+gen — wenn auch noch so geringfligige — an ihnen
+vorgenommen werden.
+
+Die Normen, die fur den Anschluss und die Benut-
+zung von elektrischen Anlagen in explosionsge-
+fahrdeten Bereichen gelten, und hier insbesondere
+die in dem jeweiligen Land, in dem die Motoren
+zum Einsatz kommen, gultigen Einbaunormen
+miissen beachtet werden. Der Umgang mit sol-
+chen Betriebsmitteln ist nur entsprechend ausge-
+bildetem Fachpersonal zu gestatten, das mit den
+einschlagigen Normen vertraut ist.
+
+ 
+
+1.1 Konformitétserkldrung
+Alle ABB-Motoren mit CE-Kennzeichnung auf dem
+
+Leistungsschild entsprechen der ATEX-Richtlinie 94/9/EG.
+
+1.2 Giiltigkeit
+
+Diese Betriebsanleitung gilt fir die nachstehend aufge-
+fihrten Motortypen von ABB beim Einsatz in explosions-
+gefahrdeten Bereichen.
+
+Nicht funkende Motoren Ex nA
+der Baureihe M2A*/M3A*, Baugréf3en 90 bis 280
+der Baureihe M2GP, BaugréBen 71 bis 250
+der Baureihe M2B*/M3G*, BaugréBen 71 bis 450
+Motoren mit erhhter Sicherheit Ex e
+der Baureihe M2A*/M3A*, BaugréBen 90 bis 280
+der Baureihe M2B*/M3H*, BaugréBen 80 bis 400
+Viotoren mit druckfester Kapselung Ex d, Ex de
+der Baureihe M2J*/M3J*, M2K*/M3K*,BaugréBen
+80 bis 400
+Staubexplosionsschutzmotoren (DIP, Ex tD)
+der Baureihe M2V*, M2A*/M3A*, BaugrdBen 71
+bis 280
+der Baureihe M2B*/M3B*/M3G*, BaugréBen 71 bis
+450
+der Baureihe M2GP, Baugréen 71 bis 250
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+ 
+
+(ABB behalt sich vor, zusétzliche Informationen anzu-
+fordern zwecks Prifung der Eignung flr bestimmte
+Motorentypen, die bei speziellen Anwendungen oder
+mit speziellen Konstruktionsdnderungen zum Einsatz
+kommen.)
+
+Diese Anleitung gilt nur fir Motoren, die bei einer
+Umgebungstemperatur von (ber -20 °C und unter
+
++60 °C installiert und gelagert werden. Uberpriifen Sie,
+ob alle Motoren flir den gesamten Umgebungstempera-
+turbereich geeignet sind. Wenn die Umgebungstempe-
+ratur auBerhalb dieser Grenzwerte liegt, wenden Sie
+sich bitte an ABB.
+
+1.3 Konformitat
+
+Neben den geltenden Normen bezliglich der mechani-
+schen und elektrischen Merkmale der Motoren missen
+fur explosionsgefahrdete Umgebungen vorgesehenen
+
+Motoren die folgenden europaischen oder IEC-Normen
+fir den betreffenden Schutztyp erfillen:
+
+ 
+
+EN 60079-0 (2004),
+IEC 60079-0 (2004)
+
+Allgemeine Anforderungen
+
+an elektrische Anlagen
+
+fur explosionsfahige
+Gasatmosphéren
+
+Norm zur Zindschutzart
+Druckfeste Kapselung ,d"
+
+Norm zur Zlindschutzart Erhéhte
+Sicherheit ,e"
+
+Norm zur Zindschutzart ,nA"
+
+EN 60079-1 (2004),
+IEC 60079-1 (2003)
+EN 60079-7 (2003),
+IEC 60079-7 (2001)
+EN 60079-15 (2003),
+IEC 60079-15 (2001),
+EN60079-15 (2005),
+IEC 60079-15 (2005)
+prEN 61241-0 (2005), Allgemeine Anforderungen
+IEC 61241-0 (2004) an elektrische Anlagen flr die
+Verwendung in Gegenwart von
+brennbarem Staub
+EN 61241-1 (2004), Norm zu Staubexplosionsschutz
+IEC 61241-1 (2004) und Staubdichtheit (tD-Schutz)
+
+Hinweis: Die Normen, nach denen Motoren zertifiziert
+sind, werden im entsprechenden Zertifikat aufgelistet.
+
+ABB Niederspannungsmotoren (gilt nur far Gruppe )
+kénnen in Bereichen mit folgenden Kennzeichnungen
+eingebaut werden:
+
+Zone Kategorie oder Kennzeichnung
+
+1 Kategorie 2 oder Ex d, Ex de, Ex e
+
+2 Kategorie 3 oder Ex nA
+
+21 Kategorie 2 oder DIP, IP 65 oder Ex tD A21
+
+22 Kategorie 3 oder DIP, IP 55 (nicht leitfahiger
+Staub) oder Ex tD A22
+
+Fur die Normen der Reihe EN 500XX weisen zertifizier-
+te Motoren EEx-Kennzeichnungen anstelle von Ex-
+Kennzeichnungen auf.
+
+Umgebung:
+G - explosive Umgebung verursacht durch Gase
+
+D - explosive Umgebung verursacht durch brennbaren
+Staub
+
+23-DE
+
+L
+O
+DE
+
+1.4 Vorabprifungen
+
+Benutzer sollte sémtliche Dokumentation der
+technischen Normen, die in Verbindung zu den Normen
+zum Explosionsschutz stehen, vorab prifen:
+
+a) Gasgruppe
+
+Industrie Gasgruppe Gastyp (Beispiele)
+Explosive 1A Propan
+Umgebungen 1B Aethylen
+
+mit Ausnahme Inc Hydrogen/Azetylen
+von Gruben
+
+ 
+
+b) Temperaturklassen
+Temperaturklasse T1 T2 T3 T4 T5 T6 T125°C T150°C
+Max. Temperatur’C 450 300 200 135 100 85 125 150
+
+Max. Temperaturan- 400 250 155 90 55 40 80 105
+stieg der Oberflache
+K bei 40 °C
+
+ 
+
+ 
+
+ 
+
+Der maximale Temperaturanstieg der Oberflache gilt fir
+die Temperaturklassen T1, T2 und T3 in Bezug auf die
+Innenflache des Motors (Rotor) und fir andere Tempe-
+raturklassen in Bezug auf die AuBenflache des Motors
+(Gehé&use und/oder Lagerschilde).
+
+Es wird darauf hingewiesen, dass die Motoren entspre-
+chend ihrer Gruppenzugehdrigkeit zertifiziert und
+klassifiziert sind. Diese ist bestimmt im Hinblick auf die
+Gas- oder Staubumgebung und die Temperaturklasse,
+berechnet als eine Funktion der Umgebungstemperatur
+von 40 °C.
+
+Falls der Motor unter einer Umgebungstemperatur, die
+40 °C Uberschreitet, oder in einer Héhe von Gber 1000
+Meter U. d. M. eingebaut wird, wenden Sie sich bitte an
+ABB fiir ggf. vorhandene neue Leistungsdaten und
+Versuchsberichte.
+
+Die Umgebungstemperatur darf -20°C nicht unterschrei-
+ten. Bei zu erwartenden niedrigeren Temperaturen
+wenden Sie sich bitte an ABB.
+
+DE-24
+
+2. Handhabung
+
+2.1 Eingangsprifung
+
+Unmittelbar nach dem Empfang ist der Motor auf
+auBerliche Beschadigungen (z. B. Wellenenden, Flan-
+sche und lackierte Oberflachen) zu untersuchen, im
+Schadenfall ist der Spediteur unverziglich zu verstandi-
+
+gen.
+
+Alle Leistungsschilddaten Uberprifen, insbesondere
+Spannung, Wicklungsanschluss (Stern oder Dreieck),
+Kategorie, Schutzart und Temperaturklasse. Der
+Lagertyp ist auf dem Leistungsschild aller Motoren
+mit Ausnahme der kleinsten Baugréf3en angegeben.
+
+Bei Drehzahlregelung maximal zuléssige Belastbarkeit
+entsprechend der auf dem zweiten Leistungsschild des
+Motors angegebenen Frequenz Uberprifen.
+
+2.2 Transport und Lagerung
+
+Die Motoren sind im Innern geschlossener Rdume
+(Uber -20°C) trocken sowie schwingungs- und staubfrei
+zu lagern. Wahrend des Transports sind Erschutterun-
+gen, das Herunterfallen und Feuchtigkeit zu vermeiden.
+Wenn andere Bedingungen vorliegen, wenden Sie sich
+bitte an ABB.
+
+Ungeschliitzte bearbeitete Oberflachen (Wellenenden
+und Flansche) sollten mit einem Korrosionsschutzmittel
+
+behandelt werden.
+
+Es wird im Interesse einer gleichméaBigen Schmierung
+empfohlen, die Welle regelmafBig von Hand zu drehen.
+
+Falls eingebaut, sollten Standheizungen verwendet
+werden, um Kondensat im Motor zu verhindern.
+
+Der Motor darf im Stillstand keinen &uBeren Schwin-
+gungen Uber 0,5 mm/s ausgesetzt werden, um eine
+Beschadigung der Lager zu vermeiden.
+
+Motoren, die mit Zylinderrollenlagern oder Schragkugel-
+lagern ausgeristet sind, sollten wahrend des Trans-
+ports mit Feststellvorrichtungen (Transportsicherungen)
+versehen sein.
+
+2.3 Anheben
+
+Alle ABB-Motoren mit einem Gewicht tber 25 kg sind
+mit Hebedsen oder Osenschrauben zu versehen.
+
+Zum Anheben des Motors nur die Hebebsen oder
+Osenschrauben des Motors verwenden. Es ist nicht
+zuléssig, den Motor anzuheben, wéhrend er an andere
+Komponenten gekoppelt ist.
+
+Hebeodsen flr Zubehor (z. B. Bremsen, separate Kihi-
+geblase) oder Klemmenkasten durfen nicht zum Anhe-
+ben des Motors verwendet werden.
+
+Motoren mit gleichem Gehause kénnen auf Grund
+unterschiedlicher Einbauarrangements und Hilfsvorrich-
+tungen ein unterschiedliches Schwerkraftzentrum
+aufweisen.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Beschadigte Hebedsen durfen nicht verwendet werden.
+Vor dem Heben (berpriifen, dass die Osenschrauben
+oder die integrierten Hebedsen nicht beschadigt sind.
+
+Osenschrauben vor dem Anheben festziehen. Die
+Position der Osenschraube kann bei Bedarf mit Hilfe
+geeigneter Distanzstlicke wie Unterlegscheiben justiert
+werden.
+
+Es durfen nur geeignete Hebeeinrichtungen und Haken
+in fur die jeweiligen Hebedsen geeigneter Gréf3e
+verwendet werden.
+
+Es ist darauf zu achten, dass Hilfseinrichtungen am
+Motor sowie am Motor angeschlossene Kabel nicht
+beschéadigt werden.
+
+2.4 Motorgewicht
+
+Das Gesamtgewicht des Motors kann innerhalb der
+gleichen BaugrdéBe (mittige Héhe) je nach den Ausgén-
+gen, Einbauarrangements und Zusatzeinrichtungen
+schwanken.
+
+Die nachfolgende Tabelle - bezogen auf die Grundaus-
+fuhrung - zeigt ndherungsweise die Maximalgewichte
+flir Motoren in Abhangigkeit von der Baugré3e und dem
+verwendeten Geh&usewerkstoff.
+
+Das tatsachliche Gewicht aller ABB Motoren ist mit
+Ausnahme der kleinsten BaugréBen (56 und 63) auf
+dem Leistungsschild angegeben.
+
+ 
+
+ 
+
+Bau- Aluminium Grauguss Druckfest
+gréBe Gewicht kg Gewicht kg Gewicht kg
+71 8 13 -
+
+80 12 20 38
+
+90 17 30 53
+
+100 25 40 69
+
+112 36 50 72
+
+132 63 90 108
+
+160 110 175 180
+
+180 160 250 220
+
+200 220 310 350
+
+225 295 400 450
+
+250 370 550 550
+
+280 405 800 800
+
+315 = 1300 1300
+
+355 - 2500 2500
+
+400 - 3500 3500
+
+450 - 4600 -
+
+ 
+
+Falls der Motor mit Bremse und/oder separatem Lifter
+ausgestattet ist, bitten Sie ABB um die Gewichtsanga-
+ben.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+instailation und
+Inbetriebnahme
+
+3.
+
+ACHTUNG
+Vor Beginn der Arbeiten am Motor oder an den
+angetriebenen Komponenten ist der Motor abzu-
+
+schalten und zu blockieren. Bei Priifung des
+Isolationswiderstandes ist sicherzustellen, dass
+keine explosionsfahige Atmosphéare vorhanden ist.
+
+ 
+
+3.1 Aligemein
+
+Alle auf dem Leistungsschild angegebenen Werte, die
+fur die Zertifizierung von Bedeutung sind, miissen
+sorgfaltig gepruft werden, um sicherzustellen, dass
+Motorschutz, Atmosphére und Zone miteinander kom-
+patibel sind.
+
+Die Normen EN 1127-1 (Explosionsschutz), EN 60079-14
+(Elektrische Betriebsmittel flir gasexplosionsgefahrdete
+Bereiche) und EN 50281-1-2/ EN 61241-14 (Elektrische
+Betriebsmittel zur Verwendung in Bereichen mit brenn-
+barem Staub — Auswahl und Einrichten) sind einzuhal-
+ten. Von besonderer Bedeutung ist hierbei die Tempe-
+raturangabe auf dem Motor im Verhaltnis zur Stauben-
+tzindungstemperatur und zur Dicke der Staubschicht.
+
+Die Transportverriegelung, falls vorhanden, entfernen.
+Welle mit der Hand drehen und auf freies Rotieren hin
+Uberprufen.
+
+Motoren mit Zylinderrollenlagern:
+
+Der Betrieb der Motoren ohne ausreichende Radialkraft
+auf die Welle fihrt zur Beschadigung des Zylinderrol-
+lenlagers.
+
+Motoren mit Schragkugellagern:
+
+Der Betrieb des Motors ohne ausreichende Axialkraft
+auf die Welle fihrt zur Beschadigung des Schragkugel-
+lagers.
+
+ACHTUNG
+Bei Ex d- und Ex de-Motoren mit Schragkugella-
+gern darf sich die Richtung der Axialkraft unter
+
+keinen Umsténden dndern, weil sich die Abmes-
+sungen der druckfesten Zwischenrdume um die
+
+Welle dndern und sogar einen Kontakt verursa-
+
+chen kdnnen.
+
+ 
+
+Die Lagertypbezeichnungen sind auf dem Leistungs-
+schild zu ersehen.
+
+Motoren mit Nachschmiernippeln:
+
+Bei Inbetriebnahme der Motoren oder nach einer
+langeren Lagerzeit ist mindestens die angegebene
+Fettmenge einzuflillen, bis an der Fettauslasséffnung
+neues Fett austritt.
+
+N&heres hierzu siehe Abschnitt ,6.2.2 Motoren mit
+nachschmierbarem Lager*.
+
+25 -DE
+
+DE
+DE
+
+   
+
+  
+
+Wird ein Motor senkrecht, mit nach unten zeigender
+Welle (V6/IM1031) montiert, so ist der Motor durch eine
+Schutzabdeckung gegen herabfallende Gegenstéande
+und gegen das Eindringen von Flussigkeiten in die
+Lufteréffnungen zu schiitzen. Dies kann auch durch
+eine separate Abdeckung erfolgen, die nicht am Motor
+befestigt ist. In diesem Fall muss am Motor ein Warn-
+schild angebracht sein.
+
+3.2 Prifung des
+isolationswiderstandes
+
+Vor der Inbetriebnahme — oder wenn Hinweise auf
+erhdhte Feuchtigkeit vorliegen — ist der Isolationswider-
+stand zu prifen.
+
+   
+
+ACHTUNG
+Vor Beginn von Arbeiten am Motor oder an
+
+den angetriebenen Komponenten ist der Motor
+abzuschalten und zu blockieren. Bei Prifung des
+Isolationswiderstandes ist sicherzustellen, dass
+keine explosionsféhige Atmosphare vorhanden ist.
+
+Der Isolierungswiderstand, gemessen bei 25 °C, muss
+den Bezugswert von 100 MQ (gemessen mit 500 oder
+1000 V DC) Ubersteigen. Fur erhdhte Umgebungstem-
+peraturen ist der Wert des Isolationswiderstandes fur
+jeweils 20°C zu halbieren.
+
+ACHTUNG x
+Um die Gefahr eines elekirischen Schlages
+auszuschlieBen, ist das Motorgehause zu erden
+und die Wicklungen sind unmittelbar nach der
+Messung gegen das Gehause zu entladen.
+
+Wenn der Bezugswert nicht erreicht wird, ist die Feuch-
+te innerhalb der Wicklung zu grof3 und eine Ofentrock-
+nung wird erforderlich. Die Ofentemperatur sollte fiir
+12-16 Stunden bei 90 °C liegen, anschlieBend fur 6-8
+Stunden bei 105 °C.
+
+Wahrend der Warmebehandlung missen die Kondens-
+wasserloch-Stopfen, falls vorhanden, entfernt und die
+Sperrventile geoffnet werden. Nach der Warmebehand-
+lung die Verschliisse wieder einsetzen. Auch bei
+eingesetzten Kondenswasserloch-Stopfen sollten die
+Lagerschild- und Klemmenkasten-Abdeckungen flr
+den Trocknungsvorgang abgenommen werden.
+
+Wicklungen, die mit Salzwasser in Berthrung gekom-
+men sind, missen in der Regel erneuert werden.
+
+3.3 Fundameintierung
+
+Der Betreiber tragt die volle Verantwortung fur die
+Vorbereitung des Maschinenfundaments.
+
+In Metall ausgefiihrte Fundamente sollten einen korrosi-
+onsschitzenden Anstrich aufweisen.
+
+Die Fundamente sind eben und hinreichend steif
+auszufiihren, um den erhohten Kraften im Kurzschluss-
+fall standzuhalten. Sie missen so bemessen sein, dass
+Resonanzschwingungen vermieden werden.
+
+DE - 26
+
+     
+    
+
+       
+   
+
+3.4 Auswuchten und Anbau
+von Kupplungshalften und
+Riemenscheiben
+
+Das Auswuchten des Motors erfolgte standardgeman
+mit halber Passfeder, und die Welle ist mit einem
+ROTEN Klebeband mit der Aufschrift ,Balanced with
+half key* (Ausgewuchtet mit halber Passfeder) markiert.
+
+Beim Auswuchten mit ganzer Passfeder wird die Welle
+mit einem GELBEN Klebeband mit der Aufschrift
+»Balanced with full key” (Ausgewuchtet mit einer gan-
+zen Passfeder) markiert.
+
+Im Fall des Auswuchtens ohne Passfeder wird die
+Welle mit einem BLAUEN Klebeband mit der Aufschrift
+,Balanced without key" (Ausgewuchtet ohne Passfeder)
+markiert.
+
+Kupplungshalften oder Riemenscheiben missen nach
+dem Einfrasen der Passfedernut ausgewuchtet werden.
+Das Auswuchten muss entsprechend der fur den Motor
+angegebenen Auswuchtmethode erfolgen.
+
+Kupplungshélften und Riemenscheiben durfen nur mit
+geeigneter Ausristung und Werkzeug auf der Welle
+montiert werden, damit die Lager und Dichtungen nicht
+beschéadigt werden.
+
+Montieren Sie niemals eine Kupplungshélfte oder
+Riemenscheibe durch Schlage mit dem Hammer. Bei
+der Demontage darf nie ein Hebel gegen das Motorge-
+hause angesetzt werden.
+
+3.5 Einbau und Ausrichtung des
+Motors
+
+Stellen Sie sicher, dass um den Motor genliigend
+Abstand flr eine ungehinderte Luftstrémung vorhanden
+ist. Die Mindestanforderungen fir den Freiraum hinter
+der Abdeckung des Motorgeblases sind im Produktka-
+talog oder in den MafBzeichnungen angegeben, die im
+Web verfligbar sind: siehe www.abb.com/
+motors&drives.
+
+Die sorgfaltige Ausrichtung ist von entscheidender
+Bedeutung flir das Vermeiden von Lagerschéden,
+Schwingungen sowie Beschadigungen von Welle und
+Kupplung.
+
+Den Motor mit geeigneten Bolzen oder Ankerschrauben
+montieren und zwischen Fundament und FiRen Dis-
+tanzscheiben einsetzen.
+
+Mit geeigneten Methoden den Motor ausrichten.
+
+Gegebenenfalls die Positionsbohrungen durchfuhren
+und die Positionsbolzen an ihren Positionen befestigen.
+
+Einbaugenauigkeit der Kupplungshélfte: prifen, dass
+das Spiel b weniger als 0,05 mm betrégt und dass der
+Abstand a1 zu a2 ebenso unter 0,05 mm liegt. Siehe
+dazu Abb. 3.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Ausrichtung nach endgultigem Festziehen der Bolzen
+oder Ankerschrauben erneut prifen.
+
+Die in den Produktkatalogen angegebenen zuléssigen
+max. Radial- bzw. Axialkrafte der Lager durfen nicht
+
+Uberschritten werden.
+
+3.6 Spannschienen und
+Riementriebe
+
+Die Befestigung des Motors auf den Spannschienen
+erfolgt wie in Abb. 2 angegeben.
+
+Die Spannschienen sind horizontal und auf gleicher
+Hohe zu montieren. Darauf achten, dass die Motorwelle
+parallel zur Antriebswelle verlauft.
+
+Riemen miissen geman der Anleitung des Lieferanten
+der angetriebenen Komponente gespannt werden.
+Beachten Sie jedoch die maximal zulassigen Riemen-
+krafte (bzw. Radialkraftbelastungen der Lager), die Sie
+den entsprechenden Produktkatalogen entnehmen
+kdénnen.
+
+ACHTUNG
+
+Das (ibermaBige Spannen des Antriebsriemens
+futhrt zur Beschadigung der Lager und kann den
+Bruch der Welle zur Folge haben! Bei Ex d- und
+
+Ex de-Motoren kann ein UberméBiges Spannen
+des Antriebsriemens auch:durch gegenseitigen
+Kontakt der Ziindspaltkomponenten Gefahren
+
+verursachen. :
+
+ 
+
+3.7 Motoren mit Kondenswasser-
+Ablaufstopfen
+
+Sicherstellen, dass Kondenswasserlécher und Kon-
+denswasserloch-Stopfen nach unten zeigen.
+
+Nicht funkende Motoren und Motoren mit erhdhter
+Sicherheit
+
+Bei Motoren mit verschlieBbaren Ablauféffnungen aus
+Kunststoff sind diese bei Anlieferung bei Aluminiummo-
+toren geschlossen und bei Graugussmotoren offen.
+
+In sauberen Umgebungen die Kondenswasserloch-
+Stopfen vor Inbetriebnahme des Motors 6ffnen. In sehr
+staubhaltigen Umgebungen missen alle Kondenswas-
+serlécher verschlossen werden.
+
+Motoren mit druckfester Kapselung
+Kondenswasserloch-Stopfen, falls erforderlich, sind am
+unteren Teil der Lagerschilde angebracht, damit das
+Kondensat aus dem Motor entweichen kann. Den
+geréndelten Kopf des Stopfens drehen, um stoérungs-
+freie Funktion zu Uberprifen.
+
+Staubexplosionsschutzmotoren
+Bei allen Staubexplosionsschutzmotoren miissen die
+die Kondenswasserlécher verschlossen sein.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+3.8 Kabel und elektrische
+Anschliisse
+
+Der Klemmenkasten von eintourigen Standardmotoren
+enthalt in der Regel sechs Anschlussklemmen und
+zumindest eine Erdungsklemme.
+
+Zusétzlich zu den Klemmen der Hauptwicklung und der
+Erdung kann der Klemmenkasten auch Anschilsse fur
+
+Kaltleiter, Heizelemente oder anderes Zubehor enthal-
+
+ten.
+
+Fur die Anschllsse aller Hauptkabel sind geeignete
+Kabelschuhe zu verwenden. Kabel flr Zubehdr kénnen
+ohne weitere Vorrichtungen an den entsprechenden
+Klemmenleisten angeschlossen werden.
+
+Die Motoren sind nur flr ortsfeste Installation vorgese-
+hen. Sofern nicht anders angegeben, weisen Kabelver-
+schraubungsgewinde metrische MaBe auf. Die Schutz-
+art und IP-Klasse der Kabelverschraubung muss
+mindestens der Schutzart und IP-Klasse des Klemmen-
+kastens entsprechen.
+
+Stellen Sie sicher, dass nur Kabelverschraubungen fir
+Motoren mit erhohter Sicherheit und fur Motoren mit
+druckfester Kapselung verwendet werden. Bei nicht
+funkenden Motoren miissen die Kabelverschraubungen
+mit EN 60079 Ubereinstimmen.
+
+       
+
+  
+
+WICHTIG!
+Im Hinblick auf die Einhaltung von EN 60079-0 sowie
+nationaler Montagenormen (z. B. NFC 15100) sind
+die Kabel nahe dem Klemmenkasten mit einem
+mechanischen Schutz und mit einer Zugentlastungs-
+vorrichtung zu versehen.
+
+Nicht benutzte Kabeleinflihrungen sind entsprechend
+Schutzart und IP-Klasse des Klemmenkastens mit
+Verschlusselementen zu versehen.
+
+Schutzart und Durchmesser sind in den Unterlagen zur
+Kabelverschraubung spezifiziert.
+
+ACHTUNG
+Geeignete Kabelverschraubungen und Dichtungen
+
+in den Kabeleinfiihrungen entsprechend Schutzart
+sowie Typ und Durchmesser des Kabels verwen-
+den.
+
+ 
+
+Die Erdung sollte vor dem Anschlie3en der Versor-
+gungsspannung im Einklang mit den jeweils gliltigen
+Vorschriften erfolgen.
+
+Die Erdungsklemme am Geh&use muss mit einem
+Kabel geméaR Tabelle 5 von EN 60079-0 an die PE
+(Schutzerde) angeschlossen werden.
+
+Mindestquerschnitt von Schutzleitern
+
+Querschnitt von AuBenleitern Mindestquerschnitt des
+der Installation, entsprechenden Schutzleiters,
+
+ 
+
+S, mm? Sy, mm?
+S<16 S
+16<S <35 16
+S>35 0,5S
+
+ 
+
+27 -DE
+
+Ll
+0
+DE
+
+Zuséatzlich missen die Erdungs- oder Masseanschlisse
+an der AuBenseite des elektrischen Geréts lber Klem-
+men fur einen Leiter mit einem Querschnitt von mindes-
+tens 4 mm? verflgen.
+
+Die Kabelverbindung zwischen Netz und Motorklem-
+men muss die Anforderungen der in dem jeweiligen
+Land glltigen Normen fiir Motoreneinbau oder der
+Norm EN 60204-1 in Ubereinstimmung mit dem auf
+dem Leistungsschild angegebenen Bemessungsstrom
+erflllen.
+
+Stellen Sie sicher, dass der Motorschutz den jeweiligen
+Umgebungs- und Witterungsbedingungen entspricht,
+
+z. B. dass kein Wasser in den Motor oder die Klemmen-
+k&sten eindringen kann.
+
+Zur Gewahrleistung der richtigen IP-Klasse miissen die
+Dichtungen von Klemmenkasten (nicht Schutzart Ex d)
+sorgféltig in die hierflr vorgesehenen Schlitze einge-
+setzt werden. Undichte Stellen kénnen das Eindringen
+von Staub oder Wasser ermdéglichen und bergen somit
+das Risiko eines Funkenuberschlags zu spannungsfih-
+renden Teilen in sich.
+
+3.8.1 Motoren mit druckfester
+Kapselung
+
+Bei den Klemmenkéasten kommen zwei verschiedene
+Schutzarten zur Anwendung:
+
+— ZUndschutzart Ex d fiir M2JA/M3JP-Motoren
+— Zlndschutzart Ex de fir M2KA/M3KP-Motoren
+
+Ex d-Motoren, M2JA/ M3JP
+
+Bestimmte Kabelverschraubungen sind fir einen
+maximalen Freiraum im Klemmenkasten zugelassen.
+Der flr die einzelnen Motortypen geltende Freiraum ist
+hier aufgefuhrt.
+
+ 
+
+ 
+
+Motortyp Klemmenkasten Motortyp Klemmenkasten
+M2JA 80-400  Freiraum M3JP Freiraum
+80-132 1,45-1,7dm*  80-132 1,0 dm?
+
+160 - 180 3dm? 160 - 180 5,2 dm?
+
+200 - 250 8,5 dm? 200 - 250 10,5 dm?®
+
+280 - 315 15 dm? 280 - 315 24 dm?®
+
+355 - 400 79 dm? 355 - 400 79 dm?®
+
+ 
+
+Beim VerschlieBen des Klemmenkastendeckels sicher-
+stellen, dass die Fugen auf der Oberflache staubfrei
+sind. Oberflache sdubern und mit nicht-hartendem
+Kontaktfett schmieren.
+
+ACHTUNG
+Der Motor oder der Klemmenkasten darf nicht
+geoffnet werden, wenn der Motor noch warm ist
+
+und unter Spannung steht und in seiner Umge-
+bung eine explosionsfahige Atmosphére vorhan-
+den ist.
+
+ 
+
+Ex de-Motoren, M2KA/M3KP
+
+Der Klemmenkastendeckel ist mit dem Buchstaben ,e“
+oder der Kennzeichnung ,box Ex e" (= Kasten Ex e)
+versehen.
+
+DE-28
+
+Sicherstellen, dass die Installation der Klemmenan-
+schlisse prazise nach der Anschlussanleitung durchge-
+fahrt wird, die sich an der Innenseite des Klemmenkas-
+tens befindet.
+
+Kriechstrecke und Sicherheitsabstand missen der
+Norm EN 60079-7 entsprechen.
+
+3.8.2 Druckfest gekapselte Motoren,
+DiP, Ex tD
+
+Bei den Motoren ist standardmaBig der Klemmenkasten
+auf der Oberseite des Motors angeordnet, und die
+Kabel kénnen auf beiden Seiten eingefihrt werden.
+Eine ausflhrliche Beschreibung ist im Produktkatalog
+enthalten.
+
+Auf die Dichtung des Anschlusskastens und der Kabel
+ist besonders zu achten, um das Eindringen von brenn-
+barem Staub in den Anschlusskasten zu verhindern.
+Es muss sichergestellt werden, dass die externen
+Dichtungen in gutem Zustand und ordnungsgeman
+positioniert sind, da sie wahrend der Arbeiten besché-
+
+digt oder verschoben werden kdnnen.
+
+Beim VerschlieBen des Klemmenkastendeckels sicher-
+stellen, dass die Fugen auf der Oberflache staubfrei
+sind; die Dichtung auf guten Zustand uberprifen und
+gegebenenfalls durch eine Dichtung mit den gleichen
+Materialeigenschaften ersetzen.
+
+ACHTUNG
+Der Motor oder der Klemmenkasten darf nicht
+“gedfinet werden, wenn der Motor noch warm ist
+
+und unter Spannung steht-und in seiner Umge-
+bung eine explosionsfahige Atmosphére vorhan-
+den ist. '
+
+ 
+
+3.8.3 Anschlisse fir
+unterschiedliche Startmethoden
+
+Der Klemmenkasten von eintourigen Standardmotoren
+enthalt in der Regel sechs Anschlussklemmen und
+zumindest eine Erdungsklemme. Dies ermdglicht Starts
+mit Netzbetrieb oder Stern-/Dreieckanlauf. Siehe dazu
+Abb. 1.
+
+Bei polumschaltbaren Typen und Spezialmotoren sind
+die entsprechenden Angaben im Klemmenkasten oder
+im Motorhandbuch zu beachten.
+
+Spannung und Anschlussart sind auf dem Leistungs-
+schild angegeben.
+
+Netzhetrieh-Anlauf (DOL):
+Y- oder D-Wicklungsanschllsse kénnen benutzt wer-
+den.
+
+Zum Beispiel 690 VY; 400 VD bedeutet ein Y-An-
+schluss flir 690 V und ein D-Anschluss flr 400 V.
+
+Stern-/Dreieckanlauf (Y/D): »
+Bei Verwendung eines D-Anschlusses muss die Versor-
+gungsspannung die gleiche wie die Bemessungsspan-
+nung des Motors sein.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Alle Verbindungslaschen an der Klemmenleiste sind zu
+entfernen.
+
+Bei Motoren mit erhohter Sicherheit ist das Starten von
+Motoren mit Netzbetrieb-Anlauf und Stern-/Dreieckan-
+lauf zuléssig. Bei Stern-/Dreieckanlauf sind nur Geréate
+mit Ex-Zulassung zuléssig.
+
+Andere Startverfahren und widrige Startbedingun-
+gen:
+
+Ist beabsichtigt, andere Starimethoden zu benuizen,
+wie etwa einen Softstarter, oder sind die Startbedingun-
+gen besonders problematisch, wenden Sie sich bitte
+zwecks Konsultation zuvor an ABB.
+
+3.8.4 Anschliisse von Zubehor
+
+Wenn ein Motor mit Kaltleitern oder anderen WDFs
+(Pt100, Thermorelais usw.) und Zubehdr ausgestattet
+ist, missen diese mit geeigneten Methoden verwendet
+und angeschlossen werden. Fir bestimmte Schutzarten
+ist ein Warmeschutz obligatorisch. Die mit dem Motor
+gelieferten Dokumente enthalten ausfihtlichere Infor-
+mationen. Auf der Innenseite des Klemmenkastens
+befinden sich die Anschlussschaltbilder fiir die Hilfsele-
+mente.
+
+Die maximale Messspannung fir die Kaltleiter betragt
+2,5 V. Der maximale Messstrom fir Pt100 betragt 5 mA.
+Die Verwendung einer hoheren Messspannung oder
+eines hoheren Messstroms kann zu Messwertfehlern
+fuhren.
+
+3.9 Anschlusskiemmen und
+Drehrichtung
+
+Von der Wellenstirnflache auf das Antriebsende des
+Motors gesehen dreht die Welle im Uhrzeigersinn, und
+die Schaltphasensequenz — L1, L2, L3 — wird wie in
+Abb. 1 gezeigt an die Klemmen angeschlossen.
+
+Durch Austauschen zweier Anschlisse der Zuleitungs-
+kabel kann die Drehrichtung geéndert werden.
+
+Falls der Motor einen Ein-Weg-Lufter hat, sichergehen,
+dass er in Pfeilrichtung dreht (Pfeil am Motor ange-
+bracht).
+
+3.10 Schutz gegen Uberlast
+und Blockieren
+
+Alle Ex-Motoren mussen gegen Uberlast geschiitzt
+werden, siehe IEC/EN 60079-14 und IEC 61241-14.
+
+Bei Motoren mii erhohter Sicherheit (Ex e) daif die
+maximale Ausldsezeit der Schutzeinrichtungen die auf
+dem Motor-Leistungsschild angegebene Zeit t_ nicht
+Uberschreiten.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+4.
+4.1 Betrieb
+
+Sofern auf dem Leistungsschild nicht anders angege-
+ben, sind die Motoren fir die folgenden Bedingungen
+ausgelegt.
+
+Betriebsbedingungen
+
+— Umgebungstemperatur im Bereich von -20 °C bis
++40 °C.
+
+— Maximale Aufstellungshéhe 1.000 m tber dem
+Meeresspiegel.
+
+— Die Toleranz betragt geman EN/IEC 60034-1 (2004),
+Abschnitt 7.3, Zone A fur die Versorgungsspannung
++5 % und flr die Frequenz 2 %.
+
+Der Motor kann nur in Anwendungen verwendet wer-
+den, fur die er vorgesehen ist. Die Nennwerte und
+Betriebsbedingungen werden auf den Motorleistungs-
+schildern angegeben. Zudem missen alle Anforderun-
+gen in diesem Handbuch und weitere entsprechende
+Anweisungen und Normen erfillt und befolgt werden.
+
+Werden diese Grenzen Uberschritten, miissen Motor-
+und Konstruktionsdaten Uberprift werden. Fur weitere
+Informationen wenden Sie sich bitte an ABB.
+
+Aggressiven Atmosphéren ist besondere Beachtung zu
+schenken. Dabei ist sicherzustellen, dass der Schutzan-
+strich fur die jeweiligen Umgebungsbedingungen
+geeignet ist, da Korrosion zu Schaden am explosions-
+geschiitzten Gehause fuhren kann.
+
+ACHTUNG
+Die Nichtbeachtung von Anweisungen oder das
+Vernachlassigen der Wartung der Anlagen kann
+
+die Sicherheit gefahrden und somit die Verwen-
+dung der Maschine in explosionsgeféhrdeten
+Bereichen verhindern.
+
+ 
+
+4.2 Kiihlung
+
+Es ist zu Uberprifen, ob am Motor eine ausreichende
+Luftstrémung vorhanden ist. AuBerdem muss sicherge-
+stellt werden, dass in der Nahe befindliche Anlagen,
+Oberflachen oder direkte Sonneneinstrahlung keine
+zusétzliche Warmebelastung flr den Motor darstellen.
+
+Bei Motoren mit Flanschanbau (z. B. B5, B35, V1)
+sicherstellen, dass die Konstruktion eine ausreichende
+Luftstromung an der AuBenflédche des Flansches
+zulasst.
+
+29 -DE
+
+DE
+DE
+
+4.3 Sicherheitshinweise
+
+Die Montage und der Betrieb des Motors darf nur durch
+hierflr qualifiziertes Fachpersonal erfolgen, das mit den
+Arbeitsschutz- und Sicherheitsvorschriften und den
+gesetzlichen Bestimmungen des jeweiligen Landes
+vertraut ist.
+
+Zur Unfallverhiitung sind entsprechend den im betref-
+fenden Land geltenden Gesetzen und Bestimmungen
+bei der Montage und beim Betrieb des Motors geeigne-
+te Sicherheitseinrichtungen zu verwenden.
+
+  
+
+ACHTUNG
+Notstopp-Bedienelemente missen mit Wiederein-
+schaltsperren versehen sein. Nach einem Not-
+stopp kann ein Wiedereinschaltbefehl nur ausge-
+fihrt werden, nachdem die Wiedereinschaltsperre
+vorsatzlich zurlickgesetzt wurde.
+
+     
+
+ 
+
+Die folgenden Warnhinweise sind zu beachten:
+
+1. Sich nicht auf den Motor stellen.
+
+2.Vorsicht: Auch im normalen Betrieb und besonders
+nach dem Ausschalten kdnnen an der Oberfldche
+des Motors hohe Temperaturen auftreten!
+
+3. Einige Anwendungen (z. B. bei Speisung des Motors
+mit Frequenzumrichtern) kénnen eine spezielle
+Anleitung erfordern.
+
+4. Auf rotierende Teile des Motors achten.
+
+5. Unter Spannung stehende Klemmenkéasten nicht
+offnen.
+
+DE-30
+
+Ex-Motoren mit
+Drehzahlregelung
+
+5.
+
+5.1 Einfihrung
+
+Dieser Teil des Handbuchs enthalt zusétzliche Anleitun-
+gen flr Motoren, die in explosionsgeféhrdeten Bereichen
+mit Frequenzumrichterspeisung verwendet werden.
+
+ABB behalt sich vor, zusétzliche Informationen anzufor-
+dern zwecks Priifung der Eignung fur bestimmte Ma-
+schinentypen, die bei speziellen Anwendungen oder mit
+speziellen Konstruktionsénderungen zum Einsatz
+kommen.
+
+5.2 Die wichtigsten
+Anforderungen nach
+EN- und IEC-Normen
+
+Motoren mit druckfester Kapselung Ex d, Ex de
+Gemaf den Normen muss der Motor so beschaffen
+sein, dass die maximale Temperatur der AuBBenflache
+des Motors entsprechend der Temperaturklasse
+
+(T4, T5 usw.) begrenzt ist. In den meisten Féllen ist
+hierftir die Durchflihrung von Typentests oder die
+Kontrolle der &uBeren Oberflachentemperatur des
+Motors erforderlich.
+
+Die meisten ABB Motoren mit druckfester Kapselung
+far Temperaturklasse T4 wurden gemeinsam mit dem
+Frequenzumrichter von ABB ACS800 mit Hilfe direkter
+Drehmomentregelung (Direct Torque Control/ DTC)
+Typentests unterzogen, und diese Kombinationen
+kénnen unter Verwendung der Einrichtungsanleitungen
+in Kapitel 5.8.2 ausgewéhlt werden.
+
+Bei Verwendung anderer spannungsgespeister Fre-
+quenzumrichter (nicht DTC-geregelt wie der ACS800)
+mit Tastverhéltnissteuerung (Pulse Width Modulation/
+PWM) sind in der Regel kombinierte Tests erforderlich,
+um die ordnungsgemanen thermischen Eigenschaften
+des Motors sicherzustellen. Diese Tests sind nicht
+erforderlich, wenn Motoren mit druckfester Kapselung
+Uber Temperaturfuhler fir die Steuerung der Oberflé-
+chentemperatur verfiigen. Das Leistungsschild solcher
+Motoren enthélt die folgenden zuséatzlichen Kennzeich-
+nungen: - ,PTC" mit der Auslésetemperatur und
+
+,DIN 44081/82".
+
+Bei spannungsgespeisten PWM-Frequenzumrichtern
+mit einer Mindestschaltfrequenz von 3 kHz miissen die
+Anleitungen in Kapitel 5.8.3 flir die vorbereitende
+Einrichtung befolgt werden.
+
+Flr weitere Informationen Uber die Temperaturklassen
+T5 und T6 flr druckfest gekapselte Motoren mit Dreh-
+zahlregelung wenden Sie sich bitte an ABB.
+
+Motoren mit erhdhter Sicherheit Ex e
+
+Die Verwendung von Niederspannungsmotoren mit
+erhohter Sicherheit fiir Drehzahlregelung wird von ABB
+nicht empfohlen. Diese drehzahlgeregelten Motoren
+werden im vorliegenden Handbuch nicht behandelt.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Nichi-funkende Motoren Ex nA
+GemaB den Normen muss die Kombination von Motor
+und Frequenzumrichter als Einheit getestet oder durch
+Berechnung eingerichtet werden.
+
+Die ABB Graugussmotoren wurden gemeinsam mit
+dem Frequenzumrichter von ABB ACS800 mit Hilfe
+von DTC-Steuerung Typentests unterzogen, und diese
+Kombinationen kdnnen unter Verwendung der Einrich-
+tungsanleitungen in Kapitel 5.8.2 ausgewahlt werden.
+
+Bei spannungsgespeisten PWM-Frequenzumrichtern
+mit einer Mindestschaltfrequenz von 3 kHz kénnen die
+Anleitungen in Kapitel 5.8.3 dieses Handbuchs flr die
+vorbereitende Einrichtung befolgt werden. Die endgulti-
+gen Werte mussen durch gemeinsame Tests Uberprift
+werden.
+
+Staubexplosionsschutzmotoren, DIP, Ex tD
+Gemal den Normen muss der Motor so beschaffen
+sein, dass die maximale Temperatur der AuBenflache
+des Motors entsprechend der Temperaturklasse
+
+(z. B. T125°C) begrenzt ist. Fr weitere Informationen
+Uber eine Temperaturklasse unter 125 °C wenden Sie
+sich bitte an ABB.
+
+Die ABB DIP/Ex tD-Motoren wurden gemeinsam mit
+dem Frequenzumrichter ACS800 mit Hilfe von DTC-
+Steuerung Typentests unterzogen, und diese Kombina-
+tionen kénnen unter Verwendung der Einrichtungsanlei-
+tungen in Kapitel 5.8.2 ausgewahlt werden.
+
+Bei Verwendung anderer spannungsgespeister Fre-
+quenzumrichter mit Tastverhaltnissteuerung (Pulse
+Width Modulation/PWM) sind in der Regel kombinierte
+Tests erforderlich, um die ordnungsgemaéBien thermi-
+schen Eigenschaften des Motors sicherzustellen. Diese
+Tests sind nicht erforderlich, wenn DIP-Motoren Uber
+Temperaturfuhler fur die Steuerung der Oberflachen-
+temperatur verfligen. Das Leistungsschild solcher
+Motoren enthélt die folgenden zuséatzlichen Kennzeich-
+nungen: - ,PTC" mit der Auslésetemperatur und
+
+,DIN 44081/82".
+
+Bei spannungsgespeisten PWM-Frequenzumrichtern
+mit einer Mindestschaltfrequenz von 3 kHz kénnen die
+Anleitungen in Kapitel 5.8.3 fir die vorbereitende
+Einrichtung befolgt werden.
+
+5.3 Wicklungsisolierung
+
+5.3.1 Phase-zu-Phase-Spannung
+
+Die maximal zul&ssigen Phase-zu-Phase-Spannungs-
+spitzen in der Motorklemime als Funktion der Anstiegs-
+zeit des Impulses werden in Abb. 4 dargestellt.
+
+Die héchste Kurve ,Spezialisolierung von ABB* gilt flr
+Motoren mit einer speziellen Wicklungsisolierung flr
+Frequenzumrichterspeisung, Variantencode 405.
+
+Auf alle anderen Motoren in diesem Handbuch trifft die
+,Standardisolierung von ABB" zu.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+5.3.2 Phase-gegen-Erde-Spannung
+
+Die zuléssigen Phase-zu-Erde-Spannungsspitzen an
+Motorklemmen betragen:
+
+Standardisolierung Spannungsspitze 1300 V
+Spezialisolierung Spannungsspitze 1800 V
+
+5.3.3 Auswahl der Wickiungs
+isolierung fir ACS800-
+Frequenzumrichter
+
+Bei ACS800-Frequenzumrichtern von ABB mit Dioden-
+Einspeisungseinheit kdnnen Wicklungsisolierung und
+Filter gemaf der folgenden Tabelle ausgewahlt werden:
+
+ 
+
+Nennversorgungs-
+spannung U, des  Erforderliche Wicklungsisolierung
+Umrichters und Filter
+U,=500V ABB Standardisolierung
+U,<600V ABB Standardisolierung + dU/dt-
+Filter
+ODER
+ABB Spezialisolierung
+(Variantencode 405)
+U,<690V ABB Spezialisolierung
+(Variantencode 405)
+UND
+
+dU/dt-Filter am Umrichterausgang
+
+Far weitere Informationen zu Frequenzumrichtern mit
+gesteuerten Einspeiseeinheiten oder Widerstandbrem-
+sung wenden Sie sich bitte an ABB.
+
+5.3.4 Auswahl der Wickiungs-
+isolierung flr alle anderen
+Frequenzumrichter
+
+Die Spannungsbelastungen sind auf Werte unter den
+zulassigen Grenzen zu begrenzen. Wenden Sie sich an
+den Konstrukteur des Systems, um die Sicherheit der
+Anwendung zu gewéhrleisten. Bei der Dimensionierung
+des Motors ist der Einfluss méglicher Filter zu bertick-
+sichtigen.
+
+5.4 Warmeschutz der
+Wicklungen
+
+Alle ABB Grauguss-Ex-Motoren sind mit PTC-Kaltlei-
+tern ausgestattet, um zu verhindern, dass die Wick-
+lungstemperatur die Temperaturgrenzen der verwende-
+ten Isolationsmaterialien (normalerweise Isolationsklas-
+se B oder F) Ubersteigt.
+
+WICHTIG!
+Sofern das Leistungsschild keine anderen Angaben
+enthélt, verhindern diese Kaltleiter nicht, dass die
+
+Motoroberfladchentemperatur die Grenzwerte der
+entsprechenden Temperaturkliasse (T4, T5 usw.)
+Gbersteigt.
+
+ 
+
+31 -DE
+
+DE
+DE
+
+Lander mit Geltung der ATEX-Richtlinien:
+
+Die Kaltleiter miissen an ein eigenstandig arbeitendes
+Kaltleiter-Auslésegerat angeschlossen sein, das die
+Spannungsversorgung des Motors zuverldssig unter-
+bricht, wie es den Anforderungen im Abschnitt ,Wesent-
+liche Gesundheits- und Sicherheitsanforderungen” in
+Anhang I, Position 1.5.1 der ATEX-Richtlinie 94/9/EC
+entspricht.
+
+Lander ohne Geltung der ATEX-Richtlinie:
+
+Es wird empfohlen, die Kaltleiter an ein eigensténdig
+arbeitendes Kaltleiter-Auslésegeréat anzuschlief3en,
+das die Spannungsversorgung des Motors zuverléssig
+unterbricht.
+
+ 
+
+WICHTIG!
+
+Entsprechend den lokalen Installationsvorschriften
+ist es eventuell méglich, die Kaltleiter auch an ein
+anderes Gerét als ein Kaltleiter-Auslésegerat, bei-
+spielsweise an die Steuerungseingénge eines
+Frequenzumrichters, anzuschlief3en.
+
+ 
+
+5.5 Lagerstrome
+
+Lagerspannungen und -stréme sind bei allen
+drehzahlgeregelten Antrieben zu vermeiden, um die
+Zuverléssigkeit und Sicherheit der Anwendung zu
+gewabhrleisten. Zu diesem Zweck sind isolierte Lager
+oder Lagerkonstruktionen, Gleichtakffilter und geeignete
+Verkabelungs- und Erdungsverfahren zu verwenden.
+
+5.5.1 Verhindern von Lagersirémen
+ACS800-Frequenzumrichtern
+von ABB
+
+Beim ACS800-Frequenzumrichter von ABB mit Dioden-
+Einspeiseeinheit (ungesteuerte DC-Spannung) sind die
+folgenden Verfahren zu verwenden, um schédliche
+Lagerstréme in den Motoren zu verhindern:
+
+BaugréBe
+
+bis 250 Keine MaBnahmen erforderlich
+
+280 -315 Isoliertes Lager auf Nichtantriebsseite
+355 - 450 Isoliertes Lager auf Nichtantriebsseite
+
+UND
+Gleichtakftfilter am Umrichter
+
+ABB verwendet isolierte Lager mit aluminiumoxidbe-
+schichteten Innen- und/oder AuBBenringen oder Kera-
+mikwélzkdérpern. Aluminiumoxidbeschichtungen werden
+auBerdem mit einem Dichtungsmittel behandelt, um das
+Eindringen von Schmutz und Feuchtigkeit in die porése
+Beschichtung zu verhindern. Genaue Angaben zum
+Typ der Lagerisolierung finden Sie auf dem Leistungs-
+schild des Motors. Das Andern des Lagertyps oder der
+Isolierungsmethode ohne die Genehmigung von ABB
+ist untersagt.
+
+DE-32
+
+5.5.2 Verhindern von Lagerstromen
+bei alien anderen
+Frequenzumrichtern
+
+Der Betreiber ist flir den Schutz des Motors und der
+angetriebenen Komponenten vor schadlichen Lager-
+strémen verantwortlich. Die Anweisungen in Kapitel
+5.5.1 kénnen befolgt werden, doch kann ihre Wirksam-
+keit nicht in allen Fallen gewahrleistet werden.
+
+5.6 Verkabelung, Erdung und EMV
+
+Um eine korrekte Erdung und Ubereinstimmung mit
+allen EMV-Richtlinien zu gewéhrleisten, missen an
+Motoren mit mehr als 30 kW abgeschirmte symmetri-
+sche Kabel angeschlossen und EMV-Kabelverschrau-
+bungen, d. h. Verschraubungen mit 360°-Schirmkontak-
+tierung, verwendet werden. Auch fir kleinere Motoren
+werden symmetrische abgeschirmte Kabel dringend
+empfohlen. Die 360°-Erdung an allen Kabeleinflhrun-
+gen wie in den Anweisungen flr die Kabelverschrau-
+bungen vornehmen. Kabelabschirmungen zu Blindeln
+verdrillen und an die nachste Erdungsklemme/Sammel-
+schiene im Klemmenkasten, Frequenzumwandler-
+schrank usw. anschlieBBen.
+
+WICHTIG! .
+An allen Endpunkten, z. B. Motor, Frequenzumrich-
+
+ter, ggf. Sicherheitsschalter usw., missen ordnungs-
+gemaBe Kabelverschraubungen mit 360°-Massever-
+bindung verwendet werden.
+
+ 
+
+Bei Motoren ab BaugréBe 280 ist ein zusatzlicher Poten-
+zialausgleich zwischen Motorgeh&use und angetriebe-
+nen Komponenten erforderlich, sofern nicht beide auf
+einem gemeinsamen Stahlfundament montiert sind. In
+diesem Fall muss die Leitfahigkeit bei hoher Frequenz
+der Uber das Stahlfundament vorhandenen Verbindung
+Uiberprift werden, indem z. B. die Potentialdifferenz
+zwischen den Komponenten gemessen werden.
+
+Weitere Informationen Uber die Erdung und Verkabe-"
+lung bei drehzahlgeregelten Antrieben finden Sie im
+Handbuch ,Erdung und Verkablung des Antriebssys-
+tems" (Code: 3AFY 61201998).
+
+5.7 Betriebsdrehzahil
+
+Fur Drehzahlen Uber der auf dem Leistungsschild des
+Motors angegebenen Nenndrehzahl sicherstellen, das
+die héchste zuldssige Drehzahl des Motors oder die
+kritische Drehzahl der gesamten Anwendung nicht
+Uberschritten wird.
+
+5.8 Dimensionierung des
+drehzahigeregelten Motors
+
+5.8.1 Allgemein
+
+Bei ACS800-Freguenzumrichtern von ABB mit DTC-
+Steuerung kann das Dimensionieren mithilfe der Belast-
+barkeitskurven in Absatz 5.8.2 oder mithilfe des Dimen-
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+sionierungsprogramms DriveSize von ABB erfolgen.
+Das Tool kann von der ABB Website (www.abb.com/
+motors&drives) heruntergeladen werden. Die Belastbar-
+keitskurven basieren auf der Nennversorgungsspan-
+nung.
+
+5.8.2 Dimensionierung von ACS800-
+Frequenzumrichtern mit DTC-
+Regelung
+
+Die Belastbarkeitskurven in Abb. 5 und 6 stellen das
+maximal zulassige dauerhafte Ausgangsdrehmoment
+der Motoren als Funktion der Versorgungsspannungs-
+frequenz dar. Das Ausgangsdrehmoment wird als
+Prozentsatz des Nenndrehmoments des Motors ange-
+geben.
+
+WICHTIG!
+Die Hochstdrehzahl des Motors darf nicht Uber-
+
+schritten werden, auch wenn die Belastbarkeitskur-
+ven 100 Hz erreichen.
+
+Fur Informationen Uiber das Einrichten von anderen
+Motoren und Schutzarten als den in Abb. 5 und 6
+angegebenen wenden Sie sich bitte an ABB.
+
+5.8.3 Dimensionierung von
+Antrieben mit anderen
+polweitenmodulierten
+Frequenzumrichtern mit
+Spannungszwischenkreis
+
+Eine vorlaufige Dimensionierung kann mithilfe der
+folgenden als Richtlinie dienenden Belastbarkeitskurven
+durchgeflihrt werden (siehe Abb. 7 und 8). Bei diesen
+Richtlinienkurven wird von einer Mindestschaltfrequenz
+von 3 kHz ausgegangen. Um die Sicherheit zu gewéhr-
+leisten, ist die Kombination zu testen oder es sind
+Temperaturfiihler fiir die Uberwachung der Oberfla-
+chentemperatur zu verwenden.
+
+WICHTIG!
+Die tatsachliche Warmebelastbarkeit eines Motors
+
+kann geringer als durch die Richtlinienkurven ange-
+geben sein.
+
+5.8.4 Kurzzeitige Uberlasten
+
+Druckfest gekapselte Motoren von ABB lassen in der
+Regel eine kurzzeitige Uberlast zu. Genaue Werte
+finden Sie auf dem Leistungsschild des Motors.
+
+Die Fahigkeit zur Uberlast wird von drei Faktoren
+bestimmt:
+
+I o Maximaler Kurzzeitstrom
+
+Ty  Zulassige Dauer der Uberlast
+
+T Lexou. Die nach jedem Uberlastzeitraum erforderliche
+Abkuhlzeit. Wahrend des Abkuhlzeitraums
+mussen Motorstrom und Drehmoment unter
+dem Grenzwert der zuldssigen standigen
+Belastbarkeit liegen.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+ 
+
+ 
+
+5.9 Leistungsschilder
+
+Folgende Parameter missen auf den Leistungsschil-
+dern von Motoren fiir explosionsgeféhrdete Bereiche,
+die fir Drehzahlregelung vorgesehen sind, kenntlich
+sein:
+
+— Drehzahlbereich
+
+— Leistungsbereich
+
+— Spannungs- und Strombereich
+
+— Drehmomenttyp (konstant oder quadratisch)
+
+— Frequenzumrichtertyp und erforderliche Mindest-
+schaltfrequenz
+
+5.10 Inbetriebnahme des
+drehzahigeregelten Antriebs
+
+Die Inbetriebnahme des drehzahlgeregelten Motors
+muss geman den Anweisungen flr den Frequenzum-
+richter und den lokalen Gesetzen und Vorschriften
+erfolgen. Die durch die Anwendung gesetzten Anforde-
+rungen und Grenzen sind ebenfalls zu bericksichtigen.
+
+Alle zum Einrichten des Frequenzumrichters erforderli-
+chen Parameter missen den Motorleistungsschildern
+entnommen werden. Die am haufigsten benétigten
+Parameter lauten:
+
+— Nennspannung des Motors
+— Nennstrom des Motors
+
+— Nennfrequenz des Motors
+— Nenndrehzahl des Motors
+— Nennleistung des Motors
+
+Hinweis: Bei fehlenden oder ungenauen Daten den
+Motor nicht in Betrieb nehmen, bevor die korrekten
+Einstellungen gewahrleistet sind.
+
+ABB empfiehlt die Verwendung aller geeigneten
+Schutzfunktionen des Frequenzumrichters, um die
+Sicherheit der Anwendung zu erhéhen. Frequenzum-
+richter bieten in der Regel z. B. folgende Funktionen
+(Namen und Verfugbarkeit der Funktionen hangen von
+Hersteller und Modell des Frequenzumrichters ab):
+
+— Mindestdrehzahl
+
+— Hochstdrehzahl
+
+— Zeit fUr Beschleunigung und Abbremsung
+— Maximaler Strom
+
+— Maximales Drehmoment
+
+— Blockierschuiz
+
+ 
+
+  
+
+ACHTUNG
+Hierbei handelt es sich lediglich um Zusatzfunktio-
+nen, die keinen Ersaiz fur die von den Normen
+geforderten Sicherheitsfunktionen darstellen.
+
+  
+ 
+
+ 
+  
+
+33-DE
+
+L
+0
+DE
+
+6. Wartung
+
+ACHTUNG
+
+Auch bei Stillstand des Motors kdnnen gefahrliche
+Spannungen fir die Versorgung von Heizelemen-
+ten oder fir eine direkte Wicklungsheizung anlie-
+gen.
+
+ 
+
+==
+
+   
+
+ 
+
+ACHTUNG
+
+Die Normen hinsichtlich Anschluss und Einsatz
+elektrischer Betriebsmittel in explosionsgeféhrde-
+ten Bereichen sind zu berlcksichtigen. Nur ent-
+sprechend geschultes Fachpersonal, das mit
+diesen Normen vertraut ist, darf diese Art von
+Betriebsmittein handhaben.
+
+Vor Beginn der Arbeiten am Motor oder an den
+angetriebenen Komponenten den Motor abschal-
+ten und blockieren. Alle erforderlichen Vorsichts-
+mafBnahmen treffen, um sicherzustellen, dass
+wahrend der Ausfiihrung der Arbeiten kein explosi-
+
+ 
+
+onsfahiges Gas oder Staub vorhanden ist.
+
+6.1 Allgemeine Kontrolle
+
+1. Untersuchen Sie den Motor in regelmaBigen Abstén-
+den. Die Haufigkeit der Kontrollen hangt z. B. von der
+Feuchtigkeit der Umgebungsluft und von den lokalen
+Wetterverhéltnissen ab. Sie sind auf experimentellem
+Wege zu ermitteln und dann genau einzuhalten.
+
+2.Halten Sie den Motor sauber und sorgen Sie fur einen
+freien Kuhlluftstrom. Beim Einsatz des Motors in einer
+staubigen Umgebung ist es zu empfehlen, das Bellf-
+tungssystem regelmaBig zu Uberprifen und zu reini-
+gen. Bei DIP-/Ex tD-Motoren sind die Umgebungsan-
+forderungen nach EN 50281-1-2/EN 61241-14 einzu-
+halten.
+
+3. Den Zustand der Wellendichtungen untersuchen
+(z. B. V-Ring oder Radialdichtung); bei Bedarf neue
+Dichtungen einsetzen.
+
+Bei DIP-/Ex tD-Motoren sind die Wellendichtungen
+
+je nach den oben genannten Bedingungen (1) nach
+8000 Betriebsstunden oder maximal zwei Jahren
+auszutauschen. Hinweis: Wenn der DIP-/Ex tD-Motor
+mit staubdichten Lagern vom Typ 2RS ausgestattet
+ist, reicht es aus, die Dichtungen alle zwei Jahre
+auszutauschen.
+
+4. Uberpriifen Sie den Zustand aller Verbindungen und
+Verbindungselemente (z. B. Schrauben).
+
+5. Den Lager-Zustand untersuchen: auf ungewdhnliche
+Gerausche achten, Schwingung und Lagertemperatur
+messen, Kontrolle des verbrauchten Schmierfetts
+oder Lager-Uberwachung tiber SPM. Die Lager
+erfordern eine besondere Aufmerksamkeit, wenn
+deren Nennlebensdauer ablauft.
+
+DE - 34
+
+Wenn Anzeichen von Abnutzung festgestellt werden,
+den Motor auseinanderbauen, die Teile kontrollieren
+und erforderlichenfalls auswechseln. Die originalen
+Lager durfen nur durch Lager gleichen Typs ersetzt
+werden. Desgleichen mussen neue Wellendichtungen
+von derselben Qualitat sein und die gleichen Eigen-
+schaften wie die Originaldichtungen aufweisen.
+
+Bei druckfest gekapselten Motoren muss der Ver-
+schlussstopfen in der Entwésserungsoéfinung (sofern
+vorhanden) in regelm&Bigen Abstanden an seinem
+gerandelten Kopf gedreht werden, um zu verhindern,
+dass er sich festfrisst. Der Motor muss sich dabei im
+Stillstand befinden. Die Haufigkeit der Kontrollen hangt
+von der Feuchtigkeit der Umgebungsluft und von den
+lokalen Wetterverhaltnissen ab. Sie sind auf experimen-
+tellem Wege zu ermitteln und dann genau einzuhalten.
+
+Wenn ein IP 55-Motor mit geschlossenem Kondens-
+wasserloch-Stopfen geliefert wurde, sollten die Kon-
+denswasserloch-Stopfen in regelmaBigen Absténden
+gedffnet werden, um sicherzustellen, dass der Kon-
+denswasserabfluss nicht blockiert ist und das Konden-
+sat entweichen kann. Dies muss aus Sicherheitsgriin-
+den bei abgestelltem Motor durchgefuhrt werden.
+
+6.2 Schmierung
+
+ACHTUNG
+
+Vorsicht bei allen rotierenden Teilen.
+
+ 
+
+ACHTUNG
+
+Viele Fette kbnnen Hautreizungen sowie Entzin-
+dungen des Auges verursachen. Befolgen Sie alle
+Sicherheitshinweise des Schmierfett-Herstellers.
+
+ 
+
+Lagertypen sind in den entsprechenden Produktkatalo-
+gen spezifiziert und auf dem Leistungsschild aller
+unserer Motoren mit Ausnahme der Motoren mit den
+kleinsten Baugré3en angegeben.
+
+Fur Lagerschmierintervalle ist Zuverldssigkeit von
+entscheidender Bedeutung. ABB verwendet fir die
+Schmierung das L1-Prinzip (d. h. dass 99 % der Moto-
+ren die Nennlebensdauer erreichen).
+
+6.2.1 Motoren mit dauergeschmierten
+Lagern
+
+Lager sind im Allgemeinen dauergeschmierte Lager
+vom Typ 1Z, 2Z, 2RS oder &quivalentem Typ.
+
+Als Faustregel kann eine angemessene Schmierung fir
+GroBen bis zu 250 gemal L, fur die folgende Dauer
+erreicht werden. Fir Informationen UGber den Betrieb bei
+héherer Umgebungstemperatur bitte an ABB wenden.
+Die Faustformel zum Andern der L-Werte in L, -Werte:
+L, 227 xL1.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Betriebsstunden flr dauergeschmierte Lager bei einer
+Umgebungstemperatur von 25 und 40 °C:
+
+Betriebs- Betriebs-
+stunden stunden
+BaugréBe Pole bei 25 °C bei 40 °C
+71 2 32 000 20000
+71 4-8 41 000 25000
+80-90 2 24 000 15000
+80-90 4-8 36 000 22000
+100-112 2 21 000 12000
+100-112 4-8 33 000 20000
+132 2 16 000 10000
+132 4-8 29 000 18000
+160 2 37 000 23000
+160 4-8 76 000 48000
+180 2 31000 19000
+180 4-8 71000 44000
+200 2 25000 15000
+200 4-8 61 000 38000
+225 2 22 000 14000
+225 4-8 56 000 35000
+250 2 17 000 11000
+250 4-8 48 000 30000
+
+Diese Werte gelten fir die zuldssigen Lastwerte im
+Produktkatalog. FUr Abhangigkeiten von Anwendungs-
+und Lastbedingungen siehe den entsprechenden
+Produktkatalog oder wenden Sie sich an ABB.
+
+Fur die Betriebsstunden bei vertikal aufgestellien
+Motoren sind die o. g. Werte jeweils zu halbieren.
+
+6.2.2 Motoren mit nachschmierbarem
+Lager
+
+Informationsschild fiir Schmierung und allgemeiner
+Ratgeber zur Schmierung
+
+Ist die Maschine mit einem Informationsschild fur
+Schmierung versehen, sind die dort angegebenen
+Werte zu befolgen.
+
+Auf dem Schild kénnen die Schmierintervalle bezlglich
+Einbau, Umgebungstemperatur und Drehzahl bestimmt
+sein.
+
+Beim ersten Start oder nach einer Lagerschmierung
+kann fir ca. 10 bis 20 Stunden ein temporarer Tempe-
+raturanstieg auftreten.
+
+Einige Motoren sind mit einem Sammler flr Altfett
+ausgerustet. Entsprechend die Anweisung fir diese
+Einrichtung befolgen.
+
+Nach dem Nachschmieren eines Ex tD-Motors den
+Motor und die Lagerschilde reinigen, so dass sie
+staubfrei sind.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+A. Manuelle Schmierung
+
+Nachschmieren bei laufendem IViotor
+
+— Den Stopfen der Schmiermittel-Auslasséffnung
+abnehmen oder das Sperrventil 6ffnen, falls vorhan-
+den.
+
+— Sicherstellen, dass der Schmierkanal offen ist.
+
+— Die vorgesehene Menge Schmierfett in das Lager
+einspritzen.
+
+— Den Motor 1-2 Stunden laufen lassen, um sicherzu-
+stellen, dass sédmtliches Uberschissiges Fett aus
+dem Lager gedrUckt ist. Den Stopfen der Fett-Auslas-
+so6ffnung oder ggf. Sperrventil schlieen.
+
+Nachschmieren bei stillstehendem Motor
+
+Die Nachschmierung sollite grundsatzlich bei laufendem
+Motor durchgefliihrt werden. Falls es nicht méglich ist,
+die Lager bei laufendem Motor nachzuschmieren, kann
+auch bei stillstehender Maschine geschmiert werden.
+
+— In diesem Fall nur die Halfte der Fettmenge benutzen,
+anschlieBend den Motor fur einige Minuten bei voller
+Drehzahl laufen lassen.
+
+— Nachdem der Motor abgestellt ist, den Rest der
+vorgesehenen Fettmenge in das Lager driicken.
+
+— Nach 1-2 Stunden Durchlauf die Fett-Auslasséffnung
+verschlieBen oder das Sperrventil, falls vorhanden,
+schlieBen.
+
+B. Automatische Schmierung
+
+Bei automatischer Schmierung muss die Fett-Auslass-
+offnung bestandig offen sein, bzw. das Sperrventil, falls
+vorhanden, gedffnet sein.
+
+ABB empfiehlt dringend den Einsatz elektromechani-
+scher Anlagen.
+
+Bei Benutzung eines automatischen Nachschmiersys-
+tems sind die in der Tabelle angegebenen Werte flr
+Schmierfett pro Schmierintervall zu verdoppeln.
+
+Wenn 2-polige Motoren automatisch nachgeschmiert
+werden, befolgen Sie bitte die entsprechenden Schmie-
+rempfehlungen im Kapitel iber Schmiermittel.
+
+6.2.3 Schmierintervalle und -mengen
+
+Flr vertikal montierte Motoren sind die Nachschmierin-
+tervalle in der folgenden Tabelle zu halbieren.
+
+Die Schmierintervalle basieren auf einer Lager-Betriebs-
+temperatur von 80 °C (Umgebungstemperatur +25 °C).
+Beachte! Ein Anstieg der Umgebungstemperatur lasst
+die Temperatur der Lager entsprechend ansteigen. Bei
+einem Anstieg der Lager-Temperatur von 15 °C sollten
+die Werte halbiert, bei einem Absinken um 15 °C
+kénnen sie verdoppelt werden.
+
+Hohere Drehzahlen, z. B. bei Frequenzumrichterbe-
+trieb, oder niedrige Drehzahlen unter hoher Belastung
+erfordern kiirzere Nachschmierintervalle.
+
+35-DE
+
+DE
+DE
+
+ 
+
+   
+
+ACHTUNG
+Die zuléssige Hochsttemperatur flr Lager und
+Schmierfett von +110 °C darf nicht Uberschritten
+
+werden.
+
+     
+   
+
+  
+
+Die Hochstdrehzahl, fir die der Motor ausgelegt
+ist, darf nicht Gberschritten werden.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bau-  Fett- 3600 3000 1800 1500 1000  500-900
+gréBe menge Umin  U/min  U/min  U/min  U/min  U/min
+g/Lager
+Kugellager
+Nachschmierintervalle in Betriebsstunden
+112 10 10000 13000 18000 21000 25000 28000
+132 15 9000 11000 17000 19000 23000 26500
+160 25 7000 9500 14000 17000 21000 24000
+180 30 6000 9000 13500 16000 20000 23000
+200 40 4000 6000 11000 13000 17000 21000
+225 50 3000 5000 10000 12500 16500 20000
+250 60 2500 4000 9000 11500 15000 18000
+280 35 2000 3500 - - - -
+280 70 - - 8000 10500 14000 17000
+315 35 2000 3500 - - - -
+315 90 - - 6500 8500 12500 16000
+355 35 1200 2000 - - - -
+355 120 - - 4200 6000 10000 13000
+400 40 1000 1600 - - - -
+400 130 - - 2800 4600 8400 12000
+450 40 1000 1600 - - - -
+450 140 - - 2400 4000 8000 8800
+Zylinderrollenlager
+Nachschmierintervalle in Betriebsstunden
+160 25 3500 4500 7000 8500 10500 12000
+180 30 3000 4000 7000 8000 10000 11500
+200 40 2000 3000 5500 6500 8500 10500
+225 50 1500 2500 5000 6000 8000 10000
+250 60 1300 2200 4500 5700 7500 9000
+280 35 1000 1800 - - - -
+280 70 - - 4000 5300 7000 8500
+315 35 1000 1800 - - - -
+315 90 - - 3000 4300 6000 8000
+355 35 600 1000 - - - -
+355 120 - - 2000 3000 5000 6500
+400 120 500 800 - - - -
+400 130 - - 1400 2300 4200 6000
+450 120 500 800 - - - -
+450 140 - - 1200 2000 4000 4400
+6.2.4 Schmierstoffe
+
+ACHTUNG
+Verschiedene Fetttypen nicht miteinander
+
+vermischen.
+Ungeeignete Schmiermitte! k&nnen die Lager
+beschadigen.
+
+Fir die Nachschmierung darf nur ein speziell auf die
+Schmierung von Kugellagern abgestimmtes Fett mit
+den folgenden Eigenschaften verwendet werden:
+
+— Hochwertiges Fett mit Lithiumkomplexseife und
+
+Mineral- oder PAO-OI
+— Viskositét des Grundols 100-160 ¢ST bei 40 °C
+
+— Konsistenz NLGI Bereich 1.5 - 3 *)
+— Dauergebrauchstemperatur -30 °C - +140 °C
+
+DE - 36
+
+ 
+
+*) Fur vertikal montierte Motoren und unter hei3en
+Betriebsbedingungen ist ein steiferer NLGI Grad zu
+empfehlen.
+
+Die oben angegebene Schmierfettspezifikation gilt fr
+Umgebungstemperaturen ber -30 °C oder unter
+
++55 °C und Lagertemperaturen unter 110 °C. Wenden
+Sie sich andernfalls an ABB fiir Informationen Uber
+geeignetes Schmierfett.
+
+Geeignete Fette mit den geforderten Eigenschaften
+sind bei allen gréBeren Schmiermitielherstellern erhéalt-
+lich.
+
+Beimengungen werden empfohlen, doch sollte man
+eine schriftliche Garantie vom Schmiermittelhersteller
+besonders flr EP-Zusétze erhalten, dass diese nicht
+die Lager beschédigen oder innerhalb des Betriebstem-
+peraturbereichs die Eigenschaften der Schmiermittel
+beeintrachtigen.
+
+ 
+
+  
+
+ACHTUNG
+Schmiermittel, denen EP-Zusétze beigemengt
+
+sind, sind unter hohen Lager-Temperaturen bei
+BaugroRBen von 280 bis 450 nicht zu empfehlen.
+
+   
+  
+
+Folgende hochwertige Schmierfette kénnen benutzt
+werden:
+
+— Esso  Unirex N2, N3 oder S2 (Lithiumkomplex-
+Basis)
+
+— Mobil  Mobilith SHC 100 (Lithiumkomplex-Basis)
+
+— Shell  Albida EMS 2 (Lithiumkomplex-Basis))
+
+— Kliber Kiuberplex BEM 41-132 (Spezielle Lithiumba-
+sis)
+
+— FAG  Arcanol TEMP110 (Lithiumkomplex-Basis)
+
+ 
+
+  
+
+ACHTUNG
+Stets Hochgeschwindigkeitsfette verwenden flr
+2-polige Maschinen mit hoher Drehzahl, bei denen
+der Drehzahlfaktor hoher als 480.000 ist (berechnet
+als Dm x n, wobei Dm = durchschnittlicher Lager-
+durchmesser in mm; n = Drehzahl U/min).
+
+     
+    
+
+Folgende Schmierfette kdnnen mit Graugussmotoren
+mit hoher Drehzahl verwendet werden, dirfen jedoch
+nicht mit Schmierfetten auf Lithiumkomplex-Basis
+gemischt werden:
+
+— Kliber Kliiber quiet BH 72-102 (Polyuretan-Basis)
+— Lubcon Turmogrease PU703 (Polyuretan-Basis)
+
+Falls andere Schmiermittel verwendet werden, erkundi-
+gen Sie sich bitte beim Hersteller, ob die Qualitat der
+der oben aufgeflihrten Fette entspricht, oder wenden
+Sie sich in unsicheren Fallen an ABB.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+7. Kundendienst
+
+7.1 Ersatzteile
+
+Als Ersatzteile dlrfen nur von ABB gelieferte und
+geprifte Teile eingesetzt werden.
+
+Die in IEC 60079-19 festgelegten Anforderungen sind
+zu befolgen.
+
+Bei der Bestellung von Ersatzteilen sollte die Motorseri-
+ennummer, die vollstéandige Typenbezeichnung und der
+Produktkode (siehe Leistungsschild) angegeben werden.
+
+7.2 Demontage und Neueinbau
+sowie Neuwickiung
+
+Fur Montage, Demontage und Neuwicklung bitte die
+Anweisungen der Norm IEC 60079-19 befolgen. Alle
+Arbeiten dieser Art sind ausschlieBlich vom Hersteller,
+d.h. von ABB, oder von einer hierflr autorisierten Firma
+durchzufihren.
+
+Es dirfen keine Konstruktionséanderungen an Teilen
+vorgenommen werden, die die Explosionsschutzkapse-
+lung bilden, und an Teilen, die den Staubschutz ge-
+wahrleisten. Ferner sicherstellen, dass die Luftungsan-
+lage immer funktionstiichtig ist.
+
+Neuwicklungen drfen nur in einer von ABB autorisier-
+ten Firma durchgefthrt werden.
+
+Beim Wiederanbau des Lagerschildes bzw. des Klemmen-
+kastens am Gehause von druckfest gekapselten Motoren
+ist darauf zu achten, dass die Einpasse frei von Farbe und
+Schmutz sind. Es darf nur eine diinne Schicht von nicht
+hartendem Spezialfett vorhanden sein. Im Falle von DIP-/
+Ex tD-Motoren ist beim Wiederanbau des Lagerschilds am
+Gehause das spezielle Dichtungsfett oder der Dichtungs-
+verbund fiir die Einpasse erneut zu verwenden. Es handelt
+sich um denselben Typ, der urspriinglich beim Motor flr
+diese Schutzart verwendet wurde.
+
+7.3 Lager
+Die Lager sind mit besonderer Sorgfalt zu behandeln.
+
+Die Lager durfen nur mit Hilfe von Ausziehwerkzeugen
+demontiert und in erwarmtem Zustand oder unter
+Verwendung von Spezialwerkzeug eingebaut werden.
+
+Der Austausch von Lagern wird in einer eigenen Hin-
+weisschrift von ABB ausfuhrlich beschrieben. Fiir das
+Auswechseln von Lagern bei DIP-/Ex tD-Motoren gelten
+besondere Empfehlungen (da die Dichtungen gleichzei-
+tig ausgetauscht werden sollten).
+
+Auf dem Motor, z. B. auf Schildern, angebrachte Anwei-
+sungen sind zu befolgen. Die auf dem Leistungsschild
+angegebenen Lagertypen dirfen nicht geéndert werden.
+
+WICHTIG!
+Jegliche vom Endanwender durchgefiihrte Reparatur,
+
+sofern diese nicht ausdricklich vom Herstelier geneh-
+migt worden ist, enthebt den Hersteller seiner Haftung
+fur Normenkonformitat der Ausristung.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+ 
+
+8. Umweltanforderungen
+8.1 Gerauschpegel
+
+Die meisten ABB Motoren haben einen Schalldruckpe-
+gel, der 82 dB(A) (+ 3 dB) bei 50 Hz nicht lberschreitet.
+
+Konkrete Werte flr die einzelnen Maschinen sind dem
+jeweiligen Produktkatalog zu entnehmen. Bei 60 Hz
+sinusférmige Versorgung sind die Werte ca. 4 dB(A)
+héher als die 50 Hz-Werte in den Produktkatalogen.
+
+Bzgl. des Schalldruckpegels bei Frequenzumrichter-
+speisung setzen Sie sich bitte mit ABB in Verbindung.
+
+37 -DE
+
+L
+0
+LLI
+o
+
+9. Motor-Stérungssuchtabelle
+
+In den folgenden Anleitungen kann nicht auf sdmtliche technische Einzelheiten oder Unterschiede zwischen den
+verschiedenen Motoren oder alle bei der Installation, beim Betrieb oder bei der Wartung méglicherweise auftreten-
+den Situationen eingegangen werden. Anfragen bezlglich weitergehender Informationen richten Sie bitte an die
+néchste ABB-Vertriebsstelle.
+
+Motor-Fehlersuchtabelle
+Wartungs- und etwaige FehlersuchmaBnahmen am Motor diirfen nur von hierflr qualifiziertem Personal und mit
+
+geeigneten Werkzeugen und Hilfsmitteln durchgefuhrt werden.
+
+FEHLER URSACHE MASSNAHMEN
+
+Motor startet nicht Sicherungen durchgebrannt Neue Sicherungen des richtigen Typs und mit
+entsprechenden Bemessungsdaten einsetzen.
+
+           
+
+Uberlastauslésung Uberlast in Anlasser priifen und zurlicksetzen.
+
+      
+
+Uberpriifen, ob die Stromversorgung den Angaben
+auf dem Motorleistungsschild entspricht und fir den
+jeweiligen Lastfaktor geeignet ist.
+
+Fehlerhafte Stromversorgung
+
+  
+
+   
+
+Anschliisse anhand des mit dem Motor gelieferten
+Schaltplans tberprifen.
+
+Fehlerhafte Netzanschliisse
+
+     
+
+  
+
+Erkennbar an einem Summen bei Einschalten des
+Schalters. Verdrahtung auf lockere Anschllsse
+Uberprifen.
+
+Kontrollieren, ob alle Kontakte schlie3en.
+
+Stromkreisunterbrechung in
+Wicklung oder Steuerschalter
+
+   
+   
+
+ 
+
+                
+
+  
+
+Uberpriifen, ob Motor und Antrieb frei drehen. Lager
+und Schmierung kontrollieren.
+
+Mechanischer Fehler
+
+               
+
+       
+
+Erkennbar an durchgebrannten Sicherungen. Der
+Motor muss neu gewickelt werden. Lagerschilde
+abnehmen; Fehler mit Priflampe lokalisieren.
+
+Standerkurzschluss
+Schlechter Anschluss an
+Standerwicklung
+
+Defekter Rotor
+
+Motor Uiberlastet Last reduzieren.
+
+Phasenausfall Leitungen auf offene Phase kontrollieren.
+
+Falsche Anwendung Nach Ruicksprache mit dem Anbieter des Gerats
+geeigneten Typ bzw. geeignete Baugréi3e
+verwenden.
+
+Uberlast Last reduzieren.
+
+Unterspannung Kontrollieren, ob die auf dem Leistungsschild
+angegebene Spannung eingehalten wird. Anschluss
+
+Uberprifen.
+
+ 
+
+Auf gebrochene Stébe oder Endringe kontrollieren.
+
+        
+
+      
+
+Motor lauft nicht
+
+   
+
+    
+   
+
+  
+
+        
+
+Durchgebrannte Sicherungen; Uberlastrelais, Stander
+und Drucktasten kontrollieren.
+
+     
+
+Offener Stromkreis
+
+Motor lauft nur fir Netzausfall
+kurzen Zeitraum
+
+ 
+
+Auf lose Anschliisse zum Netz, zu den Sicherungen
+und zur Steuerung Uberprifen.
+
+  
+ 
+
+DE - 38 ABB/Low Voltage Motors/ Ex manual 01-2007
+ 
+
+ 
+
+FEHLER URSACHE MASSNAHMEN
+
+ 
+
+Motor 18uft nicht Falsche Anwendung Durch Ricksprache mit dem Lieferanten des Gerats
+hoch geeigneten Typ bestimmen.
+Unterspannung an Hohere Spannung oder héhere Transformatorstufe
+Motorklemmen durch verwenden. Anschllsse Uberprifen. Leiter auf
+Netzspannungsabfall angemessenen Querschnitt Uberprufen.
+Anlauflast zu hoch Auslegung des Motors beziglich Leerlauf Uberprifen.
+Gebrochene Rotorstébe oder Kontrollieren, ob in der N&he der Ringe Risse
+lockerer Rotor vorhanden sind. Méglicherweise wird ein neuer Rotor
+
+bendtigt, da eine dauerhafte Reparatur in diesem Fall
+meist nicht méglich ist.
+
+ 
+
+Offener Primarkreis Fehler mit Priifgerat lokalisieren und beheben.
+
+Motor lauft zu Last zu hoch Last reduzieren.
+
+IEngEr oot Spannung beim Anlauf zu niedrig | Auf zu hohen Widerstand Uberprifen. Angemessenen
+
+ursc/adlar zisht 2 Leitungsquerschnitt verwend
+starken Strom g9 i
+
+ 
+
+     
+
+ 
+
+Defekter Kéfigrotor Neuen Rotor einbauen.
+
+ 
+
+Netzspannung zu niedrig Spannungsversorgung klaren.
+
+ 
+
+Falsche Falsche Phasenfolge Anschliisse am Motor bzw. an der Schalttafel
+Drehrichtung vertauschen.
+
+Motor Uberhitzt bei Uberlast Last reduzieren.
+
+Bellftungsoéffnungen sind Beltftungséffnungen séubern und kontrollieren, ob
+mdglicherweise durch Schmutz ein kontinuierlicher Luftstrom den Motor kuihlt.
+verstopft und verhindern eine
+
+ordnungsgemane Kuhlung des
+
+Betrieb unter Last
+
+Motors
+
+Eine Motorphase ist Kontrollieren, ob alle Anschlussleitungen richtig
+moglicherweise ausgefallen angeschlossen sind.
+
+Erdschluss Motor muss neu gewickelt werden.
+
+Unsymmetrische Anschlussleitungen, Anschlisse und
+Klemmenspannung Transformatoren auf Fehler Gberprifen.
+
+ 
+
+     
+
+Motorschwingungen | Motor schlecht ausgerichtet Motor nachrichten.
+
+    
+
+Mangelnde Stabilitét des Unterbau verstarken.
+
+Unterbaus
+
+ 
+
+     
+   
+
+Unwucht in Kupplung Kupplung auswuchten.
+
+   
+
+Unwucht in getriebener Anlage Getriebene Anlage neu auswuchten.
+
+Defekte Lager Lager austauschen.
+
+Lager schlecht ausgerichtet Motor reparieren.
+
+ 
+
+ 
+
+Auswuchtgewichte verschoben Rotor neu auswuchten.
+
+ 
+
+Wuchtung von Rotor und Kupplung oder Rotor neu auswuchten.
+Kupplung nicht aufeinander
+
+abgestimmt (Halbkeil- bzw.
+
+Vollkeilwuchtung)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mehrphasenmotor 1&uft Auf offenen Stromkreis Uberprifen. _]
+
+einphasig
+
+Axialspiel zu grof3 Lager nachstellen oder Feder-Ausgleichsscheibe
+einlegen.
+
+ABB/Low Voltage Motors/ Ex manual 01-2007 39-DE
+
+DE
+DE
+
+                
+
+Gerausche
+
+    
+
+Betriebsgerausch
+zu laut
+
+   
+
+Lagertemperatur zu
+hoch
+
+ 
+
+FEHLER URSACHE MASSNAHMEN
+
+ 
+
+   
+
+Lfter reibt an Lufterkappe Luftermontage korrigieren.
+
+ 
+
+ 
+
+  
+
+Lockerer Sitz auf Grundplatte FuBschrauben anziehen.
+
+      
+
+   
+
+Lagerschildbefestigung bzw. Lager Uberprifen und
+entsprechend korrigieren.
+
+Luftspalt nicht gleichméBig
+
+  
+
+  
+       
+          
+
+Rotor neu auswuchten.
+
+ 
+
+Unwucht im Rotor
+
+          
+
+Welle verbogen oder beschadigt | Welle richten oder austauschen.
+
+     
+
+Riemenzug zu stark Riemenspannung reduzieren.
+
+   
+
+Riemenscheiben zu weit von Riemenscheibe néher am Motorlager anordnen.
+
+Wellenschulter entfernt
+
+  
+
+   
+
+              
+          
+
+Durchmesser der GroBere Riemenscheiben verwenden.
+
+Riemenscheiben zu klein
+
+Durch Nachrichten des Antriebs korrigieren.
+
+    
+
+Schlechte Ausrichtung
+
+Unzureichendes Schmierfett
+
+ 
+
+Angemessene Qualitdt des im Lager vorhandenen
+Schmierfetts sicherstellen.
+
+    
+
+Altes Schmierfett entfernen. Lager grindlich in
+Kerosin waschen und mit neuem Fett schmieren.
+
+         
+
+Qualitat des Schmierfetts
+beeintrachtigt oder Schmiermittel
+verschmutzt
+
+            
+   
+
+Schmiermittelmenge verringern; das Lager sollte
+maximal zur Hélfte geflllt sein.
+
+Uberschiissiges Schmiermittel
+
+Lager Uberlastet Ausrichtung, Radial- und Axialschub tberprifen.
+
+   
+
+  
+
+Lager austauschen; vor dem Einbau des neuen
+Lagers das Lagergehause grindlich reinigen.
+
+Defekte Kugel oder raue
+Laufbahnen
+
+  
+
+ 
+
+DE - 40
+
+ 
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Figure 1. Connection diagram
+Abbildung 1.  Anschlussschaltbild
+Figure 1. Schéma de connexion
+Figura 1. Diagrama de conexiones
+Figura 1. Schema di collegamento
+L1 =
+W2 U1 W Uz V2_=
+e
+Wi U2 it vitwiy !
+= L2y (2 L3 FE
+Figure 2. Belt drive
+Abbildung 2.  Riementrieb
+Figure 2. Entrainement a courroie
+Figura 2. Accionamiento por correas
+Figura 2. Accoppiamento a cihghia
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+
+L1 PE L1 L2 L3
+Vo _ .:_.,_ T T
+Ut | ROV W
+o | I P o1
+U205 | o —o | | O 9 1!
+oS LUL VEWI WL NVIEWI )
+L3~ Wi VITS | 5 L1 L2 L3 PE
+
+   
+
+ 
+ 
+
+ 
+  
+
+ 
+
+  
+
+. ||||||||||i'ﬁ'|||||||||‘|
+
+  
+
+103
+Figure 3.
+
+Abbildung 3.
+
+Figure 3.
+Figura 3.
+Figura 3.
+
+Figure 4.
+
+Abbildung 4.
+
+Figure 4.
+
+Figura 4.
+
+Figura 4.
+
+104
+
+Mounting of half-coupling or pulley
+
+Viontage von Kupplungshalften und Riemenscheiben
+Montage d’'un demi-accouplement ou d’une poulie
+Montaje de acoplamientos o polea
+
+Montaggio di semigiunti o pulegge
+
+ 
+
+Allowed phase to phase voltage peaks at motor terminals as a function of rise time.
+Rise time defined according to IEC60034-17.
+..... ABB Special insulation; ----- ABB Standard insulation; ___ I[EC TS 60034-17
+
+Zuléssige Phase-zu-Phase-Spannungsspitzen an Motorklemmen als Funktion der Anstiegszeit.
+Definition der Anstiegszeit nach IEC60034-17.
+..... ABB Spezialisolierung; ----- ABB Standardisolierung; IEC TS 60034-17
+
+Pics de tension phase-phase au niveau des bornes du moteur en tant que fonction de temps
+de hausse. Temps de hausse défini en conformité de la norme IEC60034-17.
+..... ABB Isolation spéciale ; ----- Isolation standard ABB ; ___ IEC TS 60034-17
+
+Picos de tension permitidos entre fases en los bornes del motor en funcion del tiempo de aumento.
+Tiempo de aumento definido seguin la norma IEC60034-17.
+..... Aislamiento especial de ABB; ----- Aislamiento estandar de ABB; ___ IEC TS 60034-17
+
+Picchi di tensione da fase a fase ammessi ai morsetti del motore in funzione del tempo di salita.
+Tempo di salita definito in conformita a IEC60034-17.
+..... Isolamento speciale ABB; ----- Isolamento standard ABB; ____ IEC TS 60034-17
+
+ 
+
+Risetime10 -90%,MS
+
+ 
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Loadability curves with ACS800 converters with DTC control
+Belastbarkeitskurven fiir ACS800-Frequenzumrichter mit DTC-Steuerung
+
+Courbes de capacité de charge avec convertisseurs ACS800 et commande DTC
+Curvas de capacidad de carga con convertidores ACS800 dotados de control DTC
+
+Curve di caricabilita con convertitori ACS800 e controllo DTC
+
+Figure 5. Flameproof motors Ex d, Ex de, cast iron (type M3GP) dust ignition proof motors,
+(DIP/Ex tD); nominal frequency of the motor 50/60 Hz
+
+Abbildung 5. Motoren mit druckfester Kapselung Ex d, Ex de, Grauguss (Typ M3GP), Staubexplosionsschutz-
+motoren, (DIP, Ex tD); Nennfrequenz des Motors 50/60 HzFigura 5.
+
+Figure 5. Moteurs & enveloppe antidéflagrante Ex d, Ex de, moteurs en fonte (type M3GP) pour atmosphé-
+res de poussiéres combustibles, (DIP/Ex tD) ; fréquence nominale du moteur de 50/60 Hz
+
+Figura 5. Motores antideflagrantes Ex d, Ex de, hierro fundido (tipo M3GP) motores a prueba de ignicion
+de polvo, (DIP/Ex tD); frecuencia nominal del motor 50/60 Hz
+
+Figura 5. Motori a prova d’esplosione Ex d, Ex de, motori in ghisa (tipo M3GP) con protezione da polveri
+combustibili, (DIP/Ex tD); frequenza nominale del motore 50/60 Hz
+
+T, % TIT,, %
+
+Separate cooling
+sizes 160-400
+
+ 
+
+ 
+
+ 
+
+L
+
+‘ Sizes B0-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Frequency (Hz) Frequency (Hz)
+
+ABB/Low Voltage Motors/ Ex manual 01-2007 105
+Figure 6.
+
+Abbildung 6.
+
+Figure 6.
+
+Figura 6.
+
+Figura 6.
+
+TTy..% 100
+90
+80
+70
+60
+50
+40
+30
+
+20
+
+106
+
+Non-sparking motors Ex nA, cast iron (type M3GP) and aluminium dust ignition proof motors
+(DIP/Ex tD T125°C), nominal frequency of the motor 50/60 Hz
+
+Nicht funkende Motoren Ex nA, Aluminium und Grauguss (Typ M3GP), Staubexplosionsschutz-
+motoren (DIP/Ex tD T125°C); Nennfrequenz des Motors 50/60 Hz
+
+Moteurs non producteurs d’étincelles Ex na, moteurs en fonte (type M3GP) et en aluminium pour
+atmosphéres de poussiéres combustibles (DIP/Ex tD T125°C), fréquence nominale du moteur
+
+de 50/60 Hz
+
+Motores antichispas Ex nA, aluminio y hierro fundido (tipo M3GP) motores a prueba de ignicion
+de polvo (DIP/Ex tD T125 °C), frecuencia nominal del motor 50/60 Hz
+
+Motori non-sparking Ex nA, motori in ghisa (tipo M3GP) e alluminio con protezione da polveri
+combustibili (DIP/Ex tD T125°C), frequenza nominale del motore 50/60 Hz
+
+60 Hz
+
+TT,.% 100 Separate cooling |} - | —
+
+ 
+
+90
+
+ 
+
+ 
+
+80
+
+ 
+
+ 
+
+70
+
+60
+
+ 
+
+ 
+
+50
+
+ 
+
+40
+
+ 
+
+ 
+
+30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 T T [ L T
+5 10 20 30 40 50 80 70 80 90 100
+
+Frequency (Hz) Frequency (Hz)
+
+ABB/Low Voltage Motors/ Ex manual 01-2007
+Guideline loadability curves with other voltage source PWM-type converters
+
+Belastbarkeitskurven als Richtlinie fiir spannungsgespeiste PMW-Frequenzumrichter
+
+Courbes de capacité de charge de référence avec d’autres convertisseurs PTW de source de tension
+Curvas indicativas de capacidad de carga con otros convertidores de fuente de tensién de tipo PWM
+
+Curve di caricabilita per altre origini di tensione con convertitori tipo PWM
+
+Figure 7. Flameproof motors Ex d, Ex de, cast iron dust ignition proof motors (DIP/Ex tD T125°C);
+nominal frequency of the motor 50/60 Hz
+
+Abbildung 7.  Motoren mit druckfester Kapselung Ex d, Ex de, Grauguss-Staubexplosionsschutzmotoren
+(DIP/Ex tD T125°C); Nennfrequenz des Motors 50/60 Hz
+
+Figure 7. Moteurs a enveloppe antidéflagrante Ex d, Ex de, moteurs en fonte pour atmosphéres de
+poussieres combustibles (DIP/Ex tD T125°C) ; fréquence nominale du moteur de 50/60 Hz
+
+Figura 7. Motores antideflagrantes Ex d, Ex de, motores de hierro fundido a prueba de ignicién
+de polvo (DIP/Ex tD T125 °C); frecuencia nominal del motor 50/60 Hz
+Figura 7. Motori a prova d’esplosione Ex d, Ex de, motori in ghisa con protezione da polveri
+
+combustibili (DIP/Ex tD T125°C); frequenza nominale del motore 50/60 Hz
+
+ 
+
+ 
+
+ 
+
+Ty% 120 T Ty, % 120
+
+I
+
+{ Separale coolin | !
+110 [---t--4 sizes 160-100 9 e - ——!~—~f—~ - 110
+
+{ ! | |
+
+i P i {
+
+100 : - - gt 100
+\ i 1 ! i
+
+90 Tt N e 90
+
+80 80 |-
+
+ 
+
+70 70
+
+ 
+
+ 
+
+60
+
+ 
+
+60
+
+ 
+
+50 50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+5 10 20 30 40 50 €0 70 80 80 100
+Frequency (Hz) Frequency (Hz)
+
+ABB/Low Voltage Motors/ Ex manual 01-2007 107
+Figure 8. Non-sparking motors Ex nA, cast iron dust ignition proof motors (DIP/Ex tD);
+nominal frequency of the motor 50/60 Hz
+
+Abbildung 8.  Nicht funkende Motoren Ex nA, Grauguss-Staubexplosionsschutzmotoren (DIP, Ex tD),
+Nennfrequenz des Motors 50/60 Hz
+
+Figure 8. Moteurs non producteurs d’étincelles Ex nA, moteurs en fonte pour atmosphéres de poussiéres
+combustibles (DIP/Ex tD) ; fréquence nominale du moteur de 50/60 Hz
+
+Figura 8. Motores antichispas Ex nA, motores de hierro fundido a prueba de ignicién de polvo (DIP/Ex tD),
+frecuencia nominal del motor 50/60 Hz
+
+Figura 8. Motori non-sparking Ex nA, motori in ghisa con protezione da polveri combustibili
+(DIP/EX tD), frequenza nominale del motore 50/60 Hz
+
+TTy.% 100 TTy.% 100
+
+90 g0
+
+ 
+
+80
+
+ 
+
+70
+
+ 
+
+ 
+
+60 60
+
+50
+
+ 
+
+ 
+
+40 40
+
+ 
+
+30 30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 20
+
+ 
+
+5 10 20 30 40 50 60 70 80 90 100
+Frequency (Hz) Frequency (Hz)
+
+108 ABB/Low Voltage Motors/ Ex manual 01-2007
+ 
+
+Cert. No.
+Routine Test Report
+i Date of Issue 2011-02-23
+
+Customer: ABB SPA - SACE DIVISION Type: M3KP 180MLB 4 IMB3/IM1001
+Protection EX DE IIB T4
+
+3GF11058432
+
+Customer ref.: 10325301 .. 4943511
+Rating: Product Code 3GKP182420-ADH
+
+3~ Motor
+Duty Hz kW
+
+Insul.cl. F
+
+Resistance Insulation resistance
+Uut-VvVi1 02238 Q 20000M © 1000 V
+
+Ul-W1 02234 o 22°C 22°C
+Vi1-W1 02234 Q
+
+High-voltage test
+2900V 1s
+
+Line
+Uiv] f[Hz]
+
+No-load test 3986 Y| 50 16.5 1.0
+Locked-rotor test 83.8 Y| 50 39.2 1.9
+
+Vibration 1.1 mm/s
+
+Manufactured and tested in accordance with rules of IEC 60034-1.
+On behalf of customer
+
+On behalf of manufacturer Date of test: 2011-01-21
+
+Tested by ABB Oy, Motors, Vaasa
+
+ 
+
+Computer print-out valid without signature
+
+ 
+
+ABB Oy P.O.Box 633 Phone: +358 10 2211
+Motors FI-65101 Vaasa Finland Fax: +358 10 22 47372
+
