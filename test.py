@@ -79,9 +79,7 @@ def unit_test(rootDir, testcase_path, out_file):
     files_rare = []
     for file_tokens in tokens_filtered:
         rare_words = preprocessing.extract_rare(file_tokens, all_dictionary)
-        files_rare.append(rare_words)
-        for rw in rare_words:
-            print('{} -> {}'.format(rw, token2occ[rw]))
+        files_rare.append(set(rare_words))
 
     print('Loading done.')
 
@@ -92,7 +90,7 @@ def unit_test(rootDir, testcase_path, out_file):
     all_results = []
 
     for t in testcases:
-        results = search_query(t[0], filentoken2tfidf, token2files, debug=True)
+        results = search_query(t[0], filentoken2tfidf, token2files, files_rare, debug=True)
         all_results.append(results)
         targets_pos = []
         targets_scores = []

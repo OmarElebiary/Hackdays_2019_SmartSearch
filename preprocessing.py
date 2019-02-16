@@ -71,9 +71,9 @@ def extract_rare(tokens, dictionary):
             return False
 
         if word.isnumeric():
-            return len(word) >= 5
+            return len(word) >= 6
         else:
-            return len(word) >= 3
+            return len(word) >= 10
 
     rare = []
     for token in tokens:

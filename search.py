@@ -1,3 +1,4 @@
+import collections
 from collections import defaultdict
 
 import metrics
@@ -5,7 +6,7 @@ from files import get_filtered_data
 from preprocessing import preprocess
 
 
-def search_query(query, filentoken2tfidf, token2files, debug=False):
+def search_query(query, filentoken2tfidf, token2files, files_rare, debug=False):
     """
 
     :param query: Whole query (can be composed of multiple tokens)
@@ -28,6 +29,22 @@ def search_query(query, filentoken2tfidf, token2files, debug=False):
             file2totalscore[file] += score
             if debug:
                 file2totalscore_debug[file] += ' + ({}, {:.5f})'.format(query_prep[i], score)
+
+    # build connections
+    rareword2file = collections.defaultdict(set)
+    for i in range(T):
+        for file, score in scores[i]:
+            for rw in files_rare[file]:
+                rareword2file[rw].add(file)
+
+    for i in range(T):
+        for file, score in scores[i]:
+            for rw in files_rare[file]:
+                if len(rareword2file[rw]) > 5:
+                    continue
+                for otherfile in rareword2file[rw]:
+                    if file != otherfile:
+                        file2totalscore[file] += 0.0001
 
     # sort by score
     scorefile = []
