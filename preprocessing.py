@@ -67,7 +67,7 @@ def segment(token, dictionary):
     n = len(token)
     segments = []
     start = 0
-    min_segment_len = 15
+    min_segment_len = 5
     for i in range(len(token)):
         if i - start >= min_segment_len - 1 and n - (i + 1) >= min_segment_len and token[start:i + 1] in dictionary:
             segments.append(token[start:i + 1])
