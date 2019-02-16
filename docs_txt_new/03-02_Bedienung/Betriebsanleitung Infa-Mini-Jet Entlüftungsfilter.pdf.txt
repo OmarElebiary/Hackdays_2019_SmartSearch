@@ -1,0 +1,2380 @@
+Betriebsanleitung
+fiir
+INFA-MINI-JET
+
+Entliiftungsfilter
+
+der Baureihe
+
+AJM ...-...-.. P
+
+Dokument Nr.: 126020R/01.09
+
+TV
+
+DIN EN ISO 9001:2000
+Zertifikat: 01 100 060008
+
+INFASTA UBGmbH
+
+Niederstedter Weg 19, 61348 Bad Homburg v. d. H.
+
+Postfach 1762, 61287 Bad Homburg v. d. H.
+Tel. 06172/ 3098 - 0, Fax 06172 / 309890
+
+Inhaltsverzeichnis
+
+5.1.2,
+5.2
+5.3.
+5.4.
+6.
+6.1.
+6.2.
+6.3.
+7.
+7.1
+7.2.
+7.3.
+8.
+8.1.
+9.
+9i1.
+9.2.
+
+Allgemeine Beschreibung ..
+Zweckbestimmung ......
+Konstruktiver Aufbau .
+Abreinigungssystem
+Membranventil, Typ A
+Druckluftbehilter ...
+Beschreibung .......
+Technische Daten .
+Magnetventile, Typ R ..
+Beschreibung:
+Arbeitsweise .
+Ausstattung, Zubehor (auftragsabhingig) ....2
+Filterfunktion ..o
+Funktion der pneumatischen Abreinigung ...
+MontagehinWeise: ....comiivemsrssonssisaresssaornone
+Filteraufstellung ......
+Druckluftanschlufy
+Elektrische Anschliisse ..
+Funktionspriifung
+Inbetriebsetzung des Filters
+WHEIBAE (oivsmimonasammas
+Auswechseln der Filterelemente ..
+Ausbau der Filterelemente .
+Einbau der Filterelemente . w
+Auswechseln der Membrane ............cccooeenne
+Auswechseln der Magnetventile
+
+Wartungsplan ...
+Storungen und ihre Behebung
+Staubdurchschlag ..................
+Differenzdruck groBer 150 daPa 4
+Differenzdruck kleiner 60 daPa
+Auslieferung und Verpackung .
+Versand .
+Kennzeichnung
+Oberflichenschutz .
+Ersatzteile .
+Ersatzteilehaltung
+Abbildungen ........
+Konstruktiver Aufbau ...
+Pneumatische Abreinigungseinheit..
+
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+  
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+    
+
+ 
+
+ANHANG: 1. Sicherheitshinweise
+
+2. Herstellererkldrung
+3. Geritespez. Datenblatt + Ersatzteilliste
+4. Beschreibung Zubehor
+
+(siehe Geriitespez. Datenblatt)
+
+ 
+
+INFA-MINI-JET-Betriebsanleitung
+
+1. Aligemeine Beschreibung
+1.1.Zweckbestimmung
+
+Der Filter wird in der Regel zur Entstaubung der Abluft
+aus pneumatisch befiillten Silos, Bunkern, Behéiltem oder
+auch in pneumatischen Férderanlagen fiir Schiittgiiter aller
+Art eingesetzt.
+
+Dieser Filter wird pneumatisch abgereinigt und ist deshalb
+fiir einen kontinuierlich ablaufenden Verfahrensproze
+geeignet.
+
+Der abzuscheidende Staub muB trocken und rieselfihig
+sem.
+
+1.2.Konstruktiver Aufbau
+
+Der Filter besteht aus einer nach oben offenen Reingas-
+kammer mit Montage flansch und einer darunter montier-
+ten Grundplatte. Der Filter ist mit einem pneumatischen
+Abreinigungssystem ausgestattet.
+
+In der Reingaskammer eingebaut sind die Diisenstocke.
+AuBen an der Reingaskammer ist der Druckluftbehilter
+mit den Membranventilen montiert.
+
+In die Offnungen der Grundplatte sind die Filterelemente
+eingesetzt, Die Filterelemente sind mit Spanneisen an der
+Grundplatte befestigt, wodurch eine absolut staubdichte
+Trennung zwischen Roh- und Reingasscite des Filters
+bewirkt wird.
+
+1.3.Abreinigungssystem
+
+Zur Aufrechterhaltung der Luftdurchlissigkeit werden die
+Filterelemente kontinuierlich wiihrend der Filtrationsphase
+vom angelagerten Staub befreit.
+
+Dazu ist der Filter mit einem pneumatischen Abreini-
+gungssystem ausgestattet. Zur Steuerung der Abreinigung
+kann eine Steuerung (Zubehér) mitgeliefert werden.
+Wiihrend der Abreinigung werden einzelne Filterelemen-
+tenreihen im Gegenstrom nacheinander in Intervallen von
+normalerweise 10 Sec. mit einem DruckluftstoB
+beaufschlagt.
+
+Die Einschaltung des Abreinigungssystems muf gleich-
+zeitig mit dem Anfahren der Gesamtanlage erfolgen.
+1.4.Membranventil
+
+Die Druckluftimpulse fiir die Abreinigung der
+Filterelemente werden durch sogenannte
+eigenmediumgesteuerte Membranventile ausgelost.
+Eine Ansteuerung durch das jeweils zugehorige,
+clektrisch erregte Magnetventil bewirkt, daB die Luft
+oberhalb der Membrane ins Freie entweicht und damit
+schlagartig die Verbindung zum Druckluftbehilter
+gedffnet wird. Dadurch wird ein krifftiger Druckstof
+fiir einen wirkungsvollen Abreinigungseffekt erzeugt.
+Nach umgehender Entregung des Magnetventils wird
+das Membranventil durch die iiber der Membrane
+einstromende Druckluft wieder geschlossen.
+
+ 
+
+geofinet geschlossen
+
+Dokument Nr.: 126020R/01.09
+
+Geriitebaureihe AJM ...-...-.. P
+
+1.5.Druckluftbehilter
+
+1.5.1.Beschreibung
+
+Der werkseitig angebaute Druckluftbehilter ist nach Fil-
+tertyp und Luftbedarf dimensioniert und ist vor dem
+Anbau einer sorgfiltigen Druckprobe unterzogen worden.
+Am Druckluftbehilter sind die dem jeweiligen Filtertyp
+entsprechende Anzahl von Membranventilen ange-
+schraubt.
+
+Der Druckluftbehdlter hat 2 Anschlufistutzen: Einen fiir
+
+den bauseitigen DruckluftanschluB(min. R1/2") und einen
+fiir ein Sicherheitsventil(Zubehor) und/oder ein Manome-
+ter (Zubehor).
+Der Druckluftbehilter darf nur zusammen mit dem Filter
+eingesetzt werden. Korrosiv wirkende Medien sind vom
+Druckluftbehilter fernzuhalten. Die jeweiligen nationalen
+Bestimmungen betreffend der Aufstellung, erstmaligen
+und wiederkehrenden Priifungen sind vom Betreiber zu
+beachten.
+1.5.2Technische Daten
+Betriebstemperatur:  Tmax.: +120°C
+
+Tmin.: -10°C
+Betriebsiiberdruck ~ PSmax.: 8 bar
+1.6.Magnetventile, Typ R
+
+   
+
+i o
+1.6.1Beschreibung:
+Das Offnen und SchlieBen der Membranventile erfolgt
+iiber elektromagnetische Ventile.
+
+Die Magnetventile sind in einem Gehiuse montiert und
+werksseitig iiber eine Steuerluftleitung direkt mit den
+Membranventilen verbunden.
+
+1.6.2Arbeitsweise
+
+Uber ein elektrisches Signal des Steuergerites (Zubehor)
+wird die Magnetspule jeweils eines Magnetventiles
+kurzzeitig erregt, zicht den Plunger an, der den Sitz des
+Ventiles kurzzeitig 6ffnet. Dadurch wird iiber die Steuer-
+luft-leitung die Kammer oberhalb der Membrane des
+
+an diesem Eingang angeschlossenen Membranventiles
+entliifiet und der gewiinschte Druckluftsto erzeugt.
+
+Seite 2
+INFA-MINI-JET-Betricbsanleitung
+
+1.7.Ausstattung, Zubehor (auftragsabhiingig)
+
+Der Filter muB bei Einsatz im Freien mit einer Abdeck-
+haube ausgestattet und die Reingasaustrittsoffnung mit
+einer Rohrleitung verbunden, oder mit einer Wetterschutz-
+haube versehen werden.
+
+Zusiitzlich kann der Filter ausgestattet werden mit:
+
+- Verschiedene Filtermedien entsprechend dem Einsatzfall
+- Steuergeriten mit verschiedenen Funktionen
+
+- Beschichtung oder Werkstoff fiir produktberiihrte Teile
+
+- Antistatische Ausriistung
+
+- Wartungseinheit fiir stérungsfreie Druckluftversorgung.
+2. Filterfunktion
+
+Der Filter arbeitet im Uber- oder Unterdruckbereich.
+
+Der Staub lagert sich der Staub an der rohgasseitigen
+Filterclementenoberfliche an, die Luft hingegen dringt
+durch die Elemente hindurch und entweicht gereinigt ins
+Freie.
+
+Fiir eine effektive Abscheideleistung ist der Aufbau einer
+Filterhilfsschicht an der Anstromfliche der Filterelemente
+wichtig. Jedoch mit dem Anwachsen des Staubkuchens
+wiichst allmihlich der Differenzdruck an und macht daher
+die Abreinigung notwendig. Fiir die Abreinigung muB im
+Druckluftbehlter ein Uberdruck von - normalerweise -
+
+6 bar aufrecht erhalten werden.
+
+Achtung! Es muD sichergestellt werden, daf wiih-
+rend jeder Filtrationsphase abgereinigt wird.
+2.1.Funktion der pneumatischen Abreinigung
+
+Uber ein elektrisches Taktsignal des Steuergerites
+(Pulszeit 0,1 Sek.) werden die Magnetspulen nacheinander
+in vorgegebenen Taktzeiten(Pausenzeit normalerweise
+
+10 Sek.) jeweils eines Magnetventils kurzzeitig erregt.
+Der Plunger wird angezogen und éffnet kurzzeitig den
+Sitz des Ventils. Dadurch wird iiber die Steuerluftleitung
+die obere Kammer des dazugehérigen Membranventils
+entliiftet und die Membrane gibt die Offnung frei.
+
+Nun strémt die Druckluft aus dem Druckluftbehilter in
+den Diisenstock und von dort aus in den Injektor.
+
+Die hohe Austrittsgeschwindigkeit bewirkt im Injektor
+einen Unterdruck, wodurch Sekundirluft angesaugt wird.
+Der Spiilstrom aus Primiir- und Sekundirluft bewirkt
+einen Uberdruck in dem Filterelement, so daB die Umkehr
+der Stromung den an der AuBenseite des Filterelementes
+anhaftenden Staub abreinigt. Nach dem SchlieBen des
+Membranventils steht das gereinigte Filterelement dem
+FiltrierprozeB wieder zur Verfiigung. Feinstpartikel bilden
+an der Filterelementenoberfliche sofort wieder eine neue
+Filterhilfsschicht.
+
+3. Montagehinweise
+3.1.Filteraufstellung
+
+Bei Montage des Filters ist der Montageflansch mit
+einer Dichtung zu versehen und mit dem Objektflansch
+zu verschrauben. Dichtung, Schrauben und Muttern
+sind als Zubehér erhiltlich oder bauseits beizustellen.
+Der Filter ist so aufzustellen, daB er gut zugénglich ist
+und die vorgeschricbenen Wartungsarbeiten ungehindert
+durchgefiihrt werden konnen.
+
+Das AusbaumaB fiir die Filterelemente ist zu beachten.
+Achtung! Aufordnungsgemiiie Abdichtung und
+Verschraubung achten! Der Gegenflansch muf} eben
+und plan sein! Der Filter muf} bei Einsatz im Freien
+mit einer Abdeckhaube ausgestattet und die Reingas-
+austrittséffnung mit einer Rohrleitung verbunden,
+oder mit einer Wetterschutzhaube versehen werden.
+
+Dokument Nr.: 126020R/01.09
+
+Geritebaureihe AIM ...-...-.. P
+
+3.2.Druckluftanschluf}
+
+Fiir einen storungsfreien Betrieb des Filters ist eine
+Versorgung mit 6l-, wasser- und staubfreier Druckluft
+von max. 8 bar erforderlich. Es wird empfohlen, in der
+Zuleitung bauseits eine Wartungseinheit (Zubehor)
+einzusetzen. Bei Verlegung der Druckluftleitung ist d
+arauf zu achten, daB bei kalten Temperaturen ein E
+infrieren derselben vermieden wird.
+
+3.3.Elektrische Anschliisse
+
+Die Magnetventile sind mit dem Steuergeriit verdrahtet.
+Der Anschlufl des Steuergerites darf nur von
+qualifiziertem Fachpersonal durchgefiihrt werden und hat
+nach den allgemein giiltigen VDE-Richtlinien zu erfolgen.
+Achtung! Bevor das Steuergeriit an das Stromnetz
+angeschlossen wird, ist sicherzustellen, dafl die auf
+dem Typenschild angegebene Betriebsspannung mit
+der des Stromnetzes iibereinstimmt. Die Netzanschluf-
+leitung darf nicht durch Uberfahren, Quetschen,
+Zerren etc. verletzt oder beschiidigt werden.
+
+Benitigt wird eine storungsfreie Stromversorgung.
+
+4. Funktionspriifung
+
+Vor Inbetriebnahme Betriebsbereitschaft sicherstellen!
+
+Nach beendeter Montage, Anschluf der Druckluft und
+
+Herstellung der elektrischen Anschliisse sind folgende
+
+Funktionspriifungen durchzufiihren:
+
+- Betricbsdruck im Druckluftbehilter priifen.
+
+- Bei eingeschalteter Steuerung kontrollieren, daB inner-
+
+halb eines Durchganges alle Ventile arbeiten und daB die
+
+am Steuergerit eingestellte Pausenzeit ca. 10 Sek. betrégt.
+
+Achtung!
+
+Bei Ausfiihrung mit Abdeckhaube, diese vorher 6ff-
+
+nen! Abdeckhaube sicher deponieren!
+
+- Nach jedem Druckstol muB der Druck im Druckluftbe-
+hiilter wieder auf den Betriebsdruck ansteigen.
+
+- Vor Inbetriebnahme sind die Abdeckhaube und sonstige
+Wartungséffnungen (falls vorhanden) zu schlieBen.
+
+Nach erstmaliger Beaufschlagung mit Staub und
+
+gleichzeitiger Abreinigung:
+
+- Uberpriifen der Filterreingasseite auf Staubdurchschlag.
+
+- Filterwiderstand messen und ggf. Steuerung fiir die
+Abreinigung veriindern(Pausenzeit, Abreinigungsdruck).
+
+4.1.Inbetricbsetzung des Filters
+
+Bei Inbetriebnahme eines neuen Filters, bzw. nach Einbau
+neuer Filterclemente erhoht sich der Volumenstrom durch
+den wesentlich niedrigeren Druckverlust erheblich.
+Deshalb ist eine Drosselung des Volumenstroms auf den
+Auslegungswert erforderlich. Bei einem Druckverlust von
+mind. 5 mbar muB das Drosselorgan neu auf den
+Auslegungswert eingestellt werden.
+
+Achtung!
+
+Eine bestimmungsgemiifie Verwendung eines Staub-
+filters liegt nur dann vor, wenn das Geriit in allen
+Betriebssituationen mit dem fiir die Auslegung der
+Filterfliiche zugrunde gelegten Volumenstrom
+beaufschlagt wird.
+
+Seite 3
+
+ 
+
+INFA-MINI-JET-Betriebsanleitung
+
+5. Wartung
+
+Achtung!
+
+Die ordnungsgemiile Funktion des Filters kann durch
+
+mangelhafte oder unsachgemiile Wartung gefiihrdet
+
+werden!
+
+Bei allen Arbeiten am Filter ist das Geriit stromlos und
+
+der Druckluftbehiilter drucklos zu machen.
+
+Atemschutzmaske und Schutzkleidung tragen.
+
+5.1.Auswechseln der Filterelemente
+
+Nach einer lingeren Betriebszeit werden sich die Filter-
+
+elemente durch Eindringen von feinstem Staub in die
+
+Poren langsam zugesetzt haben. Der Abreinigungsvorgang
+
+kann diesen eingedrungenen Staub nicht mehr entfernen.
+
+Die Filterelemente miissen jetzt durch neue ersetzt wer-
+
+den.
+
+Achtung !
+
+Vor Ausbau der Filterelemente
+
+- Behiilter fiir verschmutzte Elemente und Reinigungs-
+geriite bereitstellen und Folie auslegen!
+
+- Schutzbekleidung und Atemschutzmaske tragen!
+
+5.1.1Ausbau der Filterelemente
+
+- Abdeckhaube 6ffnen.
+
+- Sechskantmuttern der Spanneisen I6sen, das Filterele-
+ment aus der Grundplatte herausnehmen und entspre-
+chend den értlichen Vorschriften entsorgen.
+
+5.1.2Einbau der Filterelemente
+
+- Filterclement in die Offnungen der Grundplatte einfiih-
+ren. Auf gutes Anliegen des Dichtwulstes der Filterele-
+mente achten.
+
+- Mit den Muttern die Spanneisen festzichen.
+
+5.2.Auswechseln der Membrane
+
+1. Druckluftzuleitung absperren und Druckluftbehilter,
+z.B. durch Einschalten der Abreinigung drucklos
+machen.
+
+2. Steuergeriit ausschalten
+
+3. Steuerluftleitung am Ventildeckel durch Druck auf den
+Kunststoffring der Steckverschraubung lésen.
+
+4. Schrauben I8sen und Ventildeckel abnehmen.
+
+5. Defekte Membrane abheben und neue Membrane mit
+Blechdeckel nach oben so einlegen, daB die Vorsteuer-
+bohrungen fluchten.
+
+6. Ventildeckel mit Ventilkérper verschrauben.
+
+7. Steuerluftleitung durch festes Einschieben in die Steck-
+verschraubung anschlieBen
+
+Achtung! Membranenwechsel nur im drucklosen
+
+Zustand des Druckluftbehiilters vornehmen!
+
+<2~ Schraube
+i
++- Ventildeckel
+
+/ Blechdeckel
+
+<—— Membrane
+
+   
+ 
+  
+
+Vorsteuerbohrungen
+- Ventilkdrper
+
+Dokument Nr.: 126020R/01.09
+
+Geriitebaureihe AJM ...-...-.. P
+
+5.3.Wartungsplan
+
+Der Filter ist vom Konzept her auf ein Minimum an War-
+tungsaufwand ausgelegt. Fiir eine langjihrige, storungs-
+freie Funktion sind folgende Wartungsarbeiten
+intervallmiiBig durchzufiihren:
+
+téglich
+
+- Sicherstellen, daf der Betriebsdruck der Abreinigungs-
+druckluft am Filter ansteht(Normaler Wert 6 bar ).
+
+- Storungsfreie Stromversorgung sicherstellen.
+
+monatlich
+
+- Ventileinheiten und Dilsenstocke bei gedffneter Abdeck-
+haube ( falls vorhanden) wihrend eines Abreinigungs-
+vorganges kontrollieren. Jede Ventileinheit muf}
+nacheinander abblasen.
+
+- Dichtungen an den Filterelementen und Wartungséffnun-
+gen(falls vorhanden) auf Staubdurchschlag kontrollie-
+ren.
+
+- Filterwiderstand kontrollieren
+(Normalwert 60 - 120 daPa).
+
+jéhrlich
+
+- Korossionskontrolle
+
+- Filterelementenverschmutzung kontrollieren
+
+6. Storungen und ihre Behebun
+
+Im Stérungsfall muB zunichst mit einem MeBgeréit(Zube-
+hor) der Differenzdruck zwischen Roh- und Reingasseite
+gemessen werden.
+
+Bei bestimmungsgeméfer Verwendung soll der Differenz-
+druck zwischen 60 und max. 150 daPa liegen.
+6.1.Staubdurchschlag
+
+- Filterelemente kontrollieren; evtl. reinigen oder erset-
+zen).
+
+- Dichtwulst an den Filterelementen defekt oder nicht rich-
+tig eingelegt.
+
+- Uberpriifung der Verfahrenstechnik (GréBe der Filterfli-
+che, Filterelementqualitit, Volumenstrom, Betriebs-
+weise usw.)
+
+6.2.Differenzdruck groBer 150 daPa
+
+- Filterelemente zugesetzt durch zu hohe spezifische Fil-
+terflichenbelastung, zu hohe Staubbeau fschlagung oder
+Verklebung,.
+
+- Mangelnde Abreinigung(Druckluftqualitiit, Betriebs-
+druck, Magnet- und Membranventile priifen)
+
+- Steuerung priifen
+
+- Filterelementequalitit fiir den Einsatzfall ungeeignet.
+
+- Bei Stillstand der Anlage iiber lingere Zeit die Filter-ele-
+mente abreinigen. Wenn sich der Filterwiderstand
+dadurch nicht senkt, Filterelemente mechanisch reinigen
+oder ersetzen.
+
+6.3.Differenzdruck kleiner 60 daPa
+
+- Neue Filterelemente(noch keine Filterhilfsschicht)
+
+- Elemente sind verschlissen oder defekt
+
+- Dichtwulst an den Filterelementen defekt oder nicht rich-
+tig eingelegt.
+
+Seite 4
+INFA-MINI-JET-Betriebsanleitung Geritebaureihe AJM ...-...-.. P INFA-MINI-JET-Betriebsanleitung Geritebaureihe AJM ...-...-.. P
+
+7. Auslieferung und Verpackung 9. Abbildungen
+7.1. Versand 9.1.Konstruktiver Aufbau
+Der Versand erfolgt komplett montiert und verpackt. 9.2.Pneumatische Abreinigungseinheit
+
+Achtung! Fiir Transport und Aufstellung des angelie-
+ferten Filters diirfen Hebezeuge nur an den werkseitig
+dafiir vorgesehenen Tragedsen angeschlagen werden!
+
+7.2. Kennzeichnung
+
+Typenschild
+
+Das Filter wird durch ein Typenschild gekennzeichnet.
+Dieses ist an gut sichtbarer Stelle angebracht.
+Achtung!
+
+Das zur Identifizierung des Filters erforderliche
+Typenschild darf nicht entfernt oder
+
+unleserlich gemacht werden!
+
+7.3. Oberfléichenschutz
+
+Wenn im Kaufvertrag keine besonderen Anstriche verein-
+bart sind, werden alle Stahlblechteile mit einem Transport-
+schutz, in Form einer Rostschutzgrundierung versehen.
+Der erforderliche Korrosionsschutz durch Anstrich oder
+Beschichtung liegt dann in der Verantwortlichkeit des
+Kunden.
+
+Achtung! Auf sachgerechten Korrosionsschutz,
+insbesondere bei tragenden Teilen achten!
+
+8. Ersatzteile
+
+8.1.Ersatzteilhaltung
+
+Zur stindigen Funktions- und Einsatzbereitschaft und zur
+ordnungsgemiBen Instandsetzung des Filters ist die
+Bevorratung von Ersatz- und VerschleiBteilen eine wich-
+tige Voraussetzung. (siche Ersatzteilliste)
+
+8.2.Ersatzteilbestellung
+
+Die Ersatzteilbestellung erfolgt im allgemeinen mit der
+Ersatzteilliste.
+Dabei sind folgende Angaben zu machen:
+
+- Kom. Nr./Bj.
+
+- Filter Nr.
+
+- Filter Typ
+
+- Bezeichnung der Ersatzteile
+
+- Teile Nr.
+
+- gewiinschte Stiickzahl
+
+- genaue Versandanschrift
+
+- gewiinschter Liefertermin
+Achtung! Auf ausreichende Bevorratung der Ersatz-
+und VerschleiBteile achten!
+Bei Verwendung von Ersatzteilen, die von der Origi-
+nalausfiihrung abweichen, kann die sichere Funktion
+des Filters beeintriichtigt oder gefiihrdet werden. Eine
+Haftung seitens des Herstellers ist dann ausgeschlos-
+sen.
+
+14.3
+
+ 
+
+1. Druckluftbehiilter 1.1 Druckluftanschlufl 2. Reingaskammer
+2.2 Montageflansch 4. Membranventile 4.1  Membrane
+
+5. Fiithrungshiilse 51 O-Ring 6. Diisenstock
+
+6.1 Sechskantschraube 6.2 U-Scheibe 6.3  Gegenhalter
+
+7.3 Spanneisen 7.4  Sechskanntmutter 8. Grundplatte
+
+9.  Filterpatrone 9.1  Dichtwulst 14.  Steuerluftleitung
+14.1 Dichtung 14.2  Steckverschraubung 15.  Fitting
+
+16. Fitting 17.  Dichtung
+
+Dokument Nr.: 126020R/01.09 Seite 5 Dokument Nr.: 126020R/01.09 Seite 6
+
+ 
+INFASTAUB - SICHERHEITSHINWEISE
+
+Inhaltsverzeichnis
+
+1. Geltungsbereich
+
+2. Vorbemerkung
+
+3. Allgemeine Gefahrenhinweise
+
+3.1. Arbeitssicherheits-Symbol
+
+3.2. Achtungs-Hinweis
+
+4. Arbeits-Sicherheitshinweise
+
+5. Zusiitzliche Sicherheitshinweise bei
+brennbaren Stiuben
+
+6.  Zusiitzliche Hinweise fiir elektrische Geriite in
+explosionsgefihrdeten Riiumen
+
+1. Geltungsbereich
+Diese Sicherheitshinweise gelten fiir:
+
+JET-Taschenfilter Baureihe: AJN,AJND,AJL
+MAT-Taschenfilter =~ Baureihe: AM, AMD, AMK,
+
+IFB
+Schlauchfilter Baureihe: AJVS , AIMS
+Patronenfilter Baureihe: AJVP, AJB,
+AIJMP, MKP
+JET-Faltfilter Baureihe: AJF
+Kassetten-Filter Baureihe: MKR, MKM
+
+Im nachfolgenden werden die einzelnen
+Filterbaureihen unter der Gesamtbezeichnung
+Filter gefiihrt.
+
+2. Vorbemerkung
+
+Diese Sicherheitshinweise sind als Zusatz zu der pro-
+duktbezogenen Betriebsanleitung aus Sicherheits-
+griinden besonders zu beachten.
+
+Die Sicherheitshinweise dienen dem Schutz von
+Personen und Sachen vor Schiiden und Gefahren, die
+sich aus nicht bestimmungsgemiBer Verwendung,
+falscher Bedienung, unzureichender oder unsachge-
+miBer Wartung bzw. sonstiger fehlerhafter Behand-
+lung der Filter ergeben kénnen.
+
+3. Allgemeine Gefahrenhinweise
+3.1.Arbeitssicherheits-Symbol
+
+A
+
+Dieses Symbol steht bei allen wichtigen Arbeits -
+Sicherheitshinweisen in dieser Betriebsanleitung,
+bei denen Gefahr fiir Leib und Leben von Personen
+besteht. Beachten Sie diese Hinweise und verhalten
+Siesich in diesen Fiillen besonders vorsichtig. Geben
+Sie alle Arbeits-Sicherheitshinweise auch an andere
+Benutzer weiter. Neben den Hinweisen in dieser
+Betriebsanleitung miissen die allgemeinen Sicher-
+heits- und Unfallverhiitungsvorschriften lhres
+Gesetzgebers beriicksichtigt werden.
+3.2.Achtungs-Hinweis
+
+Dieses Achtung! steht an den Stellen in dieser
+Betriebsanleitung, die besonders zu beachten sind,
+damit die Richtlinien, Vorschriften, Hinweise und
+der richtige Ablauf der Arbeiten eingehalten, sowie
+eine Beschidigung und Zerstérung der Anlage und/
+oder des Anlagenzubehérs verhindert wird.
+
+ 
+
+Dokument Nr.: 120010/01.08
+
+4. Arbeits-Sicherheitshinweise
+
+- Vor dem Errichten, Betreiben, Warten oder
+Instandsetzen von Filtern muB der Betreiber den
+Inhalt der Betriebsanleitung gelesen und verstan-
+den haben.
+
+- Die Zustéindigkeiten fiir das Errichten,Betrei-
+ben,Warten und Instandsetzen von Filtern miissen
+eindeutig festgelegt und eingehalten werden. Unter
+dem Aspekt der Sicherheit diirfen keine unklaren
+Kompetenzen auftreten.
+
+- Beim Errichten von Filteranlagen sind die fiir den
+Jjeweiligen Aufstellungsort verbindlichen Gesetze,
+Bestimmungen, Verordnungen und Vorschriften zu
+beachten.
+
+- Bei Transport und Aufstellung sind die Unfallver-
+hiitungsvorschriften und zulissigen Traglasten von
+Transportmitteln und Hebezeugen zu beachten.
+
+- Die auftragsspezifisch vorgesehenen Unterstiit-
+zungskonstruktionen fiir die Aufstellung der Filter
+diirfen weder veriindert noch mit zusétzlichen
+Lasten beansprucht werden.
+
+- Bei Unterstiitzungskonstruktionen oder Gebiuden,
+die von dem Betreiber fiir die Aufstellung der Filter
+zur Verfiigung gestellt werden, hat dieser auch fiir
+den Nachweis der erforderlichen Festigkeit und der
+Standfestigkeit zu sorgen, sowie die Einhaltung der
+ortlichen Vorschriften und Auflagen zu beachten.
+
+- Vor Inbetriecbnahme der Filter hat der Betreiber auf
+bestimmungsgemiBe Verwendung dieser Gerite zu
+achten.
+
+- Vor Inbetriebnahme ist auf die ordnungsgemiiBe
+Anbringung der Schutzvorrichtungen, Schutzhau-
+ben und der Sicherheitsverriegelungen an den Fil-
+tern durch den Betreiber zu achten.
+
+- Betreiberspezifische Absicherungen von Inspekti-
+ons- und Bedienungstiiren sind an den Filtern den
+ortlichen Vorschriften entsprechend vom Betreiber
+vorzusehen.
+
+- Bei Betrieb der Filter ist der Reststaubgehalt im
+Reingas laufend oder den értlichen Vorschriften
+entsprechend vom Betreiber zu iiberwachen.
+
+- Zum sicheren Betrieb der Filter ist dic in den
+Betriebsanleitungen vorgeschriebene Wartung und
+die ordnungsgeméiBe Instandhaltung vom Betreiber
+zu beachten.
+
+- Bei Instandsetzungsarbeiten ist von dem Betreiber
+auf Verwendung von sachgerechten Ersatzteilen zu
+achten.
+
+- Bei Wartungsarbeiten am Filter ist unbedingt dar-
+auf zu achten, daB keine Werkzeuge oder andere
+Teile in die angeschlossenen Silos, Fordereinrich-
+tungen usw. fallen, sollte dies gesehen, so ist vom
+Betreiber zu priifen, ob diese zur Vermeidung von
+Schiiden oder gesundheitlichen Gefahren wieder
+herausgeholt werden miissen!
+
+- Beim Betreiben der Filter mit gesundheitsgefihr-
+denden Stiuben sind vom Betreiber, insbesondere
+bei der Wartung und Instandhaltung, die fiir den
+Jjeweiligen Stoff in den Unfallverhiitungsvorschrif-
+ten vorgeschriebenen SicherheitsmafBnahmen zu
+beachten.
+
+- Bei der Weiterverarbeitung des von den Filtern
+abgeschiedenen Staubes oder der Entsorgung die-
+ses Staubes muB der Betreiber die fiir den jeweili-
+gen Staub zutreffenden Vorschriften beachten.
+
+Seite 1
+
+ 
+
+ 
+
+INFASTAUB - SICHERHEITSHINWEISE
+
+- Bei der Entsorgung von Ersatzteilen, die mit dem
+zu filtemden Staub behaftet sind, insbesondere Fil-
+termedien sind fiir den jeweiligen Staub zutreffen-
+den Entsorgungsvorschriften vom Betreiber zu
+beachten.
+
+- Beim Betreiben der Filter ist von dem Betreiber
+darauf zu achten, daB keine brennenden Gegen-
+stinde, wie Zigaretten-, Zigarren- oder sonstige
+Kippen, Funken bzw. anderes brennendes Material,
+wie Papier, Pappe, Putzlappen, Kunststoffe oder
+sonstige Abfille die Filtermedien in Brand setzen
+konnen. Andernfalls sind die Filter von dem Betrei-
+ber unter Hinzuziehung von Brandschutzfachleuten
+zusitzlich mit geeigneten Brandschutzmainahmen
+auszuriisten.
+
+- Die Filter sind nur fiir die Abscheidung der Stiube
+aus den Gasarten vorgeschen, die in dem fiir den
+jeweiligen Auftrag verbindlichen Technischen
+Datenblatt aufgefiihrt sind. Jede dariiber hinausge-
+hende Verwendung gilt als nicht bestimmungsge-
+méh. Fiir daraus resultierende Risiken triigt der
+Betreiber die alleinige Verantwortung. Fiir die im
+Technischen Datenblatt als ,,nicht bekannt* aufge-
+fiihrten Angaben iibemimmt der Betreiber die allei-
+nige Verantwortung. Unter keinen Umstinden
+diirfen die Filter in der Normalausfithrung mit
+brennbaren und explosionsfiahigen Gasen und Stiu-
+ben betrieben werden. Fiir derartige Betriebsum-
+stinde sind besondere Filterausfiihrungen mit
+besonderen ExplosionsschutzmaBnahmen erforder-
+lich.
+
+- Die fiir die Sicherheit der Anlage Verantwortlichen
+miissen gewdhrleisten, daf:
+
+- nur qualifizierte Personen mit Arbeiten an den
+Geriiten beauftragt werden,
+
+- diese Personen u.a. die Betriebsanleitungen und
+iibrigen Unterlagen der Produktdokumentation bei
+allen entsprechenden Arbeiten stets verfligbar
+haben und verpflichtet werden, diese Unterlagen
+konsequent zu beachten,
+
+- Arbeiten an den Geraten oder in deren Nihe fiir
+nichtqualifizierte Personen untersagt werden.
+Qualifiziertes Personal sind Personen, die, auf
+Grund ihrer Ausbildung, Erfahrung und Unterwei-
+sung sowie ihrer Kenntnisse iiber einschlagige Nor-
+men, Bestimmungen, Unfallverhiitungsvorschriften
+und Betriebsverhiiltnisse, von dem fiir die Sicher-
+heit der Anlage Verantwortlichen berechtigt wor-
+den sind, die jeweils erforderlichen Titigkeiten
+auszufithren und dabei mogliche Gefahren erken-
+nen und vermeiden kénnen (Definitionen fiir Fach-
+krifte, siche auch DIN VDE 0105 oder ICE 364).
+Unter anderem sind auch Kenntnisse iiber Erste-
+Hilfe-Mafinahmen und die értlichen Rettungsein-
+richtungen erforderlich.
+
+Fiir die Anlagen an Stromanlagen ist das Verbot
+des Einsatzes nichtqualifizierter Personen z.B. in
+DIN VDE 0105 oder IEC 364 geregelt.
+
+- Bei zweifelhafter Einschétzung seiner Fachkenntnis
+kann der Betreiber bei der Errichtung, dem Betrei-
+ben, der Wartung und der Instandsetzung von Fil-
+tern Fachberatung der Firma INFASTAUB in
+Anspruch nehmen.
+
+- Fiir den Betrieb der Filter gelten in jedem Falle dic
+drtlichen Sicherheits-und Unfallverhiitungsvor-
+schriften.
+
+Dokument Nr.: 120010/01.08
+
+- Die Gewiihrleistungsverpflichtungen von
+INFASTAUB sind durch die jeweiligen Lieferver-
+triige bestimmt. Diese werden durch die Sicher-
+heitshinweise weder erweitert noch beschrinkt.
+
+5. Zusiitzliche Sicherheitshinweise bei
+brennbaren Stiiuben
+
+Allgemeine Hinweise
+
+a) Brennbare Stiube sind im ruhendem Zustand
+brandgefihrlich und im aufgewirbeltem Zustand
+explosionsgefihrlich
+
+b) Bei brennbaren Stduben miissen Filter mit Sicher-
+heitseinrichtungen gegen Staubexplosion ausgerii-
+stet sein. Dazu gehoren auch die elektrischen
+Betriebsmittel.
+
+c) Bei Betrieb des Entstaubers ist von dem Betreiber
+darauf zu achten, daB keine brennenden Gegen-
+stande in den Entstauber gelangen, die die Filter-
+medien in Brand setzen bzw. ein brennbares Staub/
+Luft-Gemisch ziinden kénnen. Andemfalls sind
+geeignete SchutzmaBnahmen, wie Brand- und
+Explosionsschutz vorzusehen. (siche VDI 2263
+und VDI 3673)
+
+6. Zusiitzliche Hinweise fiir elektrische
+
+Geriite in explosionsgefiihrdeten
+Allgemeine Hinweise
+Explosionsgefahr ist dann gegeben, wenn brennbare
+Gase, Dampfe und Nebel, oder brennbare Staube
+vorhanden sind.
+Elektrische Geriite in explosionsgefihrdeten Réumen
+diirfen nur dann eingesetzt werden, wennsie den gel-
+tenden Vorschriften entsprechen, und damit fiir einen
+gefahrlosen Betrieb geeignet, bzw. zugelassen sind.
+Diese Geriite unterliegen unter anderem folgenden
+Verordnungen und Vorschriften.
+- Verordnung iiber elektrische Anlagen in explosi-
+onsgefihrdeten Riumen (Elex V).
+- Regelwerk der Berufgenossenschaften (Ex RL).
+- VDE-Bestimmungen EN 50014/VDE 0171, DIN
+57165/VDE 165, VDE 0170/ 0171.
+Zur Auslegung und Installation von elektrischen
+Geriten in explosionsgefihrdeten Rdumen ist Fach-
+kenntnis erforderlich.
+Die Gerite sind fiir die bestimmungsgemife Ver-
+wendung vorgesehen. Falls Anderungen unumging-
+lich sind, muf eine Uberpriifung durch Fachleute
+vorgenommen werden.
+Geriite, die den vorstehend genannten Bedingungen
+nicht entsprechen, diirfen auf keinen Fall in explosi-
+onsgefihrdeten Ridumen eingesetzt werden.
+Ungeeignete elektrische Gerite kénnen brennbare
+Stoffe entziinden, so daB Briinde und Explosionen
+nicht auszuschlieBen sind.
+
+Bei Unklarheiten kann die Fachberatung des
+Herstellers in Anspruch genommen werden.
+Anschrift:
+
+INFASTAUB GmbH
+Niederstedter Weg 19
+61348 Bad Homburg v.d.H.
+
+Seite 2
+Zusatz zu INFASTAUB - Sicherheitshinweisen zur  rhiitung
+von Explosionen nach ATEX-RL 94/9 EG
+
+1. Bestimmungsgemiiie Verwendung
+
+Die bestimmungsgemiiBe Verwendung des Filters ist gegeben, wenn die im "geriitespezifischen Datenblatt” des
+Filters festgelegten Parameter fiir Produkte und Prozessdaten eingehalten werden. Dies gilt im wesentlichen fiir
+Aufstellung, Luftmenge, Staubart, Komfraktion, Temperatur, Mindestziindenergie und Staub-Explosionsklasse.
+
+2, Sicherheitshinweise zur Verhiitung von Explosionen . o
+
+Nachfolgende Sicherheitshinweise sind terlweise bereits in den allgemeinen Sicherheitshinweisen des Standard-
+geriites enthalten. Zusitzlich sind jedoch zur Verhiitung von Explosionen ziindfihiger Stiube weiter Sicherheits-
+massnahmen zu treffen.
+
+3. Allgemeine Sicherheitshinweise zum Explosionsschutz
+
+Bei Nichtbeachtung der Sicherheitshinweise besteht
+
+Lebensgefahr durch Staubexplosionen
+- Las riutter 1st in aas Anlagensicnernelskonzept emnzuoinaen. vazu Ist Dauselts ein Lxplosionsscnuzaokument
+
+sowie ein Zonenplan zu erstellen.
+
+- Das Filter ist nach den EX- Vorgaben des Anlagenbetreibers nach Zonenplan ausgefiihrt. Die Ex-Zone fiir die
+das Filter zugelassen ist, ist im "geriitespezifischen Datenblatt" und auf den neben dem Typenschild ange-
+brachten Schildern dokumentiert.
+
+- Explosionsgefahr ist dann gegeben, wenn brennbare Gase, Dimpfe und Nebel, oder brennbare Stéiube vor-
+
+handen sind. Brennbare Stiube sind im ruhendem Zustand brandge fihrlich und im aufgewirbeltem Zustand
+explosionsgefihrlich
+
+- Elektrische Geriite in explosionsgefihrdeten Réumen diirfen nur dann eingesetzt werden, wenn sie den gelten-
+den Vorschriften entsprechen, und damit fiir einen gefahrlosen Betrieb geeignet, bzw. zugelassen sind. Diese
+Gerite unterliegen den intemationalen (IEC), Europiischen (ATEX) und nationalen Verordnungen und Vor-
+schriften. Vor Inbetricbnahme eines Geriites mit derartiger Ausriistung ist die Anlage einer fachlichen
+Abnahme zu unterziehen. Geriite, die den vorstehend genannten Bedingungen nicht entsprechen, diirfen auf
+keinen Fall in explosionsgefihrdeten Réumen eingesetzt werden
+
+- Verinderungen des Filters, die nicht mit INFASTAUB abgestimmt sind, diirfen nicht vorgenommen werden.
+Die Konformitiitserkldrung nach ATEX wird damit ungiiltig
+
+- Das Filter darf nur in der Explosionszone und bei dem Temperaturbereich eingesetzt werden, fiir den es auch
+spezifiziert ist.
+
+- Bei Betrieb des Entstaubers ist von dem Betreiber darauf zu achten, daB keine brennenden Gegenstinde oder
+andere Ziindquellen in den Entstauber gelangen, die die Filtermedien in Brand setzen bzw. ein brennbares
+Staub/Luft-Gemisch ziinden kénnen. Andemfalls sind geeignete Schutzmafinahmen, wie Brand- und Explosi-
+onsschutz vorzusehen. (siche VDI 2263 und VDI 3673).
+
+- Entkoppelung: Sofern der Eintrag von Ziindquellen in das Filter nicht vermeidbar ist, miissen entweder Roh und
+Reingasseite entkoppelt werden, oder die komplette Anlage druckstoBfest ausgefithrt werden. Ist in diesem Fall
+das Filter selbst nur auf einen reduzierten Explosionsdruck ausgelegt, mufl das System durch bauseitige Druck-
+entlastungen oder Loschmittelunterdriickungsanlagen gesichert werden.
+
+- Sofern ziindempfindliche Staub/ Luftgemische mit sehr geringen Mindestziindenergien von kleiner als 3mJ
+behandelt werden, sind bei der Handhabung der Produkte und Arbeiten am Filter auch die Personen zu erden.
+Entsprechende Vorschriften der Berufsgenossenschaften zur elektrostatischen Ableitung von FuBbdden, Perso-
+nen u.a. sind dabei in jedem Fall zu beachten. Es diirfen dann nur antistatische Staubsiicke verwendet werden.
+
+- Falls erforderlich ist das Filter zu inertisieren.
+
+- Staubablagerungen auf oder Anbackungen im Filtergehéuse sind regelméBig bei Wartungsarbeiten zu entfernen.
+
+- Die in den Staubtopfen gesammelte Stiube sind unter Vorsichtsmassnahmen in geregeltem Abstinden zu ent-
+sorgen. Aufwirbeln des Staubes ist zu vermeiden
+
+- Vor Inbetriebnahme ist auf die ordnungsgemiiBe Anbringung von Schutzvorrichtungen, Schutzhauben, Potenti-
+alausgleich und der elektrischen Sicherheitsverriegelungen an dem Filtern zu priifen.
+
+- Bei Betrieb des Filters ist der Reststaubgehalt im Reingas den ortlichen Vorschriften entsprechend vom Betrei-
+ber zu iiberwachen.
+
+- Zum sicheren Betrieb des Filter ist die in den Betriebsanleitungen vorgeschriebene Wartung und ordnungsge-
+mife Instandhaltung Voraussetzung
+
+- Verwendung von Originalersatzteilen zu beachten. Insbesondere diirfen nur gepriifte Filtermedien eingesetzt
+werden.
+
+- Alle Arbeiten am Filter, wie Entleerung der Staubtopfe, Testabreinigungen- auch bei Wartungsarbeiten- diirfen
+nur in Abstimmung mit dem fiir den Prozess Verantwortlichen und Freischaltung der Filteranlage ausgefiihrt
+werden.
+
+- Nach Wartungsarbeiten sind alle Verbindungs-Erdungskabel und der komplette Filter wieder an den bauseitigen
+Potentialausgleich anzuschlieBen.
+
+- Die fiir die Sicherheit der Anlage Verantwortlichen miissen gewiihrleisten, daB, nur qualifizierte und geschulte
+Personen mit Arbeiten an den Geriiten  beauftragt werden. Diese Personen miissen u.a. die Betriebsanleitun-
+gen und iibrigen Unterlagen der Produktdokumentation bei allen entsprechenden Arbeiten stets verfiigbar
+haben und verpflichtet werden, diese Unterlagen konsequent zu beachten.
+
+4. Spezielle Sicherheitsvorschriften:
+
+Bei Wartungsarbeiten und vor Wiedereinschaltung des Filters sind die Vorgaben der Explosionsschutz - Zeich-
+nung sicherzustellen. Hierzu sehen Sie bitte den Anhang der Filterdokumentation.
+
+120010ATEX-d/01.08 Seite |
+
+ 
+
+ 
+
+ 
+
+Zusatz zu FASTAUB - Sicherheitshinweisen zur Verhiitung
+von Explosionen nach ATEX-RL 94/9 EG
+
+4.1.Filter und Filterelemente
+
+- Kabel zum bauseitigen Potentialausgleich anschlieBen.
+- Geerdete Filterclemente nach Ersatzteilzeichnung einbauen und an Potentialausgleich anschlieBen. Dazu
+Klemmverbindungen metallisch blank machen und fest anziehen
+
+- Durchgangswiderstéinde R < 10 6 Ohm
+Samtliche metallischen Teile des Geriites - auch die von anderen bauseits angebauten Teile - sind elektrisch
+leitend miteinander zu verbinden. Das Filter ist mit dem Erdungskabel an den bauseitigen Potentialausgleich
+
+anzuschliefen. Der Duchgangswiderstand muB R 0...<10 % sein,
+Der Durchgangswiderstand ist mindesten 1/2 jéhrlich zu priifen.
+
+4.1.1. Filterpatronen und Faltelemente
+
+Lose gelieferte oder Ersatz- Filterelemente sind nach der ,, ATEX- Explosionsschutzzeichnung™ des Filtertyps ein-
+zubauen (d. h. Filterelemente —ohne Massebiinder werden nur mit den Spannpratzen verklemmt und damit
+zwangsgeerdet. Sofern Massebinder vorgesehen sind, werden diese unter die Spannpratzen oder Injektoren
+geklemmt. Massebiinder mit Ringdsen sind mit den Muttern der Spannpratzen zu verklemmen).
+
+4.1.2.Filtertaschen
+
+Der Oberflichenwiderstand der antistatischen Filtertaschen liegt R< 10 5,
+
+Die Ableitung auf die Metallteile erfolgt durch oben eingenihte Metallitzen.
+
+Bei Servicearbeiten und Aufziehen neuer Taschen ist daher die Innenseite der Injektoren der Filterstiitzrahmen im
+Bereich des Uberganges metallisch blank zu machen.
+
+Durch Verspannen des Injektors wird die Ableitung sichergestellt (Hierzu s.a. ,, ATEX- Explosionsschutzzeich-
+nung* des Filtertyps)
+
+4.2.Elektroteile
+
+- Nicht unter Spannung 6ffnen
+
+- Nicht unter Spannung bei Anwesenheit von explosionsfihiger Atmosphiire 6ffnen
+
+- Betrieb nur bis max. zul. Temperatur (Die im "geriitespezifischen Datenblatt" angegebenen Temperaturen diir-
+fen nicht iiberschritten werden.)
+
+- Es diirfen nur gekennzeichnete und zum Kabeldurchmesser passende Kabelverschraubungen verwendet werden.
+Diese sind dicht anzuziehen.
+
+- Es diirfen nur fiir die Aufstellung geeignete Kabel (Temperatur, Bewitterung etc.) eingesetzt werden.
+
+- Gehiusedeckel oder Klemmenkisten sind fest zu verschliessen und abzudichten
+
+4.3.Steuergeriit fiir Ex-geschiitztes Filter
+
+- Wenn dieses nicht fiir die Ex-Zone zugelassen und gekennzeichnet ist, ist es in einem Ex- freien Raum zu mon-
+tieren und mit dem Filter zu verbinden.
+
+- Sofern das Steuergeriit bauseits beigestellt wird, ist sicherzustellen, dass die Funktion einer INFASTAUB- Fil-
+tersteuerung entspricht. Eventuell benétigte Vorsicherungen sind dann bauseits einzuplanen.
+
+- Die Uberwachung der angeschlossenen Motore (Ventilator und Férderorgane) sind mit Motorvollschutz abzusi-
+chem
+
+- Differenzdruckanschliisse der Steuerung sind gegen die innere Explosionszone des Filters mit einem Sicher-
+heits-Filter in den Verschlauchungen abzusichern.
+
+- Die Filterplattchen sind bei Wartungsarbeiten zu kontrollieren und falls erforderlich zu emeuern.
+
+4.4.Angebaute Komponenten
+
+Endschalter, Fiillstandsmelder, Temperatur-fiihler, Differenzdrucktransmitter etc.
+
+- Sofern nicht ab Werk geliefert und verdrahtet, diirfen nur fiir den EX-Bereich zugelassene Typen verwendet
+werden. Eigensichere Bauteile sind nach den Vorschriften zu verdrahten.
+
+Ventilatoren
+
+Es diirfen nur fiir die Ex-Zone zertifizierte Ventilatoren eingesetzt werden. Im Reparatur-oder Ersatzfall ist
+
+sicherzustellen, dass sowohl alle mechanischen als auch elektrischen Erfordernissen wieder erfiillt werden
+
+(s. Hersteller Betriebsanleitung des EX-Ventilators). Kompensatoren und andere angebaute Teile (Rohrleitungen,
+
+Schalldiampfer etc) sind mit an den Potentialausgleich anzuschlieBen oder antistatisch auszufiihren. Da bei Staub-
+
+durchschlag der Filterelemente die potentielle Explosionsgefahr im Ventilator steigt, ist eine Reingasiiberwa-
+
+chung, bzw. regelmiiBige Filterwartung vorzusehen. Die zulidssigen Einsatztemperaturen diirfen nicht
+
+iiberschritten werden.
+
+Berstscheiben
+
+Diese sind mit Signalgebemn ausgeriistet (Sofern nicht ab Werk-INFASTAUB in die Steuerung integriert, sind
+
+diese bauseits nach Herstellervorgaben in die Steuerung so einplanen, dass im Ereignisfalle simtliche angeschlos-
+
+sen Verbraucher sofort stillgesetzt werden).
+
+Absperrklappen und Angeschlossene Férdereinrichtungen zur Staubentsorgung
+
+Zusiitzlich angebaute Absperrklappen und Férdereinrichtungen zu weiterfiihrenden Rohrleitungen sind nach den
+
+Erfordemissen der moglichen reduzierten Explosionsdriicke zu wiithlen und ebenfalls in den Potentialausgleich
+
+einzubinden.
+
+Explosions-Unterdriickungsanlagen
+
+Es sind dic Sicherheitshinweise des Herstellers zu beachten (s. separate Hersteller Dokumentation)
+
+120010ATEX-d/01.08 Seite 2
+Zusatz zur Betriebsanleitung
+druckstoRfeste Ausfiihrung
+
+Beachten Sie die Sicherheitshinweise der Betriebsanleitung!
+
+Bei allen Arbeiten an dem Geriit ist das Geriit zur Vermeidung von
+von Eintragung von Ziindquellen still zu setzen. Arbeiten am Ger:it
+oder im Ex-Bereich diirfen nur mit dem fiir diesen Bereich zulissi-
+gen Werkzeug durchgefiihrt werden.
+
+Die Reingasoffnung darf nicht versperrt werden.
+
+Die Richtung des Luftaustritts muf} so ausgerichtet werden, dass im
+
+Ereignisfall Personen oder Sachen nicht zu Schaden kommen kén-
+nen!
+
+ 
+
+Nach jedem Offnen des Deckels der Reingaskammer ist die Dichtung zu priifen und bei
+Beschiidigungen zu erneuern.
+
+Anschliefiend ist der Deckel rundum mit allen Schrauben wieder fest zu verschrauben.
+
+Die DruckstoBfestigkeit und Flammdurchschlagsicherheit ist nur gesichert, wenn alle
+Schrauben oder Muttern eingesetzt sind.
+
+120010dsf-d/01.08
+
+ 
+
+   
+   
+
+ 
+
+ 
+
+Breathe The Difference: Pure Air
+
+INFASTAUB GmbH  Pastiach 1762 - 61237 Bad Homburg v.d H.- Germany
+BIS Maintenance Siidwest GmbH
+80974 Minchen
+
+EG-Konformitidtserklarung
+
+Im Sinne der EG-Atex-Richtlinie 94/9 EG*(*nur aussen)
+
+und Einbauerkldrung
+nach Maschinenrichtlinie 2006/42 EG
+
+Hiermit erklaren wir, daR das nachfolgend bezeichnete Entstaubungsgerét aufgrund seiner Konzeptionierung und
+Bauart sowie in der von uns in Verkehr gebrachten Ausfiihrung den einschlégigen grundlegenden Sicherheits- und
+Gesundheitsanforderungen der EG- Maschinen —und ATEX-Richtlinie entspricht. Bei einer nicht mit uns
+abgestimmten Anderung des Gerétes verliert diese Erklarung ihre Giiltigkeit.
+
+Wir erkldren, daR der Staubfilter:
+
+Baureihe: INFA- MINI- JET AJM 710-1000-18P, 10 bar druckstoRfest
+Zeichnung: PC3-17644
+
+Komm: 4390/12.10
+
+Baujahr 2010
+
+folgenden Bestimmungen entspricht:
+EG- Maschinenrichtlinie 2006/42EG
+EG- ATEX -Richtlinie 94/9EG
+
+* Das Ger#t hat keine eigenen inneren potentiellen Zundquellen und kann daher an die EX-Zonen 20,21, 22
+angeschlossen werden.
+
+s
+Das Filter ist gekennzeichnet : @ 13D T85°C [\c €/}
+
+Der Potentialausgleich des Filters zum bauseitigen AnschluB ist herzustellen und mind. % Jihriich und nach Wartungsarbeiten
+zu prifen und zu protokollieren. Die Dichtungen des Deckels sind nach jedem Offnen zu kontrollieren und die Schrauben
+wieder fest anzuziehen.
+
+Angewendete Normen:
+
+DINENISO 12100-182 Sicherheit von Maschinen - Grundbegriffe, allgemeine Grundsétze
+
+EN 13463-1 Nicht-elektrische Gerite fiir den Einsatz in explosionsgefahrdeten Bereichen
+
+TRBS 2153/BGR 132 Richtlinie zur Vermeidung von Zlindgefahren durch elektrostatische Aufladung
+VDI 2263- Explosionsdruckstofifeste Behéiter und Apparate — Berechnung...
+
+INFASTAUB Gmb +
+
+ 
+
+    
+
+10.2.2011, Techn. Leiter
+
+Diese Erklarung ist keine Zusicherung von Eigenschaften im Sinne des Produkthaftungsgesetzes. Die Sicherheitshinweise der
+Produktdokumentation sowie eine bestimmungsgeméfRe Verwendung sind zu beachten
+
+ 
+
+d Eonken.
+Weg 19
+Horburg
+
+  
+
+BLZ 5G0 300 00} 722 066 200
+1662 04
+
+Dresdner Bank 8
+
+    
+Zusatzinformation fiir druckstoRfeste Gerite
+Massnahmen nach einer Staubexplosion
+
+Sollte doch trotz Explosionsschutz doch eine Staubexplosion erfolgt sein, so sind
+folgende Massnahmen durchzufiihren:
+
+1. Behdérden und Betreiber:
+» Sofortige Stillsetzung und Abschaltung aller Aggregate des Produktionsbereiches
+» NotfallmaBnahmen einleite, wie Erste Hilfe fiir Betroffene des Bedienpersonals,
+Feuer-und Brandbek&mpfung
+
+( dazu mussen die brennenden Stoffe, wegen unterschiedlicher Brandbek&dmpfung und Gefahrstoffen
+nach Sicherheitsdatenblatter oder Kennzeichnung bekannt sein)
+
+2, Behorden, Versicherungen, Betreiber und Hersteller:
+» Untersuchung des Schadens, Ursachenklérung
+
+3. Versicherungen, Betreiber und Filterhersteller(Nach Freigabe der Schadenstelle):
+
+> Der Filter ist auf mégliche Instandsetzung und Wiederverwendung zu priifen
+
+Y
+
+Sofern Bereiche mit bleibenden Verformungen nicht ausgetauscht werden kénnen, darf
+der Filter nicht wieder in Betrieb genommen werden.
+
+Brandspuren missen auf Verédnderungen der Werkstofffestigkeiten untersucht werden.
+Sofern geschédigte Teile nicht durch Neuteile ausgetauscht werden kénnen, so gilt
+vorhergehendes.
+
+Der Filter ist soweit erforderlich zu reinigen und zu decontaminieren.
+
+Filterelemente, Dichtungen und alle beschadigten Bauteile und Oberfldchenschutz sind
+zu ermeuern.
+
+» Eine Dichtheitsprifung des angebauten Druckluftbehélters ist durchzufiihren.
+
+v v
+
+Y v
+
+Geriitespezifisches Datenblatt
+Kunde :........ .... BIS Maintenance Stuidwest GmbH
+
+ 
+  
+  
+ 
+   
+
+.. 38773
+..20.12.2010
+..4390/12.10
+..4390/12.10 -1
+
+Bestell-Nr.: .
+Bestell-Datum
+Komm.-Nr./Baujahr:
+Filter-Nr.:
+
+     
+
+ 
+
+ 
+
+   
+
+Filtertyp: ..AJM 710-1000-18 P, dsf 10bar
+MaRblatt-Nr.: ....... ..... PC3-17644 A
+
+Luftmenge: ....cccovvnieeee 8,3 ..m3min
+Temperatur: .........ccceve.o.. max. +5Q.....cueeeee e .°C
+Staubart: ..... ..... Kieselséure, trocken, rieselfdhig
+Komfraktion: .... Feinanteil 5 - 20... ........my
+Staubbelastung: .. w.ca . e oeeee.giM®
+Reststaubgehalt: . .<20.... vee eeeeenm@/m?®
+
+ 
+
+..... rohgasseitig: Zone 20
+
+.... reingasseitig: Zone 22
+
+rvie et e eree s e e aUBerhalb der Filteranlage: Zone 22
+Geratekennzeichnung:.....ATEX Il 3D T85°C.........
+
+Explosionszone:..
+
+ 
+
+ 
+
+ 
+
+Aufstellungsort: ...............im Raum.......cccccecernnnn.
+
+Betriebsspannung: ........... 230...................V, 50....Hz, Eingang Steuergerét
+Steuerspannung:............... 24.....................V, ........DC, Ventile
+
+Filterflache: ...... s 1 umssm ) ||
+
+Filterelementqualitét:........ PV 11 MPT/Mfa
+Zubehoér mit Beschreibung:
+
+Steuergerét...................... ESM-334 Y3 R.....
+Manometer.... veeeeeenns st
+
+   
+
+   
+
+Zubehdr ohne Beschreibung:
+
+ 
+
+Bemerkung: Einsatzbereich und bestimmungsgeméRe Verwendung.
+Der INFASTAUB-Filter mit vorstehender Bezeichnung ist nur fiir die Abscheidung
+der in den technischen Daten genannten Gas- und Staubart im Rahmen der
+angegebenen Leistungsdaten bestimmt. Jede andere Verwendung ist nicht
+bestimmungsgemiiB. Bei nicht bestimmungsgemiiler Verwendung sind
+gesundheitliche Beeintriichtigungen des im Einwirkungsbereich befindlichen
+Personals durch ungeniigende Staubabsaugung oder Umweltschiiden durch
+unzuliissig hohe Staubwerte im Reingas nicht auszuschlicBen!
+Das Risiko hierfiir triigt allein der Betreiber.
+
+ 
+
+  
+ 
+
+ 
+
+22 Q662 U0
+DI EX IS0 401
+Zotitieat. §1 400
+
+ 
+ 
+
+Guschafist
+
+cister
+
+ 
+
+¥
+2
+3
+&
+2
+=
+8
+
+ 
+
+    
+
+DN ENISO 201
+
+00
+
+ 
+
+ 
+
+2 0562 10
+
+g e b,
+
+¥ 16 G162 24
+
+Teile Nr.: 320409
+
+Leistung: 22 Watt
+
+Spannung: 24V, DC
+
+Typ: R
+
+ 
+
+=
+=S
+=
+il
+<
+il
+=
+=
+
+Typ: A 3/4"und 1"
+
+Teile Nr.: 011058
+
+Pos.: 4
+
+A
+B
+Pos
+
+~Nr:9.2
+
+ 
+
+Verschleifteil
+Membrane
+VerschleiBteil
+
+Filterpatrone
+Membranventil
+
+Ersatztei
+
+ste
+
+Typ: P 16/1000
+Teile Nr.: 028913
+Teile Nr.: 011057
+
+Qualitdt: PV 11 MPT/Mfa
+
+ 
+
+ 
+
+ 
+
+ 
+
+006Y =SNTpetyusmyds
+
+ 
+
+SM 334
+
+usuodjeduay1id
+40 gewnaqsny
+
+Y3 R
+
+Druckluftanschl. 6 1/2"
+
+Manometer
+
+Ex-Zone innen rohgass.
+
+innen reingass. 22
+
+aussen
+
+Reingasflansch
+DN 100, PN 10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Rohgaseintritt
+
+Expl osionsdruckstofifester Behal ter
+= zul. min/max Druck PS : -/- ber
+
+- zul. min/mex Temperatur 1S : =10/+50 °C
+= max. /ebs. Vordruck
+
+- nax. VWendtemperalur
+
+- max. Explosfonsdruck
+
+-Oberfl &chenschut z: - Berechnungsdruck
+
+Sandgestrahlt nach SA 2.5 D e rTatteelin
+Deckanstrich 2K-PUR-Lack RAL 1019 | I fraier o Yosnsr fellvon;
+Gesamtschichtdicke 6-80 my - Profdruck + 8,1 bar(l)
+
+-Filter geerdet - Verkstoffnachwets gendll EN 10204 2.2
+
+AM 710-1000-18 P
+Entifhngsfiter
+20
+
+ 
+
+1
+22 i |
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+           
+
+Teched wekr
+hrdelle 4 dri comctmts
+
+   
+
+ 
+
+        
+
+ 
+
+S
+
+' “
+N eTm
+S
+wwtd
+
+ 
+
+Einzelheit-2
+Oetdl-Z
+
+ 
+
+Il
+
+Fter-Keneethoum
+it nrkry
+R nrgap
+
+g ©
+
+ 
+
+ 
+
+Tt
+ik oy ATEX
+
+e tpirim
+Ex 1.
+
+ 
+
+ 
+
+ 
+
+QS
+
+ 
+
+ 
+
+  
+
+Tmbed weter
+I Je 4 Grls dmacetes
+
+M x 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+          
+
+       
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amscif) it barsoipa Prietuiangisc
+(owecteon for Wlddoterd Potefd reordisin
+Reordnat par plafds crpemofn
+
+ 
+
+Tigpdm gordeg by d
+K e o codran s e B tecin
+
+ 
+
+ 
+
+Qg e, (2t S Wil Conpg MKk od npch s
+Hise d leme. L Irese de aise o terre mwes s fors de ol ol
+
+é It e
+
+  
+  
+
+   
+
+  
+
+    
+
+Dfyfen gand by camy teds
+121 lare & ctrest p i (o & oo
+
+ 
+
+reg reget ext rrd éye
+
+by &3t expissm
+(rvigres s inketors & sty
+s fin masee! ol ek Oogr
+o pr we ern de pumitre
+Dty T2-4//t
+
+ 
+
+b
+
+   
+
+INFASTAUB
+ellschalt for Staubtechnik
+51348 Bed Homturg v. d K
+
+    
+
+o T o i o s
+
+aronore, moRea
+
+ 
+
+ 
+
+ 
+
+ 
+
+ESM 3.. Y2..4 R Ex
+
+ESM 3.. R Ex
+
+Gehdause
+mit integrierten Ventilen
+
+Gehause
+ohne integrierte Ventile
+
+ 
+
+Filtersteuerungen
+
+ESM 3.. REx / ESM 3.. Y2..4 R Ex
+
+Dokumentation
+
+ 
+
+leit-X
+-
+
+Fifermirone mit Kunststolfopt
+At aringe wh gasic hed
+Cartacle filwts sec la e m inlige
+
+ 
+
+ 
+
+Filterporoe mt Hefdlimt
+Atr rrigge Wh redd beof
+Lt {Utrwte s L i st
+
+ 
+
+ 
+
+  
+
+NS
+Dokumentation ESM 3.. R Ex/ ESM 3.. Y2.4 R Ex
+
+ 
+
+Inhalt
+
+I T oL T T O O E
+2 GErAIEDESCIBIDUNG. ........oucie ettt et et st e e e s ees oo oo
+3 GEIAIBVEISIONEN ..ottt et e et et ee st e
+4 Anzeige- und Einstellelemente / ElektriSChe ANSCIUSSE. ................coomvreeeeeeseeeeees oo oes oo oo
+5 Technische Daten..
+
+o o r W
+
+ 
+
+6 MaRzeichnungen...
+
+Vorschriften Zulassungen
+
+VDE 0160 D DEKRA Bvs 03 E141
+EN 50178
+
+EN 60.439 Teil 500
+
+EN 61241-0
+
+2004/108 EG
+
+Zelchenerkldrung
+
+Wichtiger Hinweis
+
+i
+c Wichtige Warnung
+
+Dokumentation ESM 3.. R Ex/ESM 3.. Y2..4 R Ex
+
+ 
+
+ 
+
+ 
+
+RDN 10000181 2 22.12.2010
+
+ 
+
+1 Sicherheitshinweise
+
+Durch unsachgeméfe Installation des ESM 3. R Ex /| ESM 3. Y2..4 R Ex oder der angeschlossenen
+Betriebsmittel kénnen ein Ausfall des Gerétes, schwere Personenschiden oder sogar todliche
+Verletzungen verursacht werden. Befolgen Sie daher neben den allgemeinen Sicherheitsregeln fir
+Betriebsmittel in industriellen Stromanlagen insbesondere die nachstehenden Punkte:
+
+- Die Installation des ESM 3. REx | ESM 3.. Y2..4 R Ex darf nur durch qualifiziertes Fachpersonal
+gemaR den Bestimmungen IEC 364, DIN VDE 0105 fiir elektrische Betriebsmittel durchgefihrt
+werden.
+
+- Fur den Aufstellungsort sind alle geltenden Gesetze, Bestimmungen, Verordnungen und Vorschriften
+fur die Errichtung elektrischer Betriebsmittel zu beachten.
+
+- Einstellungen an Geraten mit der Schutzart IPO0 ohne Abdeckungen diirfen nur durch autorisiertes
+Fachpersonal in abgeschaltetem Zustand und unter Beachtung der érilichen Sicherheits- und
+Unfallverhitungsvorschriften erfolgen.
+
+- Das ESM 3. R Ex/ESM 3.. Y2..4 R Ex darf nur in dem zuléssigen Einsatzbereich betrieben werden.
+
+2 Vorschriften fiir elektrische Gerite der Zone 22 Kat. 3D
+
+Offnen des Gerites
+
+Vor dem Offnen des Gerites muss sichergestellt sein, dass keine explosive Atmosphére
+vorhanden ist und sich keine Staubablagerungen auf dem Gerat befinden. Falls erforderlich,
+Gerét nur mit einem feuchten Tuch abwischen.
+
+Montage des Gehdusedeckels
+
+Nach erfolgter Bedienung / Reparatur des Gerates ist der Geh&usedeckel staubdicht zu
+montieren. Vor der Montage des Deckels ist der einwandfreie Zustand der Deckeldichtung zu
+prifen. Die 6 Schrauben des Gehé&usedeckels sind fest anzuziehen.
+
+Montage einer Kabelverschraubung
+Wird die Blindverschraubung durch eine Kabelverschraubung ersetzt, so muss die
+Kabelverschraubung fiir die Zone 22 Kat. 3D zugelassen sein.
+
+Temperatursicherung 85°C
+
+Alle Gerate der Zone 22 Kat. 3D verfiigen iiber eine Temperatursicherung, die bei einer Ober-
+flichentemperatur des Gehduses >85°C auslost und das Gerdt bzw. die eingebauten
+Magnetventile abschaltet. Das Auslésen der Temperatursicherung wird als Alarm gemeldet
+(siehe Meldeausgénge). Die Fehlerursache ist zu lokalisieren und die Steuerung
+auszutauschen.
+
+Komponenten muss die Versorgungsspannung abgeschaltet werden. Andernfalls kénnen die
+
+e Vor dem Austausch des ESM 3. REx /| ESM 3.. Y2..4 R Ex oder daran angeschlossenen
+Gerate beschadigt werden.
+
+ 
+
+RDN 10000181 3 22.12.2010
+Dokumentation ESM 3.. R Ex/ESM 3.. Y2.4 R Ex
+2 Geratebeschreibung
+
+Die Filtersteuerung ESM 3. REx /| ESM 3.. Y2..4 R Ex dient der Steuerung von Magnetventilen an
+fiternden Abscheidern. Ein ESM 3.. R Ex /| ESM 3.. Y2..4 R Ex kann bis zu 4 Magnetventile mit einer
+Bemessungsspannung von 24 V DC betétigen.
+
+Standard-Betrieb
+
+Mit den eingestellten Steuerzeiten fiir die Impulsdauer und die Pausenzeit werden alle angeschlossenen
+Magnetventile der Reihe nach, beginnend mit einem Abreinigungsimpuls, angesteuert. Nach Betéatigung
+des letzten Ventils wird der Steuerungs-Umlauf mit dem ersten Ventil fortgesetzt. Dies geschieht solange,
+bis die Versorgungsspannung abgeschaltet wird. Nach dem Wiedereinschalten der Versorgungs-
+spannung erfolgt ein Neustart, wie zuvor beschrieben.
+
+Ventil1 Ventl2 Ventil3 Ventil4 Venti1 Venti2 Ventl3 Ventil4
+
+e R R R
+
+Impuls Pause
+
+=i
+
+i nn oo nn .
+
+i t
+t=0 Versorgungsspannung EIN
+
+Bild 1: Standard-Betrieb der Filtersteuerung ESM 3.. R Ex/ESM 3.. Y2..4 R Ex
+
+3 Gerateversionen
+
+» ESM3.Y2.4REx im Gehduse mitintegrierten Magnetventilen (siehe Bild 2, links)
+= ESM3.REx im Gehause ohne integrierte Magnetventile (siehe Bild 2, rechts)
+
+ 
+
+Ventil 1 Ventil 2 Ventil 3
+
+Ventil 1 Ventil 3
+
+im Geh#use integrierte Magnetventile Ansteuerung von externen Magnetventilen
+
+Bild 2: Geriteversionen mit und ohne integrierte Magnetventile
+
+ 
+
+RDN 10000181 4 22.12.2010
+
+ 
+
+Dokumentation ESM 3.. R Ex/ESM 3.. Y2.4 R Ex
+
+ 
+
+4 Anzeige- und Einstellelemente / Elektrische Anschliisse
+
+Bild 3 zeigt den Aufbau der ESM-3..-R-Ex- / ESM-3..-Y2..4-R-Ex-Platine mit allen Anzeige- und
+Einstellelementen sowie den elektrischen Anschliissen. Die folgende Seite enthalt genaue
+Beschreibungen hierzu.
+
+Pause Impuls Nachlauf- Ventilanzah!
+zyklen
+
+   
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+53 54
+ol ol 1
+1 1 1 1
+2 2 2 TI
+3 3 3| 3
+4 4 [a | 4
+5 5| 4]
+6 6| 4
+7 [z ] 4
+8 | 4
+o | 4
+Al 4
+B| 4
+c| a
+D| 4
+E| 4
+4 < Werkseinstellung
+
+ 
+
+ 
+
+@ Ventile 1 ... 4 @ LED "ON"
+
+o Anschluss zum Laden des
+Programms (nur far den Hersteller)
+
+@ Eingang "Start" (ab Werk gebrickt)
+
+Ausgang "Alarm”
+
+( :) Versorgungs-
+
+spannung
+
+ 
+
+Bild 3: Aufbau der ESM-3..-R-Ex-/ ESM-3..-Y2..4-R-Ex-Platine und Anschlussplan
+
+ 
+
+RDN 10000181 5 22.12.2010
+Dokumentation ESM 3.. R Ex/ESM 3.. Y2.4 R Ex
+
+ 
+
+Kennzahl in Bild 3
+
+Beschreibung
+
+Versorgungsspannung
+
+®
+
+Geratetypen. Vor dem AnschlieBen der Versorgungsspannung ist zu priifen, ob die
+Bemessungsspannung des Gerates (siehe Typenschild) mit der Versorgungsspannung
+Ubereinstimmt.
+
+Q Fiir die Versorgungsspannungen 230 V AC, 110 V AC und 24 V DC existieren separate
+
+230-AC-Version
+
+110-V-AC-Version
+
+ 
+
+24-V-DC-Version 3 ¢
+
+@ Ausgang ,Alarm*
+
+Der potentialfreie Relais-Ausgang ,Alarm‘, Klemmen 4 (NO), 5 (COM) und 6 (NC), dient zur
+Eigeniiberwachung des ESM 3.. R Ex / ESM 3.. Y2..4 R Ex. Bei stérungsfreiem Betrieb ist der
+Ausgang aktiv. Folgende Vorfélle fiihren zum Riickfall des Relais-Kontaktes:
+
+= Ein Ausfall der Versorgungsspannung
+= Der Drahtbruch eines angeschlossenen Ventils
+= Der Kurzschluss eines Ventilausgangs
+
+ 
+
+RDN 10000181 6 22.12.2010
+
+Dokumentation ESM 3.. R Ex/ESM 3.. Y2.4 R Ex
+
+ 
+
+Kennzahlin Bild 3
+
+Beschreibung
+
+Eingang ,Start*
+
+Der Start-Eingang fiir den Nachlauf, Klemmen 7 und 8, ist ab Werk gebriickt (Werkseinstellung
+Standard-Betrieb). Wird ein an den Eingang angeschlossener Kontakt (NC) gedffnet, werden die
+eingestellten Nachlaufzyklen, beginnend mit der Pausenzeit, gestartet. Die Nachlaufreinigung wird
+mit dem Ventil fortgesetzt, das auf das zuletzt betétigte folgt. Wahrend des Nachlaufs betrégt die
+Pausenzeit konstant 12 s. Der Nachlauf kann tber den Stopp-Eingang nicht angehalten werden.
+
+®
+
+Ventil 1 Ventil2  Ventil 3 Ventil x Ventil x+1 Ventil x+2
+Impuls Pause . 12s 12s
+
+ 
+
+t=0 Versorgungsspannung EIN
+
+7 8
+
+Start-Eingang ————— Lr(‘_i
+(Start Nachlauf)
+
+ 
+
+1
+|
+Start Nachlauf
+
+@ Ventilausgéinge
+
+An die Klemmen 9, 10, 11, ... , 16 kénnen bis zu 4 Magnetventile mit einer Bemessungsspannung
+von 24 V DC angeschlossen werden.
+
+@ LED,ON*
+
+Bei anliegender Versorgungsspannung leuchtet die LED ,ON". Wahrend der Nachlaufreinigung
+blinkt die LED.
+
+ 
+
+ 
+
+RDN 10000181 i 22.12.2010
+5 Technische Daten
+
+Dokumentation ESM 3.. R Ex/ESM 3.. Y2.4 REx
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anwendung Daten Klemmen
+Versorgungsspannung Geréte-Version 230 V AC:
+230 VAC +/-10% 50-60 Hz 1(N)
+2(L)
+3 (PE)
+Geréte-Version 110 V AC:
+110 VAC +/-10% 50-60 Hz 1(N)
+2(L)
+3 (PE)
+Geréte-Version 24 V DC:
+24V ...30VDC 1(#)
+2()
+Ausgange fiur 4 kurzschlusssichere Ausgénge, 9,10 (Ventil 1)
+
+Magnetventile
+
+24V DC, max. 19A
+
+11, 12 (Ventil 2)
+13, 14 (Ventil 3)
+15, 16 (Ventil 4)
+
+ 
+
+Signaleingénge
+
+1 Eingang 24 V DC, potentialfrei zu bedienen 7,8
+
+ 
+
+Signalausgénge
+
+ 
+
+1 Relais-Ausgang (Wechsler-Kontakt), 4,56
+
+potentialfrei
+
+max. Kontaktbelastung:
+250 VAC, 10A
+
+50 VDC, 1,56A/30V DC, 10 A (ohmsche Last)
+
+ 
+
+Sicherung
+
+Geréte-Version 230 V AC:
+TO04A, 250V,5x20mm
+
+ 
+
+Gerite-Version 110 V AC:
+TOB8A, 250V,5x20mm
+
+ 
+
+Geréte-Version 24V DC:
+T25A,250V,5x20 mm
+
+ 
+
+Temperaturbereich
+
+-20°C ... +60°C
+
+ 
+
+Schutzart
+
+Gehéuse IP-66, NEMA 4
+
+ 
+
+Gewicht
+
+ca. 1250 g
+
+ 
+
+Aufstellungshéhe
+
+ 
+
+ 
+
+max. 3000 mi. N.N.
+
+ 
+
+ 
+
+ 
+
+RDN 10000181
+
+22.12.2010
+
+Dokumentation ESM 3.. REx/ESM 3.. Y2.4 R Ex
+
+ 
+
+6 MaRzeichnungen
+
+ 
+
+ 
+
+M12 blind
+
+Haftungsausschluss
+
+ 
+
+Bild 4: Gehiuse-Montage, MaBe
+
+Mie M16
+
+Der Inhalt dieser Dokumentation wurde auf Richtigkeit und Vollstandigkeit gepriit. Dennoch kénnen Abweichungen nicht
+ausge-schlossen werden, so dass fir die vollstdndige Ubereinstimmung keine Gewahr Ubernommen wird. Anderungen sind
+
+jederzeit méglich.
+
+ 
+
+RDN 10000181
+
+22.12.2010
+ 
+
+ 
+
+oo U-Rohr-Manometer
+uﬂ @ @]:F Accessories U-tube-manometer M+R
+Accessolres Tube en U 10.005/01.01
+
+DruckstofBfest bis 16 bar / Pressure-shock resistont upto 16 bor/ Exécution renforcéa Jusqu'a 16 ber
+
+MeRbereich / Scale / Echelle :
+
+0 - 30 mbar
+(0-300 daPa)
+
+Reingas
+Quon gos
+
+Gaz puré
+
+Rohgas
+Dirty gos
+Caz pous'éreux
+
+Konstruktionsinderungen vorbehalten !
+Dimensions subject Lo clteralions 1
+Cotea données sous réserve de modifications |
+
+]]NFASTAEDB GESELLSCHAFT FOR STAUBTECHNIX m.b.H. Telefon (06172) 30980
+0-61287 Bad Homburg v.d.H. PF: 1762 Telefax (06172) 309890
+_—— e S e P e ST
+
+ 
+
+Strd RRA
+
+ 
+
+ 
+
+ 
+
+ 
+

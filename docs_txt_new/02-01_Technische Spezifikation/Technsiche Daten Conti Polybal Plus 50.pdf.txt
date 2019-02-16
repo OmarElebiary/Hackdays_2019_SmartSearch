@@ -1,0 +1,505 @@
+TECHNISCHE ÄNDERUNGEN VORBEHALTEN · NACHDRUCK UND KOPIEN NUR MIT UNSEREM EINVERSTÄNDNIS · Specifications subject to change without notice · Copyright ELAFLEX
+
+bar
+
+bar
+
+mm
+
+≈ m Form
+
+BESTELLNUMMER
+
+Ausführung
+Design
+
+Rollenläng
+Coil Length
+
+≈
+≈ kg / m ID in. ID mm OD mm bar
+
+Biegeradius
+Bend. Radius
+
+Hose
+Size
+
+Unterdruck
+max. Vacuum
+
+Weight
+Approx.
+
+Prüfdruck
+Test Pressure
+
+SCHLAUCH­
+GRÖSSE
+
+Betriebsdruck
+Work. Pressure
+
+GE­
+WICHT
+
+Part
+Number
+
+Type
+
+0,4
+
+1/ 2 "
+
+13
+
+23
+
+80
+
+POLYPAL PLUS 13
+
+0,6
+
+3/ 4 "
+
+19
+
+31
+
+90
+
+POLYPAL PLUS 19
+
+0,8
+
+1"
+
+25
+
+37
+
+100
+
+POLYPAL PLUS 25
+
+1,0
+
+11/4"
+
+32
+
+44
+
+125
+
+POLYPAL PLUS 32
+
+1,2
+
+11/2"
+
+38
+
+51
+
+1,8
+
+2"
+
+50
+
+66
+
+200
+
+POLYPAL PLUS 50
+
+2,3
+
+21/2"
+
+63
+
+79
+
+250
+
+POLYPAL PLUS 63
+
+2,6
+
+3"
+
+75
+
+91
+
+300
+
+POLYPAL PLUS 75
+
+4,2
+
+4"
+
+100
+
+116
+
+400
+
+POLYPAL PLUS 100
+
+0,9
+16
+
+25
+
+150
+
+0,8
+
+40
+
+SD
+
+POLYPAL PLUS 38
+
+Einsatzbereich : Als Saug- / Druckschlauch zum Befüllen und Entleeren von Behältern,
+Tank- und Kesselwagen sowie den Betrieb in stationären Anlagen. Die kräftige Stahlwendel
+sorgt dafür, dass der Schlauch auch beim Saugbetrieb und bei Schwerkraftabgabe in
+engen Biegeradien rund bleibt.
+Kennzeichnung: Blau-weiß-blaue Spirale und abriebfeste, fortlaufende Prägestempelung :
+ELAFLEX POLYPAL PLUS 50 · EN 12115 · UPE · SD · Ω/T · 100 ˚C · 16 BAR · € · ContiTech · MADE IN GERMANY · 1Q-17
+
+Application : Suction / discharge hose for containers, tank trucks, rail tankers and use in
+fixed installations. The steel helix ensures that the hose maintains its shape during suction
+and gravity operations.
+Marking : Blue-white-blue coloured spiral and abrasion resistant continuous embossing.
+
+1,8
+
+2"
+
+50
+
+66
+
+2,6
+
+3"
+
+75
+
+91
+
+4,2
+
+4"
+
+100
+
+116
+
+( POLYPAL CR 50 )
+
+200
+0,9
+16
+
+300
+
+25
+0,8
+
+40
+
+SD
+
+400
+
+POLYPAL CR 75
+
+Universal-Chemieschlauch POLYPAL PLUS mit schwarzer,
+elektrisch leitfähiger UPE-Innenschicht. Geeignet für fast alle
+Chemie- und Mineralölprodukte sowie Lösungsmittel, siehe
+Beständigkeitsliste PAL-Schläuche.
+Temperaturbereich - 30° C bis + 100° C in Abhängigkeit vom
+Medium. Ausdämpfbar für Reinigung u. Sterilisation bis + 130° C,
+max. 30 Minuten (offenes System). Entspricht EN 12115.
+Innen
+Druckträger
+Außen
+
+: UPE schwarz, glatt, elektrisch leitfähig
+: Textilgeflechte, mit verzinkter Stahlwendel
+: EPDM, UV-beständig, elektrisch leitfähig
+
+Type
+POLYPAL® PLUS
+
+LUS 50
+POLYPAL P
+
+Form SD
+mit Wendel ∙ with helix
+
+Universal chemical hose POLYPAL PLUS with seamless, black,
+conductive UPE lining. For almost all liquid and pasty chemical
+and petroleum based products and solvents, see resistance chart
+PAL hoses.
+Temperature range - 30° C up to + 100° C, depending on medium.
+Steaming out for cleaning and sterilisation permissible up to
+130° C, max. 30 minutes ( open ends ). Meets EN 12115.
+Lining
+: UPE black, smooth, electrically conductive
+Reinforcements : T
+ extile braids, with galvanised steel helix
+Cover
+: EPDM, UV-resistant, electrically conductive
+Universal-Chemieschlauch POLYPAL CR : Sonderausführung
+mit mineralölfester Außenschicht aus Chloroprene (CR).
+
+Type
+POLYPAL® CR
+
+POLYPAL CR 100
+
+POLYPAL C
+
+Einsatzbereich: Sonderausführung von Type POLYPAL PLUS für Raffinerien, petrochemi­
+sche Betriebe und Terminals zur Tankwagen-Beladung. Durch die Chloroprene-Außenschicht
+ist POLYPAL CR zusätzlich von außen widerstandsfähig gegen Mineralölprodukte.
+Kennzeichnung: Blau-weiß-blaue Spirale und abriebfeste, fortlaufende Prägestempelung :
+ELAFLEX POLYPAL CR 75 · EN 12115 · UPE · SD · Ω/T · UNIVERSAL · 16 BAR · € · ContiTech · MADE IN GERMANY · 1Q-17
+
+Application: Special Version of type POLYPAL PLUS for refineries, petrochemical industry
+and terminals for the loading of road tankers. Due to the Chloroprene cover, POLYPAL CR
+is also petroleum resistant from the outside.
+Marking: Blue-white-blue coloured spiral and abrasion resistant continuous embossing.
+
+Form SD
+mit Wendel ∙ with helix
+
+Universal chemical hose POLYPAL CR : Special type with
+petroleum resistant cover of Chloroprene ( CR ).
+
+Technische Merkmale der UPE-Innenschicht: Die glatte UPE-Auskleidung ermöglicht eine gute Restentleerung und erleichert die Reinigung
+bei Medienwechsel.
+Leitfähigkeit : Ω/T-Type nach EN 12115. Elektrischer Widerstand < 106 OHM zwischen den Armaturen, < 109 OHM von innen nach
+außen durch die Schlauchwand. Geeignet für den Einsatz in EX-Zonen 0, 1 und 2.
+Bei Ω/T - Schläuchen werden metallische Einlagen nicht mit den Armaturen
+verbunden, dies bedeutet einfache Armaturenmontage.
+
+∙
+∙ 16 BAR
+/T ∙ 100 ºC
+Ω
+∙
+D
+S
+∙
+∙ UPE
+∙ EN 12115
+L PLUS 50
+PA
+LY
+O
+P
+ELAFLEX
+
+∙ 1Q-17
+ERMANY
+MADE IN G
+∙
+h
+ec
+tiT
+∙ Con
+
+Technical properties of the UPE lining: The smooth
+UPE lining allows good drainage and easy cleaning when changing medium.
+Electrical conductivity : Ω/T-type to EN 12115. Electrical resistance of < 106 OHM between
+hose ends, < 109 OHM from lining to cover, through the hose wall. Suitable for use in EX-Zones 0, 1 and 2.
+Easy assembling : Ω/T-hoses have the added advantage that metallic conductive elements do not have to be connected to the hose fittings.
+
+2015
+
+Revision 3.2017
+
+Produktkonfigurator für Schlauchleitungen :
+http://schlauchleitungskonfigurator.elaflex.de
+––––
+
+Product configurator for hose assemblies :
+http://hoseconfigurator.elaflex.de
+
+Universal-Chemieschläuche
+POLYPAL PLUS, POLYPAL CR
+Universal Chemical Hoses
+POLYPAL PLUS, POLYPAL CR
+
+PAL 01
+
+Schlaucharmaturen · Hose Fittings
+SPANNLOC
+
+OC
+SPAN NL
+2"
+50 €
+
+Type MC ... SS
+Type MX ... SS
+
+Type VC ... SS
+Type VX ... SS
+
+SPANNFIX
+
+OC
+SPAN NL
+2"
+50 €
+
+OC
+SPAN NL
+2"
+50 €
+
+Type RMC ... SS
+Type RMX ... SS
+
+Type RVC ... SS
+Type RVX ... SS
+
+Type DDC-M Form A
+Type DDC-M Form B
+Type DDC-M Form C
+
+OC
+SPAN NL
+2"
+50 €
+
+OC
+SPAN NL
+2"
+50 €
+
+Type VKC ... SS
+Type VKX ... SS
+
+Type MKC ... SS
+Type MKX ... SS
+
+OC
+SPAN NL
+2"
+50 €
+
+Type FFC ... SS
+Type FFX ... SS
+OC
+SPAN NL
+2"
+50 €
+
+OC
+SPAN NL
+2"
+50 €
+
+Type AVKC ... SS
+Type AVKX ... SS
+
+Type AMKC ... SS
+Type AMKX ... SS
+IX
+SPANNF
+
+IX
+SPANNF
+
+50
+
+OC
+SPAN NL
+2"
+50 €
+
+OC
+SPAN NL
+2"
+50 €
+
+Type GSKC ... SS
+Type GSKX ... SS
+
+Type STKC ... SS
+Type STKX ... SS
+IX 50
+SPANNF
+
+Schlaucharmaturen mit Spannloc- oder Spannfix-Einbindung :
+siehe ELAFLEX-Katalog, Gruppen 2 und 3.
+PAL 02
+
+50
+
+Type SFC ... SS/SS
+Type SFX ... SS/SS
+
+Hose couplings with Spannloc or Spannfix clamps :
+see ELAFLEX catalogue, sections 2 and 3.
+
+IX
+SPANNF
+
+50
+
+POLYPAL PLUS 50 - EN 12115 - UPE -SD - Q/T - PN 16 BAR - + CONTITECH - MADE IN GERMANY - 2Q-15 POLYPAL PLUS 50 -+ EN 12115 - UPE -SD - Q/T - PN 16 BAR - + CONTITECH MADE IN GERMANY - 2Q-15
+POLYPAL PLUS 50 - EN 12115 - UPE -SD - Q/T - PN 16 BAR - + CONTITECH - MADE IN GERMANY - 2Q-15 POLYPAL PLUS 50 -+ EN 12115 - UPE -SD - Q/T - PN 16 BAR - + CONTITECH MADE IN GERMANY - 2Q-15
+ 
+  
+ 
+   
+   
+   
+
+Q0NN
+WL
+
+INRNRNNN )
+\\\\\\\\\\\\\\\\\\\\\\g
+
+   
+  
+
+~
+
+ 
+     
+    
+
+\\
+LR R e
+
+KO
+
+ 
+  
+  
+   
+
+      
+
+ 
+POLYPALCR 75 - EN12115 - UPE -SD - Q/T - PN16 BAR - + CONTITECH - MADE IN GERMANY - 2Q-15
+POLYPALCR 75 - EN12115 - UPE -SD - Q/T - PN16 BAR - + CONTITECH - MADE IN GERMANY - 2Q-15
+ELAFLEX POLYPAL PLUS 50 + EN 12115 + UPE -SD - Q/T + 100°C - 16 BAR - + ContiTech * MADE IN GERMANY - 1Q-17 ELAFLEX POLYPAL PLUS 50+ EN 12115 *UPE -SD Q/T + PN 16 BAR - + CONTITECH MADE IN GERMANY - 2Q-15
+ELAFLEX POLYPAL PLUS 50 + EN 12115 + UPE -SD - Q/T + 100°C - 16 BAR - + ContiTech * MADE IN GERMANY - 1Q-17 ELAFLEX POLYPAL PLUS 50+ EN 12115 *UPE -SD Q/T + PN 16 BAR - + CONTITECH MADE IN GERMANY - 2Q-15
+ 
+

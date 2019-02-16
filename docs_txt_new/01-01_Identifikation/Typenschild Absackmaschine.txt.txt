@@ -1,0 +1,10 @@
+Absackmaschine
+
+Hersteller: Wagner Maschinen
+Typ: WAMA-SP-Standard-Plus
+Baujahr: 2011	NR. SR844-S
+Gewicht: 70kg M1: -10 bis 40°C
+
+Spannung: 400V/50Hz Anschlussleistung: 4kW
+Druckluft: 6bar,trocken
+

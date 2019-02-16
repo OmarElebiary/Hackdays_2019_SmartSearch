@@ -1,0 +1,880 @@
+Betriebs- und Montageanleitung
+Absperrklappen
+
+BR 012 - ZESA ®
+
+BR 013 - GESA ®
+
+BR 014 - ZIVA ®-Z
+
+BR 015 - ZIVA ®-G
+
+Inhaltsverzeichnis
+1.0 Allgemeines zur Betriebsanleitung ................... 1-2
+2.0 Gefahrenhinweise ............................................... 1-2
+2.1
+2.2
+
+5.5
+
+Umbau bzw. Nachrüstung Hebel
+(ZIVA®-Z / ZIVA®-G)...................................................1-10
+5.6 Einbau in das Rohrleitungssystem ............................1-11
+
+Bedeutung der Symbole ............................................ 1-2
+Erläuterungen zu sicherheitsrelevanten Hinweisen.... 1-2 6.0 Inbetriebnahme.................................................. 1-12
+
+3.0 Lagerung und Transport .................................... 1-2 7.0 Pflege und Wartung........................................... 1-12
+4.0 Beschreibung ...................................................... 1-3
+4.1
+4.2
+4.3
+4.4
+4.5
+
+Anwendungsbereich ................................................... 1-3
+Arbeitsweise ............................................................... 1-3
+Schaubild.................................................................... 1-4
+Technische Daten - Anmerkungen ............................. 1-6
+Kennzeichnung........................................................... 1-6
+
+7.1
+
+Austausch von Manschette und O-Ring Abdichtung
+(ZIVA®-Z / ZIVA®-G)...................................................1-13
+7.2 Anzugsdrehmomente ................................................1-14
+7.2.1 Schraubenwerkstoff A4-70 .....................................1-14
+7.2.2 Schraubenwerkstoff 4.6 - ARI-Datenblatt
+(nach EN1515-1) .......................................................1-15
+7.2.3 Schraubenwerkstoff 5.6 - nach EN1515-4 ..............1-15
+
+5.0 Montage................................................................ 1-7 8.0 Ursache und Abhilfe bei Betriebsstörungen .. 1-16
+5.1
+5.2
+5.3
+
+Allgemeine Montageangaben..................................... 1-7
+Montage von Zusatzbausteinen ................................. 1-8
+Umbau vom Rasthebel zum Klemmhebel
+(ZESA® / GESA®) ...................................................... 1-8
+5.4 Nachrüsten der THErmo-Anzeige
+(ZESA®THEA / GESA®THEA) ................................... 1-9
+
+9.0 Fehlersuchplan ................................................. 1-16
+10.0 Demontage der Armatur bzw. des Oberteiles1-17
+11.0 Regional Normangaben .................................. 1-17
+12.0 Garantie / Gewährleistung.............................. 1-17
+
+Rev. 0040201000 1617 deutsch
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+
+1.0 Allgemeines zur Betriebsanleitung
+Diese Betriebsanleitung gilt als Anweisung, die Armaturen sicher zu montieren und zu
+warten. Bei Schwierigkeiten, die nicht mit Hilfe der Betriebsanleitung gelöst werden
+können, nehmen Sie Kontakt mit dem Lieferant oder Hersteller auf.
+Sie ist verbindlich für den Transport, Lagerung, Montage, Inbetriebnahme, Betrieb,
+Wartung, Reparatur.
+Die Hinweise und Warnungen sind zu beachten und einzuhalten.
+- Handling und alle anderen Arbeiten sind von sachkundigem Personal durchzuführen bzw.
+alle Tätigkeiten sind zu beaufsichtigen und zu prüfen.
+Die Festlegung des Verantwortungsbereiches, des Zuständigkeitsbereiches und der
+Überwachung des Personals obliegt dem Betreiber.
+- Bei Außerbetriebsetzung, Wartung bzw. Reparatur sind zusätzlich die aktuellen
+regionalen Sicherheitsanforderungen heranzuziehen und zu beachten.
+Der Hersteller behält sich das Recht von technischen Änderungen und Verbesserungen
+jederzeit vor.
+Diese Betriebsanleitung entspricht den Anforderungen der EU-Richtlinien.
+
+2.0 Gefahrenhinweise
+2.1 Bedeutung der Symbole
+ACHTUNG !
+...
+-
+
+Warnung vor einer allgemeinen Gefahr.
+
+2.2 Erläuterungen zu sicherheitsrelevanten Hinweisen
+Bei dieser Betriebs- und Montageanleitung wird auf Gefährdungen, Risiken und
+sicherheitsrelevante Informationen durch eine hervorgehobene Darstellung besonders
+aufmerksam gemacht.
+Hinweise, die mit dem oben aufgeführten Symbol und „ACHTUNG ! “ gekennzeichnet sind,
+beschreiben Verhaltensmaßnahmen, deren Nichtbeachtung zu schweren Verletzungen
+oder Lebensgefahr für Anwender oder Dritte bzw. zu Sachschäden für die Anlage oder die
+Umwelt führen können. Sie sind unbedingt zu befolgen, respektive die Einhaltung zu
+kontrollieren.
+Die Beachtung der nicht besonders hervorgehobenen anderen Transport-, Montage-,
+Betriebs-und Wartungshinweise sowie technische Daten (in den Betriebsanleitungen, den
+Produktdokumentationen und am Gerät selbst) ist jedoch gleichermaßen unerlässlich, um
+Störungen zu vermeiden, die ihrerseits mittelbar oder unmittelbar Personen- oder
+Sachschäden bewirken können.
+
+3.0 Lagerung und Transport
+ACHTUNG !
+- Gegen äußere Gewalt (wie Stoß, Schlag, Vibration usw.) schützen.
+- Armaturaufbauten wie Antriebe, Handräder, Hauben dürfen nicht zur Aufnahme
+von äußeren Kräften wie z.B. für Aufstiegshilfen, Anbindungspunkte für Hebezeuge, etc. zweckentfremdet werden.
+- Es müssen geeignete Transport- und Hebemittel verwendet werden.
+Gewichte siehe Katalogblatt.
+- Bei -20°C bis +65°C.
+- Die Lackierung ist eine Grundfarbe die beim Transport und am Lager vor Korrosion schützen soll. Farbschutz nicht beschädigen.
+Seite 1-2
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+
+4.0 Beschreibung
+4.1 Anwendungsbereich
+Armaturen werden zum „Absperren und / oder Drosseln von flüssigen und gasförmigen
+Medien“ eingesetzt.
+ACHTUNG !
+- Einsatzgebiete, Einsatzgrenzen und -möglichkeiten sind dem Katalogblatt zu
+entnehmen.
+- Bestimmte Medien setzen spezielle Werkstoffe voraus oder schließen sie aus.
+- Die Armaturen sind ausgelegt für normale Einsatzbedingungen. Gehen die
+Bedingungen über diese Anforderungen hinaus, wie z.B. aggressive oder abrasive Medien, hat der Betreiber die höheren Anforderungen bei der Bestellung
+anzugeben.
+- Armaturen aus Grauguss sind für den Einsatz in Anlagen nach TRD 110 nicht
+freigegeben.
+Die Angaben sind konform mit der Druckgeräterichtlinie 2014/68/EU.
+Die Einhaltung unterliegt der Verantwortung des Anlagenplaners.
+Besondere Kennzeichnungen der Armatur sind zu beachten.
+Die Werkstoffe der Standard-Ausführungen sind dem Katalogblatt zu entnehmen.
+Bei Fragen ist Rücksprache mit dem Lieferanten oder Hersteller zu führen.
+
+4.2 Arbeitsweise
+Durch Drehen der Klappenwelle (rechts im Uhrzeigersinn) wird die Armatur geschlossen.
+Der Schwenkbereich beträgt 90°.
+
+Rev. 0040201000 1617
+
+Seite 1-3
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+4.3 Schaubild
+versetzt gezeichnet
+
+Werkstoffkennzeichnung:
+EP = EPDM oder
+NBR
+oder
+
+FPM
+
+Bild 1: Absperrklappe ZESA® / GESA®
+
+Werkstoffkennzeichnung:
+EP = EPDM oder
+NBR
+oder
+
+FPM
+
+Bild 2: Absperrklappe ZIVA®-Z / ZIVA®-G
+Werkstoffe mit Bezeichnungen und Figur-Nummern sind dem Katalogblatt zu entnehmen.
+Seite 1-4
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+Betätigungselement - Varianten
+
+Bild 3: Rasthebel ZESA® / GESA®
+- zur Betätigung des Rasthebels ist die untere Griffleiste vollständig auszurasten.
+
+Bild 4: Klemmhebel ZESA® / GESA®
+- zur Betätigung des Klemmhebels muss die Sterngriffschraube gelöst, und nach dem
+Verstellen wieder angezogen werden.
+
+Bild 5: Rasthebel ZIVA®-Z / ZIVA®-G
+- zur Betätigung des Rasthebels ist die untere Griffleiste vollständig auszurasten.
+
+Rev. 0040201000 1617
+
+Seite 1-5
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+.
+
+Stellungsanzeige
+Endanschlagschraube
+
+Bild 6: Getriebe ZESA®/GESA® und ZIVA®-Z/ ZIVA®-G
+- Getriebe (Betätigung mittels Handrad, rechtsdrehend schließt)
+Die ZU-Stellung ist durch eine justierbare Endanschlagschraube auf ± 5°
+verstellbar. Die Schrauben sind selbstdichtend und selbstsichernd.
+- Antriebe (elektrisch, pneumatisch) siehe gesonderte Betriebs- und Wartungsanleitung
+
+4.4 Technische Daten - Anmerkungen
+wie z.B.
+- Hauptabmessungen,
+- Druck-Temperatur-Zuordnungen, usw.
+
+sind dem Katalogblatt zu entnehmen.
+
+4.5 Kennzeichnung
+Angabe der CE-Kennzeichnung auf der Armatur:
+CE-Zeichen
+0525 Benannte Stelle
+Hersteller
+Typ
+
+Armaturentyp
+
+Anschrift des Herstellers:
+siehe Pkt 11.0 Regional Normangaben ARI-Armaturen
+
+Bj.
+Baujahr
+Entsprechend der Druckgeräterichtlinie Diagramm 6, Anhang II, dürfen Armaturen ohne
+Sicherheitsfunktion erst ab DN32 CE-gekennzeichnet werden
+
+Seite 1-6
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+
+5.0 Montage
+5.1 Allgemeine Montageangaben
+Neben den allgemeingültigen Montagerichtlinien sind folgende Punkte zu beachten:
+ACHTUNG !
+- Flanschabdeckungen, falls vorhanden, entfernen.
+- Der Innenraum der Armatur und Rohrleitung muss frei von Fremdpartikeln sein.
+- Einbaulage in Bezug auf Durchströmung ist beliebig.
+- Dampfleitungssysteme sind so auszulegen, dass Wasseransammlungen
+vermieden werden.
+- Die Rohrleitungen so verlegen, dass schädliche Schub-, Biege- und
+Torsionskräfte ferngehalten werden.
+- Bei Bauarbeiten Armaturen vor Verschmutzung schützen.
+- Anschlussflansche müssen übereinstimmen.
+- Armaturaufbauten wie Antriebe, Handräder, Hauben dürfen nicht zur Aufnahme
+von äußeren Kräften wie z.B. Aufstiegshilfen, Anbindungspunkte für
+Hebezeuge etc. zweckentfremdet werden.
+- Überfluten der Klappen ist nicht zulässig.
+- Für Montagearbeiten müssen geeignete Transport- und Hebemittel verwendet
+werden.
+Gewichte siehe Katalogblatt.
+- Einbaulage in Bezug auf Wellenrichtung ist beliebig, bei DN350 bis DN600
+vorzugsweise Welle waagerecht.
+- Dichtungen zwischen den Flanschen sind nicht erforderlich, flexible Dichtungen
+dürfen nicht verwendet werden.
+- Klappe wenn möglich in geöffnetem Zustand einbauen, jedoch sollte die
+Klappenscheibe nicht über das Ventil hinausragen.
+- Große Antriebe müssen bei waagerechtem Einbau abgestützt werden.
+- Mechanische Beschädigungen der Gummierung bei Transport, Lagerung und
+Montage sind zu vermeiden.
+- Erwärmen der Armatur (auch durch Schweißen, Schleifen usw.) über die
+Einsatztemperatur (siehe Datenblätter) ist nicht zulässig.
+- Die Antriebe sind vor zu hoher Umgebungstemperatur zu schützen;
+siehe Betriebsanleitung Antriebe.
+- Bei Betrieb der Klappe als Endklappe sind die Hinweise nach DIN EN 294 Pkt.
+5 zu beachten.
+- Für die Positionierung und Einbau der Produkte sind Planer / Baufirmen bzw. Betreiber
+verantwortlich.
+- Die Armaturen sind ausgelegt für den Einsatz in witterungsgeschützten Anlagen.
+- Für den Einsatz in freistehenden Bereichen oder bei besonders ungünstigen
+Umgebungsbedingungen, wie korrosionsfördernden Voraussetzungen (Meerwasser,
+chemische Dämpfe, etc.) werden spezielle Ausführungen oder Schutzmaßnahmen
+empfohlen.
+- Die Armaturen sind nicht für den Erdeinbau zulässig.
+
+Rev. 0040201000 1617
+
+Seite 1-7
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+5.2 Montage von Zusatzbausteinen
+Bei Armaturen mit zusätzlichen Optionen (Endschalter usw.) sind diese entsprechend ihrer
+Funktionsweise nach dem Anlagenplan anzuschließen.
+
+5.3 Umbau vom Rasthebel zum Klemmhebel (ZESA® / GESA®)
+
+Fenster
+
+Bild 7
+Der Umbau kann unter Verwendung der Rasthebelkappe (Pos. 7) erfolgen:
+- Rasthebel (Pos. 50) in Rast-Stellung 4 bringen.
+- Innen-6kt-Schraube (Pos. 50.2 / SW5 bzw. 6) lösen.
+- Rasthebel (Pos. 50) demontieren.
+ACHTUNG !
+Die Klappenscheibe ist in ihrer Stellung nicht fixiert!
+- Rasthebelkappe (Pos. 7) demontieren und Fenster mit Schraubendreher ausbrechen.
+- Kappe mit eingelegter Mutter (Pos. 19) aufsetzen und festschrauben.
+- Klemmhebel (Pos. 50.1) wie dargestellt aufsetzen.
+- Innen-6kt-Schraube (Pos. 50.2) festziehen.
+- Sterngriff-Schraube (Pos. 60) durch die Bohrung in der Nase des Klemmhebels (Pos.
+50.1) führen und in 6kt-Mutter (Pos. 19) einschrauben.
+Ist erwünscht, dass der Klemmhebel zur gleichen Seite ragt, wie zuvor der Rasthebel,
+muss die Rasthebelkappe um 180° gedreht werden.
+Zur Winkelbegrenzung kann eine zusätzliche Mutter für eine Klemmschraube in die Kappe
+eingelegt werden.
+Seite 1-8
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+5.4 Nachrüsten der THErmo-Anzeige (ZESA®THEA / GESA®THEA)
+
+Bild 8
+- Aufkleber von der Bohrung des Hebels (Pos. 50) entfernen
+- Thermo-Anzeige (Pos. 58) bis zum Anschlag in die Bohrung einführen
+
+Rev. 0040201000 1617
+
+Seite 1-9
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+5.5 Umbau bzw. Nachrüstung Hebel (ZIVA®-Z / ZIVA®-G)
+Nachrüstung bei Klappe mit freiem Wellenende:
+
+Bild 9
+ACHTUNG !
+- Wellenausblassicherung (Pos. 26) nicht unter Druck entfernen.
+(siehe Pkt. 10.0 Demontage der Armatur bzw. des Oberteiles)
+- Ohne Betätigungselement ist die Klappenscheibe in ihrer Stellung nicht fixiert!
+- Gewindestift (Pos. 50.1) lösen,
+- Rasthebel (Pos. 50) zusammen mit Rasterscheibe (Pos. 16) auf das Wellenende
+montieren.(Rasthebel greift in der Rasterscheibe ein),
+- Rasthebel (Pos. 50) so weit drehen, dass Bohrungen von Rasterscheibe (Pos. 16) und
+Gehäuse fluchten,
+- Zylinderschraube (Pos. 21) und Mutter (Pos. 20) montieren und festziehen,
+- Gewindestift (Pos. 50.1) festziehen.
+
+Seite 1-10
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+5.6 Einbau in das Rohrleitungssystem
+Bild 10-A:
+Offenstellung der Scheibe beim Einbau beachten!
+
+Bild 10-A
+Bild 10-B:
+Auf ausreichend Freiraum achten!
+
+Bild 10-B
+Bild 10-C:
+Schritt 1:
+- Kontakt zwischen der Dichtfläche und Arbeitsleiste
+Flansch herstellen.
+Schritt 2:
+- Flanschkontakt mit dem Gehäuse
+
+ACHTUNG !
+Schrauben über Kreuz anziehen!
+
+Bild 10-C
+
+Rev. 0040201000 1617
+
+Seite 1-11
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+
+6.0 Inbetriebnahme
+ACHTUNG !
+- Vor der Inbetriebnahme sind die Angaben zu Werkstoff, Druck, Temperatur und
+Strömungsrichtung zu überprüfen.
+- Grundsätzlich sind die regionalen Sicherheitsanweisungen einzuhalten.
+- Rückstände in Rohrleitungen und Armaturen (wie Schmutz, Schweißperlen,
+usw.) führen zu Undichtigkeiten bzw. Beschädigungen.
+- Beim Betrieb mit hohen (> 50 °C) oder tiefen (< 0 °C) Medientemperaturen
+besteht Verletzungsgefahr bei Berühren der Armatur.
+Ggf. Warnhinweise oder Isolierschutz anbringen!
+Vor jeder Inbetriebnahme einer Neuanlage bzw. Wiederinbetriebnahme einer
+Anlage nach Reparaturen oder Umbauten ist sicherzustellen:
+- Der ordnungsgemäße Abschluss aller Arbeiten!
+- Die richtige Funktionsstellung der Armatur.
+- Schutzvorrichtungen sind angebracht.
+
+7.0 Pflege und Wartung
+Die Wartung und Wartungsintervalle sind entsprechend den Anforderungen vom Betreiber
+festzulegen.
+ACHTUNG !
+- Wir empfehlen die Armatur mindestens einmal monatlich zu betätigen.
+- Bei Einsatz der Armatur als Endabschluss wird bei Instandsetzungsarbeiten
+eine Sicherungsmaßnahme z.B. Steckscheibe, Blindflansche etc.,
+entsprechend Vorgabe der Berufsgenossenschaft der Gas- und Wasserwerke,
+gefordert.
+
+Seite 1-12
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+7.1 Austausch von Manschette und O-Ring Abdichtung
+(ZIVA®-Z / ZIVA®-G)
+
+Bild 11
+- Sicherheitshinweise beachten
+- Manschette (Pos.2) bei Austausch fetten
+Schmiermittel:
+z.B. Armaturenfett Berusoft 30
+zu beziehen bei: Carl Bechem GmbH, Weststraße 120, D-58089 Hagen
+oder ein für den Anwendungsfall geeignetes Schmiermittel.
+ACHTUNG !
+- Es ist stets darauf zu achten, dass das Schmiermittel mit dem Medium
+verträglich ist.
+- Das Austauschen der O-Ring Abdichtung (Pos. 11) ist nur bei abgekühltem
+System und druckloser Anlage zulässig.
+- Aus Sicherheitsgründen empfehlen wir die O-Ring Abdichtung (Pos. 11) nur in
+demontiertem Zustand auszutauschen.
+- Vor Demontage der Klappe Punkte 10.0 und 11.0 beachten.
+- Bei Betätigung der Absperrklappe besteht Quetschgefahr zwischen
+Klappenscheibe und Gehäuse.
+- Wartungsarbeiten innerhalb der Rohrleitung (große Nennweiten) nur wenn
+Absperrklappe gegen Betätigung gesichert ist (Antrieb vom Netz getrennt).
+
+Rev. 0040201000 1617
+
+Seite 1-13
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+7.2 Anzugsdrehmomente
+Schraubenmomente nach Roloff-bezogen auf 0,9 x RP0,2 und RT
+μG = 0,12 / Flanschbohrung nach EN1092-1
+
+Bild 12
+Das tatsächlich benötigte Anzugsdrehmoment kann, je nach Schraubenwerkstoffe oder
+Schmiermittel niedriger ausfallen.
+Mindesteinschraublängen ZIVA®-G und GESA®:
+Einschraublänge le = 1 x dSchraube (Stahl, Stahlguss, Sphäroguß)
+Einschraublänge le = 1,25 x dSchraube (Gußeisen, Cu-Legierungen)
+
+7.2.1 Schraubenwerkstoff A4-70
+
+Seite 1-14
+
+M10
+
+=
+
+29 Nm,
+
+RP0,2 =
+
+450 N/mm2
+
+M12
+
+=
+
+52 Nm,
+
+RP0,2 =
+
+450 N/mm2
+
+M16
+
+=
+
+128 Nm,
+
+RP0,2 =
+
+450 N/mm2
+
+M20
+
+=
+
+249 Nm,
+
+RP0,2 =
+
+450 N/mm2
+
+M24
+
+=
+
+238 Nm,
+
+RP0,2 =
+
+250 N/mm2
+
+M27
+
+=
+
+351 Nm,
+
+RP0,2 =
+
+250 N/mm2
+
+M30
+
+=
+
+477 Nm,
+
+RP0,2 =
+
+250 N/mm2
+
+M33
+
+=
+
+645 Nm,
+
+RP0,2 =
+
+250 N/mm2
+
+M36
+
+=
+
+829 Nm,
+
+RP0,2 =
+
+250 N/mm2
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+7.2.2 Schraubenwerkstoff 4.6 - ARI-Datenblatt (nach EN1515-1)
+M10
+
+=
+
+16 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M12
+
+=
+
+28 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M16
+
+=
+
+68 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M20
+
+=
+
+133 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M24
+
+=
+
+228 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M27
+
+=
+
+337 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M30
+
+=
+
+458 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M33
+
+=
+
+619 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+M36
+
+=
+
+796 Nm,
+
+RP0,2 =
+
+240 N/mm2
+
+7.2.3 Schraubenwerkstoff 5.6 - nach EN1515-4
+
+Seite 1-15
+
+M10
+
+=
+
+20 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M12
+
+=
+
+35 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M16
+
+=
+
+85 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M20
+
+=
+
+166 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M24
+
+=
+
+286 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M27
+
+=
+
+421 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M30
+
+=
+
+572 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M33
+
+=
+
+774 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+M36
+
+=
+
+995 Nm,
+
+RP0,2 =
+
+300 N/mm2
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+
+8.0 Ursache und Abhilfe bei Betriebsstörungen
+Bei Störungen der Funktion bzw. des Betriebsverhaltens ist zu prüfen, ob die Montage- und
+Einstellarbeiten gemäß dieser Betriebsanleitung durchgeführt und abgeschlossen wurden.
+ACHTUNG !
+- Bei der Fehlersuche sind die Sicherheitsvorschriften zu befolgen.
+Bei Störungen die anhand der nachfolgenden Tabelle siehe Pkt. „9.0 Fehlersuchplan“
+nicht behoben werden können, ist der Lieferant oder Hersteller zu befragen.
+
+9.0 Fehlersuchplan
+ACHTUNG !
+- vor Montage- und Reparaturarbeiten Punkte 10.0 und 11.0 beachten !
+- vor Wiederinbetriebnahme Punkt 6.0 beachten !
+Störung
+
+Mögliche Ursachen
+
+Abhilfe
+
+kein Durchfluss
+
+Armatur geschlossen
+
+Armatur öffnen
+
+geringer Durchfluss
+
+Armatur nicht ausreichend geöffnet
+
+Armatur öffnen
+
+verunreinigter Schmutzfänger
+
+Sieb reinigen / austauschen
+
+Verstopfung im Rohrleitungssystem
+
+Rohrleitungssystem überprüfen
+
+Betriebsverhältnisse wie Medium,
+Temperatur liegen evtl. außerhalb der
+Vorgaben
+
+Armatur austauschen, beim Lieferanten/Hersteller nachfragen
+
+Energieversorgung ausgefallen
+
+Energieversorgung überprüfen
+
+falsche Drehrichtung
+
+Drehrichtung beachten (gegen den
+Uhrzeigersinn entspricht öffnen)
+
+nicht fest geschlossen
+
+Armatur schließen bzw. Endschalter
+einstellen
+
+zu hoher Differenzdruck
+
+Anlage überprüfen
+
+verschmutztes Medium (Feststoffe)
+
+Armatur reinigen
+Schmutzfänger vor der Armatur einbauen
+
+Auskleidung/Manschette (Bild 1-2,
+Pos.2) oder Klappenscheibe (Bild 1-2,
+Pos.3) beschädigt durch Fremdkörper oder Medium
+
+Armatur austauschen, beim Lieferant/
+Hersteller nachfragen
+
+Feststellvorrichtung angezogen
+
+Feststellvorrichtung lösen
+
+Armatur lässt sich nicht/
+oder nur schwer öffnen /
+schließen
+
+Armatur undicht
+
+Armatur mit Feststellvorrichtung lässt sich nicht
+öffnen
+
+Seite 1-16
+
+Rev. 0040201000 1617
+
+Betriebs- und Montageanleitung
+ZESA® / GESA® / ZIVA®-Z / ZIVA®-G
+
+10.0 Demontage der Armatur bzw. des Oberteiles
+ACHTUNG !
+Insbesondere sind folgende Punkte zu beachten:
+- Druckloses Rohrleitungssystem.
+- Abgekühltes Medium.
+- Entleerte Anlage.
+- Bei ätzenden, brennbaren, aggressiven oder toxischen Medien Rohrleitungssystem belüften.
+
+11.0 Regional Normangaben
+- ÖVGW
+
+12.0 Garantie / Gewährleistung
+Umfang und Zeitraum der Gewährleistung ist in der zum Zeitpunkt der Lieferung gültigen
+Ausgabe der "Allgemeinen Geschäftsbedingungen der Albert Richter GmbH & Co. KG"
+oder abweichend davon im Kaufvertrag selbst angegeben.
+Wir leisten Gewähr für eine dem jeweiligen Stand der Technik und dem bestätigten Verwendungszweck entsprechenden Fehlerfreiheit.
+Für Schäden, die durch unsachgemäße Behandlung oder Nichtbeachtung der Betriebsund Montageanleitung, des Katalogblattes und der einschlägigen Regelwerken entstehen,
+können keine Gewährleistungsansprüche geltend gemacht werden.
+Schäden die während des Betriebes, durch vom Datenblatt oder anderen Vereinbarungen
+abweichenden Einsatzbedingungen entstehen, unterliegen ebenso nicht der Gewährleistung.
+Berechtigte Beanstandungen werden durch Nacharbeit von uns oder durch von uns beauftragte Fachbetriebe beseitigt.
+Über die Gewährleistung hinausgehende Ansprüche sind ausgeschlossen. Anspruch auf
+Ersatzlieferung besteht nicht.
+Wartungsarbeiten, Einbau von Fremdteilen, Änderung der Konstruktion, sowie natürlicher
+Verschleiß sind von der Gewährleistung ausgeschlossen.
+Etwaige Transportschäden sind nicht uns, sondern unverzüglich Ihrer zuständigen Güterabfertigung, der Bahn oder dem Spediteur zu melden, da sonst Ersatzansprüche an diese
+Unternehmen verloren gehen.
+
+Technik mit Zukunft.
+DEUTSCHE QUALITÄTSARMATUREN
+
+ARI-Armaturen Albert Richter GmbH & Co. KG, D-33750 Schloß Holte-Stukenbrock
+Telefon +49 (0)5207 / 994-0 Telefax +49 (0)5207 / 994-297 oder 298
+Internet: http://www.ari-armaturen.com E-mail: info.vertrieb@ari-armaturen.com
+Seite 1-17
+
+Rev. 0040201000 1617
+
+

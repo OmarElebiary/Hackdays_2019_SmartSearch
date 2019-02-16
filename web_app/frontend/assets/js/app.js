@@ -18,6 +18,7 @@ function search() {
                 for(var i = 0;i < result.length;i++)
                     insertResultRow(result[i]);
                 showResult(result[0]);
+                console.log(result);
             } else {
                 showNoResults();
             }
@@ -34,9 +35,7 @@ let insertResultRow = ((data) => {
         <div class="card" onclick="showResult('${data}')">
             <div class="card-body">
             <h5 class="card-title"><a href="http://localhost:5000/file/${data}">${data}</a></h5>
-            <p>File description</p>
-            <button class="btn btn-success card-link" onclick="showResult(${data})"><i class="fas fa-file"></i> Show file</button>
-            <a class="btn btn-primary card-link" href="http://localhost:5000/file/${data}"><i class="fas fa-file-download"></i> Download file</a>
+            <button class="btn btn-success card-link" onclick="showResult(${data})"><i class="fas fa-file"></i> Show file</button>            
             </div>
         </div>
     </div>`;
@@ -74,9 +73,9 @@ function fileViewGenerator(filename) {
     console.log(ext);
     let htmlEle = '';
     if (ext === 'txt') {
-        htmlEle = `<object data="http://localhost:5000/file/${filename}" type="text/plain" class="card-img-top" width="100%" style="height: 600"></object>`;
+        htmlEle = `<object data="http://localhost:5000/file/${filename}" type="text/plain" class="card-img-top" width="100%" style="height: 100%"></object>`;
     } else if (ext === 'pdf') {
-        htmlEle = `<embed src="http://localhost:5000/file/${filename}#toolbar=0" type="application/pdf" class="card-img-top" width="100%" height="600px" />`;
+        htmlEle = `<embed src="http://localhost:5000/file/${filename}#toolbar=0" type="application/pdf" class="card-img-top" width="100%" height="100%" />`;
     } else if (ext === 'xlsx' || ext === 'xls') {
         htmlEle = `<h4 class="card-img-top">Preview not available</h4>`;
     } else if (ext == 'jpg' || ext == 'jpeg') {

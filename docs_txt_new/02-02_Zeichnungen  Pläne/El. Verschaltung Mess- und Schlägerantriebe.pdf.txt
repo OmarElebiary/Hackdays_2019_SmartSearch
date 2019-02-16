@@ -1,0 +1,131 @@
+   
+
+ 
+
+WAG3_0
+
+17.0/-L1.2 - 5 —> -(038:1/23.3
+17.91-L2.2 >— —1/— -—> -038:3/23.3 |a
+17.9/-L3.2+
+
++ -038:5/23.3
+
+    
+   
+   
+ 
+    
+  
+   
+  
+  
+  
+   
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17.9/-PE " i -PE/20.0
+X3 15 3;»5
+W5 3
+
+JZ-500 16x1,5mm’ i - -
+
+17.3/-PE_ext
+
+PE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+       
+  
+
+  
+
+’ t -PE_exti/23.0
++EXT 15 QPE PE l_.
+-X13
+W3B__ |2 _|PE W39 o |1 f2 |3 fee e L 2 jRE
+JZ-500 4x1,5mm? W1 JZ2-500 4x1,5mm? Z-500 4x1,5mm? Wi PE h
++EXT +EXT +EXT +EXT F—J
+-M3 -M4 -M5 -M6
+Un=400 V Un=400 V Un=400 V Un=400 V
+Pn=1,1 KW PE Pn=0,75 KW PE . Pn=0,75 KW PE Pn=3,0 KW =
+In=2,5 A In=1,9 A In=1,9 A In=6,6 A
+
+Schlagerantrieb 1 Schlagerantrieb 2 Leersackverdichter i
+
+ 
+
+ 
+
+  
+   
+  
+ 
+ 
+ 
+
+  
+  
+  
+    
+
+Sackentleerer SE-KE-2037
+
+ 
+
+Messerantrieb
+Schlagerantriebe
+
+  
+
+Wagner EP7206
+
+L o B | Maschinen GmbH
+
+Plotdatum : 05.03,14_ I
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+ 
+

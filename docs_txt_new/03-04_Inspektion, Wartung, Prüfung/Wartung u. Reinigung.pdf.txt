@@ -1,0 +1,385 @@
+Typ WAMASERE ARSI
+
+8 Wartung / Reinigung
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Das Kapitel Wartung/Reinigung ist nur fiir Fachkréfte bestimmt.
+Wartungs-, Reinigungs- und Reparaturarbeiten dirfen nur vom
+Fachpersonal durchgefiihrt werden.
+
+ 
+
+ 
+
+Fachkraft
+
+- Eine Person, die aufgrund ihrer fachlichen Ausbildung,
+Kenntnisse und Erfahrungen sowie Kenntnis der
+einschlagigen Normen die ihr Ubertragenen Arbeiten
+beurteilen und mégliche Gefahren erkennen kann.
+
+In der Definition angelehnt an die EN 60204-1.
+
+Das Bedien- und Wartungspersonal wird am Aufstellort der
+Maschine vom Personal der Fa. Wagner ausgebildet. Sollten
+Fragen oder Unsicherheiten auftreten, bitte bei der Fa. Wagner
+nachfragen.
+
+Die Maschine ist fur eine Lebensdauer von 10 Jahren ausgelegt.
+AnschlieRend ist eine Grundrevision durch den Hersteller bzw.
+einen autorisierten Fachbetrieb erforderlich.
+
+Um einen stérungsfreien Betrieb der Maschine zu ermdglichen, ist
+es unbedingt erforderlich, dass die Maschine in regelmaRigen
+Abstanden gereinigt und gewartet wird.
+
+Die Maschine unterliegt wahrend des Betriebes Vibrationen, die
+zum Lésen von Schraub- und Klemmverbindungen fihren kénnen.
+Um Schéaden vorzubeugen, kontrollieren Sie die Anlage in
+regelmaBigen Abstanden (empfohlener Intervall bei einschichtigem
+Betrieb 3 Monate) auf lose Verbindungen.
+
+Die Wartung / Reinigung der einzelnen Zukaufkomponenten ist in
+den Hersteller-Betriebsanleitungen ersichtlich.
+
+Vor Reinigungs-, Wartungs- oder Reparaturarbeiten sind die
+Abschaltprozeduren unbedingt einzuhalten (siehe Kap. 4.5).
+Verwenden Sie nur Reinigungs- und Schmiermittel, die den
+Hygieneanforderungen fir Nahrungsmittelmaschinen
+entsprechen.
+
+SEKE2031 41
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+A IWNHENER
+
+ 
+ 
+
+Vor Reinigungs-, Wartungs- oder Reparaturarbeiten (nur durch
+Fachpersonal) ist folgende Abschaltprozedur unbedingt
+einzuhalten.
+
+1. Maschine leerfahren.
+
+‘ 2. Maschine stromlos schalten:
+@ - Netztrenneinrichtung (Hauptschalter) am Schaltschrank
+auf ,,0" schalten
+- Sichern Sie den Hauptschalter mit einem
+Vorhédngeschloss gegen Wiedereinschalten.
+
+2.1 Bei Wartungs- und Reparaturarbeiten:
+- Stellen Sie sicher, dass keine Spannung anliegt
+- Maschine kurzschlieBen und erden
+- Benachbarte unter Spannung stehende Teile abdecken
+und abschranken.
+
+ 
+
+3. Pneumatik absperren:
+- Absperrventil schlie3en.
+- Priifen Sie, ob die Maschine drucklos ist.
+- Sichern Sie das Absperrventil gegen unbefugtes
+Wiederoffnen.
+
+SchlieBen Sie die gedffneten Elektroschrédnke bei der Reinigung,
+damit kein Wasser oder Staub eindringen kann.
+
+Bei Nichtbeachtung entstehen Gefahren fiir Leib und Leben
+des Personals!
+
+Nach Betétigung des Not-Halt-Tasters ist der entsprechende
+Produktionsbereich ohne Funktion, aber alle Baugruppen stehen
+noch unter elektrischer Spannung. Spannungsfrei schalten Sie
+die Maschine durch Betéatigung des Hauptschalters. Beachten
+Sie, dass danach der untere Teil des Hauptschalters noch unter
+elektrischer Spannung steht (Warnhinweisschilder beachten).
+
+ 
+
+Die zeitliche Auffiihrung ist auf Einschichtbetrieb (8 Stunden/Tag
+
+a 21 Tage/Monat; 12 Monate/Jahr) berechnet.
+
+t = téglich J = Jéhrlich
+
+w = wdchentlich LD = Lebensdauer
+
+m = monatlich”: HB = Hersteller-Betriebsanleitung
+
+J = halbjahrlich
+
+8.1 Reinigung
+
+SEKE2031 42
+ 
+
+Kettensackentleerer
+Vor Reinigungs-, Wartungs- und Reparaturarbeiten sind die
+Abschaltprozeduren unbedingt einzuhalten (siehe Kap. 4.5).
+
+Verwenden Sie keine scharfen Gegensténde oder Werkzeuge
+zur Reinigung, die nicht ausdrticklich dafiir vorgesehen sind.
+
+ 
+
+Reinigung Intervall
+
+Halten Sie den gesamten Bereich um die Maschine regelmé&Rig sauber und
+beachten die betrieblichen Hygienevorschriften.
+
+Achten Sie darauf, dass die Kiihlrippen der Elektromotoren nicht durch Verschmutz-
+ungen zugesetzt sind, damit keine Uberhitzungen an den Motoren entstehen
+kénnen; ggf. reinigen
+
+Achten Sie darauf, dass nach Schichtende die Maschine véllig leer gefahren wird
+und reinigen Sie die Anlagenkomponenten von Produktanhaftungen- Resten und
+Verunreinigungen. Beachten Sie bei der Reinigung die betrieblichen
+Reinigungsvorschriften.
+
+ 
+
+Reinigen Sie regelmaRig die Filter der Druckluftanlage. Die Reinigung erfolgt nach den
+Angaben der Filterhersteller.
+
+Entsorgen Sie Produktreste, Reinigungsabfélle und Putzmaterialien umweltgerecht.
+
+ 
+
+SEKE2031 43
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+      
+
+£ IWNHENER
+
+ 
+
+8.2 Inspektionsintervall-Funktionspriifung
+Hauptschalter
+
+Not-Halt-Taster
+
+Intervall bei Einschichtbetrieb
+
+                   
+
+Schlésser an den Schranken
+Drahte auf festen Sitz prifen
+Einstellwerte am Schutzschalter
+Taster und Schalter am Bedien-Schaltschrank
+
+Alle Steck-, Schraub- und Klemmverbindungen auf
+festen Sitz Gberprufen, ggf. nachziehen
+
+Sicherheitsendschalter auf Funktion prifen
+
+  
+
+Eingestellten Luftdruck an der Wartungseinheit prifen
+(Sollvorgabe 6 bar)
+
+8.2.1 Kontrollen
+
+1. Fuhren Sie im Bedien-Schaltschrank eine Sichtkontrolle durch.
+Kontrollieren Sie:
+- die Verdrahtungen auf Knick-, Scheuer- oder
+
+Brandstellen,
+
+- die Abdeckungen und Isolierungen auf Beschadigungen,
+- die Schaltschranktiren auf Leichtgangigkeit.
+
+2. Fuhren Sie im Einrichtbetrieb eine Funktionspriifung aller
+Baugruppen durch.
+
+3. Sind alle Funktionen einwandfrei, erfolgt die Ubergabe der
+Anlage/Maschine an den Bediener.
+
+ 
+
+SEKE2031 44
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+8.3 Allgemeine Wartungshinweise
+
+Kontrollieren Sie den richtigen und festen Stand der Maschine. V2]
+
+ 
+
+Kontrollieren Sie den Sitz, die Drehféhigkeit und den Verschlei? aller drehenden Y
+bzw. beweglichen Maschinenelemente und tauschen verschlissene Teile aus.
+
+Kontrollieren Sie die korrekte Montage der Sicherheitsverkleidung an der
+Produktzufuhr.
+
+Kontrollieren Sie den richtigen und festen Sitz der Elektroantriebe sowie die n
+t
+
+ 
+
+Elemente der Drehmomentlbertragung auf richtigen Sitz und Verschleil3.
+Kontrollieren Sie die Pneumatikeinheit auf Leckagen und Funktion und prifen den
+Zustand aller Schlauchanschliisse sowie den anliegenden Betriebsdruck von 6 bar,
+ggf. regulieren.
+
+ 
+
+ 
+
+Die Wartung von Elektroantrieben ist nach den Hersteller-
+Angaben in den externen Hersteller-Betriebsanleitungen
+durchzufihren.
+
+SEKE2031 45
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+£ INHENER
+
+ 
+
+8.4 Kontrollen an der Maschine
+
+Nach Beendigung der Arbeiten:
+
+- prufen Sie die Schutzleiterverbindungen der Maschine auf
+festen Sitz,
+
+- kontrollieren Sie die Vollstéandigkeit der durchgefiihrten
+Reparaturarbeiten,
+
+- prufen Sie, ob ggf. Werkzeuge oder Restteile in der Maschine
+zurlickgelassen wurden.
+
+- schlieRen Sie die Elektroschranke.
+
+Nach Priifung und Austausch der Verschleif3teile kontrollieren
+Sie, ob alle Sicherheitseinrichtungen funktionsféahig sind.
+
+Sind alle Funktionen einwandfrei, erfolgt die Ubergabe der
+Anlage an den Bediener.
+
+ 
+
+SEKE2031
+
+46
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stérung, Ursache, Behebung
+
+ 
+
+Die in dieser Anleitung beschriebenen Fakten und Hinweise zu
+»,Stérung, Ursache, Behebung” sind so ausgefiihrt, dass sie von
+Personen mit fachlicher Ausbildung (siehe hierzu Definition
+Kap. 3.4 ,SicherheitsmalBnahmen®) in
+
+- Elektro/Elektronik
+
+- Mechanik/ Wartung
+
+verstanden werden.
+
+Diesem Personal ist entsprechendes Werkzeug und Priifmittel
+zur Verfigung zu stellen.
+
+Vor allen Wartungs- und Reparaturarbeiten sind die Abschalt-
+prozeduren (siehe Kap. 4.5) unbedingt durchzufiihren.
+
+Fihren die angegebenen MalBnahmen nicht zum Erfolg, wenden
+Sie sich bitte an die Fa. Wagner.
+
+Steuerung lasst sich nicht Hauptschalter in Stellung ,0“ | Hauptschalter einschalten
+einschalten
+
+ 
+
+ 
+   
+
+   
+
+  
+
+Uberstromschutz hat
+angesprochen
+
+ 
+
+Fachkraft zur Stérungs-
+beseitigung anfordern
+
+   
+    
+
+Not-Halt-Taster gedriickt Ursache ermitteln, beheben,
+und Not-Halt-Taster
+
+entriegeln, Not-Halt quittieren
+
+   
+
+   
+
+Sicherheitsbereich nicht
+quittiert.
+
+  
+
+,Maschine stop“ steht an Sicherheitsbereich quittieren
+
+   
+   
+
+Fehlfunktionen Luftdruck fehlt oder zu Ursache ermitteln, beheben
+
+       
+
+ 
+
+und Luftdruck neu einstellen-
+
+]
+
+Weitere Angaben (iber ,,Stérung, Ursache, Behebung® an
+Zukaufkomponenten sind in den separaten Hersteller-
+Betriebsanleitungen aufgefiihrt.
+
+gering
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+SEKE2031 47
+

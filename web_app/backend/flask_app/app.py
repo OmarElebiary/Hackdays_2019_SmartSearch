@@ -31,7 +31,8 @@ def search():
     inds = [results[i] for i in range(len(results))]
 
     fileNames = [element[element.rfind('/')+1:] for element in paths]
-        
+    print(paths)
+
     print(fileNames)
 
     return jsonify(fileNames)
@@ -39,14 +40,15 @@ def search():
 
 @app.route('/file/<name>')
 def static_file(name):
+    print(name)
     filePath, fileExtension = search_files(name)
     print(filePath)
     return send_file(filePath)
 
 if __name__ == '__main__':
 
-    rootDir = "../../../../docs_txt"
-    realFileDir = "../../../classified documents"
+    rootDir = "../../../docs_txt"
+    realFileDir = "./assets/classified documents"
 
 
     print("\n\n\n\nLoading smart-search data..")
