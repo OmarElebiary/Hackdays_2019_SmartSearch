@@ -1,18 +1,28 @@
 import re
+from nltk.stem.snowball import GermanStemmer
+gs = GermanStemmer()
+punctuations = '''!()-[]{};:'"\,<>/?@#$%^&*_~'''
+
+
+def _remove_punctuation(tokens):
+    tokens_filt = []
+    for gT in tokens:
+        if gT not in punctuations: tokens_filt.append(gT)
+    return tokens_filt
 
 
 def _remove_stopwords(tokens):
     '''Remove stop words from an array of tokens'''
 
-    # nltk.download('stopwords')
-    # stopWords = set(stopwords.words('english'))
     stopWords = ['the', 'to', '-', 'pr', 'der', 'is', 'of', 'die', 'in', 'and', 'und', '–', '•', '✔', '●', 'a']
 
     tokens_filt = []
     for gT in tokens:
         if gT not in stopWords: tokens_filt.append(gT)
 
-    return tokens_filt
+    #punctuations_filtered_tokens = _remove_punctuation(tokens_filt)
+
+    return [gs.stem(word).strip() for word in tokens_filt]
 
 
 def _tokenize(data):
