@@ -22,19 +22,22 @@ cors = CORS(app)
 @app.route('/', methods=['POST'])
 @cross_origin()
 def search():
-    searchTerm = request.data
-    print(searchTerm)
+    searchTerm = request.data.decode('utf-8')
+
     # Perform the search query
     # Execute the searching script
+    results = search_query(searchTerm, filentoken2tfidf, token2files)
+    paths = [get_real_filepath(rootDir, realFileDir, file_dirs, results[i][1]) for i in range(len(results))]
+    inds = [results[i] for i in range(len(results))]
 
-    results = search_query(searchTerm.decode('utf-8'), filentoken2tfidf, token2files)
-
-    n_results = 5
-    paths = [get_real_filepath(rootDir, realFileDir, file_dirs, i) for i in range(n_results)]
     fileNames = [element[element.rfind('/')+1:] for element in paths]
     print(fileNames)
 
     return jsonify(fileNames)
+
+
+
+
 
 @app.route('/file/<name>')
 def static_file(name):
@@ -47,10 +50,21 @@ if __name__ == '__main__':
     rootDir = "../../../../docs_txt"
     realFileDir = "../../../classified documents"
 
+
+    print("\n\n\n\nLoading smart-search data..")
     (file_data, file_dirs) = get_filtered_data(rootDir)
     tokens_filtered = preprocess(file_data)
 
     token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
     filentoken2tfidf = metrics.get_tfidf(tokens_filtered, token2files, filentoken2occ)
 
+    print("Data loaded.\n\n------------------------------------------")
+
     app.run(debug=True)
+
+
+
+
+
+
+
