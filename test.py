@@ -19,7 +19,7 @@ def path_equal(system_path, testcase_path):
     return system_path.endswith(testcase_path)
 
 
-def unit_test(rootDir, testcase_path):
+def unit_test(rootDir, testcase_path, out_file):
     ''''''
     testcases = read_testcases(testcase_path)
 
@@ -48,14 +48,15 @@ def unit_test(rootDir, testcase_path):
     testcase_errors = list(map(lambda x: 100 if x == -1 else x, testcase_pos))
     error = sum(testcase_errors)
 
-    print('Total error: {} (sum of target pos)\nTestcase errors: {}'.format(error, ' '.join(map(str, testcase_errors))))
+    with open(out_file, 'w') as out:
+        out.write('Total error: {} (sum of target pos)\nTestcase errors: {}\n'.format(error, ' '.join(map(str, testcase_errors))))
 
-    for i, t in enumerate(testcases):
-        print('\n\n\n\nTESTCASE {}\nError: {}\nQuery: {}\n{}'.format(i + 1, testcase_errors[i], t[0], '-'*50))
-        for j, res in enumerate(all_results[i]):
-            if testcase_pos[i] == j:
-                print('(target) ', end='')
-            print('score: {}, path: {}, explanation: {}'.format(*res))
+        for i, t in enumerate(testcases):
+            out.write('\n\n\n\nTESTCASE {}\nError: {}\nQuery: {}\n{}\n'.format(i + 1, testcase_errors[i], t[0], '-'*50))
+            for j, res in enumerate(all_results[i]):
+                if testcase_pos[i] == j:
+                    out.write('(target) ')
+                out.write('score: {}, path: {}, explanation: {}\n'.format(*res))
 
 
 
@@ -63,5 +64,6 @@ def unit_test(rootDir, testcase_path):
 if __name__ == '__main__':
     rootDir = '../docs_txt'
     testcase_file = 'test_queries.txt'
+    eval_out = 'eval.txt'
 
-    unit_test(rootDir, testcase_file)
+    unit_test(rootDir, testcase_file, eval_out)

@@ -1,0 +1,1122 @@
+Total error: 2744 (sum of target pos)
+Testcase errors: 6 1 100 13 4 1 6 1 100 100 100 100 100 100 12 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+
+
+
+
+TESTCASE 1
+Error: 6
+Query: Artech c32 hp1 atex
+--------------------------------------------------
+score: 2.0, path: 144, explanation: (artech, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 125, explanation: (artech, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 105, explanation: (c32, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 10, explanation: (artech, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+(target) score: 1.0, path: 212, explanation: (artech, 1.00000)
+score: 1.0, path: 176, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 106, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 79, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 2
+Error: 1
+Query: Artech c32 hp1 atex
+--------------------------------------------------
+score: 2.0, path: 144, explanation: (artech, 1.00000) + (atex, 1.00000)
+(target) score: 2.0, path: 125, explanation: (artech, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 105, explanation: (c32, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 10, explanation: (artech, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 212, explanation: (artech, 1.00000)
+score: 1.0, path: 176, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 106, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 79, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 3
+Error: 100
+Query: ATEX
+--------------------------------------------------
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 176, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 144, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 125, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 106, explanation: (atex, 1.00000)
+score: 1.0, path: 105, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 79, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+score: 1.0, path: 10, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 4
+Error: 13
+Query: ATEX
+--------------------------------------------------
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 176, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 144, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+(target) score: 1.0, path: 125, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 106, explanation: (atex, 1.00000)
+score: 1.0, path: 105, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 79, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+score: 1.0, path: 10, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 5
+Error: 4
+Query: Ultraschallkonverter Artech
+--------------------------------------------------
+score: 2.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
+score: 2.0, path: 125, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
+score: 2.0, path: 10, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
+score: 1.0, path: 231, explanation: (ultraschallkonverter, 1.00000)
+(target) score: 1.0, path: 212, explanation: (artech, 1.00000)
+score: 1.0, path: 157, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 40, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 31, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 30, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 29, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 28, explanation: (ultraschallkonverter, 1.00000)
+
+
+
+
+TESTCASE 6
+Error: 1
+Query: Ultraschallkonverter Artech
+--------------------------------------------------
+score: 2.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
+(target) score: 2.0, path: 125, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
+score: 2.0, path: 10, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
+score: 1.0, path: 231, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 212, explanation: (artech, 1.00000)
+score: 1.0, path: 157, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 40, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 31, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 30, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 29, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 28, explanation: (ultraschallkonverter, 1.00000)
+
+
+
+
+TESTCASE 7
+Error: 6
+Query: Ultraschallkonverter Artech atex
+--------------------------------------------------
+score: 3.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
+score: 3.0, path: 125, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
+score: 3.0, path: 10, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 231, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+(target) score: 1.0, path: 212, explanation: (artech, 1.00000)
+score: 1.0, path: 176, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 157, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 106, explanation: (atex, 1.00000)
+score: 1.0, path: 105, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 79, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 40, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 31, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 30, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 29, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 28, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 8
+Error: 1
+Query: Ultraschallkonverter Artech atex
+--------------------------------------------------
+score: 3.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
+(target) score: 3.0, path: 125, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
+score: 3.0, path: 10, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 231, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 212, explanation: (artech, 1.00000)
+score: 1.0, path: 176, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 157, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 106, explanation: (atex, 1.00000)
+score: 1.0, path: 105, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 79, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 40, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 31, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 30, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 29, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 28, explanation: (ultraschallkonverter, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 9
+Error: 100
+Query: Druck glasdeckel
+--------------------------------------------------
+score: 1.0, path: 234, explanation: (druck, 1.00000)
+score: 1.0, path: 233, explanation: (druck, 1.00000)
+score: 1.0, path: 185, explanation: (druck, 1.00000)
+score: 1.0, path: 175, explanation: (druck, 1.00000)
+score: 1.0, path: 171, explanation: (druck, 1.00000)
+score: 1.0, path: 170, explanation: (druck, 1.00000)
+score: 1.0, path: 165, explanation: (druck, 1.00000)
+score: 1.0, path: 163, explanation: (druck, 1.00000)
+score: 1.0, path: 161, explanation: (druck, 1.00000)
+score: 1.0, path: 155, explanation: (druck, 1.00000)
+score: 1.0, path: 145, explanation: (druck, 1.00000)
+score: 1.0, path: 143, explanation: (druck, 1.00000)
+score: 1.0, path: 142, explanation: (druck, 1.00000)
+score: 1.0, path: 132, explanation: (druck, 1.00000)
+score: 1.0, path: 131, explanation: (druck, 1.00000)
+score: 1.0, path: 130, explanation: (druck, 1.00000)
+score: 1.0, path: 126, explanation: (druck, 1.00000)
+score: 1.0, path: 116, explanation: (druck, 1.00000)
+score: 1.0, path: 108, explanation: (druck, 1.00000)
+score: 1.0, path: 106, explanation: (druck, 1.00000)
+score: 1.0, path: 95, explanation: (druck, 1.00000)
+score: 1.0, path: 84, explanation: (druck, 1.00000)
+score: 1.0, path: 76, explanation: (druck, 1.00000)
+score: 1.0, path: 34, explanation: (druck, 1.00000)
+score: 1.0, path: 33, explanation: (druck, 1.00000)
+score: 1.0, path: 29, explanation: (druck, 1.00000)
+score: 1.0, path: 26, explanation: (druck, 1.00000)
+score: 1.0, path: 15, explanation: (druck, 1.00000)
+score: 1.0, path: 14, explanation: (druck, 1.00000)
+
+
+
+
+TESTCASE 10
+Error: 100
+Query: Druck glasdeckel
+--------------------------------------------------
+score: 1.0, path: 234, explanation: (druck, 1.00000)
+score: 1.0, path: 233, explanation: (druck, 1.00000)
+score: 1.0, path: 185, explanation: (druck, 1.00000)
+score: 1.0, path: 175, explanation: (druck, 1.00000)
+score: 1.0, path: 171, explanation: (druck, 1.00000)
+score: 1.0, path: 170, explanation: (druck, 1.00000)
+score: 1.0, path: 165, explanation: (druck, 1.00000)
+score: 1.0, path: 163, explanation: (druck, 1.00000)
+score: 1.0, path: 161, explanation: (druck, 1.00000)
+score: 1.0, path: 155, explanation: (druck, 1.00000)
+score: 1.0, path: 145, explanation: (druck, 1.00000)
+score: 1.0, path: 143, explanation: (druck, 1.00000)
+score: 1.0, path: 142, explanation: (druck, 1.00000)
+score: 1.0, path: 132, explanation: (druck, 1.00000)
+score: 1.0, path: 131, explanation: (druck, 1.00000)
+score: 1.0, path: 130, explanation: (druck, 1.00000)
+score: 1.0, path: 126, explanation: (druck, 1.00000)
+score: 1.0, path: 116, explanation: (druck, 1.00000)
+score: 1.0, path: 108, explanation: (druck, 1.00000)
+score: 1.0, path: 106, explanation: (druck, 1.00000)
+score: 1.0, path: 95, explanation: (druck, 1.00000)
+score: 1.0, path: 84, explanation: (druck, 1.00000)
+score: 1.0, path: 76, explanation: (druck, 1.00000)
+score: 1.0, path: 34, explanation: (druck, 1.00000)
+score: 1.0, path: 33, explanation: (druck, 1.00000)
+score: 1.0, path: 29, explanation: (druck, 1.00000)
+score: 1.0, path: 26, explanation: (druck, 1.00000)
+score: 1.0, path: 15, explanation: (druck, 1.00000)
+score: 1.0, path: 14, explanation: (druck, 1.00000)
+
+
+
+
+TESTCASE 11
+Error: 100
+Query: Glasdeckel 230
+--------------------------------------------------
+score: 1.0, path: 205, explanation: (230, 1.00000)
+score: 1.0, path: 194, explanation: (230, 1.00000)
+score: 1.0, path: 171, explanation: (230, 1.00000)
+score: 1.0, path: 169, explanation: (230, 1.00000)
+score: 1.0, path: 166, explanation: (230, 1.00000)
+score: 1.0, path: 164, explanation: (230, 1.00000)
+score: 1.0, path: 163, explanation: (230, 1.00000)
+score: 1.0, path: 162, explanation: (230, 1.00000)
+score: 1.0, path: 159, explanation: (230, 1.00000)
+score: 1.0, path: 150, explanation: (230, 1.00000)
+score: 1.0, path: 149, explanation: (230, 1.00000)
+score: 1.0, path: 147, explanation: (230, 1.00000)
+score: 1.0, path: 146, explanation: (230, 1.00000)
+score: 1.0, path: 145, explanation: (230, 1.00000)
+score: 1.0, path: 144, explanation: (230, 1.00000)
+score: 1.0, path: 122, explanation: (230, 1.00000)
+score: 1.0, path: 107, explanation: (230, 1.00000)
+score: 1.0, path: 106, explanation: (230, 1.00000)
+score: 1.0, path: 102, explanation: (230, 1.00000)
+score: 1.0, path: 84, explanation: (230, 1.00000)
+score: 1.0, path: 78, explanation: (230, 1.00000)
+score: 1.0, path: 76, explanation: (230, 1.00000)
+score: 1.0, path: 72, explanation: (230, 1.00000)
+score: 1.0, path: 66, explanation: (230, 1.00000)
+score: 1.0, path: 56, explanation: (230, 1.00000)
+score: 1.0, path: 50, explanation: (230, 1.00000)
+score: 1.0, path: 49, explanation: (230, 1.00000)
+score: 1.0, path: 26, explanation: (230, 1.00000)
+score: 1.0, path: 18, explanation: (230, 1.00000)
+score: 1.0, path: 16, explanation: (230, 1.00000)
+score: 1.0, path: 15, explanation: (230, 1.00000)
+score: 1.0, path: 11, explanation: (230, 1.00000)
+score: 1.0, path: 10, explanation: (230, 1.00000)
+
+
+
+
+TESTCASE 12
+Error: 100
+Query: Glasdeckel 230
+--------------------------------------------------
+score: 1.0, path: 205, explanation: (230, 1.00000)
+score: 1.0, path: 194, explanation: (230, 1.00000)
+score: 1.0, path: 171, explanation: (230, 1.00000)
+score: 1.0, path: 169, explanation: (230, 1.00000)
+score: 1.0, path: 166, explanation: (230, 1.00000)
+score: 1.0, path: 164, explanation: (230, 1.00000)
+score: 1.0, path: 163, explanation: (230, 1.00000)
+score: 1.0, path: 162, explanation: (230, 1.00000)
+score: 1.0, path: 159, explanation: (230, 1.00000)
+score: 1.0, path: 150, explanation: (230, 1.00000)
+score: 1.0, path: 149, explanation: (230, 1.00000)
+score: 1.0, path: 147, explanation: (230, 1.00000)
+score: 1.0, path: 146, explanation: (230, 1.00000)
+score: 1.0, path: 145, explanation: (230, 1.00000)
+score: 1.0, path: 144, explanation: (230, 1.00000)
+score: 1.0, path: 122, explanation: (230, 1.00000)
+score: 1.0, path: 107, explanation: (230, 1.00000)
+score: 1.0, path: 106, explanation: (230, 1.00000)
+score: 1.0, path: 102, explanation: (230, 1.00000)
+score: 1.0, path: 84, explanation: (230, 1.00000)
+score: 1.0, path: 78, explanation: (230, 1.00000)
+score: 1.0, path: 76, explanation: (230, 1.00000)
+score: 1.0, path: 72, explanation: (230, 1.00000)
+score: 1.0, path: 66, explanation: (230, 1.00000)
+score: 1.0, path: 56, explanation: (230, 1.00000)
+score: 1.0, path: 50, explanation: (230, 1.00000)
+score: 1.0, path: 49, explanation: (230, 1.00000)
+score: 1.0, path: 26, explanation: (230, 1.00000)
+score: 1.0, path: 18, explanation: (230, 1.00000)
+score: 1.0, path: 16, explanation: (230, 1.00000)
+score: 1.0, path: 15, explanation: (230, 1.00000)
+score: 1.0, path: 11, explanation: (230, 1.00000)
+score: 1.0, path: 10, explanation: (230, 1.00000)
+
+
+
+
+TESTCASE 13
+Error: 100
+Query: Glasdeckel Material
+--------------------------------------------------
+score: 1.0, path: 234, explanation: (material, 1.00000)
+score: 1.0, path: 232, explanation: (material, 1.00000)
+score: 1.0, path: 224, explanation: (material, 1.00000)
+score: 1.0, path: 198, explanation: (material, 1.00000)
+score: 1.0, path: 171, explanation: (material, 1.00000)
+score: 1.0, path: 167, explanation: (material, 1.00000)
+score: 1.0, path: 161, explanation: (material, 1.00000)
+score: 1.0, path: 160, explanation: (material, 1.00000)
+score: 1.0, path: 155, explanation: (material, 1.00000)
+score: 1.0, path: 153, explanation: (material, 1.00000)
+score: 1.0, path: 147, explanation: (material, 1.00000)
+score: 1.0, path: 145, explanation: (material, 1.00000)
+score: 1.0, path: 144, explanation: (material, 1.00000)
+score: 1.0, path: 135, explanation: (material, 1.00000)
+score: 1.0, path: 130, explanation: (material, 1.00000)
+score: 1.0, path: 129, explanation: (material, 1.00000)
+score: 1.0, path: 127, explanation: (material, 1.00000)
+score: 1.0, path: 126, explanation: (material, 1.00000)
+score: 1.0, path: 122, explanation: (material, 1.00000)
+score: 1.0, path: 109, explanation: (material, 1.00000)
+score: 1.0, path: 106, explanation: (material, 1.00000)
+score: 1.0, path: 105, explanation: (material, 1.00000)
+score: 1.0, path: 101, explanation: (material, 1.00000)
+score: 1.0, path: 98, explanation: (material, 1.00000)
+score: 1.0, path: 92, explanation: (material, 1.00000)
+score: 1.0, path: 91, explanation: (material, 1.00000)
+score: 1.0, path: 90, explanation: (material, 1.00000)
+score: 1.0, path: 89, explanation: (material, 1.00000)
+score: 1.0, path: 88, explanation: (material, 1.00000)
+score: 1.0, path: 84, explanation: (material, 1.00000)
+score: 1.0, path: 80, explanation: (material, 1.00000)
+score: 1.0, path: 78, explanation: (material, 1.00000)
+score: 1.0, path: 70, explanation: (material, 1.00000)
+score: 1.0, path: 69, explanation: (material, 1.00000)
+score: 1.0, path: 68, explanation: (material, 1.00000)
+score: 1.0, path: 66, explanation: (material, 1.00000)
+score: 1.0, path: 58, explanation: (material, 1.00000)
+score: 1.0, path: 34, explanation: (material, 1.00000)
+score: 1.0, path: 17, explanation: (material, 1.00000)
+score: 1.0, path: 15, explanation: (material, 1.00000)
+score: 1.0, path: 14, explanation: (material, 1.00000)
+score: 1.0, path: 13, explanation: (material, 1.00000)
+score: 1.0, path: 11, explanation: (material, 1.00000)
+score: 1.0, path: 10, explanation: (material, 1.00000)
+score: 1.0, path: 3, explanation: (material, 1.00000)
+score: 1.0, path: 2, explanation: (material, 1.00000)
+score: 1.0, path: 1, explanation: (material, 1.00000)
+score: 1.0, path: 0, explanation: (material, 1.00000)
+
+
+
+
+TESTCASE 14
+Error: 100
+Query: Glasdeckel Material
+--------------------------------------------------
+score: 1.0, path: 234, explanation: (material, 1.00000)
+score: 1.0, path: 232, explanation: (material, 1.00000)
+score: 1.0, path: 224, explanation: (material, 1.00000)
+score: 1.0, path: 198, explanation: (material, 1.00000)
+score: 1.0, path: 171, explanation: (material, 1.00000)
+score: 1.0, path: 167, explanation: (material, 1.00000)
+score: 1.0, path: 161, explanation: (material, 1.00000)
+score: 1.0, path: 160, explanation: (material, 1.00000)
+score: 1.0, path: 155, explanation: (material, 1.00000)
+score: 1.0, path: 153, explanation: (material, 1.00000)
+score: 1.0, path: 147, explanation: (material, 1.00000)
+score: 1.0, path: 145, explanation: (material, 1.00000)
+score: 1.0, path: 144, explanation: (material, 1.00000)
+score: 1.0, path: 135, explanation: (material, 1.00000)
+score: 1.0, path: 130, explanation: (material, 1.00000)
+score: 1.0, path: 129, explanation: (material, 1.00000)
+score: 1.0, path: 127, explanation: (material, 1.00000)
+score: 1.0, path: 126, explanation: (material, 1.00000)
+score: 1.0, path: 122, explanation: (material, 1.00000)
+score: 1.0, path: 109, explanation: (material, 1.00000)
+score: 1.0, path: 106, explanation: (material, 1.00000)
+score: 1.0, path: 105, explanation: (material, 1.00000)
+score: 1.0, path: 101, explanation: (material, 1.00000)
+score: 1.0, path: 98, explanation: (material, 1.00000)
+score: 1.0, path: 92, explanation: (material, 1.00000)
+score: 1.0, path: 91, explanation: (material, 1.00000)
+score: 1.0, path: 90, explanation: (material, 1.00000)
+score: 1.0, path: 89, explanation: (material, 1.00000)
+score: 1.0, path: 88, explanation: (material, 1.00000)
+score: 1.0, path: 84, explanation: (material, 1.00000)
+score: 1.0, path: 80, explanation: (material, 1.00000)
+score: 1.0, path: 78, explanation: (material, 1.00000)
+score: 1.0, path: 70, explanation: (material, 1.00000)
+score: 1.0, path: 69, explanation: (material, 1.00000)
+score: 1.0, path: 68, explanation: (material, 1.00000)
+score: 1.0, path: 66, explanation: (material, 1.00000)
+score: 1.0, path: 58, explanation: (material, 1.00000)
+score: 1.0, path: 34, explanation: (material, 1.00000)
+score: 1.0, path: 17, explanation: (material, 1.00000)
+score: 1.0, path: 15, explanation: (material, 1.00000)
+score: 1.0, path: 14, explanation: (material, 1.00000)
+score: 1.0, path: 13, explanation: (material, 1.00000)
+score: 1.0, path: 11, explanation: (material, 1.00000)
+score: 1.0, path: 10, explanation: (material, 1.00000)
+score: 1.0, path: 3, explanation: (material, 1.00000)
+score: 1.0, path: 2, explanation: (material, 1.00000)
+score: 1.0, path: 1, explanation: (material, 1.00000)
+score: 1.0, path: 0, explanation: (material, 1.00000)
+
+
+
+
+TESTCASE 15
+Error: 12
+Query: Glasdeckel Werkstoff
+--------------------------------------------------
+score: 1.0, path: 197, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 175, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 166, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 165, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 145, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 143, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 142, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 127, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 126, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 122, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 121, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 102, explanation: (werkstoff, 1.00000)
+(target) score: 1.0, path: 94, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 91, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 90, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 89, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 84, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 78, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 66, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 57, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 41, explanation: (werkstoff, 1.00000)
+
+
+
+
+TESTCASE 16
+Error: 100
+Query: Glasdeckel Werkstoff
+--------------------------------------------------
+score: 1.0, path: 197, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 175, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 166, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 165, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 145, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 143, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 142, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 127, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 126, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 122, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 121, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 102, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 94, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 91, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 90, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 89, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 84, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 78, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 66, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 57, explanation: (werkstoff, 1.00000)
+score: 1.0, path: 41, explanation: (werkstoff, 1.00000)
+
+
+
+
+TESTCASE 17
+Error: 100
+Query: glasdeckel hersteller
+--------------------------------------------------
+score: 1.0, path: 232, explanation: (hersteller, 1.00000)
+score: 1.0, path: 229, explanation: (hersteller, 1.00000)
+score: 1.0, path: 225, explanation: (hersteller, 1.00000)
+score: 1.0, path: 224, explanation: (hersteller, 1.00000)
+score: 1.0, path: 220, explanation: (hersteller, 1.00000)
+score: 1.0, path: 218, explanation: (hersteller, 1.00000)
+score: 1.0, path: 216, explanation: (hersteller, 1.00000)
+score: 1.0, path: 215, explanation: (hersteller, 1.00000)
+score: 1.0, path: 214, explanation: (hersteller, 1.00000)
+score: 1.0, path: 212, explanation: (hersteller, 1.00000)
+score: 1.0, path: 211, explanation: (hersteller, 1.00000)
+score: 1.0, path: 176, explanation: (hersteller, 1.00000)
+score: 1.0, path: 175, explanation: (hersteller, 1.00000)
+score: 1.0, path: 171, explanation: (hersteller, 1.00000)
+score: 1.0, path: 170, explanation: (hersteller, 1.00000)
+score: 1.0, path: 169, explanation: (hersteller, 1.00000)
+score: 1.0, path: 165, explanation: (hersteller, 1.00000)
+score: 1.0, path: 164, explanation: (hersteller, 1.00000)
+score: 1.0, path: 162, explanation: (hersteller, 1.00000)
+score: 1.0, path: 161, explanation: (hersteller, 1.00000)
+score: 1.0, path: 160, explanation: (hersteller, 1.00000)
+score: 1.0, path: 159, explanation: (hersteller, 1.00000)
+score: 1.0, path: 155, explanation: (hersteller, 1.00000)
+score: 1.0, path: 153, explanation: (hersteller, 1.00000)
+score: 1.0, path: 150, explanation: (hersteller, 1.00000)
+score: 1.0, path: 149, explanation: (hersteller, 1.00000)
+score: 1.0, path: 148, explanation: (hersteller, 1.00000)
+score: 1.0, path: 145, explanation: (hersteller, 1.00000)
+score: 1.0, path: 144, explanation: (hersteller, 1.00000)
+score: 1.0, path: 143, explanation: (hersteller, 1.00000)
+score: 1.0, path: 142, explanation: (hersteller, 1.00000)
+score: 1.0, path: 140, explanation: (hersteller, 1.00000)
+score: 1.0, path: 137, explanation: (hersteller, 1.00000)
+score: 1.0, path: 134, explanation: (hersteller, 1.00000)
+score: 1.0, path: 132, explanation: (hersteller, 1.00000)
+score: 1.0, path: 130, explanation: (hersteller, 1.00000)
+score: 1.0, path: 127, explanation: (hersteller, 1.00000)
+score: 1.0, path: 126, explanation: (hersteller, 1.00000)
+score: 1.0, path: 125, explanation: (hersteller, 1.00000)
+score: 1.0, path: 122, explanation: (hersteller, 1.00000)
+score: 1.0, path: 118, explanation: (hersteller, 1.00000)
+score: 1.0, path: 116, explanation: (hersteller, 1.00000)
+score: 1.0, path: 106, explanation: (hersteller, 1.00000)
+score: 1.0, path: 102, explanation: (hersteller, 1.00000)
+score: 1.0, path: 95, explanation: (hersteller, 1.00000)
+score: 1.0, path: 93, explanation: (hersteller, 1.00000)
+score: 1.0, path: 90, explanation: (hersteller, 1.00000)
+score: 1.0, path: 89, explanation: (hersteller, 1.00000)
+score: 1.0, path: 84, explanation: (hersteller, 1.00000)
+score: 1.0, path: 82, explanation: (hersteller, 1.00000)
+score: 1.0, path: 74, explanation: (hersteller, 1.00000)
+score: 1.0, path: 35, explanation: (hersteller, 1.00000)
+score: 1.0, path: 22, explanation: (hersteller, 1.00000)
+score: 1.0, path: 20, explanation: (hersteller, 1.00000)
+score: 1.0, path: 15, explanation: (hersteller, 1.00000)
+score: 1.0, path: 14, explanation: (hersteller, 1.00000)
+score: 1.0, path: 13, explanation: (hersteller, 1.00000)
+score: 1.0, path: 10, explanation: (hersteller, 1.00000)
+
+
+
+
+TESTCASE 18
+Error: 100
+Query: glasdeckel hersteller
+--------------------------------------------------
+score: 1.0, path: 232, explanation: (hersteller, 1.00000)
+score: 1.0, path: 229, explanation: (hersteller, 1.00000)
+score: 1.0, path: 225, explanation: (hersteller, 1.00000)
+score: 1.0, path: 224, explanation: (hersteller, 1.00000)
+score: 1.0, path: 220, explanation: (hersteller, 1.00000)
+score: 1.0, path: 218, explanation: (hersteller, 1.00000)
+score: 1.0, path: 216, explanation: (hersteller, 1.00000)
+score: 1.0, path: 215, explanation: (hersteller, 1.00000)
+score: 1.0, path: 214, explanation: (hersteller, 1.00000)
+score: 1.0, path: 212, explanation: (hersteller, 1.00000)
+score: 1.0, path: 211, explanation: (hersteller, 1.00000)
+score: 1.0, path: 176, explanation: (hersteller, 1.00000)
+score: 1.0, path: 175, explanation: (hersteller, 1.00000)
+score: 1.0, path: 171, explanation: (hersteller, 1.00000)
+score: 1.0, path: 170, explanation: (hersteller, 1.00000)
+score: 1.0, path: 169, explanation: (hersteller, 1.00000)
+score: 1.0, path: 165, explanation: (hersteller, 1.00000)
+score: 1.0, path: 164, explanation: (hersteller, 1.00000)
+score: 1.0, path: 162, explanation: (hersteller, 1.00000)
+score: 1.0, path: 161, explanation: (hersteller, 1.00000)
+score: 1.0, path: 160, explanation: (hersteller, 1.00000)
+score: 1.0, path: 159, explanation: (hersteller, 1.00000)
+score: 1.0, path: 155, explanation: (hersteller, 1.00000)
+score: 1.0, path: 153, explanation: (hersteller, 1.00000)
+score: 1.0, path: 150, explanation: (hersteller, 1.00000)
+score: 1.0, path: 149, explanation: (hersteller, 1.00000)
+score: 1.0, path: 148, explanation: (hersteller, 1.00000)
+score: 1.0, path: 145, explanation: (hersteller, 1.00000)
+score: 1.0, path: 144, explanation: (hersteller, 1.00000)
+score: 1.0, path: 143, explanation: (hersteller, 1.00000)
+score: 1.0, path: 142, explanation: (hersteller, 1.00000)
+score: 1.0, path: 140, explanation: (hersteller, 1.00000)
+score: 1.0, path: 137, explanation: (hersteller, 1.00000)
+score: 1.0, path: 134, explanation: (hersteller, 1.00000)
+score: 1.0, path: 132, explanation: (hersteller, 1.00000)
+score: 1.0, path: 130, explanation: (hersteller, 1.00000)
+score: 1.0, path: 127, explanation: (hersteller, 1.00000)
+score: 1.0, path: 126, explanation: (hersteller, 1.00000)
+score: 1.0, path: 125, explanation: (hersteller, 1.00000)
+score: 1.0, path: 122, explanation: (hersteller, 1.00000)
+score: 1.0, path: 118, explanation: (hersteller, 1.00000)
+score: 1.0, path: 116, explanation: (hersteller, 1.00000)
+score: 1.0, path: 106, explanation: (hersteller, 1.00000)
+score: 1.0, path: 102, explanation: (hersteller, 1.00000)
+score: 1.0, path: 95, explanation: (hersteller, 1.00000)
+score: 1.0, path: 93, explanation: (hersteller, 1.00000)
+score: 1.0, path: 90, explanation: (hersteller, 1.00000)
+score: 1.0, path: 89, explanation: (hersteller, 1.00000)
+score: 1.0, path: 84, explanation: (hersteller, 1.00000)
+score: 1.0, path: 82, explanation: (hersteller, 1.00000)
+score: 1.0, path: 74, explanation: (hersteller, 1.00000)
+score: 1.0, path: 35, explanation: (hersteller, 1.00000)
+score: 1.0, path: 22, explanation: (hersteller, 1.00000)
+score: 1.0, path: 20, explanation: (hersteller, 1.00000)
+score: 1.0, path: 15, explanation: (hersteller, 1.00000)
+score: 1.0, path: 14, explanation: (hersteller, 1.00000)
+score: 1.0, path: 13, explanation: (hersteller, 1.00000)
+score: 1.0, path: 10, explanation: (hersteller, 1.00000)
+
+
+
+
+TESTCASE 19
+Error: 100
+Query: Absackmaschine Rührwerk
+--------------------------------------------------
+score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
+score: 1.0, path: 205, explanation: (absackmaschine, 1.00000)
+score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
+
+
+
+
+TESTCASE 20
+Error: 100
+Query: Absackmaschine Rührwerk
+--------------------------------------------------
+score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
+score: 1.0, path: 205, explanation: (absackmaschine, 1.00000)
+score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
+
+
+
+
+TESTCASE 21
+Error: 100
+Query: Absackmaschine Wagner
+--------------------------------------------------
+score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+score: 2.0, path: 205, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+score: 2.0, path: 129, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+score: 1.0, path: 229, explanation: (wagner, 1.00000)
+score: 1.0, path: 210, explanation: (wagner, 1.00000)
+score: 1.0, path: 181, explanation: (wagner, 1.00000)
+score: 1.0, path: 177, explanation: (wagner, 1.00000)
+score: 1.0, path: 155, explanation: (wagner, 1.00000)
+score: 1.0, path: 134, explanation: (wagner, 1.00000)
+score: 1.0, path: 74, explanation: (wagner, 1.00000)
+score: 1.0, path: 73, explanation: (wagner, 1.00000)
+
+
+
+
+TESTCASE 22
+Error: 100
+Query: Absackmaschine Wagner
+--------------------------------------------------
+score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+score: 2.0, path: 205, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+score: 2.0, path: 129, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+score: 1.0, path: 229, explanation: (wagner, 1.00000)
+score: 1.0, path: 210, explanation: (wagner, 1.00000)
+score: 1.0, path: 181, explanation: (wagner, 1.00000)
+score: 1.0, path: 177, explanation: (wagner, 1.00000)
+score: 1.0, path: 155, explanation: (wagner, 1.00000)
+score: 1.0, path: 134, explanation: (wagner, 1.00000)
+score: 1.0, path: 74, explanation: (wagner, 1.00000)
+score: 1.0, path: 73, explanation: (wagner, 1.00000)
+
+
+
+
+TESTCASE 23
+Error: 100
+Query: Torex
+--------------------------------------------------
+score: 1.0, path: 176, explanation: (torex, 1.00000)
+score: 1.0, path: 106, explanation: (torex, 1.00000)
+score: 1.0, path: 79, explanation: (torex, 1.00000)
+
+
+
+
+TESTCASE 24
+Error: 100
+Query: Torex
+--------------------------------------------------
+score: 1.0, path: 176, explanation: (torex, 1.00000)
+score: 1.0, path: 106, explanation: (torex, 1.00000)
+score: 1.0, path: 79, explanation: (torex, 1.00000)
+
+
+
+
+TESTCASE 25
+Error: 100
+Query: Torex atex
+--------------------------------------------------
+score: 2.0, path: 176, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 106, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 144, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 125, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 105, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+score: 1.0, path: 10, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 26
+Error: 100
+Query: Torex atex
+--------------------------------------------------
+score: 2.0, path: 176, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 106, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 167, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 144, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 125, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 105, explanation: (atex, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+score: 1.0, path: 10, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 27
+Error: 100
+Query: Torex valve
+--------------------------------------------------
+score: 2.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000)
+score: 2.0, path: 106, explanation: (torex, 1.00000) + (valve, 1.00000)
+score: 1.0, path: 167, explanation: (valve, 1.00000)
+score: 1.0, path: 147, explanation: (valve, 1.00000)
+score: 1.0, path: 107, explanation: (valve, 1.00000)
+score: 1.0, path: 105, explanation: (valve, 1.00000)
+score: 1.0, path: 104, explanation: (valve, 1.00000)
+score: 1.0, path: 87, explanation: (valve, 1.00000)
+score: 1.0, path: 79, explanation: (torex, 1.00000)
+score: 1.0, path: 11, explanation: (valve, 1.00000)
+
+
+
+
+TESTCASE 28
+Error: 100
+Query: Torex valve
+--------------------------------------------------
+score: 2.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000)
+score: 2.0, path: 106, explanation: (torex, 1.00000) + (valve, 1.00000)
+score: 1.0, path: 167, explanation: (valve, 1.00000)
+score: 1.0, path: 147, explanation: (valve, 1.00000)
+score: 1.0, path: 107, explanation: (valve, 1.00000)
+score: 1.0, path: 105, explanation: (valve, 1.00000)
+score: 1.0, path: 104, explanation: (valve, 1.00000)
+score: 1.0, path: 87, explanation: (valve, 1.00000)
+score: 1.0, path: 79, explanation: (torex, 1.00000)
+score: 1.0, path: 11, explanation: (valve, 1.00000)
+
+
+
+
+TESTCASE 29
+Error: 100
+Query: Torex valve atex
+--------------------------------------------------
+score: 3.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
+score: 3.0, path: 106, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 167, explanation: (valve, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 105, explanation: (valve, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 147, explanation: (valve, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 144, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 125, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 107, explanation: (valve, 1.00000)
+score: 1.0, path: 104, explanation: (valve, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 87, explanation: (valve, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+score: 1.0, path: 11, explanation: (valve, 1.00000)
+score: 1.0, path: 10, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 30
+Error: 100
+Query: Torex valve atex
+--------------------------------------------------
+score: 3.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
+score: 3.0, path: 106, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 167, explanation: (valve, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 105, explanation: (valve, 1.00000) + (atex, 1.00000)
+score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
+score: 1.0, path: 233, explanation: (atex, 1.00000)
+score: 1.0, path: 228, explanation: (atex, 1.00000)
+score: 1.0, path: 171, explanation: (atex, 1.00000)
+score: 1.0, path: 166, explanation: (atex, 1.00000)
+score: 1.0, path: 153, explanation: (atex, 1.00000)
+score: 1.0, path: 152, explanation: (atex, 1.00000)
+score: 1.0, path: 147, explanation: (valve, 1.00000)
+score: 1.0, path: 145, explanation: (atex, 1.00000)
+score: 1.0, path: 144, explanation: (atex, 1.00000)
+score: 1.0, path: 142, explanation: (atex, 1.00000)
+score: 1.0, path: 135, explanation: (atex, 1.00000)
+score: 1.0, path: 130, explanation: (atex, 1.00000)
+score: 1.0, path: 125, explanation: (atex, 1.00000)
+score: 1.0, path: 122, explanation: (atex, 1.00000)
+score: 1.0, path: 121, explanation: (atex, 1.00000)
+score: 1.0, path: 120, explanation: (atex, 1.00000)
+score: 1.0, path: 111, explanation: (atex, 1.00000)
+score: 1.0, path: 110, explanation: (atex, 1.00000)
+score: 1.0, path: 107, explanation: (valve, 1.00000)
+score: 1.0, path: 104, explanation: (valve, 1.00000)
+score: 1.0, path: 103, explanation: (atex, 1.00000)
+score: 1.0, path: 102, explanation: (atex, 1.00000)
+score: 1.0, path: 100, explanation: (atex, 1.00000)
+score: 1.0, path: 87, explanation: (valve, 1.00000)
+score: 1.0, path: 82, explanation: (atex, 1.00000)
+score: 1.0, path: 56, explanation: (atex, 1.00000)
+score: 1.0, path: 49, explanation: (atex, 1.00000)
+score: 1.0, path: 41, explanation: (atex, 1.00000)
+score: 1.0, path: 25, explanation: (atex, 1.00000)
+score: 1.0, path: 20, explanation: (atex, 1.00000)
+score: 1.0, path: 16, explanation: (atex, 1.00000)
+score: 1.0, path: 15, explanation: (atex, 1.00000)
+score: 1.0, path: 11, explanation: (valve, 1.00000)
+score: 1.0, path: 10, explanation: (atex, 1.00000)
+
+
+
+
+TESTCASE 31
+Error: 100
+Query: Ablasshahn
+--------------------------------------------------
+
+
+
+
+TESTCASE 32
+Error: 100
+Query: Ablasshahn Zeichnung
+--------------------------------------------------
+score: 1.0, path: 224, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 197, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 187, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 173, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 170, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 145, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 142, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 106, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 84, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 66, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 52, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 49, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 38, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 24, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 23, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 16, explanation: (zeichnung, 1.00000)
+score: 1.0, path: 9, explanation: (zeichnung, 1.00000)
+
+
+
+
+TESTCASE 33
+Error: 100
+Query: Ablassschieber
+--------------------------------------------------
+
+
+
+
+TESTCASE 34
+Error: 100
+Query: Ablassventil
+--------------------------------------------------
+
+
+
+
+TESTCASE 35
+Error: 100
+Query: Kugelhahn
+--------------------------------------------------
+score: 1.0, path: 101, explanation: (kugelhahn, 1.00000)
