@@ -16,20 +16,20 @@ Glasdeckel Werkstoff,02-01_Technische Spezifikation/Technische Daten Schauglas Z
 Glasdeckel Werkstoff,01-01_Identifikation/Schauglas.txt
 glasdeckel hersteller,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
 glasdeckel hersteller,01-01_Identifikation/Schauglas.txt
-Absackmaschine Rührwerk,"03-04_Inspektion, Wartung, Prüfung/ Wartung der Absackmaschine.pdf"
-Absackmaschine Rührwerk,01-01_Identifikation/ Typenschild Absackmaschine.txt
-Absackmaschine Wagner,"03-04_Inspektion, Wartung, Prüfung/ Wartung der Absackmaschine.pdf"
-Absackmaschine Wagner,01-01_Identifikation/ Typenschild Absackmaschine.txt
-Torex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/ Ex Zertifikat.pdf"
-Torex,01-01_Identifikation/ Typenschild.jpg
-Torex atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/ Ex Zertifikat.pdf"
-Torex atex,01-01_Identifikation/ Typenschild.jpg
-Torex valve,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/ Ex Zertifikat.pdf"
-Torex valve,01-01_Identifikation/ Typenschild.jpg
-Torex valve atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/ Ex Zertifikat.pdf"
-Torex valve atex,01-01_Identifikation/ Typenschild.jpg
-Ablasshahn,"02-02_Zeichnungen, Pläne / Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Ablasshahn Zeichnung,"02-02_Zeichnungen, Pläne / Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Ablassschieber,"02-02_Zeichnungen, Pläne / Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Ablassventil,"02-02_Zeichnungen, Pläne / Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Kugelhahn,"02-02_Zeichnungen, Pläne / Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
+Absackmaschine Rührwerk,"03-04_Inspektion, Wartung, Prüfung/Wartung der Absackmaschine.pdf"
+Absackmaschine Rührwerk,01-01_Identifikation/Typenschild Absackmaschine.txt
+Absackmaschine Wagner,"03-04_Inspektion, Wartung, Prüfung/Wartung der Absackmaschine.pdf"
+Absackmaschine Wagner,01-01_Identifikation/Typenschild Absackmaschine.txt
+Torex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
+Torex,01-01_Identifikation/Typenschild.jpg
+Torex atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
+Torex atex,01-01_Identifikation/Typenschild.jpg
+Torex valve,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
+Torex valve,01-01_Identifikation/Typenschild.jpg
+Torex valve atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
+Torex valve atex,01-01_Identifikation/Typenschild.jpg
+Ablasshahn,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
+Ablasshahn Zeichnung,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
+Ablassschieber,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
+Ablassventil,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
+Kugelhahn,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"

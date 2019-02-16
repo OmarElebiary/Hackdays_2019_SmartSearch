@@ -1,5 +1,5 @@
-Total error: 1847 (sum of target pos)
-Testcase errors: 0 2 3 21 4 1 3 1 1 0 27 0 29 3 0 1 47 4 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Total error: 585 (sum of target pos)
+Testcase errors: 0 2 3 21 4 1 3 1 1 0 27 0 29 3 0 1 47 4 2 0 2 0 3 0 2 6 9 2 4 8 100 100 100 100 0
 
 
 
@@ -903,21 +903,21 @@ score: 1.0, path: 10, explanation: (hersteller, 1.00000)
 
 
 TESTCASE 19
-Error: 100
+Error: 2
 Query: Absackmaschine Rührwerk
 --------------------------------------------------
 score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
 score: 1.0, path: 205, explanation: (absackmaschine, 1.00000)
-score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
+(target) score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
 
 
 
 
 TESTCASE 20
-Error: 100
+Error: 0
 Query: Absackmaschine Rührwerk
 --------------------------------------------------
-score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
+(target) score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
 score: 1.0, path: 205, explanation: (absackmaschine, 1.00000)
 score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
 
@@ -925,12 +925,12 @@ score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
 
 
 TESTCASE 21
-Error: 100
+Error: 2
 Query: Absackmaschine Wagner
 --------------------------------------------------
 score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
 score: 2.0, path: 205, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
-score: 2.0, path: 129, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+(target) score: 2.0, path: 129, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
 score: 1.0, path: 229, explanation: (wagner, 1.00000)
 score: 1.0, path: 210, explanation: (wagner, 1.00000)
 score: 1.0, path: 181, explanation: (wagner, 1.00000)
@@ -945,10 +945,10 @@ score: 1.0, path: 73, explanation: (wagner, 1.00000)
 
 
 TESTCASE 22
-Error: 100
+Error: 0
 Query: Absackmaschine Wagner
 --------------------------------------------------
-score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
+(target) score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
 score: 2.0, path: 205, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
 score: 2.0, path: 129, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
 score: 1.0, path: 229, explanation: (wagner, 1.00000)
@@ -965,22 +965,22 @@ score: 1.0, path: 73, explanation: (wagner, 1.00000)
 
 
 TESTCASE 23
-Error: 100
+Error: 3
 Query: Torex
 --------------------------------------------------
 score: 1.0, path: 219, explanation: (torex, 1.00000)
 score: 1.0, path: 176, explanation: (torex, 1.00000)
 score: 1.0, path: 106, explanation: (torex, 1.00000)
-score: 1.0, path: 79, explanation: (torex, 1.00000)
+(target) score: 1.0, path: 79, explanation: (torex, 1.00000)
 
 
 
 
 TESTCASE 24
-Error: 100
+Error: 0
 Query: Torex
 --------------------------------------------------
-score: 1.0, path: 219, explanation: (torex, 1.00000)
+(target) score: 1.0, path: 219, explanation: (torex, 1.00000)
 score: 1.0, path: 176, explanation: (torex, 1.00000)
 score: 1.0, path: 106, explanation: (torex, 1.00000)
 score: 1.0, path: 79, explanation: (torex, 1.00000)
@@ -989,12 +989,12 @@ score: 1.0, path: 79, explanation: (torex, 1.00000)
 
 
 TESTCASE 25
-Error: 100
+Error: 2
 Query: Torex atex
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (atex, 1.00000)
 score: 2.0, path: 106, explanation: (torex, 1.00000) + (atex, 1.00000)
-score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
+(target) score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
 score: 1.0, path: 233, explanation: (atex, 1.00000)
 score: 1.0, path: 229, explanation: (atex, 1.00000)
 score: 1.0, path: 228, explanation: (atex, 1.00000)
@@ -1043,7 +1043,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 26
-Error: 100
+Error: 6
 Query: Torex atex
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (atex, 1.00000)
@@ -1052,7 +1052,7 @@ score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
 score: 1.0, path: 233, explanation: (atex, 1.00000)
 score: 1.0, path: 229, explanation: (atex, 1.00000)
 score: 1.0, path: 228, explanation: (atex, 1.00000)
-score: 1.0, path: 219, explanation: (torex, 1.00000)
+(target) score: 1.0, path: 219, explanation: (torex, 1.00000)
 score: 1.0, path: 212, explanation: (atex, 1.00000)
 score: 1.0, path: 171, explanation: (atex, 1.00000)
 score: 1.0, path: 167, explanation: (atex, 1.00000)
@@ -1097,7 +1097,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 27
-Error: 100
+Error: 9
 Query: Torex valve
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000)
@@ -1109,19 +1109,19 @@ score: 1.0, path: 107, explanation: (valve, 1.00000)
 score: 1.0, path: 105, explanation: (valve, 1.00000)
 score: 1.0, path: 104, explanation: (valve, 1.00000)
 score: 1.0, path: 87, explanation: (valve, 1.00000)
-score: 1.0, path: 79, explanation: (torex, 1.00000)
+(target) score: 1.0, path: 79, explanation: (torex, 1.00000)
 score: 1.0, path: 11, explanation: (valve, 1.00000)
 
 
 
 
 TESTCASE 28
-Error: 100
+Error: 2
 Query: Torex valve
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000)
 score: 2.0, path: 106, explanation: (torex, 1.00000) + (valve, 1.00000)
-score: 1.0, path: 219, explanation: (torex, 1.00000)
+(target) score: 1.0, path: 219, explanation: (torex, 1.00000)
 score: 1.0, path: 167, explanation: (valve, 1.00000)
 score: 1.0, path: 147, explanation: (valve, 1.00000)
 score: 1.0, path: 107, explanation: (valve, 1.00000)
@@ -1135,14 +1135,14 @@ score: 1.0, path: 11, explanation: (valve, 1.00000)
 
 
 TESTCASE 29
-Error: 100
+Error: 4
 Query: Torex valve atex
 --------------------------------------------------
 score: 3.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
 score: 3.0, path: 106, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
 score: 2.0, path: 167, explanation: (valve, 1.00000) + (atex, 1.00000)
 score: 2.0, path: 105, explanation: (valve, 1.00000) + (atex, 1.00000)
-score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
+(target) score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
 score: 1.0, path: 233, explanation: (atex, 1.00000)
 score: 1.0, path: 229, explanation: (atex, 1.00000)
 score: 1.0, path: 228, explanation: (atex, 1.00000)
@@ -1194,7 +1194,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 30
-Error: 100
+Error: 8
 Query: Torex valve atex
 --------------------------------------------------
 score: 3.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
@@ -1205,7 +1205,7 @@ score: 2.0, path: 79, explanation: (torex, 1.00000) + (atex, 1.00000)
 score: 1.0, path: 233, explanation: (atex, 1.00000)
 score: 1.0, path: 229, explanation: (atex, 1.00000)
 score: 1.0, path: 228, explanation: (atex, 1.00000)
-score: 1.0, path: 219, explanation: (torex, 1.00000)
+(target) score: 1.0, path: 219, explanation: (torex, 1.00000)
 score: 1.0, path: 212, explanation: (atex, 1.00000)
 score: 1.0, path: 171, explanation: (atex, 1.00000)
 score: 1.0, path: 166, explanation: (atex, 1.00000)
@@ -1295,15 +1295,15 @@ Query: Ablassschieber
 
 TESTCASE 34
 Error: 100
-Query: Ablassventil
+Query:     Ablassventil
 --------------------------------------------------
 
 
 
 
 TESTCASE 35
-Error: 100
+Error: 0
 Query: Kugelhahn
 --------------------------------------------------
-score: 1.0, path: 208, explanation: (kugelhahn, 1.00000)
+(target) score: 1.0, path: 208, explanation: (kugelhahn, 1.00000)
 score: 1.0, path: 101, explanation: (kugelhahn, 1.00000)
