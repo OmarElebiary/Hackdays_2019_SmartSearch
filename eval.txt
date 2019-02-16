@@ -1,11 +1,11 @@
-Total error: 585 (sum of target pos)
-Testcase errors: 0 2 3 21 4 1 3 1 1 0 27 0 29 3 0 1 47 4 2 0 2 0 3 0 2 6 9 2 4 8 100 100 100 100 0
+Total error: 282.5 (sum of target pos)
+Testcase errors: 1.5 1.5 22.0 22.0 6.5 1.0 3.0 1.0 0.5 0.5 24.5 0.0 26.5 26.5 0.0 12.5 31.0 31.0 1.0 1.0 1.0 1.0 1.5 1.5 1.0 24.0 6.0 6.0 3.0 27.5 -1 -1 -1 -1 0.5
 
 
 
 
 TESTCASE 1
-Error: 0
+Error: 1.5
 Query: Artech c32 hp1 atex
 --------------------------------------------------
 (target) score: 4.0, path: 212, explanation: (artech, 1.00000) + (c32, 1.00000) + (hp1, 1.00000) + (atex, 1.00000)
@@ -58,7 +58,7 @@ score: 1.0, path: 15, explanation: (atex, 1.00000)
 
 
 TESTCASE 2
-Error: 2
+Error: 1.5
 Query: Artech c32 hp1 atex
 --------------------------------------------------
 score: 4.0, path: 212, explanation: (artech, 1.00000) + (c32, 1.00000) + (hp1, 1.00000) + (atex, 1.00000)
@@ -111,7 +111,7 @@ score: 1.0, path: 15, explanation: (atex, 1.00000)
 
 
 TESTCASE 3
-Error: 3
+Error: 22.0
 Query: ATEX
 --------------------------------------------------
 score: 1.0, path: 233, explanation: (atex, 1.00000)
@@ -164,7 +164,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 4
-Error: 21
+Error: 22.0
 Query: ATEX
 --------------------------------------------------
 score: 1.0, path: 233, explanation: (atex, 1.00000)
@@ -217,7 +217,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 5
-Error: 4
+Error: 6.5
 Query: Ultraschallkonverter Artech
 --------------------------------------------------
 score: 2.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
@@ -236,7 +236,7 @@ score: 1.0, path: 28, explanation: (ultraschallkonverter, 1.00000)
 
 
 TESTCASE 6
-Error: 1
+Error: 1.0
 Query: Ultraschallkonverter Artech
 --------------------------------------------------
 score: 2.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000)
@@ -255,7 +255,7 @@ score: 1.0, path: 28, explanation: (ultraschallkonverter, 1.00000)
 
 
 TESTCASE 7
-Error: 3
+Error: 3.0
 Query: Ultraschallkonverter Artech atex
 --------------------------------------------------
 score: 3.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
@@ -315,7 +315,7 @@ score: 1.0, path: 15, explanation: (atex, 1.00000)
 
 
 TESTCASE 8
-Error: 1
+Error: 1.0
 Query: Ultraschallkonverter Artech atex
 --------------------------------------------------
 score: 3.0, path: 144, explanation: (ultraschallkonverter, 1.00000) + (artech, 1.00000) + (atex, 1.00000)
@@ -375,7 +375,7 @@ score: 1.0, path: 15, explanation: (atex, 1.00000)
 
 
 TESTCASE 9
-Error: 1
+Error: 0.5
 Query: Druck glasdeckel
 --------------------------------------------------
 score: 2.0, path: 223, explanation: (druck, 1.00000) + (glasdeckel, 1.00000)
@@ -416,7 +416,7 @@ score: 1.0, path: 14, explanation: (druck, 1.00000)
 
 
 TESTCASE 10
-Error: 0
+Error: 0.5
 Query: Druck glasdeckel
 --------------------------------------------------
 (target) score: 2.0, path: 223, explanation: (druck, 1.00000) + (glasdeckel, 1.00000)
@@ -457,7 +457,7 @@ score: 1.0, path: 14, explanation: (druck, 1.00000)
 
 
 TESTCASE 11
-Error: 27
+Error: 24.5
 Query: Glasdeckel 230
 --------------------------------------------------
 score: 2.0, path: 223, explanation: (glasdeckel, 1.00000) + (230, 1.00000)
@@ -514,7 +514,7 @@ score: 1.0, path: 3, explanation: (230, 1.00000)
 
 
 TESTCASE 12
-Error: 0
+Error: 0.0
 Query: Glasdeckel 230
 --------------------------------------------------
 (target) score: 2.0, path: 223, explanation: (glasdeckel, 1.00000) + (230, 1.00000)
@@ -571,7 +571,7 @@ score: 1.0, path: 3, explanation: (230, 1.00000)
 
 
 TESTCASE 13
-Error: 29
+Error: 26.5
 Query: Glasdeckel Material
 --------------------------------------------------
 score: 1.0, path: 234, explanation: (material, 1.00000)
@@ -633,7 +633,7 @@ score: 1.0, path: 0, explanation: (material, 1.00000)
 
 
 TESTCASE 14
-Error: 3
+Error: 26.5
 Query: Glasdeckel Material
 --------------------------------------------------
 score: 1.0, path: 234, explanation: (material, 1.00000)
@@ -695,7 +695,7 @@ score: 1.0, path: 0, explanation: (material, 1.00000)
 
 
 TESTCASE 15
-Error: 0
+Error: 0.0
 Query: Glasdeckel Werkstoff
 --------------------------------------------------
 (target) score: 2.0, path: 94, explanation: (glasdeckel, 1.00000) + (werkstoff, 1.00000)
@@ -728,7 +728,7 @@ score: 1.0, path: 17, explanation: (werkstoff, 1.00000)
 
 
 TESTCASE 16
-Error: 1
+Error: 12.5
 Query: Glasdeckel Werkstoff
 --------------------------------------------------
 score: 2.0, path: 94, explanation: (glasdeckel, 1.00000) + (werkstoff, 1.00000)
@@ -761,7 +761,7 @@ score: 1.0, path: 17, explanation: (werkstoff, 1.00000)
 
 
 TESTCASE 17
-Error: 47
+Error: 31.0
 Query: glasdeckel hersteller
 --------------------------------------------------
 score: 1.0, path: 232, explanation: (hersteller, 1.00000)
@@ -832,7 +832,7 @@ score: 1.0, path: 10, explanation: (hersteller, 1.00000)
 
 
 TESTCASE 18
-Error: 4
+Error: 31.0
 Query: glasdeckel hersteller
 --------------------------------------------------
 score: 1.0, path: 232, explanation: (hersteller, 1.00000)
@@ -903,7 +903,7 @@ score: 1.0, path: 10, explanation: (hersteller, 1.00000)
 
 
 TESTCASE 19
-Error: 2
+Error: 1.0
 Query: Absackmaschine Rührwerk
 --------------------------------------------------
 score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
@@ -914,7 +914,7 @@ score: 1.0, path: 205, explanation: (absackmaschine, 1.00000)
 
 
 TESTCASE 20
-Error: 0
+Error: 1.0
 Query: Absackmaschine Rührwerk
 --------------------------------------------------
 (target) score: 1.0, path: 225, explanation: (absackmaschine, 1.00000)
@@ -925,7 +925,7 @@ score: 1.0, path: 129, explanation: (absackmaschine, 1.00000)
 
 
 TESTCASE 21
-Error: 2
+Error: 1.0
 Query: Absackmaschine Wagner
 --------------------------------------------------
 score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
@@ -945,7 +945,7 @@ score: 1.0, path: 73, explanation: (wagner, 1.00000)
 
 
 TESTCASE 22
-Error: 0
+Error: 1.0
 Query: Absackmaschine Wagner
 --------------------------------------------------
 (target) score: 2.0, path: 225, explanation: (absackmaschine, 1.00000) + (wagner, 1.00000)
@@ -965,7 +965,7 @@ score: 1.0, path: 73, explanation: (wagner, 1.00000)
 
 
 TESTCASE 23
-Error: 3
+Error: 1.5
 Query: Torex
 --------------------------------------------------
 score: 1.0, path: 219, explanation: (torex, 1.00000)
@@ -977,7 +977,7 @@ score: 1.0, path: 106, explanation: (torex, 1.00000)
 
 
 TESTCASE 24
-Error: 0
+Error: 1.5
 Query: Torex
 --------------------------------------------------
 (target) score: 1.0, path: 219, explanation: (torex, 1.00000)
@@ -989,7 +989,7 @@ score: 1.0, path: 79, explanation: (torex, 1.00000)
 
 
 TESTCASE 25
-Error: 2
+Error: 1.0
 Query: Torex atex
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (atex, 1.00000)
@@ -1043,7 +1043,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 26
-Error: 6
+Error: 24.0
 Query: Torex atex
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (atex, 1.00000)
@@ -1097,7 +1097,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 27
-Error: 9
+Error: 6.0
 Query: Torex valve
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000)
@@ -1116,7 +1116,7 @@ score: 1.0, path: 11, explanation: (valve, 1.00000)
 
 
 TESTCASE 28
-Error: 2
+Error: 6.0
 Query: Torex valve
 --------------------------------------------------
 score: 2.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000)
@@ -1135,7 +1135,7 @@ score: 1.0, path: 11, explanation: (valve, 1.00000)
 
 
 TESTCASE 29
-Error: 4
+Error: 3.0
 Query: Torex valve atex
 --------------------------------------------------
 score: 3.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
@@ -1194,7 +1194,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 30
-Error: 8
+Error: 27.5
 Query: Torex valve atex
 --------------------------------------------------
 score: 3.0, path: 176, explanation: (torex, 1.00000) + (valve, 1.00000) + (atex, 1.00000)
@@ -1253,7 +1253,7 @@ score: 1.0, path: 10, explanation: (atex, 1.00000)
 
 
 TESTCASE 31
-Error: 100
+Error: -1
 Query: Ablasshahn
 --------------------------------------------------
 
@@ -1261,7 +1261,7 @@ Query: Ablasshahn
 
 
 TESTCASE 32
-Error: 100
+Error: -1
 Query: Ablasshahn Zeichnung
 --------------------------------------------------
 score: 1.0, path: 224, explanation: (zeichnung, 1.00000)
@@ -1286,7 +1286,7 @@ score: 1.0, path: 9, explanation: (zeichnung, 1.00000)
 
 
 TESTCASE 33
-Error: 100
+Error: -1
 Query: Ablassschieber
 --------------------------------------------------
 
@@ -1294,15 +1294,15 @@ Query: Ablassschieber
 
 
 TESTCASE 34
-Error: 100
-Query:     Ablassventil
+Error: -1
+Query: Ablassventil
 --------------------------------------------------
 
 
 
 
 TESTCASE 35
-Error: 0
+Error: 0.5
 Query: Kugelhahn
 --------------------------------------------------
 (target) score: 1.0, path: 208, explanation: (kugelhahn, 1.00000)
