@@ -12,7 +12,7 @@ sys.path.append("../../../.")
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 import metrics
-from files import get_filtered_data, get_filename
+from files import get_filtered_data, get_real_filepath
 from preprocessing import preprocess
 from search import search_query
 
@@ -28,9 +28,11 @@ def search():
 
     results = search_query(searchTerm.decode('utf-8'), filentoken2tfidf, token2files)
 
-    path = get_filename(results, file_dirs, 5)[0]
+    n_results = 5
+    paths = [get_real_filepath(rootDir, realFileDir, file_dirs, i) for i in range(n_results)]
+    print(paths)
 
-    return path
+    return paths
 
 @app.route('/file/<name>')
 def static_file(name):
@@ -42,6 +44,7 @@ def static_file(name):
 if __name__ == '__main__':
 
     rootDir = "../../../../docs_txt"
+    realFileDir = "../../../classified documents"
 
     (file_data, file_dirs) = get_filtered_data(rootDir)
     tokens_filtered = preprocess(file_data)

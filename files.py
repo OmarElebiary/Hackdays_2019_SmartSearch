@@ -41,3 +41,8 @@ def get_filename(query_results, file_dirs, N=5):
     '''
     '''
     return [file_dirs[query_results[i][1]] for i in range(N)]
+
+
+def get_real_filepath(rootDir, realFileDir, file_dirs, fileIndex):
+    fileName = file_dirs[fileIndex].replace(rootDir, realFileDir)
+    return fileName[:-4]
