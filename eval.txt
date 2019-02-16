@@ -1,67 +1,14 @@
-Total error: 61.0 (sum of target pos)
-Testcase errors: 0.0 1.0 0.0 5.0 3.0 2.0 3.0 2.0 1.0 0.0 1.0 0.0 0.0 2.0 0.0 2.0 11.0 0.0 0.0 1.0 1.0 0.0 2.0 0.0 1.0 3.0 1.0 3.0 1.0 5.0 1.0 6.0 1.0 1.0 1.0
+Total error: 305.5 (sum of target pos)
+Testcase errors: 0.5 2.5 2.5 2.5 0.5 0.5 1.0 1.0 5.5 0.5 0.5 1.0 2.0 2.0 3.0 1.0 6.0 1.0 1.0 1.0 100.0 21.0 49.0 100.0
 
 
 
 
 TESTCASE 1
-Error: 0.0
+Error: 0.5
 Query: Artech c32 hp1 atex
 --------------------------------------------------
 (target) score: 4.090997686214216, path: 212, explanation: (artech, 1.02716) + (c32, 1.02567) + (hp1, 1.02716) + (atex, 1.01102)
-score: 4.0050852627065545, path: 125, explanation: (artech, 1.00201) + (c32, 1.00105) + (hp1, 1.00112) + (atex, 1.00091)
-score: 4.003576786081872, path: 144, explanation: (artech, 1.00292) + (c32, 1.00020) + (hp1, 1.00021) + (atex, 1.00025)
-score: 4.003576786081872, path: 10, explanation: (artech, 1.00292) + (c32, 1.00020) + (hp1, 1.00021) + (atex, 1.00025)
-score: 2.0004725913263153, path: 105, explanation: (c32, 1.00001) + (atex, 1.00046)
-score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
-score: 1.001406742999467, path: 108, explanation: (atex, 1.00141)
-score: 1.001406742999467, path: 33, explanation: (atex, 1.00141)
-score: 1.0011182317060032, path: 176, explanation: (atex, 1.00112)
-score: 1.0007197052355765, path: 41, explanation: (atex, 1.00072)
-score: 1.0007151640992424, path: 229, explanation: (atex, 1.00072)
-score: 1.0006901557513044, path: 121, explanation: (atex, 1.00069)
-score: 1.000686810120931, path: 110, explanation: (atex, 1.00069)
-score: 1.0006682977187495, path: 82, explanation: (atex, 1.00067)
-score: 1.0006682977187495, path: 20, explanation: (atex, 1.00067)
-score: 1.0005511580608115, path: 122, explanation: (atex, 1.00055)
-score: 1.0005234910607677, path: 79, explanation: (atex, 1.00052)
-score: 1.0004372812233793, path: 111, explanation: (atex, 1.00044)
-score: 1.0004372812233793, path: 103, explanation: (atex, 1.00044)
-score: 1.0004174048041348, path: 135, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 152, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 25, explanation: (atex, 1.00042)
-score: 1.000374133776454, path: 233, explanation: (atex, 1.00037)
-score: 1.0003660959079455, path: 228, explanation: (atex, 1.00037)
-score: 1.000362947416148, path: 120, explanation: (atex, 1.00036)
-score: 1.0003039971761698, path: 106, explanation: (atex, 1.00030)
-score: 1.0002706080260175, path: 145, explanation: (atex, 1.00027)
-score: 1.0002100817265345, path: 167, explanation: (atex, 1.00021)
-score: 1.000173444178843, path: 56, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 49, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 16, explanation: (atex, 1.00017)
-score: 1.0000895407922197, path: 153, explanation: (atex, 1.00009)
-score: 1.0000656377652883, path: 140, explanation: (atex, 1.00007)
-score: 1.0000656377652883, path: 22, explanation: (atex, 1.00007)
-score: 1.0000495777751761, path: 155, explanation: (atex, 1.00005)
-score: 1.0000443309291522, path: 171, explanation: (atex, 1.00004)
-score: 1.0000443309291522, path: 15, explanation: (atex, 1.00004)
-score: 1.0000328417052329, path: 102, explanation: (atex, 1.00003)
-score: 1.0000240425167182, path: 130, explanation: (atex, 1.00002)
-score: 1.0000208728756708, path: 142, explanation: (atex, 1.00002)
-score: 1.0000153147690576, path: 166, explanation: (atex, 1.00002)
-score: 1.0000061027248455, path: 162, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 159, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 149, explanation: (atex, 1.00001)
-score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
-
-
-
-
-TESTCASE 2
-Error: 1.0
-Query: Artech c32 hp1 atex
---------------------------------------------------
-score: 4.090997686214216, path: 212, explanation: (artech, 1.02716) + (c32, 1.02567) + (hp1, 1.02716) + (atex, 1.01102)
 (target) score: 4.0050852627065545, path: 125, explanation: (artech, 1.00201) + (c32, 1.00105) + (hp1, 1.00112) + (atex, 1.00091)
 score: 4.003576786081872, path: 144, explanation: (artech, 1.00292) + (c32, 1.00020) + (hp1, 1.00021) + (atex, 1.00025)
 score: 4.003576786081872, path: 10, explanation: (artech, 1.00292) + (c32, 1.00020) + (hp1, 1.00021) + (atex, 1.00025)
@@ -110,64 +57,11 @@ score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
 
 
 
-TESTCASE 3
-Error: 0.0
+TESTCASE 2
+Error: 2.5
 Query: ATEX
 --------------------------------------------------
 (target) score: 1.0110194868291589, path: 212, explanation: (atex, 1.01102)
-score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
-score: 1.001406742999467, path: 108, explanation: (atex, 1.00141)
-score: 1.001406742999467, path: 33, explanation: (atex, 1.00141)
-score: 1.0011182317060032, path: 176, explanation: (atex, 1.00112)
-score: 1.0009057112462323, path: 125, explanation: (atex, 1.00091)
-score: 1.0007197052355765, path: 41, explanation: (atex, 1.00072)
-score: 1.0007151640992424, path: 229, explanation: (atex, 1.00072)
-score: 1.0006901557513044, path: 121, explanation: (atex, 1.00069)
-score: 1.000686810120931, path: 110, explanation: (atex, 1.00069)
-score: 1.0006682977187495, path: 82, explanation: (atex, 1.00067)
-score: 1.0006682977187495, path: 20, explanation: (atex, 1.00067)
-score: 1.0005511580608115, path: 122, explanation: (atex, 1.00055)
-score: 1.0005234910607677, path: 79, explanation: (atex, 1.00052)
-score: 1.0004627915207727, path: 105, explanation: (atex, 1.00046)
-score: 1.0004372812233793, path: 111, explanation: (atex, 1.00044)
-score: 1.0004372812233793, path: 103, explanation: (atex, 1.00044)
-score: 1.0004174048041348, path: 135, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 152, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 25, explanation: (atex, 1.00042)
-score: 1.000374133776454, path: 233, explanation: (atex, 1.00037)
-score: 1.0003660959079455, path: 228, explanation: (atex, 1.00037)
-score: 1.000362947416148, path: 120, explanation: (atex, 1.00036)
-score: 1.0003039971761698, path: 106, explanation: (atex, 1.00030)
-score: 1.0002706080260175, path: 145, explanation: (atex, 1.00027)
-score: 1.0002537103644473, path: 144, explanation: (atex, 1.00025)
-score: 1.0002537103644473, path: 10, explanation: (atex, 1.00025)
-score: 1.0002100817265345, path: 167, explanation: (atex, 1.00021)
-score: 1.000173444178843, path: 56, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 49, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 16, explanation: (atex, 1.00017)
-score: 1.0000895407922197, path: 153, explanation: (atex, 1.00009)
-score: 1.0000656377652883, path: 140, explanation: (atex, 1.00007)
-score: 1.0000656377652883, path: 22, explanation: (atex, 1.00007)
-score: 1.0000495777751761, path: 155, explanation: (atex, 1.00005)
-score: 1.0000443309291522, path: 171, explanation: (atex, 1.00004)
-score: 1.0000443309291522, path: 15, explanation: (atex, 1.00004)
-score: 1.0000328417052329, path: 102, explanation: (atex, 1.00003)
-score: 1.0000240425167182, path: 130, explanation: (atex, 1.00002)
-score: 1.0000208728756708, path: 142, explanation: (atex, 1.00002)
-score: 1.0000153147690576, path: 166, explanation: (atex, 1.00002)
-score: 1.0000061027248455, path: 162, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 159, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 149, explanation: (atex, 1.00001)
-score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
-
-
-
-
-TESTCASE 4
-Error: 5.0
-Query: ATEX
---------------------------------------------------
-score: 1.0110194868291589, path: 212, explanation: (atex, 1.01102)
 score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
 score: 1.001406742999467, path: 108, explanation: (atex, 1.00141)
 score: 1.001406742999467, path: 33, explanation: (atex, 1.00141)
@@ -216,13 +110,13 @@ score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
 
 
 
-TESTCASE 5
-Error: 3.0
+TESTCASE 3
+Error: 2.5
 Query: Ultraschallkonverter Artech
 --------------------------------------------------
 score: 2.0033214928214487, path: 144, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292)
 score: 2.0033214928214487, path: 10, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292)
-score: 2.0023547189709325, path: 125, explanation: (ultraschallkonvert, 1.00035) + (artech, 1.00201)
+(target) score: 2.0023547189709325, path: 125, explanation: (ultraschallkonvert, 1.00035) + (artech, 1.00201)
 (target) score: 1.027155274353495, path: 212, explanation: (artech, 1.02716)
 score: 1.0054337356646301, path: 231, explanation: (ultraschallkonvert, 1.00543)
 score: 1.0054337356646301, path: 28, explanation: (ultraschallkonvert, 1.00543)
@@ -235,32 +129,13 @@ score: 1.0007166856801704, path: 29, explanation: (ultraschallkonvert, 1.00072)
 
 
 
-TESTCASE 6
-Error: 2.0
-Query: Ultraschallkonverter Artech
---------------------------------------------------
-score: 2.0033214928214487, path: 144, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292)
-score: 2.0033214928214487, path: 10, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292)
-(target) score: 2.0023547189709325, path: 125, explanation: (ultraschallkonvert, 1.00035) + (artech, 1.00201)
-score: 1.027155274353495, path: 212, explanation: (artech, 1.02716)
-score: 1.0054337356646301, path: 231, explanation: (ultraschallkonvert, 1.00543)
-score: 1.0054337356646301, path: 28, explanation: (ultraschallkonvert, 1.00543)
-score: 1.002279422686751, path: 157, explanation: (ultraschallkonvert, 1.00228)
-score: 1.002279422686751, path: 31, explanation: (ultraschallkonvert, 1.00228)
-score: 1.001515360202152, path: 40, explanation: (ultraschallkonvert, 1.00152)
-score: 1.001515360202152, path: 30, explanation: (ultraschallkonvert, 1.00152)
-score: 1.0007166856801704, path: 29, explanation: (ultraschallkonvert, 1.00072)
-
-
-
-
-TESTCASE 7
-Error: 3.0
+TESTCASE 4
+Error: 2.5
 Query: Ultraschallkonverter Artech atex
 --------------------------------------------------
 score: 3.003575203185896, path: 144, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292) + (atex, 1.00025)
 score: 3.003575203185896, path: 10, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292) + (atex, 1.00025)
-score: 3.003260430217165, path: 125, explanation: (ultraschallkonvert, 1.00035) + (artech, 1.00201) + (atex, 1.00091)
+(target) score: 3.003260430217165, path: 125, explanation: (ultraschallkonvert, 1.00035) + (artech, 1.00201) + (atex, 1.00091)
 (target) score: 2.038174761182654, path: 212, explanation: (artech, 1.02716) + (atex, 1.01102)
 score: 1.0054337356646301, path: 231, explanation: (ultraschallkonvert, 1.00543)
 score: 1.0054337356646301, path: 28, explanation: (ultraschallkonvert, 1.00543)
@@ -314,71 +189,11 @@ score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
 
 
 
-TESTCASE 8
-Error: 2.0
-Query: Ultraschallkonverter Artech atex
---------------------------------------------------
-score: 3.003575203185896, path: 144, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292) + (atex, 1.00025)
-score: 3.003575203185896, path: 10, explanation: (ultraschallkonvert, 1.00040) + (artech, 1.00292) + (atex, 1.00025)
-(target) score: 3.003260430217165, path: 125, explanation: (ultraschallkonvert, 1.00035) + (artech, 1.00201) + (atex, 1.00091)
-score: 2.038174761182654, path: 212, explanation: (artech, 1.02716) + (atex, 1.01102)
-score: 1.0054337356646301, path: 231, explanation: (ultraschallkonvert, 1.00543)
-score: 1.0054337356646301, path: 28, explanation: (ultraschallkonvert, 1.00543)
-score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
-score: 1.002279422686751, path: 157, explanation: (ultraschallkonvert, 1.00228)
-score: 1.002279422686751, path: 31, explanation: (ultraschallkonvert, 1.00228)
-score: 1.001515360202152, path: 40, explanation: (ultraschallkonvert, 1.00152)
-score: 1.001515360202152, path: 30, explanation: (ultraschallkonvert, 1.00152)
-score: 1.001406742999467, path: 108, explanation: (atex, 1.00141)
-score: 1.001406742999467, path: 33, explanation: (atex, 1.00141)
-score: 1.0011182317060032, path: 176, explanation: (atex, 1.00112)
-score: 1.0007197052355765, path: 41, explanation: (atex, 1.00072)
-score: 1.0007166856801704, path: 29, explanation: (ultraschallkonvert, 1.00072)
-score: 1.0007151640992424, path: 229, explanation: (atex, 1.00072)
-score: 1.0006901557513044, path: 121, explanation: (atex, 1.00069)
-score: 1.000686810120931, path: 110, explanation: (atex, 1.00069)
-score: 1.0006682977187495, path: 82, explanation: (atex, 1.00067)
-score: 1.0006682977187495, path: 20, explanation: (atex, 1.00067)
-score: 1.0005511580608115, path: 122, explanation: (atex, 1.00055)
-score: 1.0005234910607677, path: 79, explanation: (atex, 1.00052)
-score: 1.0004627915207727, path: 105, explanation: (atex, 1.00046)
-score: 1.0004372812233793, path: 111, explanation: (atex, 1.00044)
-score: 1.0004372812233793, path: 103, explanation: (atex, 1.00044)
-score: 1.0004174048041348, path: 135, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 152, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 25, explanation: (atex, 1.00042)
-score: 1.000374133776454, path: 233, explanation: (atex, 1.00037)
-score: 1.0003660959079455, path: 228, explanation: (atex, 1.00037)
-score: 1.000362947416148, path: 120, explanation: (atex, 1.00036)
-score: 1.0003039971761698, path: 106, explanation: (atex, 1.00030)
-score: 1.0002706080260175, path: 145, explanation: (atex, 1.00027)
-score: 1.0002100817265345, path: 167, explanation: (atex, 1.00021)
-score: 1.000173444178843, path: 56, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 49, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 16, explanation: (atex, 1.00017)
-score: 1.0000895407922197, path: 153, explanation: (atex, 1.00009)
-score: 1.0000656377652883, path: 140, explanation: (atex, 1.00007)
-score: 1.0000656377652883, path: 22, explanation: (atex, 1.00007)
-score: 1.0000495777751761, path: 155, explanation: (atex, 1.00005)
-score: 1.0000443309291522, path: 171, explanation: (atex, 1.00004)
-score: 1.0000443309291522, path: 15, explanation: (atex, 1.00004)
-score: 1.0000328417052329, path: 102, explanation: (atex, 1.00003)
-score: 1.0000240425167182, path: 130, explanation: (atex, 1.00002)
-score: 1.0000208728756708, path: 142, explanation: (atex, 1.00002)
-score: 1.0000153147690576, path: 166, explanation: (atex, 1.00002)
-score: 1.0000061027248455, path: 162, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 159, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 149, explanation: (atex, 1.00001)
-score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
-
-
-
-
-TESTCASE 9
-Error: 1.0
+TESTCASE 5
+Error: 0.5
 Query: Druck glasdeckel
 --------------------------------------------------
-score: 2.027135215754267, path: 223, explanation: (drangeln, 1.00728) + (glasdeckel, 1.01986)
+(target) score: 2.027135215754267, path: 223, explanation: (drangeln, 1.00728) + (glasdeckel, 1.01986)
 (target) score: 2.0018501283468817, path: 94, explanation: (drangeln, 1.00050) + (glasdeckel, 1.00135)
 score: 1.0007429844457192, path: 108, explanation: (drangeln, 1.00074)
 score: 1.0007429844457192, path: 33, explanation: (drangeln, 1.00074)
@@ -423,118 +238,12 @@ score: 1.0000046827588034, path: 15, explanation: (drangeln, 1.00000)
 
 
 
-TESTCASE 10
-Error: 0.0
-Query: Druck glasdeckel
---------------------------------------------------
-(target) score: 2.027135215754267, path: 223, explanation: (drangeln, 1.00728) + (glasdeckel, 1.01986)
-score: 2.0018501283468817, path: 94, explanation: (drangeln, 1.00050) + (glasdeckel, 1.00135)
-score: 1.0007429844457192, path: 108, explanation: (drangeln, 1.00074)
-score: 1.0007429844457192, path: 33, explanation: (drangeln, 1.00074)
-score: 1.0007398362065423, path: 185, explanation: (drangeln, 1.00074)
-score: 1.0006795715391759, path: 170, explanation: (drangeln, 1.00068)
-score: 1.0005945562250078, path: 29, explanation: (drangeln, 1.00059)
-score: 1.0003005186656524, path: 231, explanation: (drangeln, 1.00030)
-score: 1.0003005186656524, path: 28, explanation: (drangeln, 1.00030)
-score: 1.0002910992743315, path: 122, explanation: (drangeln, 1.00029)
-score: 1.0002293271393652, path: 84, explanation: (drangeln, 1.00023)
-score: 1.0002120664106202, path: 175, explanation: (drangeln, 1.00021)
-score: 1.000202397231156, path: 165, explanation: (drangeln, 1.00020)
-score: 1.000202397231156, path: 143, explanation: (drangeln, 1.00020)
-score: 1.0001998489256894, path: 234, explanation: (drangeln, 1.00020)
-score: 1.0001998489256894, path: 34, explanation: (drangeln, 1.00020)
-score: 1.0001929296627006, path: 132, explanation: (drangeln, 1.00019)
-score: 1.0001559172597803, path: 145, explanation: (drangeln, 1.00016)
-score: 1.0001238307409532, path: 129, explanation: (drangeln, 1.00012)
-score: 1.0000997721969966, path: 76, explanation: (drangeln, 1.00010)
-score: 1.0000790408984808, path: 233, explanation: (drangeln, 1.00008)
-score: 1.000077169428792, path: 142, explanation: (drangeln, 1.00008)
-score: 1.000069382612654, path: 102, explanation: (drangeln, 1.00007)
-score: 1.0000654313381259, path: 146, explanation: (drangeln, 1.00007)
-score: 1.0000554541476048, path: 169, explanation: (drangeln, 1.00006)
-score: 1.0000554541476048, path: 164, explanation: (drangeln, 1.00006)
-score: 1.0000554541476048, path: 150, explanation: (drangeln, 1.00006)
-score: 1.0000474202457208, path: 163, explanation: (drangeln, 1.00005)
-score: 1.0000474202457208, path: 26, explanation: (drangeln, 1.00005)
-score: 1.0000462275204511, path: 131, explanation: (drangeln, 1.00005)
-score: 1.0000380948388532, path: 130, explanation: (drangeln, 1.00004)
-score: 1.0000336353967914, path: 116, explanation: (drangeln, 1.00003)
-score: 1.0000331311849608, path: 95, explanation: (drangeln, 1.00003)
-score: 1.0000292709714576, path: 126, explanation: (drangeln, 1.00003)
-score: 1.0000261849647187, path: 155, explanation: (drangeln, 1.00003)
-score: 1.0000253265658172, path: 154, explanation: (drangeln, 1.00003)
-score: 1.0000173577239033, path: 106, explanation: (drangeln, 1.00002)
-score: 1.0000172343643021, path: 161, explanation: (drangeln, 1.00002)
-score: 1.0000172343643021, path: 14, explanation: (drangeln, 1.00002)
-score: 1.0000046827588034, path: 171, explanation: (drangeln, 1.00000)
-score: 1.0000046827588034, path: 15, explanation: (drangeln, 1.00000)
-
-
-
-
-TESTCASE 11
-Error: 1.0
-Query: Glasdeckel 230
---------------------------------------------------
-score: 2.026478428486752, path: 223, explanation: (glasdeckel, 1.01986) + (230, 1.00662)
-(target) score: 1.0013541017993137, path: 94, explanation: (glasdeckel, 1.00135)
-score: 1.0011345603594546, path: 199, explanation: (230, 1.00113)
-score: 1.0011345603594546, path: 59, explanation: (230, 1.00113)
-score: 1.0011345603594546, path: 55, explanation: (230, 1.00113)
-score: 1.0011345603594546, path: 53, explanation: (230, 1.00113)
-score: 1.0005445216957263, path: 166, explanation: (230, 1.00054)
-score: 1.0004912529391452, path: 49, explanation: (230, 1.00049)
-score: 1.0004912529391452, path: 16, explanation: (230, 1.00049)
-score: 1.0004202075405386, path: 111, explanation: (230, 1.00042)
-score: 1.0004202075405386, path: 103, explanation: (230, 1.00042)
-score: 1.0003333440720328, path: 56, explanation: (230, 1.00033)
-score: 1.0002660610558185, path: 78, explanation: (230, 1.00027)
-score: 1.0002118552188377, path: 122, explanation: (230, 1.00021)
-score: 1.00020945729713, path: 66, explanation: (230, 1.00021)
-score: 1.0001743880515905, path: 120, explanation: (230, 1.00017)
-score: 1.0001500599436217, path: 152, explanation: (230, 1.00015)
-score: 1.0001500599436217, path: 25, explanation: (230, 1.00015)
-score: 1.000141841152246, path: 145, explanation: (230, 1.00014)
-score: 1.0001264637343341, path: 107, explanation: (230, 1.00013)
-score: 1.0001235400702513, path: 171, explanation: (230, 1.00012)
-score: 1.0001235400702513, path: 15, explanation: (230, 1.00012)
-score: 1.00011805161674, path: 205, explanation: (230, 1.00012)
-score: 1.0001172888686163, path: 162, explanation: (230, 1.00012)
-score: 1.0001172888686163, path: 159, explanation: (230, 1.00012)
-score: 1.0001172888686163, path: 149, explanation: (230, 1.00012)
-score: 1.0001021469133915, path: 72, explanation: (230, 1.00010)
-score: 1.0001021469133915, path: 18, explanation: (230, 1.00010)
-score: 1.0000946781941131, path: 102, explanation: (230, 1.00009)
-score: 1.0000907648287563, path: 76, explanation: (230, 1.00009)
-score: 1.0000719702991951, path: 194, explanation: (230, 1.00007)
-score: 1.0000587129148086, path: 147, explanation: (230, 1.00006)
-score: 1.0000587129148086, path: 11, explanation: (230, 1.00006)
-score: 1.0000406340369208, path: 144, explanation: (230, 1.00004)
-score: 1.0000406340369208, path: 10, explanation: (230, 1.00004)
-score: 1.000028827304959, path: 169, explanation: (230, 1.00003)
-score: 1.000028827304959, path: 164, explanation: (230, 1.00003)
-score: 1.000028827304959, path: 150, explanation: (230, 1.00003)
-score: 1.0000252877134843, path: 84, explanation: (230, 1.00003)
-score: 1.0000238210033479, path: 155, explanation: (230, 1.00002)
-score: 1.0000238096960037, path: 146, explanation: (230, 1.00002)
-score: 1.0000215695885828, path: 163, explanation: (230, 1.00002)
-score: 1.0000215695885828, path: 26, explanation: (230, 1.00002)
-score: 1.0000160087129937, path: 80, explanation: (230, 1.00002)
-score: 1.0000160087129937, path: 70, explanation: (230, 1.00002)
-score: 1.0000160087129937, path: 3, explanation: (230, 1.00002)
-score: 1.0000100289462257, path: 142, explanation: (230, 1.00001)
-score: 1.0000092315733071, path: 50, explanation: (230, 1.00001)
-score: 1.0000039476700051, path: 106, explanation: (230, 1.00000)
-
-
-
-
-TESTCASE 12
-Error: 0.0
+TESTCASE 6
+Error: 0.5
 Query: Glasdeckel 230
 --------------------------------------------------
 (target) score: 2.026478428486752, path: 223, explanation: (glasdeckel, 1.01986) + (230, 1.00662)
-score: 1.0013541017993137, path: 94, explanation: (glasdeckel, 1.00135)
+(target) score: 1.0013541017993137, path: 94, explanation: (glasdeckel, 1.00135)
 score: 1.0011345603594546, path: 199, explanation: (230, 1.00113)
 score: 1.0011345603594546, path: 59, explanation: (230, 1.00113)
 score: 1.0011345603594546, path: 55, explanation: (230, 1.00113)
@@ -586,96 +295,11 @@ score: 1.0000039476700051, path: 106, explanation: (230, 1.00000)
 
 
 
-TESTCASE 13
-Error: 0.0
+TESTCASE 7
+Error: 1.0
 Query: Glasdeckel Material
 --------------------------------------------------
 (target) score: 2.001995495079915, path: 94, explanation: (glasdeckel, 1.00135) + (material, 1.00064)
-score: 1.0225770434771566, path: 98, explanation: (material, 1.02258)
-score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
-score: 1.0188142028976304, path: 92, explanation: (material, 1.01881)
-score: 1.0141106521732228, path: 101, explanation: (material, 1.01411)
-score: 1.0094071014488153, path: 198, explanation: (material, 1.00941)
-score: 1.0049080529298167, path: 109, explanation: (material, 1.00491)
-score: 1.0035276630433057, path: 224, explanation: (material, 1.00353)
-score: 1.002150194616872, path: 17, explanation: (material, 1.00215)
-score: 1.0011945525649288, path: 111, explanation: (material, 1.00119)
-score: 1.0011945525649288, path: 103, explanation: (material, 1.00119)
-score: 1.000707005536863, path: 121, explanation: (material, 1.00071)
-score: 1.0006271400965876, path: 197, explanation: (material, 1.00063)
-score: 1.0006233088835916, path: 88, explanation: (material, 1.00062)
-score: 1.0006233088835916, path: 1, explanation: (material, 1.00062)
-score: 1.0005701273605343, path: 135, explanation: (material, 1.00057)
-score: 1.000487720892083, path: 0, explanation: (material, 1.00049)
-score: 1.0004664678404371, path: 80, explanation: (material, 1.00047)
-score: 1.0004664678404371, path: 70, explanation: (material, 1.00047)
-score: 1.0004664678404371, path: 3, explanation: (material, 1.00047)
-score: 1.0004412040880517, path: 78, explanation: (material, 1.00044)
-score: 1.0004314930391105, path: 68, explanation: (material, 1.00043)
-score: 1.0004314930391105, path: 2, explanation: (material, 1.00043)
-score: 1.0004196476482743, path: 58, explanation: (material, 1.00042)
-score: 1.0003969590061919, path: 66, explanation: (material, 1.00040)
-score: 1.0003677791647674, path: 105, explanation: (material, 1.00037)
-score: 1.0003387685750156, path: 122, explanation: (material, 1.00034)
-score: 1.0003231340740488, path: 161, explanation: (material, 1.00032)
-score: 1.0003231340740488, path: 14, explanation: (material, 1.00032)
-score: 1.0002681359082797, path: 79, explanation: (material, 1.00027)
-score: 1.0002217784231549, path: 69, explanation: (material, 1.00022)
-score: 1.0001935175155185, path: 76, explanation: (material, 1.00019)
-score: 1.0001919816622207, path: 104, explanation: (material, 1.00019)
-score: 1.0001879736943247, path: 106, explanation: (material, 1.00019)
-score: 1.0001811234935993, path: 83, explanation: (material, 1.00018)
-score: 1.0001811234935993, path: 6, explanation: (material, 1.00018)
-score: 1.000174474833672, path: 165, explanation: (material, 1.00017)
-score: 1.000174474833672, path: 143, explanation: (material, 1.00017)
-score: 1.0001722780883415, path: 234, explanation: (material, 1.00017)
-score: 1.0001722780883415, path: 34, explanation: (material, 1.00017)
-score: 1.0001638392124612, path: 41, explanation: (material, 1.00016)
-score: 1.0001596679170945, path: 87, explanation: (material, 1.00016)
-score: 1.0001425498388505, path: 142, explanation: (material, 1.00014)
-score: 1.0001371075514807, path: 175, explanation: (material, 1.00014)
-score: 1.0001300021697341, path: 57, explanation: (material, 1.00013)
-score: 1.0001237098272722, path: 125, explanation: (material, 1.00012)
-score: 1.0001015154832607, path: 89, explanation: (material, 1.00010)
-score: 1.0000898767654345, path: 107, explanation: (material, 1.00009)
-score: 1.0000897160479918, path: 102, explanation: (material, 1.00009)
-score: 1.0000869853341443, path: 116, explanation: (material, 1.00009)
-score: 1.0000856813794199, path: 95, explanation: (material, 1.00009)
-score: 1.0000803882623364, path: 176, explanation: (material, 1.00008)
-score: 1.0000783381106078, path: 112, explanation: (material, 1.00008)
-score: 1.000075698385506, path: 126, explanation: (material, 1.00008)
-score: 1.0000725250352622, path: 127, explanation: (material, 1.00007)
-score: 1.0000724087346926, path: 232, explanation: (material, 1.00007)
-score: 1.0000724087346926, path: 160, explanation: (material, 1.00007)
-score: 1.0000724087346926, path: 13, explanation: (material, 1.00007)
-score: 1.0000714689568762, path: 90, explanation: (material, 1.00007)
-score: 1.0000656786719335, path: 130, explanation: (material, 1.00007)
-score: 1.0000649232019472, path: 91, explanation: (material, 1.00006)
-score: 1.0000611512553552, path: 153, explanation: (material, 1.00006)
-score: 1.0000539153277066, path: 84, explanation: (material, 1.00005)
-score: 1.0000533736252415, path: 129, explanation: (material, 1.00005)
-score: 1.000033858793457, path: 155, explanation: (material, 1.00003)
-score: 1.000033601791155, path: 145, explanation: (material, 1.00003)
-score: 1.0000313773419955, path: 166, explanation: (material, 1.00003)
-score: 1.000028878285338, path: 144, explanation: (material, 1.00003)
-score: 1.000028878285338, path: 10, explanation: (material, 1.00003)
-score: 1.0000286947680188, path: 167, explanation: (material, 1.00003)
-score: 1.0000206560324585, path: 120, explanation: (material, 1.00002)
-score: 1.0000177744004701, path: 152, explanation: (material, 1.00002)
-score: 1.0000177744004701, path: 25, explanation: (material, 1.00002)
-score: 1.000006638354448, path: 147, explanation: (material, 1.00001)
-score: 1.000006638354448, path: 11, explanation: (material, 1.00001)
-score: 1.0000030275496805, path: 171, explanation: (material, 1.00000)
-score: 1.0000030275496805, path: 15, explanation: (material, 1.00000)
-
-
-
-
-TESTCASE 14
-Error: 2.0
-Query: Glasdeckel Material
---------------------------------------------------
-score: 2.001995495079915, path: 94, explanation: (glasdeckel, 1.00135) + (material, 1.00064)
 score: 1.0225770434771566, path: 98, explanation: (material, 1.02258)
 (target) score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
 score: 1.0188142028976304, path: 92, explanation: (material, 1.01881)
@@ -756,96 +380,11 @@ score: 1.0000030275496805, path: 15, explanation: (material, 1.00000)
 
 
 
-TESTCASE 15
-Error: 0.0
+TESTCASE 8
+Error: 1.0
 Query: Glasdeckel Werkstoff
 --------------------------------------------------
 (target) score: 2.001995495079915, path: 94, explanation: (glasdeckel, 1.00135) + (material, 1.00064)
-score: 1.0225770434771566, path: 98, explanation: (material, 1.02258)
-score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
-score: 1.0188142028976304, path: 92, explanation: (material, 1.01881)
-score: 1.0141106521732228, path: 101, explanation: (material, 1.01411)
-score: 1.0094071014488153, path: 198, explanation: (material, 1.00941)
-score: 1.0049080529298167, path: 109, explanation: (material, 1.00491)
-score: 1.0035276630433057, path: 224, explanation: (material, 1.00353)
-score: 1.002150194616872, path: 17, explanation: (material, 1.00215)
-score: 1.0011945525649288, path: 111, explanation: (material, 1.00119)
-score: 1.0011945525649288, path: 103, explanation: (material, 1.00119)
-score: 1.000707005536863, path: 121, explanation: (material, 1.00071)
-score: 1.0006271400965876, path: 197, explanation: (material, 1.00063)
-score: 1.0006233088835916, path: 88, explanation: (material, 1.00062)
-score: 1.0006233088835916, path: 1, explanation: (material, 1.00062)
-score: 1.0005701273605343, path: 135, explanation: (material, 1.00057)
-score: 1.000487720892083, path: 0, explanation: (material, 1.00049)
-score: 1.0004664678404371, path: 80, explanation: (material, 1.00047)
-score: 1.0004664678404371, path: 70, explanation: (material, 1.00047)
-score: 1.0004664678404371, path: 3, explanation: (material, 1.00047)
-score: 1.0004412040880517, path: 78, explanation: (material, 1.00044)
-score: 1.0004314930391105, path: 68, explanation: (material, 1.00043)
-score: 1.0004314930391105, path: 2, explanation: (material, 1.00043)
-score: 1.0004196476482743, path: 58, explanation: (material, 1.00042)
-score: 1.0003969590061919, path: 66, explanation: (material, 1.00040)
-score: 1.0003677791647674, path: 105, explanation: (material, 1.00037)
-score: 1.0003387685750156, path: 122, explanation: (material, 1.00034)
-score: 1.0003231340740488, path: 161, explanation: (material, 1.00032)
-score: 1.0003231340740488, path: 14, explanation: (material, 1.00032)
-score: 1.0002681359082797, path: 79, explanation: (material, 1.00027)
-score: 1.0002217784231549, path: 69, explanation: (material, 1.00022)
-score: 1.0001935175155185, path: 76, explanation: (material, 1.00019)
-score: 1.0001919816622207, path: 104, explanation: (material, 1.00019)
-score: 1.0001879736943247, path: 106, explanation: (material, 1.00019)
-score: 1.0001811234935993, path: 83, explanation: (material, 1.00018)
-score: 1.0001811234935993, path: 6, explanation: (material, 1.00018)
-score: 1.000174474833672, path: 165, explanation: (material, 1.00017)
-score: 1.000174474833672, path: 143, explanation: (material, 1.00017)
-score: 1.0001722780883415, path: 234, explanation: (material, 1.00017)
-score: 1.0001722780883415, path: 34, explanation: (material, 1.00017)
-score: 1.0001638392124612, path: 41, explanation: (material, 1.00016)
-score: 1.0001596679170945, path: 87, explanation: (material, 1.00016)
-score: 1.0001425498388505, path: 142, explanation: (material, 1.00014)
-score: 1.0001371075514807, path: 175, explanation: (material, 1.00014)
-score: 1.0001300021697341, path: 57, explanation: (material, 1.00013)
-score: 1.0001237098272722, path: 125, explanation: (material, 1.00012)
-score: 1.0001015154832607, path: 89, explanation: (material, 1.00010)
-score: 1.0000898767654345, path: 107, explanation: (material, 1.00009)
-score: 1.0000897160479918, path: 102, explanation: (material, 1.00009)
-score: 1.0000869853341443, path: 116, explanation: (material, 1.00009)
-score: 1.0000856813794199, path: 95, explanation: (material, 1.00009)
-score: 1.0000803882623364, path: 176, explanation: (material, 1.00008)
-score: 1.0000783381106078, path: 112, explanation: (material, 1.00008)
-score: 1.000075698385506, path: 126, explanation: (material, 1.00008)
-score: 1.0000725250352622, path: 127, explanation: (material, 1.00007)
-score: 1.0000724087346926, path: 232, explanation: (material, 1.00007)
-score: 1.0000724087346926, path: 160, explanation: (material, 1.00007)
-score: 1.0000724087346926, path: 13, explanation: (material, 1.00007)
-score: 1.0000714689568762, path: 90, explanation: (material, 1.00007)
-score: 1.0000656786719335, path: 130, explanation: (material, 1.00007)
-score: 1.0000649232019472, path: 91, explanation: (material, 1.00006)
-score: 1.0000611512553552, path: 153, explanation: (material, 1.00006)
-score: 1.0000539153277066, path: 84, explanation: (material, 1.00005)
-score: 1.0000533736252415, path: 129, explanation: (material, 1.00005)
-score: 1.000033858793457, path: 155, explanation: (material, 1.00003)
-score: 1.000033601791155, path: 145, explanation: (material, 1.00003)
-score: 1.0000313773419955, path: 166, explanation: (material, 1.00003)
-score: 1.000028878285338, path: 144, explanation: (material, 1.00003)
-score: 1.000028878285338, path: 10, explanation: (material, 1.00003)
-score: 1.0000286947680188, path: 167, explanation: (material, 1.00003)
-score: 1.0000206560324585, path: 120, explanation: (material, 1.00002)
-score: 1.0000177744004701, path: 152, explanation: (material, 1.00002)
-score: 1.0000177744004701, path: 25, explanation: (material, 1.00002)
-score: 1.000006638354448, path: 147, explanation: (material, 1.00001)
-score: 1.000006638354448, path: 11, explanation: (material, 1.00001)
-score: 1.0000030275496805, path: 171, explanation: (material, 1.00000)
-score: 1.0000030275496805, path: 15, explanation: (material, 1.00000)
-
-
-
-
-TESTCASE 16
-Error: 2.0
-Query: Glasdeckel Werkstoff
---------------------------------------------------
-score: 2.001995495079915, path: 94, explanation: (glasdeckel, 1.00135) + (material, 1.00064)
 score: 1.0225770434771566, path: 98, explanation: (material, 1.02258)
 (target) score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
 score: 1.0188142028976304, path: 92, explanation: (material, 1.01881)
@@ -926,11 +465,11 @@ score: 1.0000030275496805, path: 15, explanation: (material, 1.00000)
 
 
 
-TESTCASE 17
-Error: 11.0
+TESTCASE 9
+Error: 5.5
 Query: glasdeckel hersteller
 --------------------------------------------------
-score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
+(target) score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
 score: 1.0125428019317537, path: 211, explanation: (anfert, 1.01254)
 score: 1.0125428019317537, path: 93, explanation: (anfert, 1.01254)
 score: 1.0102622924896165, path: 214, explanation: (anfert, 1.01026)
@@ -1012,110 +551,11 @@ score: 1.0000051218338197, path: 150, explanation: (anfert, 1.00001)
 
 
 
-TESTCASE 18
-Error: 0.0
-Query: glasdeckel hersteller
---------------------------------------------------
-(target) score: 1.0198601597232675, path: 223, explanation: (glasdeckel, 1.01986)
-score: 1.0125428019317537, path: 211, explanation: (anfert, 1.01254)
-score: 1.0125428019317537, path: 93, explanation: (anfert, 1.01254)
-score: 1.0102622924896165, path: 214, explanation: (anfert, 1.01026)
-score: 1.0094071014488153, path: 220, explanation: (anfert, 1.00941)
-score: 1.0094071014488153, path: 118, explanation: (anfert, 1.00941)
-score: 1.0080632298132701, path: 215, explanation: (anfert, 1.00806)
-score: 1.0075256811590523, path: 212, explanation: (anfert, 1.00753)
-score: 1.0070553260866115, path: 224, explanation: (anfert, 1.00706)
-score: 1.0038925937029581, path: 225, explanation: (anfert, 1.00389)
-score: 1.003641458625348, path: 216, explanation: (anfert, 1.00364)
-score: 1.0013541017993137, path: 94, explanation: (glasdeckel, 1.00135)
-score: 1.0007866565671484, path: 148, explanation: (anfert, 1.00079)
-score: 1.00077673314715, path: 134, explanation: (anfert, 1.00078)
-score: 1.0005759449866622, path: 54, explanation: (anfert, 1.00058)
-score: 1.0005672623989235, path: 137, explanation: (anfert, 1.00057)
-score: 1.0005672623989235, path: 35, explanation: (anfert, 1.00057)
-score: 1.0004392420909953, path: 46, explanation: (anfert, 1.00044)
-score: 1.000392568375762, path: 165, explanation: (anfert, 1.00039)
-score: 1.000392568375762, path: 143, explanation: (anfert, 1.00039)
-score: 1.000362043673463, path: 232, explanation: (anfert, 1.00036)
-score: 1.000362043673463, path: 160, explanation: (anfert, 1.00036)
-score: 1.000362043673463, path: 13, explanation: (anfert, 1.00036)
-score: 1.0003057562767763, path: 153, explanation: (anfert, 1.00031)
-score: 1.0003042728231424, path: 82, explanation: (anfert, 1.00030)
-score: 1.0003042728231424, path: 20, explanation: (anfert, 1.00030)
-score: 1.0002625237613623, path: 218, explanation: (anfert, 1.00026)
-score: 1.000253940950928, path: 155, explanation: (anfert, 1.00025)
-score: 1.000225845716677, path: 122, explanation: (anfert, 1.00023)
-score: 1.0002052458497923, path: 151, explanation: (anfert, 1.00021)
-score: 1.0002052458497923, path: 12, explanation: (anfert, 1.00021)
-score: 1.0001882989447637, path: 170, explanation: (anfert, 1.00019)
-score: 1.0001855647409081, path: 125, explanation: (anfert, 1.00019)
-score: 1.0001831561125782, path: 229, explanation: (anfert, 1.00018)
-score: 1.000167734349756, path: 172, explanation: (anfert, 1.00017)
-score: 1.000167734349756, path: 36, explanation: (anfert, 1.00017)
-score: 1.000159780916328, path: 168, explanation: (anfert, 1.00016)
-score: 1.000159780916328, path: 136, explanation: (anfert, 1.00016)
-score: 1.0001423521026302, path: 174, explanation: (anfert, 1.00014)
-score: 1.0001344071646208, path: 145, explanation: (anfert, 1.00013)
-score: 1.000106747250483, path: 129, explanation: (anfert, 1.00011)
-score: 1.0000866348560136, path: 144, explanation: (anfert, 1.00009)
-score: 1.0000866348560136, path: 10, explanation: (anfert, 1.00009)
-score: 1.000084939967935, path: 74, explanation: (anfert, 1.00008)
-score: 1.000083672911988, path: 166, explanation: (anfert, 1.00008)
-score: 1.0000803882623364, path: 176, explanation: (anfert, 1.00008)
-score: 1.0000685537757403, path: 175, explanation: (anfert, 1.00007)
-score: 1.0000623675234175, path: 132, explanation: (anfert, 1.00006)
-score: 1.0000560335636781, path: 140, explanation: (anfert, 1.00006)
-score: 1.0000560335636781, path: 22, explanation: (anfert, 1.00006)
-score: 1.000049619875774, path: 66, explanation: (anfert, 1.00005)
-score: 1.000047694817963, path: 106, explanation: (anfert, 1.00005)
-score: 1.000044858023996, path: 102, explanation: (anfert, 1.00004)
-score: 1.0000410491699585, path: 130, explanation: (anfert, 1.00004)
-score: 1.000039358145846, path: 171, explanation: (anfert, 1.00004)
-score: 1.000039358145846, path: 15, explanation: (anfert, 1.00004)
-score: 1.000037510317758, path: 162, explanation: (anfert, 1.00004)
-score: 1.000037510317758, path: 159, explanation: (anfert, 1.00004)
-score: 1.000037510317758, path: 149, explanation: (anfert, 1.00004)
-score: 1.0000334276628327, path: 161, explanation: (anfert, 1.00003)
-score: 1.0000334276628327, path: 14, explanation: (anfert, 1.00003)
-score: 1.000025378870815, path: 89, explanation: (anfert, 1.00003)
-score: 1.0000217463335361, path: 116, explanation: (anfert, 1.00002)
-score: 1.000021420344855, path: 95, explanation: (anfert, 1.00002)
-score: 1.0000213824758275, path: 142, explanation: (anfert, 1.00002)
-score: 1.0000206560324585, path: 120, explanation: (anfert, 1.00002)
-score: 1.0000189245963764, path: 126, explanation: (anfert, 1.00002)
-score: 1.0000181312588157, path: 127, explanation: (anfert, 1.00002)
-score: 1.000017867239219, path: 90, explanation: (anfert, 1.00002)
-score: 1.0000177744004701, path: 152, explanation: (anfert, 1.00002)
-score: 1.0000177744004701, path: 25, explanation: (anfert, 1.00002)
-score: 1.0000162308004867, path: 91, explanation: (anfert, 1.00002)
-score: 1.0000153293342458, path: 163, explanation: (anfert, 1.00002)
-score: 1.0000153293342458, path: 26, explanation: (anfert, 1.00002)
-score: 1.000008985887951, path: 84, explanation: (anfert, 1.00001)
-score: 1.0000051218338197, path: 169, explanation: (anfert, 1.00001)
-score: 1.0000051218338197, path: 164, explanation: (anfert, 1.00001)
-score: 1.0000051218338197, path: 150, explanation: (anfert, 1.00001)
-
-
-
-
-TESTCASE 19
-Error: 0.0
+TESTCASE 10
+Error: 0.5
 Query: Absackmaschine Rührwerk
 --------------------------------------------------
 (target) score: 2.0058780601464576, path: 129, explanation: (absackmaschin, 1.00453) + (ruhrwerk, 1.00135)
-score: 1.0140458315621526, path: 225, explanation: (absackmaschin, 1.01405)
-score: 1.000257884846662, path: 90, explanation: (absackmaschin, 1.00026)
-score: 1.000151367192606, path: 205, explanation: (absackmaschin, 1.00015)
-score: 1.000096486605943, path: 175, explanation: (ruhrwerk, 1.00010)
-
-
-
-
-TESTCASE 20
-Error: 1.0
-Query: Absackmaschine Rührwerk
---------------------------------------------------
-score: 2.0058780601464576, path: 129, explanation: (absackmaschin, 1.00453) + (ruhrwerk, 1.00135)
 (target) score: 1.0140458315621526, path: 225, explanation: (absackmaschin, 1.01405)
 score: 1.000257884846662, path: 90, explanation: (absackmaschin, 1.00026)
 score: 1.000151367192606, path: 205, explanation: (absackmaschin, 1.00015)
@@ -1124,11 +564,11 @@ score: 1.000096486605943, path: 175, explanation: (ruhrwerk, 1.00010)
 
 
 
-TESTCASE 21
-Error: 1.0
+TESTCASE 11
+Error: 0.5
 Query: Absackmaschine Wagner
 --------------------------------------------------
-score: 2.0243033448875183, path: 225, explanation: (absackmaschin, 1.01405) + (wagn, 1.01026)
+(target) score: 2.0243033448875183, path: 225, explanation: (absackmaschin, 1.01405) + (wagn, 1.01026)
 (target) score: 2.0055807297200348, path: 129, explanation: (absackmaschin, 1.00453) + (wagn, 1.00105)
 score: 2.0024727442327945, path: 205, explanation: (absackmaschin, 1.00015) + (wagn, 1.00232)
 score: 1.0043425968822717, path: 210, explanation: (wagn, 1.00434)
@@ -1145,32 +585,11 @@ score: 1.000257884846662, path: 90, explanation: (absackmaschin, 1.00026)
 
 
 
-TESTCASE 22
-Error: 0.0
-Query: Absackmaschine Wagner
---------------------------------------------------
-(target) score: 2.0243033448875183, path: 225, explanation: (absackmaschin, 1.01405) + (wagn, 1.01026)
-score: 2.0055807297200348, path: 129, explanation: (absackmaschin, 1.00453) + (wagn, 1.00105)
-score: 2.0024727442327945, path: 205, explanation: (absackmaschin, 1.00015) + (wagn, 1.00232)
-score: 1.0043425968822717, path: 210, explanation: (wagn, 1.00434)
-score: 1.0040289104257645, path: 74, explanation: (wagn, 1.00403)
-score: 1.0018362215212075, path: 177, explanation: (wagn, 1.00184)
-score: 1.0018260766509246, path: 73, explanation: (wagn, 1.00183)
-score: 1.001719467551651, path: 181, explanation: (wagn, 1.00172)
-score: 1.0015004685318316, path: 174, explanation: (wagn, 1.00150)
-score: 1.0010233986918657, path: 134, explanation: (wagn, 1.00102)
-score: 1.0006245576499848, path: 155, explanation: (wagn, 1.00062)
-score: 1.0004826412435408, path: 229, explanation: (wagn, 1.00048)
-score: 1.000257884846662, path: 90, explanation: (absackmaschin, 1.00026)
-
-
-
-
-TESTCASE 23
-Error: 2.0
+TESTCASE 12
+Error: 1.0
 Query: Torex
 --------------------------------------------------
-score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
+(target) score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
 score: 1.002828170820152, path: 176, explanation: (torex, 1.00283)
 (target) score: 1.001935055179584, path: 79, explanation: (torex, 1.00194)
 score: 1.000475804464142, path: 106, explanation: (torex, 1.00048)
@@ -1178,79 +597,13 @@ score: 1.000475804464142, path: 106, explanation: (torex, 1.00048)
 
 
 
-TESTCASE 24
-Error: 0.0
-Query: Torex
---------------------------------------------------
-(target) score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
-score: 1.002828170820152, path: 176, explanation: (torex, 1.00283)
-score: 1.001935055179584, path: 79, explanation: (torex, 1.00194)
-score: 1.000475804464142, path: 106, explanation: (torex, 1.00048)
-
-
-
-
-TESTCASE 25
-Error: 1.0
+TESTCASE 13
+Error: 2.0
 Query: Torex atex
 --------------------------------------------------
 score: 2.0039464025261555, path: 176, explanation: (torex, 1.00283) + (atex, 1.00112)
 (target) score: 2.0024585462403515, path: 79, explanation: (torex, 1.00194) + (atex, 1.00052)
 score: 2.000779801640312, path: 106, explanation: (torex, 1.00048) + (atex, 1.00030)
-score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
-score: 1.0110194868291589, path: 212, explanation: (atex, 1.01102)
-score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
-score: 1.001406742999467, path: 108, explanation: (atex, 1.00141)
-score: 1.001406742999467, path: 33, explanation: (atex, 1.00141)
-score: 1.0009057112462323, path: 125, explanation: (atex, 1.00091)
-score: 1.0007197052355765, path: 41, explanation: (atex, 1.00072)
-score: 1.0007151640992424, path: 229, explanation: (atex, 1.00072)
-score: 1.0006901557513044, path: 121, explanation: (atex, 1.00069)
-score: 1.000686810120931, path: 110, explanation: (atex, 1.00069)
-score: 1.0006682977187495, path: 82, explanation: (atex, 1.00067)
-score: 1.0006682977187495, path: 20, explanation: (atex, 1.00067)
-score: 1.0005511580608115, path: 122, explanation: (atex, 1.00055)
-score: 1.0004627915207727, path: 105, explanation: (atex, 1.00046)
-score: 1.0004372812233793, path: 111, explanation: (atex, 1.00044)
-score: 1.0004372812233793, path: 103, explanation: (atex, 1.00044)
-score: 1.0004174048041348, path: 135, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 152, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 25, explanation: (atex, 1.00042)
-score: 1.000374133776454, path: 233, explanation: (atex, 1.00037)
-score: 1.0003660959079455, path: 228, explanation: (atex, 1.00037)
-score: 1.000362947416148, path: 120, explanation: (atex, 1.00036)
-score: 1.0002706080260175, path: 145, explanation: (atex, 1.00027)
-score: 1.0002537103644473, path: 144, explanation: (atex, 1.00025)
-score: 1.0002537103644473, path: 10, explanation: (atex, 1.00025)
-score: 1.0002100817265345, path: 167, explanation: (atex, 1.00021)
-score: 1.000173444178843, path: 56, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 49, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 16, explanation: (atex, 1.00017)
-score: 1.0000895407922197, path: 153, explanation: (atex, 1.00009)
-score: 1.0000656377652883, path: 140, explanation: (atex, 1.00007)
-score: 1.0000656377652883, path: 22, explanation: (atex, 1.00007)
-score: 1.0000495777751761, path: 155, explanation: (atex, 1.00005)
-score: 1.0000443309291522, path: 171, explanation: (atex, 1.00004)
-score: 1.0000443309291522, path: 15, explanation: (atex, 1.00004)
-score: 1.0000328417052329, path: 102, explanation: (atex, 1.00003)
-score: 1.0000240425167182, path: 130, explanation: (atex, 1.00002)
-score: 1.0000208728756708, path: 142, explanation: (atex, 1.00002)
-score: 1.0000153147690576, path: 166, explanation: (atex, 1.00002)
-score: 1.0000061027248455, path: 162, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 159, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 149, explanation: (atex, 1.00001)
-score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
-
-
-
-
-TESTCASE 26
-Error: 3.0
-Query: Torex atex
---------------------------------------------------
-score: 2.0039464025261555, path: 176, explanation: (torex, 1.00283) + (atex, 1.00112)
-score: 2.0024585462403515, path: 79, explanation: (torex, 1.00194) + (atex, 1.00052)
-score: 2.000779801640312, path: 106, explanation: (torex, 1.00048) + (atex, 1.00030)
 (target) score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
 score: 1.0110194868291589, path: 212, explanation: (atex, 1.01102)
 score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
@@ -1298,33 +651,13 @@ score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
 
 
 
-TESTCASE 27
-Error: 1.0
+TESTCASE 14
+Error: 2.0
 Query: Torex valve
 --------------------------------------------------
 score: 2.0035367692381243, path: 176, explanation: (torex, 1.00283) + (valv, 1.00071)
 (target) score: 2.0021774692921213, path: 79, explanation: (torex, 1.00194) + (valv, 1.00024)
 score: 2.0015106734193635, path: 106, explanation: (torex, 1.00048) + (valv, 1.00103)
-score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
-score: 1.006248347431318, path: 104, explanation: (valv, 1.00625)
-score: 1.0056296991707914, path: 87, explanation: (valv, 1.00563)
-score: 1.00121882573302, path: 107, explanation: (valv, 1.00122)
-score: 1.0004669583489596, path: 167, explanation: (valv, 1.00047)
-score: 1.0003499074561537, path: 76, explanation: (valv, 1.00035)
-score: 1.0003273034772362, path: 105, explanation: (valv, 1.00033)
-score: 1.0000025720924446, path: 147, explanation: (valv, 1.00000)
-score: 1.0000025720924446, path: 11, explanation: (valv, 1.00000)
-
-
-
-
-TESTCASE 28
-Error: 3.0
-Query: Torex valve
---------------------------------------------------
-score: 2.0035367692381243, path: 176, explanation: (torex, 1.00283) + (valv, 1.00071)
-score: 2.0021774692921213, path: 79, explanation: (torex, 1.00194) + (valv, 1.00024)
-score: 2.0015106734193635, path: 106, explanation: (torex, 1.00048) + (valv, 1.00103)
 (target) score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
 score: 1.006248347431318, path: 104, explanation: (valv, 1.00625)
 score: 1.0056296991707914, path: 87, explanation: (valv, 1.00563)
@@ -1338,8 +671,8 @@ score: 1.0000025720924446, path: 11, explanation: (valv, 1.00000)
 
 
 
-TESTCASE 29
-Error: 1.0
+TESTCASE 15
+Error: 3.0
 Query: Torex valve atex
 --------------------------------------------------
 score: 3.0046550009441275, path: 176, explanation: (torex, 1.00283) + (valv, 1.00071) + (atex, 1.00112)
@@ -1347,66 +680,6 @@ score: 3.0046550009441275, path: 176, explanation: (torex, 1.00283) + (valv, 1.0
 score: 3.0018146705955333, path: 106, explanation: (torex, 1.00048) + (valv, 1.00103) + (atex, 1.00030)
 score: 2.000790094998009, path: 105, explanation: (valv, 1.00033) + (atex, 1.00046)
 score: 2.000677040075494, path: 167, explanation: (valv, 1.00047) + (atex, 1.00021)
-score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
-score: 1.0110194868291589, path: 212, explanation: (atex, 1.01102)
-score: 1.006248347431318, path: 104, explanation: (valv, 1.00625)
-score: 1.0056296991707914, path: 87, explanation: (valv, 1.00563)
-score: 1.0023714821009668, path: 100, explanation: (atex, 1.00237)
-score: 1.001406742999467, path: 108, explanation: (atex, 1.00141)
-score: 1.001406742999467, path: 33, explanation: (atex, 1.00141)
-score: 1.00121882573302, path: 107, explanation: (valv, 1.00122)
-score: 1.0009057112462323, path: 125, explanation: (atex, 1.00091)
-score: 1.0007197052355765, path: 41, explanation: (atex, 1.00072)
-score: 1.0007151640992424, path: 229, explanation: (atex, 1.00072)
-score: 1.0006901557513044, path: 121, explanation: (atex, 1.00069)
-score: 1.000686810120931, path: 110, explanation: (atex, 1.00069)
-score: 1.0006682977187495, path: 82, explanation: (atex, 1.00067)
-score: 1.0006682977187495, path: 20, explanation: (atex, 1.00067)
-score: 1.0005511580608115, path: 122, explanation: (atex, 1.00055)
-score: 1.0004372812233793, path: 111, explanation: (atex, 1.00044)
-score: 1.0004372812233793, path: 103, explanation: (atex, 1.00044)
-score: 1.0004174048041348, path: 135, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 152, explanation: (atex, 1.00042)
-score: 1.000416418963785, path: 25, explanation: (atex, 1.00042)
-score: 1.000374133776454, path: 233, explanation: (atex, 1.00037)
-score: 1.0003660959079455, path: 228, explanation: (atex, 1.00037)
-score: 1.000362947416148, path: 120, explanation: (atex, 1.00036)
-score: 1.0003499074561537, path: 76, explanation: (valv, 1.00035)
-score: 1.0002706080260175, path: 145, explanation: (atex, 1.00027)
-score: 1.0002537103644473, path: 144, explanation: (atex, 1.00025)
-score: 1.0002537103644473, path: 10, explanation: (atex, 1.00025)
-score: 1.000173444178843, path: 56, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 49, explanation: (atex, 1.00017)
-score: 1.0001704044355024, path: 16, explanation: (atex, 1.00017)
-score: 1.0000895407922197, path: 153, explanation: (atex, 1.00009)
-score: 1.0000656377652883, path: 140, explanation: (atex, 1.00007)
-score: 1.0000656377652883, path: 22, explanation: (atex, 1.00007)
-score: 1.0000495777751761, path: 155, explanation: (atex, 1.00005)
-score: 1.0000443309291522, path: 171, explanation: (atex, 1.00004)
-score: 1.0000443309291522, path: 15, explanation: (atex, 1.00004)
-score: 1.0000328417052329, path: 102, explanation: (atex, 1.00003)
-score: 1.0000240425167182, path: 130, explanation: (atex, 1.00002)
-score: 1.0000208728756708, path: 142, explanation: (atex, 1.00002)
-score: 1.0000153147690576, path: 166, explanation: (atex, 1.00002)
-score: 1.0000061027248455, path: 162, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 159, explanation: (atex, 1.00001)
-score: 1.0000061027248455, path: 149, explanation: (atex, 1.00001)
-score: 1.000004129520135, path: 146, explanation: (atex, 1.00000)
-score: 1.0000025720924446, path: 147, explanation: (valv, 1.00000)
-score: 1.0000025720924446, path: 11, explanation: (valv, 1.00000)
-
-
-
-
-TESTCASE 30
-Error: 5.0
-Query: Torex valve atex
---------------------------------------------------
-score: 3.0046550009441275, path: 176, explanation: (torex, 1.00283) + (valv, 1.00071) + (atex, 1.00112)
-score: 3.0027009603528887, path: 79, explanation: (torex, 1.00194) + (valv, 1.00024) + (atex, 1.00052)
-score: 3.0018146705955333, path: 106, explanation: (torex, 1.00048) + (valv, 1.00103) + (atex, 1.00030)
-score: 2.000790094998009, path: 105, explanation: (valv, 1.00033) + (atex, 1.00046)
-score: 2.000677040075494, path: 167, explanation: (valv, 1.00047) + (atex, 1.00021)
 (target) score: 1.0214383744896014, path: 219, explanation: (torex, 1.02144)
 score: 1.0110194868291589, path: 212, explanation: (atex, 1.01102)
 score: 1.006248347431318, path: 104, explanation: (valv, 1.00625)
@@ -1458,7 +731,7 @@ score: 1.0000025720924446, path: 11, explanation: (valv, 1.00000)
 
 
 
-TESTCASE 31
+TESTCASE 16
 Error: 1.0
 Query: Ablasshahn
 --------------------------------------------------
@@ -1468,7 +741,7 @@ score: 1.0595804791698027, path: 101, explanation: (kugelhahn, 1.05958)
 
 
 
-TESTCASE 32
+TESTCASE 17
 Error: 6.0
 Query: Ablasshahn Zeichnung
 --------------------------------------------------
@@ -1515,7 +788,7 @@ score: 1.0000045945610934, path: 106, explanation: (entwurf, 1.00000)
 
 
 
-TESTCASE 33
+TESTCASE 18
 Error: 1.0
 Query: Ablassschieber
 --------------------------------------------------
@@ -1525,7 +798,7 @@ score: 1.0595804791698027, path: 101, explanation: (kugelhahn, 1.05958)
 
 
 
-TESTCASE 34
+TESTCASE 19
 Error: 1.0
 Query: Ablassventil
 --------------------------------------------------
@@ -1535,9 +808,455 @@ score: 1.0595804791698027, path: 101, explanation: (kugelhahn, 1.05958)
 
 
 
-TESTCASE 35
+TESTCASE 20
 Error: 1.0
 Query: Kugelhahn
 --------------------------------------------------
 score: 1.0595804791698027, path: 101, explanation: (kugelhahn, 1.05958)
 (target) score: 1.00486371258529, path: 208, explanation: (kugelhahn, 1.00486)
+
+
+
+
+TESTCASE 21
+Error: 100.0
+Query: Schaltskizze KA57B
+--------------------------------------------------
+score: 1.0397203194465352, path: 113, explanation: (ka57b, 1.03972)
+score: 1.0017719101611837, path: 58, explanation: (ka57b, 1.00177)
+
+
+
+
+TESTCASE 22
+Error: 21.0
+Query: Lochkreis von 221 012
+--------------------------------------------------
+score: 3.001023949357152, path: 122, explanation: (lochkreis, 1.00016) + (von, 1.00066) + (012, 1.00020)
+score: 3.0005693796815684, path: 142, explanation: (von, 1.00013) + (221, 1.00006) + (012, 1.00039)
+score: 3.00028334936766, path: 84, explanation: (von, 1.00026) + (221, 1.00001) + (012, 1.00001)
+score: 3.000106284914748, path: 80, explanation: (von, 1.00001) + (221, 1.00007) + (012, 1.00003)
+score: 3.000106284914748, path: 70, explanation: (von, 1.00001) + (221, 1.00007) + (012, 1.00003)
+score: 3.000106284914748, path: 3, explanation: (von, 1.00001) + (221, 1.00007) + (012, 1.00003)
+score: 2.0028142855945266, path: 94, explanation: (221, 1.00194) + (012, 1.00087)
+score: 2.000905140247851, path: 102, explanation: (von, 1.00011) + (012, 1.00079)
+score: 2.000900319021908, path: 57, explanation: (221, 1.00012) + (012, 1.00078)
+score: 2.000609498335183, path: 41, explanation: (von, 1.00028) + (221, 1.00033)
+score: 2.0005135453407252, path: 165, explanation: (von, 1.00040) + (012, 1.00012)
+score: 2.0005135453407252, path: 143, explanation: (von, 1.00040) + (012, 1.00012)
+score: 2.0003646380917823, path: 65, explanation: (von, 1.00019) + (221, 1.00017)
+score: 2.0002780002558365, path: 171, explanation: (von, 1.00027) + (221, 1.00001)
+score: 2.0002780002558365, path: 15, explanation: (von, 1.00027) + (221, 1.00001)
+score: 2.0002340004675396, path: 162, explanation: (von, 1.00022) + (221, 1.00002)
+score: 2.0002340004675396, path: 159, explanation: (von, 1.00022) + (221, 1.00002)
+score: 2.0002340004675396, path: 149, explanation: (von, 1.00022) + (221, 1.00002)
+score: 2.000206345354238, path: 169, explanation: (von, 1.00019) + (221, 1.00002)
+score: 2.000206345354238, path: 164, explanation: (von, 1.00019) + (221, 1.00002)
+score: 2.000206345354238, path: 150, explanation: (von, 1.00019) + (221, 1.00002)
+(target) score: 1.0198601597232675, path: 223, explanation: (lochkreis, 1.01986)
+score: 1.003044304516853, path: 196, explanation: (von, 1.00304)
+score: 1.0025572157941565, path: 43, explanation: (von, 1.00256)
+score: 1.0025572157941565, path: 8, explanation: (von, 1.00256)
+score: 1.002204496374273, path: 180, explanation: (von, 1.00220)
+score: 1.0018803057309975, path: 42, explanation: (von, 1.00188)
+score: 1.0018803057309975, path: 5, explanation: (von, 1.00188)
+score: 1.0015149382666804, path: 138, explanation: (von, 1.00151)
+score: 1.0014925384012587, path: 46, explanation: (von, 1.00149)
+score: 1.0012486405244905, path: 32, explanation: (von, 1.00125)
+score: 1.0010914945462863, path: 158, explanation: (von, 1.00109)
+score: 1.0009889784839279, path: 132, explanation: (von, 1.00099)
+score: 1.0009268809631624, path: 234, explanation: (von, 1.00093)
+score: 1.0009268809631624, path: 34, explanation: (von, 1.00093)
+score: 1.0008196204468451, path: 38, explanation: (von, 1.00082)
+score: 1.0008196204468451, path: 24, explanation: (von, 1.00082)
+score: 1.0008061840460771, path: 174, explanation: (von, 1.00081)
+score: 1.0007009911716438, path: 230, explanation: (von, 1.00070)
+score: 1.0007009911716438, path: 27, explanation: (von, 1.00070)
+score: 1.0006974224893155, path: 151, explanation: (von, 1.00070)
+score: 1.0006974224893155, path: 12, explanation: (von, 1.00070)
+score: 1.0006917912279436, path: 140, explanation: (von, 1.00069)
+score: 1.0006917912279436, path: 22, explanation: (von, 1.00069)
+score: 1.000668553148799, path: 48, explanation: (von, 1.00067)
+score: 1.0006682619671141, path: 148, explanation: (von, 1.00067)
+score: 1.0006561770732807, path: 62, explanation: (von, 1.00066)
+score: 1.0006431629260957, path: 64, explanation: (von, 1.00064)
+score: 1.000627999949449, path: 69, explanation: (von, 1.00063)
+score: 1.0006088609033705, path: 17, explanation: (von, 1.00061)
+score: 1.0005955160068583, path: 125, explanation: (von, 1.00060)
+score: 1.0005947013474783, path: 60, explanation: (von, 1.00059)
+score: 1.0005811854077629, path: 193, explanation: (von, 1.00058)
+score: 1.0005767488779327, path: 112, explanation: (von, 1.00058)
+score: 1.0005327532904493, path: 173, explanation: (von, 1.00053)
+score: 1.0005327532904493, path: 9, explanation: (von, 1.00053)
+score: 1.0005233177134938, path: 145, explanation: (von, 1.00052)
+score: 1.0005073840861423, path: 61, explanation: (von, 1.00051)
+score: 1.0004753189208468, path: 58, explanation: (von, 1.00048)
+score: 1.0004749657864331, path: 172, explanation: (von, 1.00047)
+score: 1.0004749657864331, path: 36, explanation: (von, 1.00047)
+score: 1.0004621046055606, path: 170, explanation: (von, 1.00046)
+score: 1.0004582824003865, path: 39, explanation: (von, 1.00046)
+score: 1.000457930687109, path: 144, explanation: (von, 1.00046)
+score: 1.000457930687109, path: 10, explanation: (von, 1.00046)
+score: 1.0004534070557014, path: 129, explanation: (von, 1.00045)
+score: 1.0004410315181884, path: 155, explanation: (von, 1.00044)
+score: 1.0004398880379857, path: 134, explanation: (von, 1.00044)
+score: 1.00041921570396, path: 141, explanation: (von, 1.00042)
+score: 1.00041921570396, path: 133, explanation: (von, 1.00042)
+score: 1.0004098102234225, path: 63, explanation: (von, 1.00041)
+score: 1.0004080294076771, path: 163, explanation: (von, 1.00041)
+score: 1.0004080294076771, path: 26, explanation: (von, 1.00041)
+score: 1.0004008926251864, path: 146, explanation: (von, 1.00040)
+score: 1.0003970831978504, path: 45, explanation: (von, 1.00040)
+score: 1.0003301053090563, path: 231, explanation: (von, 1.00033)
+score: 1.0003301053090563, path: 28, explanation: (von, 1.00033)
+score: 1.0003261754839485, path: 54, explanation: (von, 1.00033)
+score: 1.0003167110856175, path: 168, explanation: (von, 1.00032)
+score: 1.0003167110856175, path: 136, explanation: (von, 1.00032)
+score: 1.000272044233421, path: 108, explanation: (von, 1.00027)
+score: 1.000272044233421, path: 33, explanation: (von, 1.00027)
+score: 1.0002598796538777, path: 71, explanation: (von, 1.00026)
+score: 1.000258725317245, path: 161, explanation: (von, 1.00026)
+score: 1.000258725317245, path: 14, explanation: (von, 1.00026)
+score: 1.0002460438544731, path: 232, explanation: (von, 1.00025)
+score: 1.0002460438544731, path: 160, explanation: (von, 1.00025)
+score: 1.0002460438544731, path: 13, explanation: (von, 1.00025)
+score: 1.0002409436991981, path: 137, explanation: (von, 1.00024)
+score: 1.0002409436991981, path: 35, explanation: (von, 1.00024)
+score: 1.0002394052134098, path: 56, explanation: (221, 1.00024)
+score: 1.0002352094519378, path: 49, explanation: (221, 1.00024)
+score: 1.0002352094519378, path: 16, explanation: (221, 1.00024)
+score: 1.0002320522499235, path: 123, explanation: (von, 1.00023)
+score: 1.0002225601213366, path: 154, explanation: (von, 1.00022)
+score: 1.000217697144792, path: 29, explanation: (von, 1.00022)
+score: 1.000210297351493, path: 81, explanation: (von, 1.00021)
+score: 1.0002077910992002, path: 153, explanation: (von, 1.00021)
+score: 1.000207062007624, path: 175, explanation: (von, 1.00021)
+score: 1.0001985415989252, path: 52, explanation: (von, 1.00020)
+score: 1.0001985415989252, path: 23, explanation: (von, 1.00020)
+score: 1.0001635048461737, path: 200, explanation: (von, 1.00016)
+score: 1.000144704379479, path: 233, explanation: (von, 1.00014)
+score: 1.0001354098911388, path: 131, explanation: (von, 1.00014)
+score: 1.000115397824646, path: 157, explanation: (von, 1.00012)
+score: 1.000115397824646, path: 31, explanation: (von, 1.00012)
+score: 1.000108725161316, path: 104, explanation: (von, 1.00011)
+score: 1.000107214834765, path: 88, explanation: (221, 1.00011)
+score: 1.000107214834765, path: 1, explanation: (221, 1.00011)
+score: 1.0000976391485041, path: 130, explanation: (von, 1.00010)
+score: 1.0000935852074715, path: 120, explanation: (von, 1.00009)
+score: 1.0000905957414086, path: 152, explanation: (von, 1.00009)
+score: 1.0000905957414086, path: 25, explanation: (von, 1.00009)
+score: 1.0000904248866391, path: 87, explanation: (von, 1.00009)
+score: 1.0000885462532603, path: 110, explanation: (von, 1.00009)
+score: 1.0000861595617978, path: 82, explanation: (von, 1.00009)
+score: 1.0000861595617978, path: 20, explanation: (von, 1.00009)
+score: 1.0000843038173897, path: 66, explanation: (von, 1.00008)
+score: 1.0000714998451243, path: 106, explanation: (von, 1.00007)
+score: 1.0000682895440847, path: 176, explanation: (von, 1.00007)
+score: 1.0000475142288026, path: 205, explanation: (von, 1.00005)
+score: 1.0000431185217091, path: 89, explanation: (von, 1.00004)
+score: 1.0000428703402207, path: 126, explanation: (von, 1.00004)
+score: 1.0000411127941182, path: 72, explanation: (von, 1.00004)
+score: 1.0000411127941182, path: 18, explanation: (von, 1.00004)
+score: 1.0000410731736935, path: 127, explanation: (von, 1.00004)
+score: 1.0000404750837948, path: 90, explanation: (von, 1.00004)
+score: 1.000036946866608, path: 116, explanation: (von, 1.00004)
+score: 1.0000367680200455, path: 91, explanation: (von, 1.00004)
+score: 1.0000363930141483, path: 95, explanation: (von, 1.00004)
+score: 1.0000296166009701, path: 166, explanation: (von, 1.00003)
+score: 1.000011500138701, path: 147, explanation: (221, 1.00001)
+score: 1.000011500138701, path: 11, explanation: (221, 1.00001)
+score: 1.0000037155872867, path: 50, explanation: (von, 1.00000)
+
+
+
+
+TESTCASE 23
+Error: 49.0
+Query: Temperatur von MT100LH04145
+--------------------------------------------------
+score: 2.002102652868087, path: 138, explanation: (temperatur, 1.00059) + (von, 1.00151)
+score: 2.0011570308807043, path: 122, explanation: (temperatur, 1.00050) + (von, 1.00066)
+score: 2.000974194118789, path: 234, explanation: (temperatur, 1.00005) + (von, 1.00093)
+score: 2.000974194118789, path: 34, explanation: (temperatur, 1.00005) + (von, 1.00093)
+score: 2.0009729380595753, path: 230, explanation: (temperatur, 1.00027) + (von, 1.00070)
+score: 2.0009729380595753, path: 27, explanation: (temperatur, 1.00027) + (von, 1.00070)
+score: 2.0008149003125233, path: 140, explanation: (temperatur, 1.00012) + (von, 1.00069)
+score: 2.0008149003125233, path: 22, explanation: (temperatur, 1.00012) + (von, 1.00069)
+score: 2.0007414179209935, path: 104, explanation: (temperatur, 1.00063) + (von, 1.00011)
+score: 2.0006709679958536, path: 145, explanation: (temperatur, 1.00015) + (von, 1.00052)
+score: 2.000616624805579, path: 87, explanation: (temperatur, 1.00053) + (von, 1.00009)
+score: 2.0005389913679883, path: 165, explanation: (temperatur, 1.00014) + (von, 1.00040)
+score: 2.0005389913679883, path: 143, explanation: (temperatur, 1.00014) + (von, 1.00040)
+score: 2.000531055276062, path: 170, explanation: (temperatur, 1.00007) + (von, 1.00046)
+score: 2.0004922280639077, path: 163, explanation: (temperatur, 1.00008) + (von, 1.00041)
+score: 2.0004922280639077, path: 26, explanation: (temperatur, 1.00008) + (von, 1.00041)
+score: 2.000489654345563, path: 144, explanation: (temperatur, 1.00003) + (von, 1.00046)
+score: 2.000489654345563, path: 10, explanation: (temperatur, 1.00003) + (von, 1.00046)
+score: 2.0004827233159608, path: 129, explanation: (temperatur, 1.00003) + (von, 1.00045)
+score: 2.0004596289658334, path: 155, explanation: (temperatur, 1.00002) + (von, 1.00044)
+score: 2.0004225793483053, path: 146, explanation: (temperatur, 1.00002) + (von, 1.00040)
+score: 2.000404473138623, path: 168, explanation: (temperatur, 1.00009) + (von, 1.00032)
+score: 2.000404473138623, path: 136, explanation: (temperatur, 1.00009) + (von, 1.00032)
+score: 2.0003459885749333, path: 84, explanation: (temperatur, 1.00008) + (von, 1.00026)
+score: 2.0003445819966537, path: 123, explanation: (temperatur, 1.00011) + (von, 1.00023)
+score: 2.0003056724929764, path: 171, explanation: (temperatur, 1.00004) + (von, 1.00027)
+score: 2.0003056724929764, path: 15, explanation: (temperatur, 1.00004) + (von, 1.00027)
+score: 2.0002603021824803, path: 110, explanation: (temperatur, 1.00017) + (von, 1.00009)
+score: 2.0002569794187703, path: 233, explanation: (temperatur, 1.00011) + (von, 1.00014)
+score: 2.0002468014172354, path: 152, explanation: (temperatur, 1.00016) + (von, 1.00009)
+score: 2.0002468014172354, path: 25, explanation: (temperatur, 1.00016) + (von, 1.00009)
+score: 2.0002405479050465, path: 154, explanation: (temperatur, 1.00002) + (von, 1.00022)
+score: 2.0002321647972794, path: 175, explanation: (temperatur, 1.00003) + (von, 1.00021)
+score: 2.000230888671562, path: 162, explanation: (temperatur, 1.00001) + (von, 1.00022)
+score: 2.000230888671562, path: 159, explanation: (temperatur, 1.00001) + (von, 1.00022)
+score: 2.000230888671562, path: 149, explanation: (temperatur, 1.00001) + (von, 1.00022)
+score: 2.000229732816873, path: 120, explanation: (temperatur, 1.00014) + (von, 1.00009)
+score: 2.000222830129144, path: 176, explanation: (temperatur, 1.00015) + (von, 1.00007)
+score: 2.000219436356782, path: 106, explanation: (temperatur, 1.00015) + (von, 1.00007)
+score: 2.000219400723958, path: 169, explanation: (temperatur, 1.00003) + (von, 1.00019)
+score: 2.000219400723958, path: 164, explanation: (temperatur, 1.00003) + (von, 1.00019)
+score: 2.000219400723958, path: 150, explanation: (temperatur, 1.00003) + (von, 1.00019)
+score: 2.0001933216467496, path: 66, explanation: (temperatur, 1.00011) + (von, 1.00008)
+score: 2.000187770203791, path: 142, explanation: (temperatur, 1.00006) + (von, 1.00013)
+score: 2.0001635980757957, path: 102, explanation: (temperatur, 1.00005) + (von, 1.00011)
+score: 2.000115676643907, path: 130, explanation: (temperatur, 1.00002) + (von, 1.00010)
+score: 2.0000814328845227, path: 80, explanation: (temperatur, 1.00007) + (von, 1.00001)
+score: 2.0000814328845227, path: 70, explanation: (temperatur, 1.00007) + (von, 1.00001)
+score: 2.0000814328845227, path: 3, explanation: (temperatur, 1.00007) + (von, 1.00001)
+(target) score: 2.0000411062499, path: 166, explanation: (temperatur, 1.00001) + (von, 1.00003)
+score: 1.0454965459512013, path: 118, explanation: (mt100lh04145, 1.04550)
+score: 1.0038752431530251, path: 224, explanation: (temperatur, 1.00388)
+score: 1.003044304516853, path: 196, explanation: (von, 1.00304)
+score: 1.0025572157941565, path: 43, explanation: (von, 1.00256)
+score: 1.0025572157941565, path: 8, explanation: (von, 1.00256)
+score: 1.002204496374273, path: 180, explanation: (von, 1.00220)
+score: 1.0018803057309975, path: 42, explanation: (von, 1.00188)
+score: 1.0018803057309975, path: 5, explanation: (von, 1.00188)
+score: 1.0014925384012587, path: 46, explanation: (von, 1.00149)
+score: 1.0012486405244905, path: 32, explanation: (von, 1.00125)
+score: 1.0010914945462863, path: 158, explanation: (von, 1.00109)
+score: 1.0009889784839279, path: 132, explanation: (von, 1.00099)
+score: 1.0008196204468451, path: 38, explanation: (von, 1.00082)
+score: 1.0008196204468451, path: 24, explanation: (von, 1.00082)
+score: 1.0008061840460771, path: 174, explanation: (von, 1.00081)
+score: 1.0006974224893155, path: 151, explanation: (von, 1.00070)
+score: 1.0006974224893155, path: 12, explanation: (von, 1.00070)
+score: 1.000668553148799, path: 48, explanation: (von, 1.00067)
+score: 1.0006682619671141, path: 148, explanation: (von, 1.00067)
+score: 1.0006667084994452, path: 187, explanation: (temperatur, 1.00067)
+score: 1.0006561770732807, path: 62, explanation: (von, 1.00066)
+score: 1.0006431629260957, path: 64, explanation: (von, 1.00064)
+score: 1.000627999949449, path: 69, explanation: (von, 1.00063)
+score: 1.0006088609033705, path: 17, explanation: (von, 1.00061)
+score: 1.0005955160068583, path: 125, explanation: (von, 1.00060)
+score: 1.0005947013474783, path: 60, explanation: (von, 1.00059)
+score: 1.0005811854077629, path: 193, explanation: (von, 1.00058)
+score: 1.0005767488779327, path: 112, explanation: (von, 1.00058)
+score: 1.0005327532904493, path: 173, explanation: (von, 1.00053)
+score: 1.0005327532904493, path: 9, explanation: (von, 1.00053)
+score: 1.0005254566987152, path: 185, explanation: (temperatur, 1.00053)
+score: 1.0005073840861423, path: 61, explanation: (von, 1.00051)
+score: 1.0004753189208468, path: 58, explanation: (von, 1.00048)
+score: 1.0004749657864331, path: 172, explanation: (von, 1.00047)
+score: 1.0004749657864331, path: 36, explanation: (von, 1.00047)
+score: 1.0004582824003865, path: 39, explanation: (von, 1.00046)
+score: 1.0004398880379857, path: 134, explanation: (von, 1.00044)
+score: 1.0004370574984616, path: 88, explanation: (temperatur, 1.00044)
+score: 1.0004370574984616, path: 1, explanation: (temperatur, 1.00044)
+score: 1.00041921570396, path: 141, explanation: (von, 1.00042)
+score: 1.00041921570396, path: 133, explanation: (von, 1.00042)
+score: 1.0004098102234225, path: 63, explanation: (von, 1.00041)
+score: 1.0003970831978504, path: 45, explanation: (von, 1.00040)
+score: 1.000352294832093, path: 94, explanation: (temperatur, 1.00035)
+score: 1.0003472015856916, path: 105, explanation: (temperatur, 1.00035)
+score: 1.0003301053090563, path: 231, explanation: (von, 1.00033)
+score: 1.0003301053090563, path: 28, explanation: (von, 1.00033)
+score: 1.0003261754839485, path: 54, explanation: (von, 1.00033)
+score: 1.0002783616611925, path: 41, explanation: (von, 1.00028)
+score: 1.000272044233421, path: 108, explanation: (von, 1.00027)
+score: 1.000272044233421, path: 33, explanation: (von, 1.00027)
+score: 1.0002598796538777, path: 71, explanation: (von, 1.00026)
+score: 1.000258725317245, path: 161, explanation: (von, 1.00026)
+score: 1.000258725317245, path: 14, explanation: (von, 1.00026)
+score: 1.0002460438544731, path: 232, explanation: (von, 1.00025)
+score: 1.0002460438544731, path: 160, explanation: (von, 1.00025)
+score: 1.0002460438544731, path: 13, explanation: (von, 1.00025)
+score: 1.0002409436991981, path: 137, explanation: (von, 1.00024)
+score: 1.0002409436991981, path: 35, explanation: (von, 1.00024)
+score: 1.000218772915431, path: 68, explanation: (temperatur, 1.00022)
+score: 1.000218772915431, path: 2, explanation: (temperatur, 1.00022)
+score: 1.000217697144792, path: 29, explanation: (von, 1.00022)
+score: 1.000210297351493, path: 81, explanation: (von, 1.00021)
+score: 1.0002077910992002, path: 153, explanation: (von, 1.00021)
+score: 1.0002017857505334, path: 0, explanation: (temperatur, 1.00020)
+score: 1.0001985415989252, path: 52, explanation: (von, 1.00020)
+score: 1.0001985415989252, path: 23, explanation: (von, 1.00020)
+score: 1.0001963701993615, path: 79, explanation: (temperatur, 1.00020)
+score: 1.0001927065406298, path: 65, explanation: (von, 1.00019)
+score: 1.0001635048461737, path: 200, explanation: (von, 1.00016)
+score: 1.0001354098911388, path: 131, explanation: (von, 1.00014)
+score: 1.000115397824646, path: 157, explanation: (von, 1.00012)
+score: 1.000115397824646, path: 31, explanation: (von, 1.00012)
+score: 1.0000987323096313, path: 107, explanation: (temperatur, 1.00010)
+score: 1.0000916539400568, path: 139, explanation: (temperatur, 1.00009)
+score: 1.0000916539400568, path: 21, explanation: (temperatur, 1.00009)
+score: 1.0000861595617978, path: 82, explanation: (von, 1.00009)
+score: 1.0000861595617978, path: 20, explanation: (von, 1.00009)
+score: 1.0000823002872337, path: 147, explanation: (temperatur, 1.00008)
+score: 1.0000823002872337, path: 11, explanation: (temperatur, 1.00008)
+score: 1.0000692394086526, path: 78, explanation: (temperatur, 1.00007)
+score: 1.000063044118402, path: 167, explanation: (temperatur, 1.00006)
+score: 1.0000475142288026, path: 205, explanation: (von, 1.00005)
+score: 1.0000431185217091, path: 89, explanation: (von, 1.00004)
+score: 1.0000428703402207, path: 126, explanation: (von, 1.00004)
+score: 1.0000411127941182, path: 72, explanation: (von, 1.00004)
+score: 1.0000411127941182, path: 18, explanation: (von, 1.00004)
+score: 1.0000410731736935, path: 127, explanation: (von, 1.00004)
+score: 1.0000404750837948, path: 90, explanation: (von, 1.00004)
+score: 1.000036946866608, path: 116, explanation: (von, 1.00004)
+score: 1.0000367680200455, path: 91, explanation: (von, 1.00004)
+score: 1.0000363930141483, path: 95, explanation: (von, 1.00004)
+score: 1.0000037155872867, path: 50, explanation: (von, 1.00000)
+
+
+
+
+TESTCASE 24
+Error: 100.0
+Query: Gewicht von Schmersaal
+--------------------------------------------------
+score: 2.0010275906454575, path: 230, explanation: (bewert, 1.00033) + (von, 1.00070)
+score: 2.0010275906454575, path: 27, explanation: (bewert, 1.00033) + (von, 1.00070)
+score: 2.000983702542735, path: 234, explanation: (bewert, 1.00006) + (von, 1.00093)
+score: 2.000983702542735, path: 34, explanation: (bewert, 1.00006) + (von, 1.00093)
+score: 2.0009057861911197, path: 108, explanation: (bewert, 1.00063) + (von, 1.00027)
+score: 2.0009057861911197, path: 33, explanation: (bewert, 1.00063) + (von, 1.00027)
+score: 2.0007657162552737, path: 140, explanation: (bewert, 1.00007) + (von, 1.00069)
+score: 2.0007657162552737, path: 22, explanation: (bewert, 1.00007) + (von, 1.00069)
+score: 2.0006420459513814, path: 155, explanation: (bewert, 1.00020) + (von, 1.00044)
+score: 2.0005815645674643, path: 166, explanation: (bewert, 1.00055) + (von, 1.00003)
+score: 2.0005625816052177, path: 71, explanation: (bewert, 1.00030) + (von, 1.00026)
+score: 2.000559030715318, path: 129, explanation: (bewert, 1.00011) + (von, 1.00045)
+score: 2.000545483119069, path: 145, explanation: (bewert, 1.00002) + (von, 1.00052)
+score: 2.0005103342495287, path: 165, explanation: (bewert, 1.00012) + (von, 1.00040)
+score: 2.0005103342495287, path: 143, explanation: (bewert, 1.00012) + (von, 1.00040)
+score: 2.0004792307363437, path: 161, explanation: (bewert, 1.00022) + (von, 1.00026)
+score: 2.0004792307363437, path: 14, explanation: (bewert, 1.00022) + (von, 1.00026)
+score: 2.000410225939654, path: 102, explanation: (bewert, 1.00030) + (von, 1.00011)
+score: 2.0004046133477003, path: 146, explanation: (bewert, 1.00000) + (von, 1.00040)
+score: 2.0003095031064846, path: 84, explanation: (bewert, 1.00005) + (von, 1.00026)
+score: 2.0002697564920457, path: 171, explanation: (bewert, 1.00000) + (von, 1.00027)
+score: 2.0002697564920457, path: 15, explanation: (bewert, 1.00000) + (von, 1.00027)
+score: 2.0002226518621606, path: 162, explanation: (bewert, 1.00001) + (von, 1.00022)
+score: 2.0002226518621606, path: 159, explanation: (bewert, 1.00001) + (von, 1.00022)
+score: 2.0002226518621606, path: 149, explanation: (bewert, 1.00001) + (von, 1.00022)
+score: 2.0001923990304316, path: 169, explanation: (bewert, 1.00001) + (von, 1.00019)
+score: 2.0001923990304316, path: 164, explanation: (bewert, 1.00001) + (von, 1.00019)
+score: 2.0001923990304316, path: 150, explanation: (bewert, 1.00001) + (von, 1.00019)
+score: 2.0001497672723607, path: 66, explanation: (bewert, 1.00007) + (von, 1.00008)
+score: 2.000140964053249, path: 130, explanation: (bewert, 1.00004) + (von, 1.00010)
+score: 2.000134535395917, path: 142, explanation: (bewert, 1.00001) + (von, 1.00013)
+score: 2.0001128348312873, path: 127, explanation: (bewert, 1.00007) + (von, 1.00004)
+score: 2.00011119177898, path: 90, explanation: (bewert, 1.00007) + (von, 1.00004)
+score: 2.0001100831620233, path: 89, explanation: (bewert, 1.00007) + (von, 1.00004)
+score: 2.000101007859036, path: 91, explanation: (bewert, 1.00006) + (von, 1.00004)
+score: 2.0000974096154893, path: 106, explanation: (bewert, 1.00003) + (von, 1.00007)
+score: 2.0000928047442637, path: 126, explanation: (bewert, 1.00005) + (von, 1.00004)
+score: 2.0000664833536677, path: 80, explanation: (bewert, 1.00006) + (von, 1.00001)
+score: 2.0000664833536677, path: 70, explanation: (bewert, 1.00006) + (von, 1.00001)
+score: 2.0000664833536677, path: 3, explanation: (bewert, 1.00006) + (von, 1.00001)
+score: 2.0000656367837837, path: 116, explanation: (bewert, 1.00003) + (von, 1.00004)
+score: 2.0000646528547668, path: 95, explanation: (bewert, 1.00003) + (von, 1.00004)
+score: 1.0124107800049336, path: 118, explanation: (bewert, 1.01241)
+score: 1.0051354951744553, path: 225, explanation: (bewert, 1.00514)
+score: 1.003044304516853, path: 196, explanation: (von, 1.00304)
+score: 1.0025572157941565, path: 43, explanation: (von, 1.00256)
+score: 1.0025572157941565, path: 8, explanation: (von, 1.00256)
+score: 1.002204496374273, path: 180, explanation: (von, 1.00220)
+score: 1.0018803057309975, path: 42, explanation: (von, 1.00188)
+score: 1.0018803057309975, path: 5, explanation: (von, 1.00188)
+score: 1.0015149382666804, path: 138, explanation: (von, 1.00151)
+score: 1.0014925384012587, path: 46, explanation: (von, 1.00149)
+score: 1.0012486405244905, path: 32, explanation: (von, 1.00125)
+score: 1.0010914945462863, path: 158, explanation: (von, 1.00109)
+score: 1.00108707562087, path: 210, explanation: (bewert, 1.00109)
+score: 1.0009889784839279, path: 132, explanation: (von, 1.00099)
+score: 1.0009081058540195, path: 115, explanation: (bewert, 1.00091)
+score: 1.0008196204468451, path: 38, explanation: (von, 1.00082)
+score: 1.0008196204468451, path: 24, explanation: (von, 1.00082)
+score: 1.0008061840460771, path: 174, explanation: (von, 1.00081)
+score: 1.0008006954841893, path: 187, explanation: (bewert, 1.00080)
+score: 1.0006974224893155, path: 151, explanation: (von, 1.00070)
+score: 1.0006974224893155, path: 12, explanation: (von, 1.00070)
+score: 1.000668553148799, path: 48, explanation: (von, 1.00067)
+score: 1.0006682619671141, path: 148, explanation: (von, 1.00067)
+score: 1.0006608343582766, path: 122, explanation: (von, 1.00066)
+score: 1.0006561770732807, path: 62, explanation: (von, 1.00066)
+score: 1.0006431629260957, path: 64, explanation: (von, 1.00064)
+score: 1.0006310566104204, path: 185, explanation: (bewert, 1.00063)
+score: 1.000627999949449, path: 69, explanation: (von, 1.00063)
+score: 1.0006088609033705, path: 17, explanation: (von, 1.00061)
+score: 1.0005955160068583, path: 125, explanation: (von, 1.00060)
+score: 1.0005947013474783, path: 60, explanation: (von, 1.00059)
+score: 1.0005811854077629, path: 193, explanation: (von, 1.00058)
+score: 1.0005767488779327, path: 112, explanation: (von, 1.00058)
+score: 1.0005327532904493, path: 173, explanation: (von, 1.00053)
+score: 1.0005327532904493, path: 9, explanation: (von, 1.00053)
+score: 1.0005073840861423, path: 61, explanation: (von, 1.00051)
+score: 1.0004753189208468, path: 58, explanation: (von, 1.00048)
+score: 1.0004749657864331, path: 172, explanation: (von, 1.00047)
+score: 1.0004749657864331, path: 36, explanation: (von, 1.00047)
+score: 1.0004621046055606, path: 170, explanation: (von, 1.00046)
+score: 1.0004582824003865, path: 39, explanation: (von, 1.00046)
+score: 1.000457930687109, path: 144, explanation: (von, 1.00046)
+score: 1.000457930687109, path: 10, explanation: (von, 1.00046)
+score: 1.0004398880379857, path: 134, explanation: (von, 1.00044)
+score: 1.0004230947728954, path: 94, explanation: (bewert, 1.00042)
+score: 1.00041921570396, path: 141, explanation: (von, 1.00042)
+score: 1.00041921570396, path: 133, explanation: (von, 1.00042)
+score: 1.0004098102234225, path: 63, explanation: (von, 1.00041)
+score: 1.0004080294076771, path: 163, explanation: (von, 1.00041)
+score: 1.0004080294076771, path: 26, explanation: (von, 1.00041)
+score: 1.0003970831978504, path: 45, explanation: (von, 1.00040)
+score: 1.0003939930160297, path: 111, explanation: (bewert, 1.00039)
+score: 1.0003939930160297, path: 103, explanation: (bewert, 1.00039)
+score: 1.0003301053090563, path: 231, explanation: (von, 1.00033)
+score: 1.0003301053090563, path: 28, explanation: (von, 1.00033)
+score: 1.0003261754839485, path: 54, explanation: (von, 1.00033)
+score: 1.0003167110856175, path: 168, explanation: (von, 1.00032)
+score: 1.0003167110856175, path: 136, explanation: (von, 1.00032)
+(target) score: 1.0003109172443825, path: 121, explanation: (bewert, 1.00031)
+score: 1.0002783616611925, path: 41, explanation: (von, 1.00028)
+score: 1.0002553074743872, path: 76, explanation: (bewert, 1.00026)
+score: 1.0002460438544731, path: 232, explanation: (von, 1.00025)
+score: 1.0002460438544731, path: 160, explanation: (von, 1.00025)
+score: 1.0002460438544731, path: 13, explanation: (von, 1.00025)
+score: 1.0002409436991981, path: 137, explanation: (von, 1.00024)
+score: 1.0002409436991981, path: 35, explanation: (von, 1.00024)
+score: 1.0002320522499235, path: 123, explanation: (von, 1.00023)
+score: 1.0002225601213366, path: 154, explanation: (von, 1.00022)
+score: 1.000217697144792, path: 29, explanation: (von, 1.00022)
+score: 1.000210297351493, path: 81, explanation: (von, 1.00021)
+score: 1.0002077910992002, path: 153, explanation: (von, 1.00021)
+score: 1.000207062007624, path: 175, explanation: (von, 1.00021)
+score: 1.0001985415989252, path: 52, explanation: (von, 1.00020)
+score: 1.0001985415989252, path: 23, explanation: (von, 1.00020)
+score: 1.0001927065406298, path: 65, explanation: (von, 1.00019)
+score: 1.0001635048461737, path: 200, explanation: (von, 1.00016)
+score: 1.000144704379479, path: 233, explanation: (von, 1.00014)
+score: 1.0001354098911388, path: 131, explanation: (von, 1.00014)
+score: 1.000115397824646, path: 157, explanation: (von, 1.00012)
+score: 1.000115397824646, path: 31, explanation: (von, 1.00012)
+score: 1.000108725161316, path: 104, explanation: (von, 1.00011)
+score: 1.0000935852074715, path: 120, explanation: (von, 1.00009)
+score: 1.0000905957414086, path: 152, explanation: (von, 1.00009)
+score: 1.0000905957414086, path: 25, explanation: (von, 1.00009)
+score: 1.0000904248866391, path: 87, explanation: (von, 1.00009)
+score: 1.0000885462532603, path: 110, explanation: (von, 1.00009)
+score: 1.0000861595617978, path: 82, explanation: (von, 1.00009)
+score: 1.0000861595617978, path: 20, explanation: (von, 1.00009)
+score: 1.0000682895440847, path: 176, explanation: (von, 1.00007)
+score: 1.0000475142288026, path: 205, explanation: (von, 1.00005)
+score: 1.0000411127941182, path: 72, explanation: (von, 1.00004)
+score: 1.0000411127941182, path: 18, explanation: (von, 1.00004)
+score: 1.0000037155872867, path: 50, explanation: (von, 1.00000)
