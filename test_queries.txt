@@ -1,35 +1,24 @@
-Artech c32 hp1 atex,01-01_Identifikation/Typenschild_3.txt
-Artech c32 hp1 atex,02-01_Technische Spezifikation/Produktinformationen.pdf
-ATEX,01-01_Identifikation/Typenschild_3.txt
-ATEX,02-01_Technische Spezifikation/Produktinformationen.pdf
-Ultraschallkonverter Artech,01-01_Identifikation/Typenschild_3.txt
-Ultraschallkonverter Artech,02-01_Technische Spezifikation/Produktinformationen.pdf
-Ultraschallkonverter Artech atex,01-01_Identifikation/Typenschild_3.txt
-Ultraschallkonverter Artech atex,02-01_Technische Spezifikation/Produktinformationen.pdf
-Druck glasdeckel,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
-Druck glasdeckel,01-01_Identifikation/Schauglas.txt
-Glasdeckel 230,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
-Glasdeckel 230,01-01_Identifikation/Schauglas.txt
-Glasdeckel Material,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
-Glasdeckel Material,01-01_Identifikation/Schauglas.txt
-Glasdeckel Werkstoff,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
-Glasdeckel Werkstoff,01-01_Identifikation/Schauglas.txt
-glasdeckel hersteller,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
-glasdeckel hersteller,01-01_Identifikation/Schauglas.txt
-Absackmaschine Rührwerk,"03-04_Inspektion, Wartung, Prüfung/Wartung der Absackmaschine.pdf"
-Absackmaschine Rührwerk,01-01_Identifikation/Typenschild Absackmaschine.txt
-Absackmaschine Wagner,"03-04_Inspektion, Wartung, Prüfung/Wartung der Absackmaschine.pdf"
-Absackmaschine Wagner,01-01_Identifikation/Typenschild Absackmaschine.txt
-Torex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
-Torex,01-01_Identifikation/Typenschild.jpg
-Torex atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
-Torex atex,01-01_Identifikation/Typenschild.jpg
-Torex valve,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
-Torex valve,01-01_Identifikation/Typenschild.jpg
-Torex valve atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf"
-Torex valve atex,01-01_Identifikation/Typenschild.jpg
-Ablasshahn,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Ablasshahn Zeichnung,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Ablassschieber,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Ablassventil,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
-Kugelhahn,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf"
+Artech c32 hp1 atex,01-01_Identifikation/Typenschild_3.txt,02-01_Technische Spezifikation/Produktinformationen.pdf
+ATEX,01-01_Identifikation/Typenschild_3.txt,02-01_Technische Spezifikation/Produktinformationen.pdf
+Ultraschallkonverter Artech,01-01_Identifikation/Typenschild_3.txt,02-01_Technische Spezifikation/Produktinformationen.pdf
+Ultraschallkonverter Artech atex,01-01_Identifikation/Typenschild_3.txt,02-01_Technische Spezifikation/Produktinformationen.pdf
+Druck glasdeckel,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf,01-01_Identifikation/Schauglas.txt
+Glasdeckel 230,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf,01-01_Identifikation/Schauglas.txt
+Glasdeckel Material,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf,01-01_Identifikation/Schauglas.txt
+Glasdeckel Werkstoff,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf,01-01_Identifikation/Schauglas.txt
+glasdeckel hersteller,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf,01-01_Identifikation/Schauglas.txt
+Absackmaschine Rührwerk,"03-04_Inspektion, Wartung, Prüfung/Wartung der Absackmaschine.pdf",01-01_Identifikation/Typenschild Absackmaschine.txt
+Absackmaschine Wagner,"03-04_Inspektion, Wartung, Prüfung/Wartung der Absackmaschine.pdf",01-01_Identifikation/Typenschild Absackmaschine.txt
+Torex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf",01-01_Identifikation/Typenschild.jpg
+Torex atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf",01-01_Identifikation/Typenschild.jpg
+Torex valve,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf",01-01_Identifikation/Typenschild.jpg
+Torex valve atex,"02-04_Zeugnisse, Zertifikate, Bescheinigungen/Ex Zertifikat.pdf",01-01_Identifikation/Typenschild.jpg
+Ablasshahn,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf",
+Ablasshahn Zeichnung,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf",
+Ablassschieber,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf",
+Ablassventil,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf",
+Kugelhahn,"02-02_Zeichnungen, Pläne/Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf",
+Schaltskizze KA57B,03-02_Bedienung/Betreibsanleitung Getriebe.pdf,
+Lochkreis von 221 012,01-01_Identifikation/Schauglas.txt,
+Temperatur von MT100LH04145,03-02_Bedienung/Doku-Elektromotor-neuS 4_T-A3-0212_DE.pdf,
+Gewicht von Schmersaal,02-01_Technische Spezifikation/Technische Daten Schmersal.pdf

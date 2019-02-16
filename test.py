@@ -12,10 +12,12 @@ def read_testcases(path, system_paths):
     with open(path, newline='') as csvfile:
         r = csv.reader(csvfile)
         testcases = list(r)
-        fname_indexes = filename_to_index(system_paths, list(zip(*testcases))[1])
         processed_testcases = []
         for i in range(len(testcases)):
-            processed_testcases.append((testcases[i][0], fname_indexes[i]))
+            fname_indexes = filename_to_index(system_paths, filter(None, testcases[i][1:]))
+            pt = [testcases[i][0]]
+            pt.extend(fname_indexes)
+            processed_testcases.append(pt)
         return processed_testcases
 
 def path_equal(system_path, testcase_path):
@@ -75,18 +77,25 @@ def unit_test(rootDir, testcase_path, out_file):
     for t in testcases:
         results = search_query(t[0], filentoken2tfidf, token2files, debug=True)
         all_results.append(results)
-        # where is the testcase target?
+        targets_pos = []
+        targets_scores = []
+        # where are the testcase targets?
         for i, r in enumerate(results):
-            if r[1] == t[1]:
-                # use the average of all positions with the the same score
-                start, end = range_find(list(zip(*results))[0], r[0])
-                testcase_pos_scored.append((end + start) / 2)
-                testcase_pos.append(i)
-                break
-        else:
-            # not found
-            testcase_pos.append(-1)
-            testcase_pos_scored.append(100)
+            for target in range(len(t) - 1):
+                if r[1] == t[1 + target]:
+                    # use the average of all positions with the the same score
+                    start, end = range_find(list(zip(*results))[0], r[0])
+                    targets_scores.append((end + start) / 2)
+                    targets_pos.append(i)
+
+        # how many not found?
+        not_found = len(t) - 1 - len(targets_pos)
+        targets_scores.extend([100] * not_found)
+
+        # average target scores
+        testcase_pos_scored.append(sum(targets_scores) / len(targets_scores))
+        testcase_pos.append(set(targets_pos))
+
 
     # if not found, partial error 100
     error = sum(testcase_pos_scored)
@@ -97,7 +106,7 @@ def unit_test(rootDir, testcase_path, out_file):
         for i, t in enumerate(testcases):
             out.write('\n\n\n\nTESTCASE {}\nError: {}\nQuery: {}\n{}\n'.format(i + 1, testcase_pos_scored[i], t[0], '-'*50))
             for j, res in enumerate(all_results[i]):
-                if testcase_pos[i] == j:
+                if j in testcase_pos[i]:
                     out.write('(target) ')
                 out.write('score: {}, path: {}, explanation: {}\n'.format(*res))
 
