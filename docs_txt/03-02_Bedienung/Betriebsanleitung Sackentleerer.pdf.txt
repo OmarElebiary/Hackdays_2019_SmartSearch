@@ -1,0 +1,2604 @@
+ 
+
+Betriebsanleitung
+
+Kettensackentleerer
+Typ: WAMA-SE-KE
+
+ 
+
+WAGNER Maschinen GmbH
+Muhlenweg 11
+
+61420 Oberursel
+
+Telefon: +49 (0) 6172/ 9681-0
+Telefax: +49 (0) 6172/ 9681-15
+E-Mail: zentrale@wagnermaschinen.de
+
+Ausgabe 08/10
+Originalbetriebsanleitung
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+ 
+
+SEKE2031
+
+ 
+
+Diese Betriebsanleitung ist Bestandteil der Maschine und muss
+fir das Bedienpersonal jederzeit zur Verfligung stehen.
+
+Die darin enthaltenen Sicherheitshinweise sind zu beachten.
+Bei einem Weiterverkauf der Maschine ist die Betriebsanleitung
+immer mitzuliefern.
+
+ 
+
+Ubersetzung
+
+Bei Lieferung in die Lander des EWR's ist die Betriebsanleitung
+entsprechend in die Sprache des Verwenderlandes zu Ubersetzen.
+Sollten im Ubersetzten Text Unstimmigkeiten auftreten, ist die
+Original-Betriebsanleitung (deutsch) zur Klarung heranzuziehen
+oder der Hersteller zu kontaktieren.
+
+Copyright
+
+Weitergabe sowie Vervielfaltigung dieses Dokuments, Verwertung
+und Mitteilung seines Inhalts sind verboten, soweit nicht
+ausdrucklich gestattet. Zuwiderhandlungen verpflichten zu
+Schadenersatz.
+
+Alle Rechte vorbehalten.
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+1 Inhalt
+
+1.1 Inhaltsverzeichnis
+
+ 
+ 
+
+£ NHENER
+
+Inhalt
+A Inhaltsverzeichnis
+.2Abbi|dungsverzeichnis
+.3
+
+1
+1
+1
+1 Konformitatserklarung
+
+ArWNDN
+
+2 Ubersicht und BestimmungsgemiRe
+
+Verwendung 6
+2.1 Ubersicht der Maschine 6
+2.2 Bestimmungsgemalie Verwendung 7
+2.3 Technische Daten 9
+2.3.1 Produktspezifische Daten 9
+2.3.2 Abmessungen und Gewicht 9
+2.3.3 Energieversorgung 10
+2.3.4 Pneumatikanschluss 10
+2.3.5 Allgemeine Daten 11
+
+3 Sicherheit 12
+3.1 Hinweise / Erklarungen 12
+3.1.1 Maschinenkennzeichnung 13
+3.2 Eingebaute Sicherheitssysteme 14
+3.3 Schnittstellen der Maschine 16
+3.4  SicherheitsmaBnahmen (vom Betreiber durchzufihren) 17
+35 Pflichten des Betreibers 18
+3.6 Sicherheitsprifungen 19
+4 Allgemeine Gefahrenhinweise 20
+4.1 Gefahren 20
+4.2 Gefahrenbereiche an der Anlage 21
+4.3 Bedien- und Wartungspersonal 22
+4.4 Einbau von Ersatz- und Verschleif3teilen 23
+4.5 Abschaltprozeduren 23
+5 Installation 24
+5.1 Lieferumfang 24
+5.2 Transport und Verpackung 25
+5.2.1 Lieferung (auch bei Ersatz- und Austauschteilen) 25
+5.3  Zwischenlagerung 26
+54 Transport zum Aufstellort 27
+5.4.1 Transporthinweise 28
+5.5  Aufstellung, Montage, Erstinbetriebnahme 29
+6 Funktion 31
+6.1 Aufbau und allgemeiner Funktionsablauf 32
+6.1.1 Sackzufuhrung 33
+6.1.2 Produktabtransport 34
+
+SEKE 2031 2
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+6.1.3
+
+7.1
+
+72
+
+7.21
+7.2.2
+7.2.3
+7.2.4
+725
+
+8.1
+8.2
+8.3
+8.3.1
+8.4
+8.5
+
+10
+11
+
+AN RIEN=E
+
+1.2 Abbildungsverzeichnis
+
+SEKE2031
+
+Abb.
+
+Abb.
+
+Abb.
+Abb.
+Abb.
+
+Abb.
+Abb.
+Abb.
+Abb.
+Abb.
+
+Abb.
+
+Leersackverarbeitung 35
+Bedienung 36
+Bedien-Schaltschrank 36
+Betriebsarten 38
+Handbetrieb, Risten 38
+Automatikbetrieb 38
+Einschalten der Maschine (Inbetriebnahme) 39
+Ausschalten der Maschine 39
+Ausfall von Energieversorgungen 40
+Wartung / Reinigung 41
+Schmierung Fehler! Textmarke nicht definiert.
+Reinigung 42
+Inspektionsintervall-Funktionspriifung 44
+Kontrollen 44
+Allgemeine Wartungshinweise 45
+Kontrollen an der Maschine 46
+Stoérung, Ursache, Behebung 47
+Notfall 48
+Demontage / Entsorgung 48
+2-1 Ubersicht der Maschine 6
+3-1 Schnittstellen der Maschine 16
+5-1 Lieferumfang 24
+5-2 Transport mit Kran 27
+5-3 Transport mit Gabelstapler 28
+6-1 Ubersicht der Maschine 3
+6-2 Kettenférderung 32
+6-3 Zufiihrband 33
+6-4 Produktauslauf Maschinenunterseite 34
+6-5 Leersackverdichter 35
+7-1 Bedien-Schaltschrank 36
+
+ 
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+ 
+
+A WNHENER
+
+ 
+
+1.3 Konformitatserklarung
+
+Herstellererkldarung
+im Sinne
+
+- der EG-Richtlinie-Niederspannungsrichtlinie 2006/95/EG, Anhang Il
+- der EG-Richtlinie EMV 2004/108/EG, Anhang | und Il
+- der EG-Richtlinie Maschinen 98/37/EG, Anhang Il A
+
+Hiermit erklaren wir, dass die Bauart von
+Benennung: Kettensackentleerer Nr. SEKE 2024
+Typ: Typ WAMA-SE-KE
+
+in der gelieferten Ausfiihrung den obigen Bestimmungen und den unten aufgefiihrten
+DIN EN-Normen entspricht:
+
+Harmonisierte Normen nach den Richtlinien:
+
+Richtlinie/ Ausgabe Bemerkungen
+Norm
+1
+
+- 0 mmmmmmT—
+DIN EN 62079 Erstellen von Anleitungen, Gliederung, Inhalt
+
+und Darstellung 2001 Harmonisierte Norm
+
+Richtlinie: Niederspannungsrichtlinie
+
+| 2006 |
+Sicherheit von Maschinen; Elektrische
+Ausrustung von Maschinen; Teil 1: 6.11.2007
+
+Allgemeine Anforderungen .
+|
+2004/108/EG EG-Richtlinie: EMV 2004 | ]
+DIN EN 61000-6-4: | Elektromagnetische Vertraglichkeit
+
+2007 Fachgrundnorm Stéraussendung 2.
+Industriebereich
+
+DIN EN 61000-6-2: | Elektromagnetische Vertraglichkeit
+Fachgrundnorm Storfestigkeit
+Industriebereich
+
+98/37/EG EG-Richtlinie: Maschine
+
+DIN EN ISO Sicherheit von Maschinen — Grundbegriffe, 31.12.200
+
+12100-1:2003 Allgemeine Gestaltungsleitsatze — Teil 1: Harmonisierte Norm
+Grundsatzliche Terminologie, Methodik
+
+DIN EN ISO Sicherheit von Maschinen — Grundbegriffe,
+12100 2: 2003 Allgemeine Gestaltungsleitsatze — Teil 2: 31.12.2005 | Harmonisierte Norm
+Technische Leitsatze und Spezifikationen
+
+DIN EN 620 Stetigforderer und Systeme — Sicherheits-
+und EMV- Anforderungen fur ortsfeste 24.6.2003 | Harmonisierte Norm
+2002 Gurtférderer fur Schittgut
+DIN EN ISO Ergonomie der thermischen Umgebung —
+13732-1: 2006 Bewertungsverfahren fur menschliche
+Reaktionen bei Kontakt mit Oberflachen —
+Teil 1. HeilRe Oberflachen
+
+8.5.2007 Harmonisierte Norm
+
+ 
+
+SEKE2031 4
+Kettensackentleerer
+Kettensackentleer A INHENER
+Norm
+1
+
+SicherheitvonMaschinen—
+?,”;0%’; ISO13849' SicherheitsbezogeneTeilevonSteuerungen8.5.2007 HarmonisierteNorm
+' — Teil 1: Allgemeine Gestaltungsleitsatze
+
+DIN EN ISO 13850 | Sicherheit von Maschinen — Not Halt, ..
+_ Gestaltungsleitsadtze Harmonisierte Norm 652007 | Hermanisierte Norm
+
+DIN EN ISO 13857: [ Sicherheit von Maschinen —
+
+2008 Sicherheitsabsténde gegen das Erreichen
+von Gefahrdungsbereichen mit den oberen
+und unteren Gliedmalien
+
+DINENISO14121-SicherheitvonMaschinen— ..
+1: 2007 Risikobeurteilung — Teil 1: Leitsatze M Harmonisierte Norm
+
+22.08.2008 | Harmonisierte Norm
+
+In den Normen EN 12100-1 und 2 wird zusétzlich auf folgende
+zutreffenden Normen verwiesen:
+
+DIN EN 349; DIN EN 953; DIN EN 983; DIN EN 1037; DIN EN 1088; DIN EN 13849;
+
+ 
+
+Bei einer nicht mit uns abgestimmter Anderung der Maschine verliert diese Erkldrung ihre
+Gultigkeit.
+
+Die Maschine wird betreiberseitig fertig installiert und komplettiert.
+
+Vor Inbetriebnahme ist sicherzustellen, dass die Maschine so montiert ist, dass ein
+Hineingreifen in die Gefahren- und Einzugsbereiche nicht méglich ist und alle Anschliisse wie
+Potentialausgleich (mit Isoltationsprifung), Absaugung etc., fachgerecht hergestellt sind und
+danach die Gesamt-Anlage den gesetzlichen Normen fur CE-zertifizierte Maschinen und
+Anlagen den hier aufgefiihrten und den sich ggf. dartiber hinaus ergebenden Normen
+entspricht.
+
+Oberursel, den 3. Februar 2011
+Unterschrift Geschaftsverantwortlicher
+
+(Name, Titel, Funktion)
+
+SEKE2031 5
+Ty WAMASERE ANINISIENIER
+
+ 
+
+ 
+
+ 
+
+2 Ubersicht und BestimmungsgemiRe Verwendung
+
+ 
+
+2.1 Ubersicht der Maschine
+
+ 
+
+ 
+
+Abb. 2-1 Ubersicht der Maschine
+
+Die Maschine besteht aus folgenden Hauptkomponenten:
+
+ 
+
+11 Absaughaube (wenn ohne aufgebautem
+Entstauber dann mit Anschlul® D=200 fur
+bauseitige Entstaubung
+
+Energieanschluss (Druckluft) am
+Pneumatikventil Oberseite (Option)
+
+13 Leistungssteuerung (Bedienschaltschrank)
+
+Kettensackentleerer (Grundmaschine)
+Sicherheitsabdeckung 12
+Aufgebauter Entstauber (Option)
+Antrieb Férderkette
+
+Vibrationsrinne (Option) 14
+
+Antrieb Messer
+
+Antriebe Schléager (Option) 15
+
+Revisionsturen (zzg. 1 Tur auf Rickseite) 16
+0 Kotrollschalter fur Sackrtcklauf (auch auf 17
+
+Ruckseite montiert) 18
+
+Sicherheits-Seilzug-Schalter am
+Maschineneinlauf
+
+Energieanschluss am Hauptschalter
+Sackzufiihrband (Option)
+
+Uberleitung zum Sackverdichter (Option)
+Sackverdichter (Beispiel) (Option)
+
+1
+2
+3
+4
+5 Maschinengrundgestell (Option) (Option)
+6
+7
+8
+9
+1
+
+ 
+
+SEKE2031 6
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+2.2 BestimmungsgemaRe Verwendung
+
+SEKE2031
+
+Der Kettensackentleerer dient dem Entleeren von Sacken mit
+Schuttgutern unterschiedlicher Korngréen.
+
+Die zu entleerenden Séacke werden einzeln auf ein vorgeordnetes
+Zufuhrband aufgegeben. Die Maschine besitzt zwei Forderketten-
+strange, deren Wellen je zweifach gelagert sind und durch einen
+frequenzgesteuerten Motor angetrieben werden. Ein Kreismesser
+dessen Welle zweifach gelagert ist und durch einen Getriebemotor
+angetrieben wird dient zum Aufschneiden der Sacke an der Unter-
+seite. Die entleerten Sacke sollten von einem Sackverdichter
+aufgenommen werden.
+
+Optional kann beigestellt werden (angekreuzte Optionen im
+Lieferumfang):
+
+Vollsackférderband zur Beschickung des
+Kettensackentleerers
+
+Vibrationsrinne zum Materialabtransport
+Entleerklopfeinrichtung
+
+Fullstandsmelder im Vorratstrichter
+Sackschlager Einrichtung
+
+Grundgestell
+
+Einzelentstauber
+
+Leersackverdichter
+Leersackabwurfschacht
+Leistungssteuerung
+
+weitere Optionen auf Anfrage
+
+OXKXNXOXOXO X
+
+Dieser Kettensackentleerer (sowie die optionalen Beistellungen)
+wurden ausschlielich fur die industrielle und gewerbliche Nutzung
+entwickelt, konstruiert und gebaut.
+
+Eine private Nutzung ist ausgeschlossen.
+
+Ist die Kérnung des Schuttgutes >3 mm, oder sollen andere
+Produkte und Kérnungen als auf dem Datenblatt angegeben,
+entleert werden, halten Sie Rucksprache mit der Firma Wagner.
+
+Die Maschine ist in der Standardausstattung nicht zur Verwen-
+dung in einer explosionsféhigen Atmosphére und / oder fiir
+explosionsféhige Medien (ATEX-Staub-Ex) geeignet. Sollte die
+Maschine fir den Einsatz im staubexplosionsgefédhrdeten
+Bereich ausgestattet sein, beachten Sie unbedingt auch den
+Zusatz "WAGNER-Sackentleermaschinen im staubexplosions
+geféhrdeten Bereich", der dann dieser Betriebsanleitung
+beigefiigt ist.
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+ 
+
+A INHENER
+
+Diese Maschine wurde ausschliel3lich zum oben aufgefiihrten
+Zweck bestimmt. Eine andere, dariber hinausgehende
+Benutzung oder ein Umbau der Maschine ohne schriftliche
+Absprache mit dem Hersteller gilt als nicht bestimmungsgemaéR.
+Fiir hieraus resultierende Schéden haftet der Hersteller nicht.
+Das Risiko tragt allein der Betreiber/Anlagenbauer.
+
+Die Inbetriebnahme ist so lange untersagt, bis festgestellt wurde
+das die Gesamtanlage in die diese Maschine eingebaut wird den
+Richtlinien entspricht.
+
+ 
+
+Zur bestimmungsgemalen Verwendung gehért auch die
+Einhaltung der vom Hersteller vorgeschriebenen Bedienungs- und
+Betriebsanweisungen sowie die Wartungs- und Instandhaltungs-
+bedingungen.
+
+Das Verfahren und die Haufigkeit der Reinigung sind produkt-
+abhéngig. Der Betreiber ist verpflichtet, genaue Anweisungen zur
+Reinigung und des zu verwendenden Reinigungsmittels zu
+geben. Achten Sie bei Wartungs- und Reparaturarbeiten auf die
+erforderliche Hygiene.
+
+Es kann zu metallischem Abrieb der Férderketten und Rader
+kommen!
+
+Eine riickstandslose Reinigungsfahigkeit der Anlage kann vom
+Hersteller nicht garantiert werden
+
+Verwenden Sie entsprechende Ole und Schmiermittel.
+
+ 
+
+Hinweis zur Anwendung der EG-Richtlinie EMV 2004/108/EG:
+Lt. DIN EN 61000-6-4 (Fachgrundnorm Stéraussendung,
+Industriebereich) darf die Maschine / Anlage nicht im
+Wohnbereich, in Geschéfts- und Gewerbebereichen sowie in
+Kleinbetrieben betrieben werden, es sei denn sie erflillt auch die
+Norm DIN EN 61000-6-3 (Stéraussendung, Wohnbereich).
+
+ 
+
+SEKE2031 8
+Ty WAMASERE A WHENER
+
+2.3 Technische Daten
+2.3.1 Produktspezifische Daten
+
+ 
+
+ 
+
+Die ftir den bestimmungsgemaéalien Betrieb der Maschine einzu-
+setzenden Materialien/Medien werden durch den Betreiber der
+Maschine beschafft und eingesetzt. Die sachgerechte
+Behandlung dieser Materialien/Medien und die damit
+verbundenen Gefahren unterliegen der alleinigen Verantwortung
+des Betreibers. Gefahren- sowie Entsorgungshinweise miissen
+vom Betreiber beigestellt werden. Die Sicherheitsdatenblétter der
+Material- und Medienhersteller sind zu beachten.
+
+ 
+
+Produkte nicht gesundheitsgeefahrliche und
+nicht explosionsfahige pulverférmige
+Schuttglter, rieselnd, freiflieBend,
+nicht klebend oder staubend
+
+Kornung @ bis max. 3mm
+Stiickgewicht (Sackgewicht) max. 50 kg
+SackgroRe (LxBxH) max. 1000 x 800 x 250 mm
+
+min. 550 x 450 x 130 mm
+
+Durchlaufgeschwindigkeit: max. .3,5 Stck/ min
+
+2.3.2 Abmessungen und Gewicht
+
+Maschine
+
+Lange: ca. 2.840 mm
+Breite: ca. 1.600 mm
+Héhe: ca. 1.500 mm
+Gewicht: ca. 1.200 kg
+
+Bedien-Schaltschrank
+
+Lange: ca. 1000 mm
+Breite: ca. 800 mm
+Tiefe: ca. 300 mm
+Gewicht: ca. 100 kg
+
+ 
+
+SEKE2031 9
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+2.3.3 Energieversorgung
+
+ 
+
+Betriebsspannung:
+
+Phasenzahl:
+Mittelpunktsleiter:
+
+Schutzleiter:
+Frequenz:
+
+Schutzklasse:
+Installationsvorschrift:
+
+ 
+
+ 
+
+3 AC 230/460V
++6%,-10%
+
+3 Ph/PE
+
+belastbarer N
+
+(in der Anlage)
+separater SL (gelbgriin)
+(in der Anlage)
+60Hz+1%
+
+IP 55
+
+ausgefiuhrt nach VDE
+
+Bei Maschinen mit Anpass-Transformator ist unbedingt darauf zu
+achten, dass bei Anderung der Netzform oder des Erdungs-
+prinzips mit dem Maschinenhersteller Riicksprache gehalten
+wird. Bei unsachgemélRem Einbau kann es zu Zerstérungen an
+elektronischen Bauteilen kommen (Hervorgerufen durch
+Uberstrom oder Uberspannung). Die angegebenen Spannungen
+midissen unbedingt eingehalten werden.
+
+Einspeisung (abhangig von Optionen, siehe auch
+
+Elektrodokumentation)
+Anschlusswert:
+Vorsicherung:
+
+Leitungsquerschnitt Zuleitung:
+
+Angaben zu den Hilfsspannungen
+Magnetventile und Meldeleuchten:
+
+2.3.4 Pneumatikanschluss
+
+SEKE2031
+
+Betriebsdruck:
+
+max. 8 KW
+
+max. 35 A
+min. 6 mm?Cu
+24 \/ DC
+
+min. 3,5 bar
+max. 6 bar
+
+Die Druckluft muss frei von aggressiven Stauben und Gasen ,
+
+trocken und ungedlt sein.
+
+ 
+
+10
+Kettensackentleerer [& l/\l F:] E N E Q
+
+Typ WAMA-SE-KE
+
+ 
+
+2.3.5 Allgemeine Daten
+
+Umgebungstemperaturbereich
+
+untere Grenztemperatur - 10°C
+obere Grenztemperatur +40°C
+Relative Luftfeuchte: ca. 65 %
+Gerauschpegel
+
+Schalldruckpegel (It. Messprotokoll) Lea = 80-84 dB (A)
+
+Es wird empfohlen einen Gehdrschutz wéhrend des Aufenthalts
+an der Maschine zu tragen.
+
+SEKE2031
+
+11
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+A INHENER
+
+ 
+ 
+
+ 
+
+3 Sicherheit
+
+ 
+
+ 
+
+3.1 Hinweise / Erklarungen
+
+ 
+
+o
+&
+A
+G
+A
+
+ 
+
+SEKE2031
+
+ 
+
+Betriebsanleitung verbindlich
+ist mit einem ,Buch” gekennzeichnet.
+
+ 
+
+ 
+
+Warnungen
+sind mit einem ,STOP-Schild“ gekennzeichnet.
+
+ 
+
+ 
+
+Gefahrenhinweise
+sind mit einem Warndreieck gekennzeichnet.
+
+ 
+
+ 
+
+Hinweise
+sind mit einer ,Hand“ gekennzeichnet.
+
+ 
+
+ 
+
+Gefahren durch elektrischen Strom
+sind mit nebenstehendem Symbol gekennzeichnet.
+
+ 
+
+Gefahren durch Gefdhrdung der Atemluft durch Staub sind mit
+nebenstehendem Symbol gekennzeichnet.
+
+Achten Sie beim Riisten, Warten und bei Reparaturarbeiten auf
+die Gefahren durch Staub!
+
+ 
+
+Gefahren durch laufende Maschinen (Einzugsgefahr !)
+sind mit nebenstehendem Symbol gekennzeichnet.
+
+ 
+
+ 
+
+Quetschgefahren
+sind mit nebenstehendem Symbol gekennzeichnet.
+
+ 
+
+ 
+
+1
+
+N
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+@_15
+
+ol®
+®®
+
+A INHENER
+
+Warnung
+Ein Bereich, dessen Zutritt fiir Unbefugte verboten ist, ist mit
+nebenstehendem Symbol gekennzeichnet.
+
+Schutzleiteranschluss
+ist an den Anschlussstellen durch dieses Symbol
+gekennzeichnet.
+
+ 
+
+In Bereichen, die mit nebenstehendem Symbol gekennzeichnet
+sind, sind offene Flammen verboten bzw. herrscht Rauchverbot.
+
+3.1.1 Maschinenkennzeichnung
+
+SEKE2031
+
+Die Angaben in dieser Betriebsanleitung gelten nur fur die
+Maschine, deren Bezeichnung auf dem Titelblatt angegeben ist.
+Das Typenschild mit der Maschinenidentifikation ist an
+
+der AuRenwand neben der Revisionstur der Maschine befestigt.
+
+Wichtig flir alle Riuickfragen ist die richtige Angabe der
+Identifikation der Maschine. Nur so ist eine einwandfreie und
+schnelle Bearbeitung maéglich.
+
+ 
+
+13
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+ 
+
+AN AN N =,
+
+3.2 Eingebaute Sicherheitssysteme
+
+Die eingebauten Sicherheitssysteme sind in regelméafigen
+Prifintervallen (t = taglich, w = wéchentlich, m = monatlich,
+j = jahrlich) zu prifen.
+
+Die dabei angewandten Prifmethoden sind:
+
+S = Sichtprifung, F = Funktionsprufung, M = Messung.
+
+Netztrenneinrichtung (Hauptschalter) m
+Bei Betatigung des Hauptschalters wird die 2
+
+Intervall | Methode
+
+Maschine mit dem Stromnetz verbunden
+bzw. vom Stromnetz getrennt. Der
+Hauptschalter befindet sich am Bedien-
+Schaltschrank
+
+ 
+
+Wenn wegen der Durchfiihrung von Reinigungs-, Wartungs- und
+Reparaturarbeiten der Hauptschalter (oder Wartungsschalter)
+ausgeschaltet wird, ist dieser mit einem Vorhdngeschloss gegen
+unbefugtes Wiedereinschalten zu sichern.
+
+ 
+
+Absperrventil Pneumatik
+
+Bei Betatigung des Druckmindererventils
+wird die Drucklufteinspeisung in die Ma-
+schine unterbrochen. Das Druckminderer-
+ventil befindet sich an der Wartungseinheit.
+
+Intervall | Methode
+
+          
+
+ 
+ 
+
+Not-Halt-System
+
+Die Maschine ist mit einem Not-Halt-
+System ausgerustet. Der Not-Halt-Taster
+befindet sich am Bedien-Schaltschrank
+und 2 weitere Not-Halttaster wewrden
+lose geliefert zum Anbau am Ein-und
+Auslauf der Maschine auf3en. Ein
+Seilzugschalter ist im Einlauf Gber dem
+Band angebracht. 4 Sackumlaufschalter
+sind im Auslauf montiert. Durch
+Betatigung wird die Maschine angehalten
+und in einen sicheren Betriebszustand
+Uberfihrt. Durch Ziehen oder
+Rechtsdrehung kénnen die Not-Halt-
+Taster entriegelt werden.
+
+Intervall | Methode
+
+ 
+ 
+
+Der jeweilige Not-Halt-Taster darf erst dann entriegelt werden,
+wenn die Ursache der Auslésung geklért und beseitigt ist.
+Die Maschine ist dann neu anzufahren.
+
+SEKE2031 14
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+SEKE2031
+
+ 
+
+Wartungstiiren
+
+Im Maschinengehause befinden sich m
+Wartungsturen, die nur mit einem
+
+Sicherheitsschliissel bzw. Werkzeug Intervall | Methode
+gedffnet werden kénnen und mit “—
+
+Sicherheitsendschalter (Pos.1) gesichert
+sind.
+
+ 
+
+ 
+
+Warnungen
+
+Maschinen die ohne Sicherheitsschalter geliefert werden, sind
+vom Betreiber/ Anlagenbauer gemél3 den gliltigen Vorschriften
+nachzurtsten.
+
+Maschinensteuerung
+Die l\./laschme':nsteuerung ist intern mit einem m
+5-Leiter-Zuleitungssystem, 3-Phasen,
+
+mit belastbarem MP und separater
+
+Erdleitung ausgefiihrt mit GRUN/GELBer —m
+
+Leitungsumhillung.
+
+ 
+
+Der Betreiber hat sicherzustellen, dass das Betreten des
+Bedienbereiches durch unbefugte Personen (kein Bedien- und
+Wartungspersonal) verhindert wird.
+
+Der Bedien-Schaltschrank kann nur mit einem Spezialschliissel
+geodffnet werden. Der Spezialschliissel darf nur an eine
+autorisierte Person ausgehéandigt werden. Bitte sorgen Sie dafiir,
+dass Tiren / Klappen der Elektroschrénke nur vom Fachpersonal
+flir Wartungsarbeiten und Stérungssuche gedffnet werden und
+sonst verschlossen sind!
+
+ 
+
+Das Bedien- und Wartungspersonal wird auf Wunsch und nach
+Bestellung am Aufstellort der Maschine vom Personal der Fa.
+Wagner ausgebildet. Sollten Fragen oder Unsicherheiten
+auftreten, bitte bei der Fa. Wagner nachfragen.
+
+Diese Betriebsanleitung ist Bestandteil der Anlage und muss fiir
+das Bedienpersonal jederzeit zur Verfliigung stehen.
+Die darin enthaltenen Sicherheitshinweise sind zu beachten.
+
+Es ist strengstens untersagt, die Sicherheitseinrichtungen auller
+Kraft zu setzen oder in ihrer Wirkungsweise zu verédndern.
+
+15
+oy PNIAEENEE
+
+3.3 Schnittstellen der Maschine
+
+ 
+
+Abb. 3-1 Schnittstellen der Maschine
+
+Die Maschine hat die bezeichneten Schnittstellen, die je nach
+Lieferumfang geschlossen, verbunden oder angeschlossen werden
+muissen. Bei der Komplettierung vom Betreiber/ Anlagenbauer sind alle
+geltenden Vorschriften einzuhalten und zu prifen, insbesondere die
+Sicherheitsvorschriften.
+
+ 
+
+AnschluR D=200 fur bauseitige Entstaubung
+Einlauf Kettensackentleerer mit Flansch fur
+Sicherheitsabdeckung
+
+AnschluRkasten Antriebe/Schalter
+Sicherheitsabdeckung Einlauf (Option)
+Maschinengrundgestell (Option)
+
+11 Kotrollschalter fur Sackriicklauf (auch auf
+Ruckseite montiert)
+
+12 Vibrationsrinne mit Produktauslauf D=250-
+400mm (Option)
+
+13 Energieanschluss (Druckluft) am
+Pneumatikventil Oberseite (Option)
+
+14 Produkt-Austrittsflansch
+
+15 Sicherheits-Seilzug-Schalter am
+Maschineneinlauf
+
+16 Flansch Abwurfschacht/Sackverdichter (Option
+Austritt Sackverdichter (Beispiel) (Option)
+
+Energieanschluf im Schaltschrank oder im
+separatem Hauptschalter (Option)
+Vollsack-Zufuhrband/ Sackegalisierer (Option)
+Seilzugschalter-Not-Aus tber Band im Einlauf
+2-4 Revisionstiren mit Sicherheitsschalter
+
+10 Leersack-Austritt m. Flansch fur Abwurfschacht
+
+ 
+
+SEKE2031 16
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+3.4
+
+ 
+
+3.5 SicherheitsmaRBnahmen
+(vom Betreiber durchzufiihren)
+
+SEKE2031
+
+Es wird darauf hingewiesen, dass der Betreiber sein Bedien- und
+
+Wartungspersonal:
+
+- Uber die Schutzeinrichtungen der Anlage unterweist,
+
+- bezuglich der Einhaltung der Sicherheitsmalinahmen
+Uberwacht.
+
+Der Betreiber hat sicherzustellen, dass das Betreten der
+
+Gefahrenbereiche der Anlage durch unbefugte Personen (kein
+
+Bedien- und Wartungspersonal) verhindert wird.
+
+Diese Betriebsanleitung ist fir die zukinftige Verwendung
+aufzubewahren. Die Haufigkeit von Inspektionen und
+KontrollmaRnahmen muss eingehalten werden.
+
+Die in dieser Betriebsanleitung beschriebenen Arbeiten sind so
+
+aufgefiihrt, dass sie
+
+- in der Betriebsanleitung Kapitel Bedienung und Betriebsarten
+von einer unterwiesenen Person,
+
+- in den Kapiteln Transport, Aufstellung und Montage, Wartung,
+Stérung/Ursache/Behebung von einer Fachkraft
+
+verstanden werden.
+
+Die Kapitel Transport, Aufstellung und Montage, Wartung,
+Stérung/Ursache/Behebung sind nur fiir Fachkrafte
+vorgesehen. Arbeiten, die in diesem Kapitel beschrieben sind,
+sind nur von Fachkraften auszufiihren.
+
+Unterwiesene Person
+
+Eine Person, die durch eine Fachkraft Gber die ihr Gbertragenen
+Aufgaben und die méglichen Gefahren bei unsachgemaem
+Verhalten unterrichtet und erforderlichenfalls angelernt sowie tber
+die notwendigen Schutzeinrichtungen und SchutzmaRnahmen
+belehrt wurde.
+
+Fachkraft
+
+Eine Person, die aufgrund ihrer fachlichen Ausbildung, Kenntnisse
+und Erfahrungen sowie Kenntnis der einschlagigen Normen die ihr
+Ubertragenen Arbeiten beurteilen und mégliche Gefahren
+
+erkennen kann.
+In der Definition angelehnt an die EN 60204-1.
+
+ 
+
+17
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+3.6 Pflichten des Betreibers
+
+SEKE2031
+
+In dem EWR (Européischen Wirtschaftsraum) sind die nationale
+Umsetzung der Rahmenrichtlinie (89/391/EWG) sowie die dazu-
+gehdrigen Einzelrichtlinien und davon besonders die Richtlinie
+(89/655/EWG) (iber die Mindestvorschriften fiir Sicherheit und
+Gesundheitsschutz bei Benutzung von Arbeitsmitteln durch
+Arbeitnehmer bei der Arbeit, jeweils in der gliltigen Fassung, zu
+beachten und einzuhalten. In Deutschland ist die Betriebs-
+sicherheitsverordnung vom Oktober 2002 zu beachten
+(Umsetzung der o.9. Richtlinie in nationales Recht).
+
+Der Betreiber muss sich die ortliche Betriebserlaubnis einholen
+und die damit verbundenen Auflagen beachten.
+
+Zusatzlich muss er die értlichen gesetzlichen Bestimmungen fur
+
+- die Sicherheit des Personals (Unfallverhiitungsvorschriften)
+
+- die Sicherheit der Arbeitsmittel (Schutzausriistung und
+Wartung)
+
+- die Produktentsorgung (Abfallgesetz)
+
+- die Materialentsorgung (Abfallgesetz)
+
+- den Brandschutz (Bereitstellung von geeigneten Feuerléschern
+bzw. Léschmitteln an relevanten Positionen)
+
+- die Reinigung (Reinigungsmittel und Entsorgung)
+
+- die Umweltschutzauflagen einhalten.
+
+Aullerdem ist betreiberseitig
+
+— eine standige Gefahrdungsbeurteilung der Arbeitsplatze
+durchzufiihren
+
+— die Ausbildung des Bedienpersonals zu gewahrleisten und es
+sind Betriebsanweisungen zu erstellen.
+
+Anschliisse:
+
+VVor dem Betreiben der Anlage ist vom Betreiber sicherzustellen,
+dass bei der Montage und Inbetriebnahme, wenn diese vom
+Betreiber selbst durchgefiihrt werden, die értlichen Vorschriften
+z. B. fur den Elektroanschluss beachtet werden.
+
+18
+Kettensackentleerer
+Beim Entleeren des Produktes sind die Sicherheitsdatenblétter
+des Betreibers zu beachten. Je nach Produkt kénnen sich
+Schmutz- oder Staubpartikel freisetzen. Als gesundheitsvor-
+
+sorgende MalRnahme empfehlen wir das Tragen einer Schutz-
+oder Staubmaske.
+
+ 
+
+Beleuchtung
+
+Der Betreiber muss fiir eine ausreichende und gleichméaBige
+Beleuchtung in allen Bereichen der Anlage sorgen. Als
+Beleuchtungsstérke werden 100 bis 300 Lux empfohlen
+(Wartungswert; in Deutschland gilt die ASR 7/3).
+
+E > 500 Lux (maschinenintegrierte Beleuchtung, EN 1837): x 0,7
+im Arbeitsbereich, x 0,3 im Randber.
+
+3.7 Sicherheitspriifungen
+
+vom Hersteller im Werk durchgefiihrt.
+
+1. Luftschall-Messung
+- entsprechend der Maschinen-Richtlinie,
+Anhang 1 (Position 1.7.4/f)
+
+2. Prifung und Uberpriifung nach DIN EN 60204-1
+(Ausgabe 2007)
+- Uberprifung, dass die elektrische Ausriistung mit der
+technischen Dokumentation tGbereinstimmt. (Kap. 18.1)
+
+- Durchgehende Verbindung des Schutz-
+
+leitersystems (Kap. 18.2)
+- Isolationswiderstandsprifungen (Kap. 18.3)
+- Spannungsprifungen (Kap. 18.4)
+- Schutz gegen Restspannungen (Kap. 18.5)
+- Funktionsprifungen (Kap. 18.6)
+
+Die Funktionen der elektrischen Ausriistung,
+insbesondere solcher, die sich auf Sicherheit und
+
+SchutzmalBnahmen beziehen, wurden gepruft.
+
+Die Maschine hat Schnittstellen, die je nach Lieferumfang geschlossen,
+verbunden oder angeschlossen werden mussen. Bei der Komplettierung
+vom Betreiber/ Anlagenbauer sind alle geltenden Vorschriften
+einzuhalten und zu prifen, insbesondere die Sicherheitsvorschriften.
+
+ 
+
+SEKE2031 19
+Kettensackentleerer [@3 l/\] [:I E N E Q
+
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+4 Allgemeine Gefahrenhinweise
+
+ 
+
+4.1 Gefahren
+
+Die in dieser Anleitung beschriebenen Sicherheitssysteme und
+Sicherheitshinweise sind zu beachten. Wahrend des Betriebes
+erfolgt die Bedienung vom integrierten Bedien-Schaltschrank und
+aus.
+
+Halten Sie den Bereich um die Maschine mit ihren Zu- und
+Abférdereinrichtungen sowie die Bedienerarbeitsplatze wahrend
+des Betriebes frei von Gegensténden, damit entsprechender
+Bewegungsspielraum besteht und ein ungehinderter Zugang
+
+jederzeit maéglich ist.
+
+ 
+
+Beim Einsatz der Maschine im Nahrungsmittel- oder
+Tierfutterbereich muss der Aufstellort den Hygieneanforderungen
+fir Nahrungsmittelmaschinen entsprechen. Achten Sie darauf,
+dass Sicherheitsverkleidungen und -tliren vor dem Betrieb der
+Maschine befestigt bzw. geschlossen sind. Es sind bei der
+Auswahl der Reinigungs- und Schmiermittel die Hygieneanfor-
+derungen fir Nahrungsmittelmaschinen zu beachten!
+
+Tritte und Treppen zum Bedienen dirfen nicht verwendet
+werden, wenn die Maschine in Betrieb ist. Es kann zu
+metallischem Abrieb an den Férderelementen kommen!
+
+ 
+
+ 
+
+Achten Sie beim Rusten, Warten und bei Reparaturarbeiten auf
+die Quetschgefahren!
+
+ 
+
+Achten Sie beim Riisten, Warten und bei Reparaturarbeiten auf
+alle rotierenden und beweglichen Bauteile. Einzugsgefahr!
+
+Im Gefahrenbereich muss eng anliegende Kleidung getragen
+werden.
+
+Achten Sie beim Riisten, Warten und bei Reparaturarbeiten auf
+die Gefahren durch elektrischen Strom!
+
+ 
+
+SEKE2031 20
+) PNINEENEE
+
+ 
+
+An den Antriebsmotoren entstehen hohe Temperaturen, inshe-
+sondere, wenn diese zu Reparatur- oder Wartungszwecken
+gedffnet werden bzw. der Fremdllifter ausféllt. Die Verbrenn-
+ungsgefahr fiir das Bedien- und Wartungspersonal besteht auch
+noch ldngere Zeit nach Ausschalten der Maschine. Achten Sie
+beim Riusten, Warten und bei Reparaturarbeiten auf die
+Verbrennungsgefahr durch erwédrmte Bauteile. Tragen Sie
+entsprechende persénliche Schutzausriistung.
+
+ 
+
+Bei Arbeiten in Bereichen, die mit nebenstehendem Symbol
+gekennzeichnet sind, ist entsprechende persénliche
+Schutzausriistung z.B. Schutzhandschuhe zu tragen.
+
+P
+
+P
+&
+
+Achten Sie beim Riisten, Warten und bei Reparaturarbeiten auf
+die Gefahren durch Staub! Tragen sie einen tauglichen
+Atemschutz (Staubmaske).
+
+Betreiberseitig ist in innerbetrieblichen Arbeits- und Brand-
+schutzanweisungen auf das Verbot offener Flammen und auf das
+Rauchverbot beim Umgang mit der Maschine zu verweisen.
+
+Produkt (verdichtete Sécke 15 — 40 kg. Bei Gewichten > 25 kg ist
+ein Hebezeug zu verwenden.
+
+Brand- und Explosionsgefahren werden in einer gesonderten
+ATEX-Dokumentation betrachtet.
+
+4.2 Gefahrenbereiche an der Anlage
+
+Fur die Bediener sind die Bereiche der integrierte Bedien-
+Schaltschrank sowie die Zuférderung.
+
+Beim Rusten und bei der Durchfiihrung von Reinigungs- und
+Wartungs-und Reparaturarbeiten ist der gesamte Bereich um die
+Maschine Gefahrenbereich.
+
+Der Gefahrenbereich erstreckt sich bei Riist-, Wartungs- und
+Reparaturarbeiten 1m um die Maschine bzw. Anlage. Der
+Schwenkbereich der sich 6ffnenden Schaltschranktiiren ist mit zu
+berticksichtigen. Der Betreiber hat sicherzustellen, dass das
+Betreten des Gefahrenbereiches durch unbefugte Personen
+
+ 
+
+ 
+
+SEKE2031 21
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+verhindert wird.
+
+4.3 Bedien- und Wartungspersonal
+
+SEKE2031
+
+Bedien- und Wartungspersonal sind Personen, die fur Transport,
+Montage, Installation, Betrieb, Risten und Reinigung der Anlage
+und fur die Stérungsbeseitigung zusténdig sind.
+
+Die Anlage darf nur von ausgebildeten und autorisierten
+Personen bedient werden.
+
+Die Zustandigkeiten bei der Bedienung der Anlage missen
+klar festgelegt und eingehalten werden, damit unter dem
+Aspekt der Sicherheit keine unklaren Kompetenzen auftreten.
+
+Bei allen Arbeiten (Betrieb, Wartung, Reparatur usw.) sind die
+in der Betriebsanleitung angegebenen Abschaltprozeduren
+einzuhalten.
+
+Der Bediener hat jede Arbeitsweise zu unterlassen, die die
+Sicherheit an der Anlage beeintrachtigt.
+
+Der Bediener hat mit daflir zu sorgen, dass nur autorisierte
+Personen an der Anlage arbeiten.
+
+Der Bediener ist verpflichtet, eingetretene Veranderungen an
+der Anlage, die die Sicherheit beeintrachtigen kénnen, sofort
+dem Betreiber zu melden.
+
+Der Betreiber ist verpflichtet, die Anlage immer nur in
+einwandfreiem Zustand zu betreiben.
+
+Das Bedienpersonal ist vom Betreiber entsprechend den
+gesetzlichen Auflagen und dem zu verarbeitenden Material mit
+den entsprechenden Schutzausristungen auszustatten.
+
+Der Betreiber hat zur Benutzung der persénlichen Schutzaus-
+ristungen regelméafig aufzufordern und die Einhaltung zu
+Kapkontrollieren.
+
+10. Betreiberseitig sind Betriebsanweisungen zu erstellen und
+
+anzubringen.
+
+22
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+4.4 Einbau von Ersatz- und VerschleiBteilen
+
+Wir machen ausdriicklich darauf aufmerksam, dass Ersatz- und
+Zubehérteile, die nicht von uns geliefert wurden, auch nicht von
+uns gepruft und freigegeben sind. Der Einbau und/oder die
+Verwendung solcher Produkte kann daher u. U. konstruktiv
+vorgegebene Eigenschaften lhrer Anlage negativ verandern.
+Fur Schaden, die durch die Verwendung von Nicht-Originalteilen
+und Nicht-Original-Zubehérteilen entstehen, ist die Haftung der
+Fa. Wagner ausgeschlossen.
+
+Norm-Teile kénnen lGber den Fachhandel bezogen werden.
+
+4.5 Abschaltprozeduren
+
+ 
+
+ 
+
+Vor Reinigungs-, Wartungs- oder Reparaturarbeiten (nur durch
+Fachpersonal) ist folgende Abschaltprozedur unbedingt
+einzuhalten.
+
+1. Maschine leerfahren.
+
+2. Maschine stromlos schalten:
+- Netztrenneinrichtung (Hauptschalter) am Schaltschrank
+auf 0" schalten
+- Sichern Sie den Hauptschalter mit einem
+Vorhdngeschloss gegen Wiedereinschalten.
+
+2.1 Bei Wartungs- und Reparaturarbeiten:
+- Stellen Sie sicher, dass keine Spannung anliegt
+- Maschine kurzschlieRen und erden
+- Benachbarte unter Spannung stehende Teile abdecken
+und abschranken.
+
+3. Pneumatik absperren (Option):
+- Absperrventil schlieen.
+- Priifen Sie, ob die Maschine drucklos ist.
+- Sichern Sie das Absperrventil gegen unbefugtes
+Wiederdffnen.
+
+Schlie3en Sie die gedffneten Elektroschranke bei der Reinigung,
+damit kein Wasser oder Staub eindringen kann.
+
+Bei Nichtbeachtung entstehen Gefahren fiir Leib und Leben
+des Personals!
+
+ 
+
+SEKE2031
+
+23
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 Installation
+
+51 Lieferumfang
+
+ 
+
+Abb. 5-1 Lieferumfang
+
+SEKE2031
+
+ 
+
+A WNHENER
+
+Betriebs-
+anleitung
+
+A WHENER
+
+Technische
+Unterlagen
+
+Der Lieferumfang umfasst:
+
+Nicht betriebsbereiter Kettensackentleerer ohne Leistungssteuerung
+Leersackverdichter
+
+Leiustungssteuerung
+
+Sicherheitsabdeckungen mit Not-Seilzug-Schalter
+Vollsack-Zufuhrband
+
+Leersackabwurfschacht
+
+Betriebsanleitung
+
+Technische Unterlagen
+
+0O ~NO O WN -
+
+Der detaillierte Lieferumfang ist aus der Auftragsbestétigung
+ersichtlich.
+
+ 
+
+24
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+5.2 Transport und Verpackung
+
+Vor Beginn der Lieferung erfolgt durch die Fa. Wagner eine
+Avisierung Uber den Lieferumfang.
+
+Die Avisierung enthalt Angaben Uber:
+
+- Liefertermin
+
+- Anzahl und Art der Transporteinheiten
+
+Anlagen und Maschinen der Fa. Wagner sind undverpackt und
+werden vor dem Versand sorgfaltig geprift, jedoch sind
+Beschadigungen wahrend des Transportes nicht auszuschlielen.
+Auf Wunsch und Bestellung erfolgt eine geeignete Verpackung.
+
+5.21 Lieferung (auch bei Ersatz- und Austauschteilen)
+
+SEKE2031
+
+Eingangskontrolle:
+- Kontrollieren Sie die Vollstédndigkeit anhand des Liefer-
+
+scheines!
+
+Bei Beschadigungen
+- Uberprufen Sie die Lieferung auf Beschadigungen
+(Sichtprifung)!
+
+Bei Beanstandungen
+
+Ist die Lieferung beim Transport beschadigt worden:
+
+- Setzen Sie sich sofort mit dem letzten Spediteur in
+Verbindung!
+
+- Bewahren Sie die Verpackung auf (wegen einer eventuellen
+Uberpriifung durch den Spediteur oder fur den Riickversand).
+
+Verpackung fiir den Riickversand
+
+Fur einen eventuellen Ricktransport sind die Maschinenteile so zu
+verpacken, dass eine Beschadigung wahrend eines bestimm-
+ungsgemalen Transportes auszuschlie3en ist.
+
+Sollten hierzu Fragen auftauchen, bitte Ricksprache mit der
+
+Fa. Wagner nehmen.
+
+Verpackung fiir den Transport mit einem LKW
+
+Beim Transport mit einem LKW werden die Transporteinheiten der
+Anlage auf entsprechende Transportpaletten gestellt, befestigt und
+mit Anschlagmitteln gesichert.
+
+ 
+
+25
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+5.3 Zwischenlagerung
+
+A INHENER
+
+ 
+ 
+
+Die Frachtverpackung der Anlage und der Ersatz- und
+Austauschteile ist bei Anlieferung fur eine Lagerdauer von
+3 Monaten ausgelegt.
+
+Legen Sie Trockenmittel in die Elektro- und Bedienschrénke.
+
+Lagerbedingungen
+
+- Geschlossener und trockener Raum mit einer Raumtemperatur
+von - 10° C bis + 40° C.
+
+- Die relative Luftfeuchte darf ca. 65 % (nicht kondensierend)
+betragen.
+
+Reinigen Sie niemals die Maschine oder Maschinenteile mit
+einem Dampfstrahler oder Spritzwasser. Schmutz und Wasser
+kénnen in die Maschine und den Schaltschrank eindringen und
+grolBe Schéden verursachen.
+
+SEKE2031 26
+ 
+
+Top WANASERE ZANINISIEINISE
+54 Transport zum Aufstellort
+
+Der Transport ist nur vom Fachpersonal entsprechend den
+6rtlichen Bedingungen durchzufiihren.
+
+Die Transporteinheiten werden bis zum Aufstellort vom Kunden
+auf Transportpaletten transportiert.
+
+Beachten Sie beim Transport das Gewicht der Transportein-
+heit (siehe Technische Daten). Die Transporteinheit kann beim
+Transport kippen. Achten Sie auf den Schwerpunkt. Er ist an
+der Maschine gekennzeichnet. Die Maschine ist kopflastig.
+Sichern Sie ggf. die Transporteinheit vor dem Transport mit
+entsprechenden Anschlagmitteln.
+
+ 
+
+Um eine Beschédigung der Antriebsteile zu vermeiden, darf die
+Maschine beim Transport nicht an den Motoren und Wellen-
+enden angehoben bzw. bewegt werden.
+
+Transport mit Kran
+
+- Der Kran muss fur das Gewicht der Transporteinheit
+ausgelegt sein.
+
+- Der Bediener muss zum Bedienen des Kranes berechtigt sein.
+
+- Schlagen Sie die Transporteinheit unter Beachtung der
+Anschlagpunkte mit den entsprechenden Anschlagmitteln
+(z.B. Traverse, Gurt, Mehrpunktgehange, Seile) am Kran an
+und transportieren diese.
+
+- Benutzen Sie beim Transport der elektrischen Ausriistung die
+vorhandenen Transportésen.
+
+Prinzipskizze
+
+ 
+
+Abb. 5-2 Transport mit Kran
+
+Transport mit Gabelstapler
+
+ 
+
+SEKE2031 27
+Kettensackentleerer A l/\] F:] E N E R
+
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+- Der Gabelstapler muss entsprechend dem Gewicht der
+Transporteinheit ausgelegt sein.
+
+- Der Fahrer muss zum Fahren des Gabelstaplers berechtigt
+sein.
+
+- Fahren Sie mit den Gabeln des Gabelstaplers zwischen oder
+unter die Holme der Transportpalette bzw. der
+Transporteinheit. Achten Sie dabei darauf, dass Sie mit den
+Gabeln des Gabelstaplers weit genug eingefahren sind (die
+Gabeln missen auf der Gegenseite herausragen).
+
+- Heben Sie die Transporteinheit an und transportieren diese.
+
+   
+
+Prinzipskizze
+
+Transport Schaltschrank
+
+ 
+
+Abb. 5-3 Transport mit Gabelstapler
+
+5.41 Transporthinweise
+
+Baugruppe / Gewicht je Anschlag- | Hebezeug
+Transporteinheit Transporteinheit punkte
+
+Kettensackentleerer/Rinn ca. 2000 kg | kopflastig | %, %2, ¥4 |Kran; ggf.
+e/ Gestell/ Egalisierer/ Gabelstapler
+Abwurfschacht als
+
+montierte Einheit
+
+ 
+
+Zufuhrband ca. 800 kg Transport- | Kran; ggf.
+Osen Gabelstapler
+
+Leersackverdichter ca. 1500 kg | kopflastig | Transport- | Kran; ggf.
+Gabelstapler
+
+ 
+
+ 
+
+ 
+
+SEKE2031 28
+Kettensackentleerer
+5.5 Aufstellung, Montage, Erstinbetriebnahme
+
+Die Maschine wird als anschlussfertige Einheit geliefert.
+
+Die Aufstellung, Montage und Erstinbetriebnahme ist vom
+Fachpersonal der Fa. Wagner GmbH oder Kundenfachpersonal
+durchzufiihren, dass fir diese Arbeiten entsprechend ausgebildet
+sein muss. Die Erstinbetriebnahme und funktionsfahige Uberga-
+be erfolgt auf der Grundlage der vertraglichen Vereinbarung.
+
+Um eine Beschédigung der Antriebsteile zu vermeiden, darf die
+Maschine bei der Aufstellung nicht an den Motoren und Wellen-
+enden angehoben bzw. bewegt werden.
+
+Achten Sie darauf, dass sich der Standort der Maschine beim
+Verarbeitungsprozess nicht nachteilig auf das Produkt auswirkt,
+z. B. durch Luftstréme, Stdube oder Fliissigkeiten von Leckagen,
+Kondensaten oder Aerosolen.
+
+Der Aufstellort muss ggf. den Hygieneanforderungen fiir
+Nahrungsmittelmaschinen entsprechen.
+
+ 
+
+- Prifen Sie anhand der Statik des Gebaudes, ob es fir die
+Belastung durch die Maschine ausgelegt ist.
+
+- Stellen Sie die Maschine entsprechend Aufstellungsplan und
+unter Beachtung der Produktionslinie auf und richten sie unter
+Zuhilfenahme entsprechender Messmittel (z.B. Wasserwaage)
+aus.
+
+- Komplettieren Sie die Maschinenkomponenten gemaf den
+Aufbauzeichnungen und externen Hersteller-Betriebsanlei-
+tungen auf.
+
+- Schlieen Sie den Pneumatikanschluss an die Druckluftver-
+sorgung an (Option).
+
+- SchlieRen Sie die Maschine an das Stromnetz an.
+
+- Die Justierung der Maschine erfolgt auf Wunsch und
+Bestellung bei der Erstinbetriebnahme durch das Fachpersonal
+der Fa. Wagner.
+
+Priifen Sie alle Bauteile in den Elektro- und Bedienschréanken auf
+festen Sitz. Ziehen Sie alle Schrauben und Klemmen nach
+(Elektroschaltschrank/Bedienpult, Motoren usw.). Die Schnitt-
+stellen sind im Kapitel 3.3 dieser Betriebsanleitung dargestellt.
+
+ 
+
+SEKE2031 29
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+SEKE2031
+
+A WNHENER
+
+Schrauben Sie die Sicherheits-Blechverkleidung am Maschinen-einlauf
+am Flansch fest an, bzw. sehen Sie eine geeignete
+Sicherheitsverkleidung vor. Der Betrieb ohne geeignete und
+geschlossenen Sicherheitsverkleidung ist untersagt!
+
+- SchlieBen Sie die Materialabgabe am Maschinenauslauf
+an die betreiberseitige Weiterfiihrung dicht und fest an.
+
+- Stellen Sie das Sackzufuhrband in Ausrichtung und Héhe so vor den
+
+Maschineneinlauf, dass der Sack tber die Einlauf-
+
+Rolle von den Férderketten eingezogen werden kann. Die
+Rolle ist in der Héhe verstellbar. Die richtige Héheneinstellung
+ist Voraussetzung fir die Funktion der Maschine.
+
+- Beachten Sie bei der Aufstellung des Sackzufuhrbandes die
+Drehrichtung. Die Drehrichtung ist am Antriebsmotor gekennzeichnet
+Sehen Sie die Sicherheitsschalter an den Revisionstiren und am
+
+Ubergang Zufuhrband/Egalisierer vor ( bei demontiertem Zufuhrband
+
+darf der Betrieb der Maschine/Anlage nicht mehr méglich sein (ggf.
+
+Sicherheitsschalter mit Not-Aus-Funktion))
+
+Befestigen Sie das Grundgestell im Boden
+Entfernen Sie den Messerschutz am Schneidemesser
+VORSICHT! Verletzungsgefahr! Handschuhe tragen!
+
+Das Entstaubungsrohr DN 200 ist an die Entstaubungsanlage
+anzuschlielen. Der Luftstrom muss regelbar sein.
+
+Bei Einsatz eines Aufsatzfilters ist dieser auf die Maschinen-
+Absaughaube aufzusetzen sowie fest und dicht anzuschlieRen.
+Die Motoren und alle Elektroelemente sind laut den Vorschriften
+und dem Elektroschaltplan zu ergdnzen und anzuschlief3en.
+Der Potentialausgleich ist anzuschliefen und eine
+Isolationspriifung durchzufiihren.
+
+ 
+
+Die Entstaubungsleistung muss so dimensioniert werden, dass
+der beim Entleeren entstehende Staub abgesaugt wird und kein
+Staub durch die Offnungen des Kettensackentleerers entweicht.
+
+Arbeiten an Steuerungsteilen und Motor-Klemmké&sten ddirfen nur
+vom Elektrofach-personalausgefiihrt werden.
+
+ 
+
+ 
+
+ 
+
+Alle Anbauteile miissen fest miteinander verbunden sein. Es
+muss sichergestellt sein, dass ein Hineingreifen in die Maschine
+nicht méglich ist und eine Geféhrdung durch ungewollten Einzug
+in die Maschine ausgeschlossen ist.
+
+Ggf. sind geeignete MalBnahmen vom Betreiber zu ergreifen!
+Verletzungsgefahr bis hin zur Gefahr fiir Leib und Leben!
+
+- Nehmen Sie die Maschine unter Beachtung der Angaben aus
+Kapitel 6.1 in Betrieb.
+
+ 
+
+30
+A~
+
+Typ WAMASE-KE. A WNHENER
+
+ 
+
+ 
+
+6 Funktion
+
+ 
+
+Abb. 6-1 Ubersicht der Maschine
+
+Die Maschine besteht aus folgenden Hauptkomponenten:
+
+29 Absaughaube (wenn ohne aufgebautem
+Entstauber dann mit Anschluf? D=200 fir
+bauseitige Entstaubung
+Energieanschluss (Druckluft) am
+
+Kettensackentleerer (Grundmaschine)
+Sicherheitsabdeckung 30
+
+Aufgebauter Entstauber (Option) Pneumatikventil Oberseite (Option)
+
+Antrieb Foérderkette . :
+Maschinengrundgestell (Option) 31 l(.gl:ttigrr:g);ssteuerung (Bedienschaltschrank)
+
+Vibrationsrinne (Option) 32
+Antrieb Messer
+
+Antriebe Schlager (Option) 33
+Revisionstiren (zzg. 1 Tur auf Riuckseite) 34 Sackzufthrband (Option)
+
+Sicherheits-Seilzug-Schalter am
+Maschineneinlauf
+Energieanschluss am Hauptschalter
+
+Kotrollschalter fur Sackrtcklauf (auch auf 35
+
+Ruickseite montiert) o Uberleitung zum Sackverdichter (Option)
+
+Sackverdichter (Beispiel) (Option)
+
+ 
+
+SEKE2031 31
+Kettensackentleerer
+6.1 Aufbau und allgemeiner Funktionsablauf
+
+o Kettensackentleerer ist mit einer Kettenférderung ausgestattet,
+die sechsfach gelagert ist und Uber einen frequenzgeregelten
+Getriebemotor angetrieben wird.
+
+ 
+
+Abb. 6-2 Kettenférderung
+
+e \Weiterhin ist ein Messer eingebaut welches zweifach gelagert
+ist und Uber einen separaten Getriebemotor mit konstanter
+Drehzahl angetrieben wird
+
+e Oben, im inneren Absaughaubenbereich der Maschine, sind
+Sackschlager (Option) eingebaut, die den Sack "schlagen" um
+ein besseres Entleerergebnis zu erreichen.
+
+e Diese sind je zweifach gelagert und werden von zwei
+separaten frequenzgeregelten Getriebemotoren angetrieben.
+
+o Die Foérderketten ziehen den zu entleerenden Sack in die
+Maschine ein.
+
+e Der Sack wird von Anpressrollen auf Dornen gedriickt und auf
+der Forderkette gehalten.
+
+e Nun wird der Sack von unten durch das rotierende Messer
+aufgeschnitten.
+
+e Die Sackschlager beaufschlagen den Sack wahrend des
+Durchlaufs.
+
+SEKE2031 32
+Kettensackentleerer
+Typ WAMA-SE-KE A l/\l [:} B N E R
+e Die Forderketten sind in Ihrer Lage so eingebaut, dass Sie den
+Sack wahrend des Forderns so aufklappen dass das Produkt
+im Sack herausfallen kann.
+e Der leere Sack wird am Maschinenende durch Bligel von den
+Dornen abgestreift und ausgeworfen.
+e Das Produkt fallt nach unten in einen betreiberseitigen Trichter
+oder in ein Férderorgan.
+
+e Die Maschine kann mit entsprechenden optionalen
+Beistellungen (siehe Kap. 2.2) erganzt werden.
+
+6.1.1 Sackzufiihrung/ Egalisierung (optional)
+
+Die Sackzuftihrung erfolgt Gber ein (ggf. bauseitiges) Vollsack-
+Zufuhrband. Dieses sollte frequenzgeregelt sein, um dessen
+Geschwindigkeit der Geschwindigkeit der Férderkette der
+Sackentleermaschine anpassen zu kénnen. Das Férderband darf
+nicht schneller laufen als die Férderkette.
+
+Siehe auch separate Bedienungsanleitung Anhang 4 der
+technischen Dokumentation
+
+ 
+
+ 
+
+Abb. 6-3 Zuftihrband
+
+ 
+
+SEKE2031 33
+Top WANASERE ZANINISIEINISE
+
+6.1.2 Produktabtransport (optional)
+
+Das entleerte Produkt fallt nach unten aus der Maschine heraus.
+
+Das Auffangen und der Abtransport kann erfolgen durch:
+
+— Vibrationsrinne
+
+— Férderband
+
+— Auffangtrichter mit nachgeschaltetem Férderorgan oder
+Auslass
+
+Siehe auch separate Bedienungsanleitung Anhang 4 der
+technischen Dokumentation
+
+ 
+
+Abb. 6-4 Produktauslauf Maschinenunterseite
+
+SEKE2031 34
+Kettensackentleerer A l/\] l:] E N E Rj
+
+Typ WAMA-SE-KE
+
+6.1.3
+
+Leersackverarbeitung (optional)
+
+Die entleerten Sacke gelangen aus der Maschine in einen
+Leersackverdichter, in dem diese auf ein bestimmtes
+Mindestvolumen verdichtet werden. AnschlieRen werden sie durch
+ein betreiberseitiges Sammelbehéltnis aufgenommen.
+
+Siehe auch separate Bedienungsanleitung Anhang 4 der
+
+technischen Dokumentation.
+
+ 
+
+ 
+
+Abb. 6-5 Leersackverdichter
+
+SEKE2031 35
+Top WAMASERE A AIRIEINISIS
+
+Die Maschine darf nur vom Fachpersonal bedient werden, das
+fir die Bedienung qualifiziert und geschult ist.
+
+ 
+
+ 
+
+Die Bedienung der betreiberseitigen Beistellungen sind
+entsprechend den Hinweisen der separaten Betriebsanleitungen
+durchzufiihren.
+
+71 Bedien-Schaltschrank (optional)
+
+ 
+
+ 
+
+ 
+
+Abb. 7-1 Bedien-Schaltschrank
+
+Die Leistungssteuerung befindet sich im Schaltschrank der
+Maschine. Die Beschreibung ist aus der Elektro-Dokumentation fur
+Fachpersonal zu entnehmen welche ggf. selber zu erstellen und
+auszufihren ist.
+
+ 
+
+SEKE2031 36
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+SEKE2031
+
+A INHENER
+
+Am Bedien-Schaltschrank befinden sich:
+
+ 
+
+1 Hauptschalter (Drehschalter rot/gelb)
+Bei Betatigung wird die Maschine mit dem Stromnetz
+verbunden bzw. vom Stromnetz getrennt.
+
+Wenn der Hauptschalter wegen der Durchfiihrung von Reini-
+gungs-, Wartungs- und Reparaturarbeiten ausgeschaltet wird, ist
+dieser mit einem Vorhdngeschloss gegen unbefugtes
+Wiedereinschalten zu sichern.
+
+2 Bedienfeld (Taster; Schalter)
+Auf dem Bedienfeld befinden sich alle relevanten und
+beschrifteten Bedienungselemente fur den Betrieb der
+Maschine.
+
+3 Not-Halt-Taster (Schlagtaster rot)
+Bei Betatigung wird die Anlage in einen sicheren Betriebs-
+zustand Uberfuhrt. Durch Ziehen oder Rechtsdrehung kann
+der Not-Halt-Taster wieder entriegelt werden.
+
+Der Not-Halt-Taster darf erst dann entriegelt werden, wenn die
+Ursache der Ausldsung geklért und beseitigt ist.
+Die Maschine ist dann neu anzufahren.
+
+ 
+
+Antriebe (je nach Optionen):
+
+- Frequenzgeregelte Antriebe (Férderkette/Schléager):
+Die frequenzgesteuerten Antriebe werden durch separate
+Frequenzumrichter geregelt. Die Drehzahl kann stufenlos (iber
+Potentiometer am Bedientableau eingestellt werden.
+
+- Feste Drehzahl (Messerantrieb):
+Die Drehzahlen sind dem Entleergrad anzupassen.
+
+37
+oy £ LIHENER
+
+7.2 Betriebsarten
+7.21 Automatikbetrieb
+
+Wenn die Maschine eingerichtet und das Risten abgeschlossen
+ist, kann die Maschine im Automatikbetrieb gestartet werden.
+Alle Maschinenfunktionen laufen automatisch im voreingestellten
+Takt ab.
+
+Bei Automatikbetrieb gehen Sie wie folgt vor:
+> Schalten Sie an der Steuerung auf ,Automatik®.
+> Starten Sie die Maschine mit ,Start”.
+
+7.2.2 Riisten
+
+Fur das Rusten ist es erforderlich, dass die Maschinenkompo-
+nenten in der Betriebsart ,Handbetrieb® betrieben werden kénnen.
+Diese Betriebsart wird benétigt, um alle einzelnen Funktionen des
+Maschinensystems separat einschalten und in Betrieb setzen zu
+kénnen. AuRerdem ist diese Betriebsart insbesondere fir das
+Einrichten sowie fur die Durchfihrung von Reinigungs-, Wartungs-
+und Reparaturarbeiten erforderlich.
+
+Beim Riisten der Maschine gehen Sie wie folgt vor:
+
+> Hauptschalter einschalten,
+
+> Offnen und regulieren Sie die Drucklufteinspeisung,
+
+> Justieren Sie die Maschine nach den zu verarbeitenden
+Produkten,
+
+> Stellen Sie die Produktzuftihrung sicher,
+
+> Sichern Sie die Produktabfiihrung und die Sackabnahme.
+
+Stellen Sie sicher, dass das fiir die Bedienung der Maschine
+erforderliche Personal zur Verfiigung steht und eingewiesen ist.
+
+SEKE2031 38
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+ 
+
+7.2.3 Einschalten der Maschine (Inbetriebnahme)
+
+Kontrollieren Sie vor Produktionsbeginn, dass sich keine
+anderweitigen Gegensténde (z.B. Werkzeuge oder
+Putzmaterialien) in der Maschine befinden.
+
+Beim Einschalten der Maschine gehen Sie wie folgt vor:
+
+> Kontrollieren Sie ob die Rustarbeiten abgeschlossen sind.
+
+» Schalten Sie den Hauptschalter ein.
+
+> Stellen Sie an der Steuerung (Bedienpanel) die fur den Betrieb
+der Anlage erforderlichen Produktionsparameter ein.
+
+> Die Betriebsbereitschaftsdiode muss griin leuchten und die
+
+Leuchtmelder der internen und externen Not-Ausketten sind
+
+erloschen, wenn:
+
+— die Endlagenschalter an den Reinigungs- und
+Inspektionstliren betétigt sind,
+
+— die Not-Halt-Taster am Bedientableau, am Maschinen-ein-
+und Auslauf, der Seilzugschalter und der
+Sicherheitsschalter am Zufuhrband (kundenseitig!) in
+Betriebsstellung sind (gezogen),
+
+— Kein externer Not-Halt der betreiberseitigen Steuerung
+anliegt..
+
+> Schalten Sie den Ventilator an der Taste "Ventilator" ein. Beim
+Einsatz eines bauseitigen Ventilators ist dieser in Betrieb zu
+setzen. Kontrollieren Sie die Drehrichtung des Ventilatoran-
+triebes. Ein Drehrichtungspfeil ist am Motor angebracht.
+> Schalten Sie an der Leistungssteuerung die Antriebe an den
+Schaltern ein.
+Starten Sie die Maschine am "Start" Taster. (ggf. muss ein
+externes Freigabesignal anliegen bevor ein Start méglich ist).
+> Prufen Sie, ob alle Antriebe die richtigen Drehrichtungen
+haben. Die Motoren sind mit Richtungspfeilen versehen, die
+die Drehrichtungen angeben. Falls erforderlich miissen zwei
+Phasen am Motor-Klemmkasten getauscht werden.
+
+Y
+
+7.2.4 Ausschalten der Maschine
+
+Beim Ausschalten der Maschine gehen Sie wie folgt vor:
+Unterbrechen Sie die Produktzufuhr,
+
+Driicken Sie den Taster ,Aus,
+
+Schalten Sie den Hauptschalter der Anlage in Position ,0".
+SchlieRen Sie die Drucklufteinspeisung und fiihren die
+Druckentlastung durch.
+
+YV VYV
+
+SEKE2031 39
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+
+A INHENER
+
+7.2.5 Ausfall von Energieversorgungen
+
+SEKE2031
+
+Ausfall der Elektroenergie
+
+Wenn wieder Elektroenergie anliegt ist die Maschine wieder
+betriebsbereit. Nach einer Uberpriifung des Rustzustandes kann
+die Maschine neu gestartet werden.
+
+Ausfall der Pneumatik
+
+Wenn wieder Druckluft mit dem erforderlichen Druck anliegt ist die
+Maschine wieder betriebsbereit. Nach einer Uberpriifung des
+Rustzustandes kann die Maschine neu gestartet werden.
+
+ 
+
+40
+Typ WAMASERE ZANINISIEINISE
+
+8 Wartung / Reinigung
+
+ 
+
+ 
+
+ 
+
+Das Kapitel Wartung/Reinigung ist nur fiir Fachkréfte bestimmt.
+
+Wartungs-, Reinigungs- und Reparaturarbeiten dlrfen nur vom
+Fachpersonal durchgefiihrt werden.
+
+ 
+
+Fachkraft
+
+- Eine Person, die aufgrund ihrer fachlichen Ausbildung,
+Kenntnisse und Erfahrungen sowie Kenntnis der
+einschlagigen Normen die ihr Ubertragenen Arbeiten
+beurteilen und mégliche Gefahren erkennen kann.
+
+In der Definition angelehnt an die EN 60204-1.
+
+Das Bedien- und Wartungspersonal wird am Aufstellort der
+Maschine vom Personal der Fa. Wagner ausgebildet. Sollten
+
+Fragen oder Unsicherheiten auftreten, bitte bei der Fa. Wagner
+nachfragen.
+
+ 
+
+Die Maschine ist fur eine Lebensdauer von 10 Jahren ausgelegt.
+Anschlieend ist eine Grundrevision durch den Hersteller bzw.
+einen autorisierten Fachbetrieb erforderlich.
+
+Um einen stérungsfreien Betrieb der Maschine zu ermdéglichen, ist
+es unbedingt erforderlich, dass die Maschine in regelméafigen
+Abstanden gereinigt und gewartet wird.
+
+Die Maschine unterliegt wahrend des Betriebes Vibrationen, die
+zum Lésen von Schraub- und Klemmverbindungen fuhren kénnen.
+Um Schaden vorzubeugen, kontrollieren Sie die Anlage in
+regelmaRigen Abstéanden (empfohlener Intervall bei einschichtigem
+Betrieb 3 Monate) auf lose Verbindungen.
+
+Die Wartung / Reinigung der einzelnen Zukaufkomponenten ist in
+den Hersteller-Betriebsanleitungen ersichtlich.
+
+Vor Reinigungs-, Wartungs- oder Reparaturarbeiten sind die
+Abschaltprozeduren unbedingt einzuhalten (siehe Kap. 4.5).
+Verwenden Sie nur Reinigungs- und Schmiermittel, die den
+Hygieneanforderungen fiir Nahrungsmittelmaschinen
+entsprechen.
+
+ 
+
+SEKE2031 41
+Top WAMASERE A WNHENER
+
+Vor Reinigungs-, Wartungs- oder Reparaturarbeiten (nur durch
+Fachpersonal) ist folgende Abschaltprozedur unbedingt
+einzuhalten.
+
+ 
+
+ 
+
+1. Maschine leerfahren.
+
+2. Maschine stromlos schalten:
+- Netztrenneinrichtung (Hauptschalter) am Schaltschrank
+auf 0" schalten
+- Sichern Sie den Hauptschalter mit einem
+Vorhdngeschloss gegen Wiedereinschalten.
+
+2.1 Bei Wartungs- und Reparaturarbeiten:
+- Stellen Sie sicher, dass keine Spannung anliegt
+- Maschine kurzschlieBen und erden
+- Benachbarte unter Spannung stehende Teile abdecken
+und abschranken.
+
+ 
+
+3. Pneumatik absperren:
+- Absperrventil schlie3en.
+- Priifen Sie, ob die Maschine drucklos ist.
+- Sichern Sie das Absperrventil gegen unbefugtes
+Wiederéffnen.
+
+ 
+
+SchlieRen Sie die gedffneten Elektroschrénke bei der Reinigung,
+damit kein Wasser oder Staub eindringen kann.
+
+Bei Nichtbeachtung entstehen Gefahren fiir Leib und Leben
+des Personals!
+
+ 
+
+ 
+
+Nach Betétigung des Not-Halt-Tasters ist der entsprechende
+Produktionsbereich ohne Funktion, aber alle Baugruppen stehen
+noch unter elektrischer Spannung. Spannungsfrei schalten Sie
+die Maschine durch Betétigung des Hauptschalters. Beachten
+Sie, dass danach der untere Teil des Hauptschalters noch unter
+elektrischer Spannung steht (Warnhinweisschilder beachten).
+
+ 
+
+ 
+
+ 
+
+Die zeitliche Auffiihrung ist auf Einschichtbetrieb (8 Stunden/Tag
+a 21 Tage/Monat; 12 Monate/Jahr) berechnet.
+
+t = téglich Jj = Jjahrlich
+w = wdchentlich LD = Lebensdauer
+m = monatlich”z HB = Hersteller-Betriebsanleitung
+
+J = halbjahrlich
+
+ 
+
+8.1 Reinigung
+
+ 
+
+SEKE2031 42
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+ 
+
+£ INHENER
+
+Vor Reinigungs-, Wartungs- und Reparaturarbeiten sind die
+Abschaltprozeduren unbedingt einzuhalten (siehe Kap. 4.5).
+Verwenden Sie keine scharfen Gegenstédnde oder Werkzeuge
+zur Reinigung, die nicht ausdrticklich daftir vorgesehen sind.
+
+Halten Sie den gesamten Bereich um die Maschine regelmagig sauber und
+beachten die betrieblichen Hygienevorschriften.
+Achten Sie darauf, dass die Kihlrippen der Elektromotoren nicht durch Verschmutz-
+ungen zugesetzt sind, damit keine Uberhitzungen an den Motoren entstehen
+
+kénnen; ggf. reinigen
+
+   
+
+Intervall
+
+   
+
+    
+
+      
+
+Achten Sie darauf, dass nach Schichtende die Maschine véllig leer gefahren wird
+und reinigen Sie die Anlagenkomponenten von Produktanhaftungen- Resten und
+Verunreinigungen. Beachten Sie bei der Reinigung die betrieblichen
+
+Reinigungsvorschriften.
+
+Reinigen Sie regelmaRig die Filter der Druckluftanlage. Die Reinigung erfolgt nach den
+Angaben der Filterhersteller.
+
+    
+
+ 
+
+Entsorgen Sie Produktreste, Reinigungsabfalle und Putzmaterialien umweltgerecht.
+
+ 
+
+SEKE2031 43
+—~
+
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+A INHENER
+
+ 
+ 
+
+ 
+
+8.2 Inspektionsintervall-Funktionspriifung
+
+Not-Halt-Taster
+
+Schiésser an den Schranken
+
+Drahte auf festen Sitz prifen
+
+Einstellwerte am Schutzschalter
+
+Taster und Schalter am Bedien-Schaltschrank
+
+Alle Steck-, Schraub- und Klemmverbindungen auf
+festen Sitz Uberprifen, ggf. nachziehen
+
+Sicherheitsendschalter auf Funktion prifen
+
+ 
+
+Eingestellten Luftdruck an der Wartungseinheit prifen
+(Sollvorgabe 6 bar)
+
+ 
+
+8.2.1 Kontrollen
+
+1. Fuhren Sie im Bedien-Schaltschrank eine Sichtkontrolle durch.
+
+Kontrollieren Sie:
+- die Verdrahtungen auf Knick-, Scheuer- oder
+
+Brandstellen,
+- die Abdeckungen und Isolierungen auf Beschadigungen,
+
+- die Schaltschranktiren auf Leichtgangigkeit.
+2. Fuhren Sie im Einrichtbetrieb eine Funktionsprifung aller
+
+Baugruppen durch.
+3. Sind alle Funktionen einwandfrei, erfolgt die Ubergabe der
+
+Anlage/Maschine an den Bediener.
+
+SEKE2031 44
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+A INHENER
+
+ 
+ 
+
+8.3 Allgemeine Wartungshinweise
+
+Kontrollieren Sie den richtigen und festen Stand der Maschine.
+
+Kontrollieren Sie den Sitz, die Drehfahigkeit und den Verschleil aller drehenden
+bzw. beweglichen Maschinenelemente und tauschen verschlissene Teile aus.
+
+Kontrollieren Sie die korrekte Montage der Sicherheitsverkleidung an der
+
+Produktzufuhr.
+
+Kontrollieren Sie den richtigen und festen Sitz der Elektroantriebe sowie die
+Elemente der Drehmomentibertragung auf richtigen Sitz und Verschleil3.
+Kontrollieren Sie die Pneumatikeinheit auf Leckagen und Funktion und prifen den
+Zustand aller Schlauchanschlisse sowie den anliegenden Betriebsdruck von 6 bar,
+
+ggf. regulieren.
+
+ 
+
+Die Wartung von Elektroantrieben ist nach den Hersteller-
+Angaben in den externen Hersteller-Betriebsanleitungen
+
+durchzufiihren.
+
+SEKE2031 45
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+ 
+ 
+
+AN N N =,
+
+ 
+
+8.4 Kontrollen an der Maschine
+
+Nach Beendigung der Arbeiten:
+
+- prifen Sie die Schutzleiterverbindungen der Maschine auf
+festen Sitz,
+
+- kontrollieren Sie die Vollstandigkeit der durchgeflhrten
+Reparaturarbeiten,
+
+- prifen Sie, ob ggf. Werkzeuge oder Restteile in der Maschine
+zurtickgelassen wurden.
+
+- schlieRen Sie die Elektroschranke.
+
+Nach Priifung und Austausch der Verschleil3teile kontrollieren
+Sie, ob alle Sicherheitseinrichtungen funktionsféhig sind.
+
+Sind alle Funktionen einwandfrei, erfolgt die Ubergabe der
+Anlage an den Bediener.
+
+ 
+
+SEKE2031 46
+ 
+
+e £ LIHGNER
+
+9 Stérung, Ursache, Behebung
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Die in dieser Anleitung beschriebenen Fakten und Hinweise zu
+»Stérung, Ursache, Behebung” sind so ausgefiihrt, dass sie von
+Personen mit fachlicher Ausbildung (siehe hierzu Definition
+Kap. 3.4 ,SicherheitsmalSnahmen®) in
+
+- Elektro/Elektronik
+
+- Mechanik/ Wartung
+
+verstanden werden.
+
+Diesem Personal ist entsprechendes Werkzeug und Priifmittel
+zur Verfigung zu stellen.
+
+Vor allen Wartungs- und Reparaturarbeiten sind die Abschalt-
+prozeduren (siehe Kap. 4.5) unbedingt durchzufiihren.
+
+Flhren die angegebenen MalRnahmen nicht zum Erfolg, wenden
+Sie sich bitte an die Fa. Wagner.
+
+ 
+
+Stérung Behebung
+
+ 
+
+Steuerung lasst sich nicht Hauptschalter in Stellung ,0* | Hauptschalter einschalten
+
+einschalten
+Uberstromschutz hat Fachkraft zur Stérungs-
+
+angesprochen beseitigung anfordern
+
+Not-Halt-Taster gedriickt Ursache ermitteln, beheben,
+und Not-Halt-Taster
+entriegeln, Not-Halt quittieren
+
+,Maschine stop” steht an Sicherheitsbereich nicht Sicherheitsbereich quittieren
+quittiert.
+
+Fehlfunktionen Luftdruck fehlt oder zu Ursache ermitteln, beheben
+gering und Luftdruck neu einstellen-
+
+ 
+
+ 
+
+Weitere Angaben lber ,Stérung, Ursache, Behebung” an
+Zukaufkomponenten sind in den separaten Hersteller-
+Betriebsanleitungen aufgefiihrt.
+
+SEKE2031 47
+Kettensackentleerer
+Typ WAMA-SE-KE
+
+10 Notfall
+
+A INHENEH
+
+ 
+ 
+
+ 
+
+ 
+
+Im Notfall driicken Sie den Not-Halt-Taster am Schaltschrank.
+
+Der Not-Halt-Taster kann durch Ziehen oder Rechtsdrehung
+wieder entriegelt werden.
+
+Schalten Sie ggf. den Hauptschalter aus.
+
+ 
+
+Demontage / Entsorgung
+
+ 
+
+Demontage
+
+Die Demontage darf nur vom Fachpersonal durchgeflhrt werden.
+Achten Sie darauf, dass vor Beginn der Demontagearbeiten die
+Abschaltprozeduren unbedingt eingehalten werden.
+
+Entsorgung
+
+Die Anlage ist Uberwiegend aus Stahl sowie Kunststoffteilen
+hergestellt (auRer der Elektroausriistung) und ist entsprechend
+den gliltigen 6rtlichen Umweltvorschriften zu entsorgen.
+
+ 
+
+Ole und Reinigungsmittel missen entsprechend den 6rtlichen
+Bestimmungen und unter Beachtung der Hinweise in den
+Sicherheitsdatenblatter der Hersteller entsorgt werden.
+
+Kontaminierte Reinigungswerkzeuge (Pinsel, Lappen usw.)
+mussen ebenfalls entsprechend den Angaben des Herstellers
+entsorgt werden.
+
+ 
+
+SEKE2031 48
+

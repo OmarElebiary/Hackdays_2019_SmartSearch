@@ -1,0 +1,18742 @@
+WILLBRANDT
+Der Kompensatoren
+Katalog
+Produktbeschreibungen
+Technische Daten
+Anwendungshinweise
+Berechnungsgrundlagen
+
+Inhaltsverzeichnis
+Kompensatoren-Übersicht
+
+3
+
+Balgaufbau
+Gummiqualitäten, Trägereinlagen und max. Einsatzbereich für die
+unterschiedlichen Balgtypen
+
+4
+
+Materialbeschreibung
+
+5
+
+Kompensatoren
+Typ 39
+Typ 40
+Typ 42
+Typ 45
+Typ 46
+Typ 48
+Typ 49
+Typ 50
+Typ 51
+Typ 53
+Typ 54
+Typ 55
+Typ 56
+Typ 57
+Typ 58
+Typ 59
+Typ 60
+Typ 61
+Typ 62
+Typ 63
+Typ 64
+Typ 80
+Typ 80 HD
+
+6
+6
+8
+15
+17
+18
+20
+21
+25
+31
+32
+33
+34
+36
+37
+39
+40
+41
+42
+43
+44
+45
+47
+49
+
+Begrenzer/Längenbegrenzer
+
+50
+
+Sonderteile
+Flammfeste Schutzhülle, Leitrohr, Erdabdeckhaube
+Sicherheitskompensator, Eckentlasteter Gummikompensator
+
+52
+
+Edelstahlkompensatoren
+Standardprogramm-Übersicht
+
+54
+
+Edelstahlschlauch Typ 310/311
+
+56
+
+Gewebe-Kompensator Typ 300-GEW
+
+59
+
+Planungs-, Montage- und Wartungshinweise
+
+60
+
+Anzugsmomente [Nm] der Flanschschrauben
+
+68
+
+Montage- und Wartungshinweise für Typ 64
+
+71
+
+Steckscheiben für die Montage von Gummikompensatoren mit
+Aufschweißflanschen
+
+71
+
+Montagevorschrift für Typ 80
+
+72
+
+Gummibalg-Übergangsprofile
+
+73
+
+Flansch-Anschlussmaße
+
+74
+
+Erstellung eines Bewegungsschaubildes
+
+75
+
+Kompensatoren-Übersicht
+Typ 39 DN-Bereich
+Baulänge (mm)
+
+50 - 1000
+variabel
+
+Einsatzgebiete
+Schiffbau, Industrieanlagen,
+Reparatur/Ersatz
+
+Typ 40 DN-Bereich
+Baulänge (mm)
+
+200 - 5000
+200 - 450
+
+Einsatzgebiete
+Kraftwerke, Großanlagen,
+Kläranlagen, Pipeline
+
+Typ 42 DN-Bereich
+Baulänge (mm)
+
+50 - 4000
+145 - 450
+
+Einsatzgebiete
+Schiffbau, Papierindustrie,
+Hydraulikanlagen, Kraftwerke
+
+Typ 45 DN-Bereich
+Baulänge (mm)
+
+20 - 50
+120 - 155
+
+Einsatzgebiete
+Haustechnik, Motorentechnik,
+Klimaanlagen, Sprinkleranlagen
+
+Typ 46 DN-Bereich
+
+20 - 50
+130
+
+Baulänge (mm)
+
+Einsatzgebiete
+Haustechnik, Motorentechnik
+
+Typ 48 DN-Bereich
+Baulänge (mm)
+
+Baulänge (mm)
+
+Baulänge (mm)
+
+Einsatzgebiete
+Schiffbau, Haustechnik,
+Wasser- und Klärwerke
+
+Typ 56 DN-Bereich
+Baulänge (mm)
+
+Typ 57 DN-Bereich
+Baulänge (mm)
+
+Typ 58 DN-Bereich
+Baulänge (mm)
+
+Typ 59 DN-Bereich
+Baulänge (mm)
+
+32 - 500
+100 - 110
+
+Typ 61 DN-Bereich
+
+20 - 1000
+130 - 300
+
+50 - 1000
+130 - 300
+
+20 - 600
+130 - 250
+
+Einsatzgebiete
+Anlagenbau, Haustechnik,
+Wasser- und Kläranlagen
+
+Baulänge (mm)
+Einsatzgebiete
+Hydraulikanlage
+
+32 - 125
+65 -130
+
+50 - 1000
+250
+
+Einsatzgebiete
+Industrieanlagen, Abwassertechnik, Motorentechnik
+
+Typ 62 DN-Bereich
+Baulänge (mm)
+
+70 - 1000
+variabel
+
+Einsatzgebiete
+Entwässerungssysteme für
+Brücken, Hallen
+
+Baulänge (mm)
+
+alle
+variabel
+
+Einsatzgebiete
+Sonderfreihandformartikel,
+Anlagenbau/Wandabdichtungen
+
+Typ 64 DN-Bereich
+
+Typ 54 DN-Bereich
+
+20 - 200
+70 - 90
+
+Einsatzgebiete
+Haustechnik, Industrieanlagen
+
+Einsatzgebiete
+Chemieanlagen
+
+Baulänge (mm)
+
+100 - 3000
+250 - 300
+
+Einsatzgebiete
+Schiffbau, Papierindustrie,
+Fördertechnik, feststoffhaltige
+Medien
+
+Typ 63 DN-Bereich
+
+Typ 53 DN-Bereich
+
+40 - 3000
+250 - 1000
+
+Einsatzgebiete
+Schiffbau, Papierindustrie,
+Fördertechnik, feststoffhaltige
+Medien
+
+Baulänge (mm)
+
+Einsatzgebiete
+Anlagenbau, Haustechnik,
+Gasanlagen, Kraftwerke
+
+Typ 51 DN-Bereich
+Baulänge (mm)
+
+20 - 300
+250 - 300
+
+Einsatzgebiete
+Schiffbau, Papierindustrie,
+Fördertechnik, feststoffhaltige
+Medien
+
+Typ 60 DN-Bereich
+
+Einsatzgebiete
+Haustechnik, Schiffbau,
+Anlagenbau, Waagetechnik,
+Gasanlagen
+
+Baulänge (mm)
+
+20 - 300
+100 - 1000
+
+Einsatzgebiete
+Schiffbau, Papierindustrie,
+Fördertechnik, feststoffhaltige
+Medien
+
+Baulänge (mm)
+
+Typ 50 DN-Bereich
+
+32 - 1000
+125 - 300
+
+50 - 250
+150 - 170
+
+Einsatzgebiete
+Stahlwerke, Schiffbau,
+Anlagenbau
+
+Typ 49 DN-Bereich
+
+Typ 55 DN-Bereich
+
+Baulänge (mm)
+
+alle
+variabel
+
+Einsatzgebiete
+Motorenbau, Abwassertechnik,
+Lüftungstechnik,
+Anlagenbau/Wandabdichtungen
+
+Typ 80 DN-Bereich
+Baulänge (mm)
+Einsatzgebiete
+Chemieanlagen
+
+20 - 1200
+50 - 170
+
+3
+
+4
+
+EPDM
+
+EPDM
+
+EPDM
+
+Aramid/
+Spezialcord
+
+Nyloncord
+
+Stahlcord
+
+EPDM
+
+EPDM
+
+EPDM
+
+Stahlcord
+
+Aramid/
+Spezialcord
+
+Nyloncord
+
+Perbunan
+NBR
+
+Hypalon
+CSM
+
+Hypalon
+CSM
+
+EPDM
+
+Aramid/
+Spezialcord
+
+Nylon
+
+Butyl
+IIR-D
+
+Viton®
+EPM
+
+EPDM
+
+Viton
+FPM
+
+SI
+
+Aramid/
+Spezialcord
+
+Aramid/
+Spezialcord
+
+Aramid/
+Spezialcord
+
+Viton®
+FPM
+
+Viton®
+FPM
+
+SI
+
+16/90
+
+/
+
+lila-lila
+
+16/130
+
+16/90
+
+/
+
+16/90
+
+16/80
+
+/
+
+/
+
+16/80
+
+/
+
+/
+
+/
+
+16/90
+
+16/80
+
+16/80
+
+80/120
+
+/
+
+80/150
+
+16/90
+
+16/80
+
+16/80
+
+/
+
+/
+25/150
+
+/
+/
+
+/
+
+25/150 25/150 80/150
+
+25/120
+
+/
+
+16/90
+
+/
+
+16/80
+
+grün-weißgrün
+
+lila-rot
+
+/
+
+18/90
+
+25/120 25/130 80/120
+
+16/100
+
+/
+
+16/80
+
+25/150
+
+lila
+
+Typ
+42
+
+25/120 25/100 80/120
+
+rot-blau
+
+rot-blau
+
+grau
+
+grün
+
+grün-blau
+
+gelb-gelb
+
+orange
+
+gelb
+
+gelb-blau
+
+Typ
+40
+
+25/130 25/130 80/130
+
+Typ
+39
+
+rot-rot-blau 16/130
+
+rot
+
+rot-rot
+
+Farbkennzeichnung
+des Balges
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+10/90
+
+/
+
+Typ
+45
+
+Typ
+48
+
+Typ
+49
+Typ
+50
+
+/
+
+/
+
+/
+
+/
+
+16/90
+
+/
+
+16/90
+
+16/80
+
+16/90
+
+/
+
+16/100
+
+16/90
+
+16/90
+
+/
+
+16/110
+
+16/90
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+16/80
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+16/90
+
+/
+
+/
+
+/
+
+/
+
+16/100
+
+25/100
+
+16/90
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+16/100
+
+/
+
+25/100 16/100
+
+/
+
+25/100 16/100
+
+/
+
+/
+
+/
+
+25/100 16/100
+
+/
+
+/
+
+/
+
+16/100 16/110 25/130 16/130
+
+Typ
+46
+
+/
+
+/
+
+25/150
+
+25/120
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+Typ
+51
+
+/
+
+/
+
+/
+
+/
+
+/
+
+25/150
+
+/
+
+16/90
+
+/
+
+16/120
+
+/
+
+/
+
+16/90
+
+25/120
+
+/
+
+16/90
+
+/
+
+Typ
+53
+
+Typ
+56 - 59
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+Typ
+60
+
+Typ
+61
+
+/
+
+/
+
+16/90
+
+6/120
+
+/
+
+10/90
+
+10/120
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+16/100
+
+/
+
+/
+
+/
+
+6/120
+
+/
+
+/
+
+6/150
+
+/
+
+10/70
+
+16/100 10/90
+
+/
+
+16/100
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+6/100
+
+/
+
+/
+
+/
+
+/
+
+6/90
+
+/
+
+/
+
+/
+
+6/90
+
+/
+
+/
+
+6/90
+
+16/130 6/120 10/110 6/110
+
+Typ
+55
+
+10/90 16/100 10/90
+
+/
+
+/
+
+/
+
+/
+
+Typ
+54
+
+max. Druck / max. zulässige Temperatur in bar/°C
+
+Spezialanfertigungen für höheren Druck und Temperatur sind auf Anfrage möglich.
+Wichtig: Die angegebenen Werte stellen die jeweilige maximale Belastung in Druck und Temperatur dar und dürfen nicht in Kombination verwendet werden.
+Bitte beachten Sie hierfür unbedingt die entsprechenden Typendatenblätter im Katalog.
+
+Aramid/
+Chloropren
+Spezialcord
+CR
+
+Viton®
+FPM
+
+ECO
+
+EPDM
+
+Nyloncord
+
+CR
+
+Chloropren
+
+Hypalon
+CSM
+
+Hypalon
+CSM
+
+CR
+
+Chloropren
+
+CR
+
+Chloropren
+
+CR
+
+Chloropren
+
+Butyl
+IIR
+
+CR
+
+Nyloncord
+
+Nyloncord
+
+Perbunan
+NBR
+
+Chloropren
+
+Nyloncord
+
+Perbunan
+NBR
+
+Perbunan
+Aramid/
+Perbunan
+NBR
+Spezialcord
+NBR
+
+Decke
+(aussen)
+
+Trägereinlagen
+
+Seele
+(innen)
+
+Aufbau des Balges
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+3/70
+
+3/90
+
+/
+
+/
+
+/
+
+3/90
+
+/
+
+/
+
+3/90
+
+/
+
+Typ
+62
+
+0,5/200
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+0,4/100
+
+/
+
+/
+
+0,5/120
+
+/
+
+Typ
+64
+
+6/200 0,2/200
+
+/
+
+/
+
+6/120
+
+/
+
+/
+
+6/90
+
+/
+
+6/90
+
+6/120
+
+/
+
+/
+
+6/90
+
+/
+
+/
+
+6/90
+
+6/110
+
+Typ
+63
+
+Balgaufbau
+
+Materialbeschreibung
+Kurzform
+(Farbkennzeichnung)
+
+Name
+
+Eigenschaften
+
+EPDM
+
+ÄthylenPropylenTerpolymerisat
+
+Gute Hitzefestigkeit und einsetzbar für alkalisches Abwasser, Druckluft (ölfrei)
+und Chemikalien, witterungsbeständig, gute Gasdichtigkeit mit Ausnahme
+von Kohlenwasserstoff.
+Einsatz -25°C bis +130°C
+Nicht geeignet für Öle und fetthaltige Medien.
+
+AcrylnitrilButadienKautschuk
+
+Öl- und treibstofffeste Qualität, sowie für Gase, Lösungsmittel und Fette geeignet.
+Hohe Abriebfestigkeit.
+Einsatz -20°C bis +90°C (120°C)
+Nicht geeignet für Dampf und Heißwasser.
+
+AcrylnitrilButadienKautschuk
+
+Öl- und treibstofffeste Qualität, sowie für Gase, Lösungsmittel, Fette und
+Flüssiggas nach DIN 51622 geeignet. Hohe Abriebfestigkeit
+Einsatz -20°C bis +90°C
+Nicht geeignet für Dampf und Heißwasser.
+
+AcrylnitrilButadienKautschuk
+
+Öl- und treibstofffeste Qualität, sowie für Gase, Lösungsmittel und Fette geeignet.
+Hohe Abriebfestigkeit.
+Einsatz -40°C bis +90°C (120°C)
+Nicht geeignet für Dampf und Heißwasser.
+
+rot
+Perbunan® NBR
+
+gelb
+Perbunan® NBR
+
+orange
+Perbunan® NBR
+
+gelb LT
+HNBR
+
+AcrylnitrilButadiengelb-blau-gelb Kautschuk
+
+Öl- und treibstofffeste Qualität, sowie für Gase, Lösungsmittel, Fette,
+Kühlwasser und Seewasser geeignet. Hohe Abriebfestigkeit.
+Einsatz -20°C bis +90°C (120°C)
+
+Perbunan® NBR
+
+Lebensmittel-Qualität gemäß RAL-Richtlinien, gut für Breie, Fette, Mehle, Säfte
+und Weine.
+Einsatz -20°C bis +80°C
+
+weiß
+CSM
+
+grün
+Neoprene® CR
+
+grau
+SI
+
+ohne
+Butyl® IIR
+
+AcrylnitrilButadienKautschuk
+
+chlorsulfoniertes Chemikalienfeste Qualität für Säure, Basen und Laugen.
+Polyäthylen
+Einsatz -20°C bis +130°C
+Unbedingt Temperaturangaben der Beständigkeitslisten beachten.
+ChloroprenKautschuk
+
+Wasser-Qualität, witterungsbeständig und für eine kleine Gruppe von Laugen
+einsetzbar sowie Druckluft und leicht ölhaltige Medien.
+Einsatz -20°C bis +70°C
+
+SiliconKautschuk
+
+Verdünnte Salzsäuren, tierische und pflanzliche Öle und Fette,
+Hydraulikflüssigkeiten (HFD-R und HFD-S)
+Einsatz -40°C bis +200°C
+
+ButylKautschuk
+
+Gute Wärmefestigkeit, einsetzbar für alkalisches Abwasser, Druckluft (ölfrei),
+Chemikalien und spezielle Hydrauliköle, witterungsbeständig.
+Einsatz -25°C bis +90°C
+Trinkwasserqualität gemäß KTW-Richtlinien.
+
+ButylKautschuk
+
+Gute Wärmefestigkeit, einsetzbar für alkalisches Abwasser, Druckluft (ölfrei),
+Chemikalien und spezielle Hydrauliköle, witterungsbeständig.
+Einsatz -25°C bis +150°C
+
+FluorKautschuk
+
+Speziell für hohe Temperaturen
+Gute Beständigkeit gegen Chemikalien.
+Einsatz -10°C bis +150°C
+Nicht geeignet für Ketone und Chlor
+
+Polytetrafluoräthylen
+
+Absolute Beständigkeit gegen alle Medien.
+Einsatz -50°C bis +230°C
+Nicht geeignet für Alkalimetalle im geschmolzenen Zustand
+und sich bei Reaktionen bildenden Amiden.
+
+rot oder blau
+Butyl® IIR-D
+
+rot/blau
+Viton® FPM
+
+lila
+PTFE
+
+ohne
+
+Die genannten Einsatztemperaturen beziehen sich auf den flexiblen Einsatzbereich. In der Starre können tiefere
+Temperaturen gefahren werden. Druck- und Dehnungsverhalten entnehmen Sie bitte den Typenbeschreibungen.
+Für die chemische Beständigkeit beachten Sie bitte unsere Beständigkeitstabellen.
+
+5
+
+WILLBRANDT Gummi-Kompensator Typ 39
+Typ 39 ist ein flachgewellter Gummi-Kompensator, der im Handwickelverfahren hergestellt wird und sich dadurch auszeichnet, dass er in
+der Baulänge variabel ist und somit allen vorhandenen Baulücken
+angepasst werden kann.
+Aufbau:
+Flachgewellter Gummibalg mit Trägereinlagen und angearbeiteten
+Dichtwülsten (daher selbstdichtend, Zusatzdichtungen sind nicht
+erforderlich) zur Aufnahme der drehbaren Flansche. Die Flansche
+sind mit Durchgangslöchern versehen.
+
+Kenndaten für Typ 39
+Farbkennzeichnung
+des Balges
+
+Seele
+(innen)
+
+Trägereinlage
+
+Decke
+(außen)
+
+bar
+
+°C
+
+rot/St
+
+EPDM
+
+Stahlcord
+
+EPDM
+
+16
+
+50
+
+10 100
+
+6 130
+
+7 x 102
+
+60
+
+rot
+
+EPDM
+
+Nyloncord
+
+EPDM
+
+16
+
+50
+
+10
+
+70
+
+8
+
+90
+
+7 x 102
+
+60
+
+gelb/St
+
+NBR
+
+Stahlcord
+
+CR
+
+16
+
+50
+
+12
+
+70
+
+10 100
+
+5 x 103
+
+60
+
+gelb
+
+NBR
+
+Nyloncord
+
+CR
+
+10
+
+50
+
+10
+
+70
+
+10
+
+90
+
+5 x 103
+
+60
+
+grün/St
+
+CSM
+
+Stahlcord
+
+CSM
+
+16
+
+50
+
+12
+
+70
+
+10
+
+90
+
+4 x 1010
+
+65
+
+grün
+
+CSM
+
+Nyloncord
+
+CSM
+
+10
+
+50
+
+10
+
+70
+
+10
+
+90
+
+4 x 1010
+
+65
+
+weiß
+
+NBR/weiß
+
+Nyloncord
+
+CR
+
+10
+
+50
+
+10
+
+70
+
+10
+
+80
+
+5 x 103
+
+60
+
+lila
+
+FPM
+
+Aramid
+
+EPDM
+
+16
+
+50
+
+10 130
+
+zulässige Betriebsdaten
+
+Aufbau des Balges
+
+Berstdruck > 3 x max. bar
+Vakuumfest ohne Stützring bis 0,8 bar abs.
+Vakuumfest mit Stützring bis 0 bar abs.
+
+bar
+
+°C
+
+bar
+
+Oberflächenwiderstand
+[Ohm cm]
+
+Härte
+Shore A
+
+°C
+
+65
+
+4 150
+
+Vakuum-Stützspiralen:
+Die Kompensatoren Typ 39 sind vakuumfest.
+Um ein Zusammensaugen des Kompensatorbalges
+bei Unterdruck zu verhindern, ist ab 2 m Saughöhe
+(0,8 bar abs., 20% Unterdruck) der Einbau einer
+Vakuum-Stützspirale (bis DN 300) bzw. eines
+Vakuumringes erforderlich (ab DN 350).
+
+Ausf. A
+
+Flansche: (Ausführung A)
+Beiderseits drehbare Flansche (Ausführung A) mit
+eingearbeitetem Gummiwulst, daher sind zusätzliche
+Dichtungen nicht erforderlich (selbstdichtend).
+Die Flansche werden im Standard nach DIN PN 10
+gebohrt. Andere Abmessungen nach DIN, ASA, BS
+und Sonderflanschen sind möglich.
+Flanschmaterial:Standard S 235 JRG2 (RSt 37-2)
+galvanisch verzinkt und gelb passiviert. Andere
+Materialien auf Anfrage möglich.
+6
+
+Hinweis:
+Bei aggressiven Medien bitte Beständigkeitstabelle
+beachten. Der Balg darf nicht angestrichen oder
+einisoliert werden. Weitere Einbauhinweise im Anhang.
+Zubehör:
+Längenbegrenzer/Verspannung
+Leitblech
+Flammenfeste Schutzhülle
+Erdabdeckhaube
+
+siehe
+siehe
+siehe
+siehe
+
+Seite
+Seite
+Seite
+Seite
+
+50
+52
+52
+53
+
+Einsatz:
+Typ 39
+rot
+
+Für Trinkwasser/Warmwasser
+Für kaltes und warmes Wasser, auch unter Zusatz von
+Chemikalien zur Wasseraufbereitung, Brauchwasser,
+Säuren, Laugen, Alkohole, Ester und Ketone.
+Nicht für ölhaltige Medien geeignet.
+
+Typ 39
+weiß
+
+Für Nahrungs- und Getränkeindustrie
+Auch für öl- und fetthaltige Nahrungsmittel geeignet.
+
+Typ 39
+grün
+
+Für chemische Anlagen
+Für hohe chemische Beanspruchung. Zulässige Temperatur,
+Betriebsdruck und Lebenserwartung richten sich im
+Einzelfall nach dem Medium und dessen Konzentration.
+
+Typ 39
+gelb
+
+Für Öle, Treibstoffe, Gase
+Einsatzbereiche: Stadt- und Erdgas, Gichtgas, Treibstoffe,
+Schmieröle, Heizöl, Kühlwasseremulsionen.
+
+Typ 39
+lila
+
+Für chemische Anlagen
+Speziell bei hoher thermischer Beanspruchung bis
+ca. 150°C. Die zulässige Höchstbeanspruchung setzt
+sich aus Temperatur, Druck, Bewegung und erwarteter
+Lebensdauer zusammen.
+
+Balg
+
+DN
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+700
+750
+800
+900
+1000
+
+BL
+
+AØ
+
+DØ
+
+LK Ø
+
+Ød
+
+mm
+
+mm
+
+cm2
+
+mm
+
+mm
+
+mm
+
+96
+110
+122
+142
+170
+196
+256
+306
+352
+442
+495
+545
+595
+695
+832
+882
+932
+1032
+1134
+
+32
+53
+85
+128
+187
+259
+409
+599
+822
+1080
+1379
+1801
+2038
+3286
+4183
+4751
+5407
+6706
+8231
+
+165
+185
+200
+220
+250
+285
+340
+395
+445
+505
+565
+615
+670
+780
+895
+1015
+1115
+1230
+
+125
+145
+160
+180
+210
+240
+295
+350
+400
+460
+515
+565
+620
+725
+840
+950
+1050
+1160
+
+18
+18
+18
+18
+18
+23
+23
+23
+23
+22
+26
+26
+26
+30
+30
+33
+33
+36
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+150
+150
+150
+150
+150
+150
+150
+150
+150
+
+-
+
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+
+Dehnungsaufnahme
+
+Flansch PN 10
+
+Wirks.
+Fläche
+
+S
+
+n
+
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+20
+24
+24
+28
+28
+
++
+
+axial
+
+-
+
+mm
+
+mm
+
+mm
+
+16
+16
+18
+18
+18
+20
+20
+20
+20
+20
+25
+25
+30
+30
+35
+35
+40
+40
+40
+
+10
+10
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+25
+25
+25
+25
+25
+25
+25
+25
+25
+
+°
+
+CØ
+
+mm
+
++/-
+
+mm
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+35
+30
+30
+25
+25
+20
+15
+10
+10
+10
+8
+8
+6
+6
+5
+4
+4
+4
+4
+
+89
+104
+119
+142
+169
+195
+245
+295
+348
+412
+470
+512
+570
+675
+780
+830
+887
+985
+1085
+
+lat.
++/-
+
+Zulässiger Ausnutzungsgrad der Bewegungsbereiche:
+bis 50°C - Ausnutzungsgrad ~ 100 %
+bis 70°C - Ausnutzungsgrad ~ 75 %
+bis 90°C - Ausnutzungsgrad ~ 60 %
+
+Längenbegrenzer und Flanschausführung
+siehe Seite 50/51.
+
+7
+
+WILLBRANDT Gummi-Kompensator Typ 40
+Typ 40 ist ein hochflexibler Rollenbalg-Kompensator mit Vollflanschanschluss. Er zeichnet sich durch hohe Dehnungsaufnahmen und
+geringe Eigenwiderstände aus.
+Aufbau:
+Hochgewellter Gummibalgkörper mit Trägereinlagen und angearbeiteten druckverstärkten Vollgummiflanschen, dadurch selbstdichtend
+ohne zusätzliche Dichtungen. Einteilige, hinterliegende Stahlflansche
+mit Stützschulter, um ein Abrollen der Balgwelle zu gewährleisten.
+Einsatz:
+Kühlwasserleitungen in Kraftwerken und Großanlagen, Entsalzungsanlagen, Trinkwasserversorgung, Schiffbau und an Pumpen, Turbinen
+und Behältern, zur Aufnahme von Dehnungen, Absorbierung von
+Schwingungen, Geräuschen und Vibrationen sowie zum Montageausgleich in axialer und lateraler Richtung bei Gebäudeversatz. Maximale
+Fertigungsgröße DN 5000.
+Flansche:
+Standardausführung nach DIN PN 10, Hinterlegflansch aus
+S 235 JRG2 (RSt 37-2) feuerverzinkt. Andere Werkstoffe und
+Bohrungen sind auf Anfrage möglich.
+Baulängen:
+Die angegebenen Baulängen sind Standardbaulängen und können
+verändert werden (mehrwellige Ausführung für höhere Dehnungsaufnahme möglich).
+Kenndaten für Typ 40
+Farbkennung
+des Balges
+
+Seele
+
+Trägereinlagen
+
+Decke
+
+rot
+rot/rot
+blau
+braun
+weiß
+grau
+grün
+grün/rot
+gelb
+gelb/rot
+gelb/gelb
+lila
+lila
+
+EPDM
+EPDM
+IIR/Tw
+EPDM Tw/schwarz
+EPDM Tw/weiß
+CR
+CSM
+CSM
+NBR
+NBR
+H NBR
+FPM
+FPM
+SI
+
+Nyloncord
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Aramid
+Nyloncord
+Aramid
+Aramid
+Nyloncord
+Aramid
+Glasgewebe
+
+EPDM
+EPDM
+EPDM
+EPDM
+EPDM
+CR
+CSM
+CSM
+NBR
+NBR
+H NBR
+EPDM
+EPDM
+SI
+
+Druck
+(max.) bar
+
+18
+27
+18
+18
+18
+18
+18
+27
+18
+27
+27
+18
+27
+3
+
+Temperatur
+(max.) °C
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+130
+100
+180
+180
+
+Die Druckangabe stellt einen Maximalwert dar, der baulängen- und nennweitenabhängig ist (siehe Tabelle Seite 9 und 10) Berstdruck >50 bar.
+Alle Kompensatoren können mit einem Potentialausgleich geliefert werden. Vakuumfest bis 0,8 bar abs, ohne Stützring (2 m Saughöhe). Vakuumfest bis 0 bar abs.
+mit Stützring (10 m Saughöhe). Die Bälge können mit einer einvulkanisierten PTFE Folie gefertigt werden, um eine höhere chemische Beständigkeit zu erhalten.
+Vakuumringe können auf Wunsch im Balg einvulkanisiert werden (keine Toträume bzw. Mediumkontakt). Flanschanschlüsse werden nach Kundenwunsch in allen
+Varianten wie zum Beispiel PN 6, PN 10, PN 16 , ANSI B 16.5 class 150, ANSI B 16,47 class 150 gefertigt.
+Die Stahlhinterlegflansche werden entsprechend dem Druck mit und ohne Stützschulter ausgeführt. Verspannungsflansche werden nach entsprechendem
+Betriebsdruck ausgelegt (Varianten siehe Seite 50/51).
+
+8
+
+Druckfestigkeit Typ 40 kurze Baulänge (können auf Wunsch verlängert und verkürzt werden)
+
+DN
+
+Baulänge
+
+mm
+
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+950
+1000
+1050
+1100
+1150
+1200
+1250
+1300
+1350
+1400
+1450
+1500
+1600
+1650
+1700
+1800
+1950
+2000
+2100
+2150
+2200
+2250
+2300
+2400
+2500
+2550
+2600
+2700
+2800
+2850
+2900
+3000
+
+150
+150
+150
+150
+200
+200
+200
+200
+200
+200
+200
+200
+250
+250
+250
+250
+250
+250
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+
+wirksame
+Fläche
+bei
+Baulänge
+
+Welle
+innen
+
+2
+
+mm
+
+504
+717
+977
+1223
+1733
+2119
+2535
+2988
+3479
+3974
+4584
+5137
+5867
+6478
+7265
+7942
+8812
+9556
+11045
+11877
+12935
+13834
+14974
+15940
+17162
+18195
+19499
+21985
+23153
+24621
+27405
+31708
+33422
+36654
+38157
+40036
+41606
+43566
+47245
+51074
+52846
+55052
+59179
+63455
+65428
+67880
+72455
+
+260
+310
+362
+405
+482
+533
+583
+633
+683
+730
+784
+830
+887
+932
+987
+1032
+1087
+1132
+1217
+1262
+1317
+1362
+1417
+1462
+1517
+1562
+1617
+1717
+1762
+1817
+1917
+2062
+2117
+2217
+2262
+2317
+2362
+2417
+2517
+2617
+2662
+2717
+2817
+2917
+2962
+3017
+3117
+
+cm
+
+Trägereinlagen
+Gummiflansch Druck (max.)
+
+Stahlflanschdicke
+
+mm
+
+12
+12
+12
+12
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+25
+25
+25
+25
+25
+25
+25
+25
+
+Nylon
+
+Aramid
+
+Dehnung
+
+bei
+10 mm
+
+bei
+13 mm
+
+bei
+15 mm
+
+bei
+15 mm
+
+axial +/-
+
+lateral +/-
+
+bar
+
+bar
+
+bar
+
+bar
+
+mm
+
+mm
+
+8,5
+8,2
+8,0
+7,9
+6,2
+6,1
+6,0
+6,0
+5,9
+5,9
+5,8
+5,2
+5,2
+5,2
+5,2
+5,2
+5,1
+5,1
+4,3
+4,3
+4,3
+4,3
+4,3
+4,3
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,2
+4,1
+4,1
+4,1
+4,1
+4,1
+4,1
+4,1
+4,1
+4,1
+4,1
+4,1
+
+17,0
+16,4
+16,0
+15,7
+12,4
+12,2
+12,1
+11,9
+11,8
+11,8
+11,7
+11,6
+10,5
+10,4
+10,4
+10,3
+10,3
+10,3
+8,6
+8,6
+8,6
+8,6
+8,5
+8,5
+8,5
+8,5
+8,5
+8,4
+8,4
+8,4
+8,4
+8,3
+8,3
+8,3
+8,3
+8,3
+8,3
+8,3
+8,3
+8,3
+8,3
+8,2
+8,2
+8,2
+8,2
+8,2
+8,2
+
+25,5
+24,6
+24,0
+23,6
+18,5
+18,3
+18,1
+17,9
+17,8
+17,6
+17,5
+17,4
+15,7
+15,6
+15,6
+15,5
+15,4
+15,4
+12,9
+12,9
+12,9
+12,8
+12,8
+12,8
+12,7
+12,7
+12,7
+12,6
+12,6
+12,6
+12,6
+12,5
+12,5
+12,5
+12,5
+12,5
+12,4
+12,4
+12,4
+12,4
+12,4
+12,4
+12,4
+12,3
+12,3
+12,3
+12,3
+
+38,3
+36,9
+36,0
+35,4
+27,8
+27,5
+27,2
+26,9
+26,7
+26,4
+26,3
+26,1
+23,6
+23,4
+23,4
+23,3
+23,1
+23,1
+19,4
+19,4
+19,4
+19,2
+19,2
+19,2
+19,1
+19,1
+19,1
+18,9
+18,9
+18,9
+18,9
+18,8
+18,8
+18,8
+18,8
+18,8
+18,6
+18,6
+18,6
+18,6
+18,6
+18,6
+18,6
+18,5
+18,5
+18,5
+18,5
+
+10/25
+25/10
+25/10
+25/10
+20/35
+20/35
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+30/40
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+
+20
+20
+20
+20
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+
+max. DN 5000
+
+9
+
+Druckfestigkeit Typ 40 Standardbaulänge (können auf Wunsch verlängert werden - auch zweiwellig)
+
+DN
+
+Baulänge
+
+mm
+
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+950
+1000
+1050
+1100
+1150
+1200
+1250
+1300
+1350
+1400
+1450
+1500
+1600
+1650
+1700
+1800
+1950
+2000
+2100
+2150
+2200
+2250
+2300
+2400
+2500
+2550
+2600
+2700
+2800
+2850
+2900
+3000
+max. DN 5000
+
+10
+
+200
+200
+200
+200
+250
+250
+250
+250
+250
+250
+250
+250
+300
+300
+300
+300
+300
+300
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+
+wirksame
+Fläche
+bei
+Baulänge
+
+Welle
+innen
+
+2
+
+mm
+
+627
+717
+977
+1223
+1733
+2119
+2535
+2988
+3479
+3974
+4584
+5137
+5867
+6478
+7265
+7942
+8812
+9556
+11045
+11877
+12935
+13834
+14974
+15940
+17162
+18195
+19499
+21985
+23153
+24621
+27405
+31708
+33422
+36654
+38157
+40036
+41606
+43566
+47245
+51074
+52846
+55052
+59179
+63455
+65428
+67880
+72455
+
+290
+310
+362
+405
+482
+533
+583
+633
+683
+730
+784
+830
+887
+932
+987
+1032
+1087
+1132
+1217
+1262
+1317
+1362
+1417
+1462
+1517
+1562
+1617
+1717
+1762
+1817
+1917
+2062
+2117
+2217
+2262
+2317
+2362
+2417
+2517
+2617
+2662
+2717
+2817
+2917
+2962
+3017
+3117
+
+cm
+
+Trägereinlagen
+Gummiflansch Druck (max.)
+
+Stahlflanschdicke
+
+mm
+
+12
+12
+12
+12
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+25
+25
+25
+25
+25
+25
+25
+25
+
+Nylon
+
+Aramid
+
+Dehnung
+
+bei
+10 mm
+
+bei
+13 mm
+
+bei
+15 mm
+
+bei
+15 mm
+
+axial +/-
+
+lateral +/-
+
+bar
+
+bar
+
+bar
+
+bar
+
+mm
+
+mm
+
+6,8
+6,6
+6,4
+6,3
+5,6
+5,5
+5,5
+5,4
+5,4
+5,3
+5,3
+5,3
+4,4
+4,4
+4,4
+4,4
+4,3
+4,3
+3,4
+3,4
+3,4
+3,3
+3,3
+3,3
+3,3
+3,3
+3,3
+3,3
+3,3
+3,3
+3,3
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+
+13,6
+13,2
+12,8
+12,6
+11,3
+11,1
+11,0
+10,8
+10,7
+10,7
+10,6
+10,5
+8,9
+8,8
+8,8
+8,7
+8,7
+8,7
+6,8
+6,7
+6,7
+6,7
+6,7
+6,6
+6,6
+6,6
+6,6
+6,6
+6,6
+6,5
+6,5
+6,5
+6,5
+6,5
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+6,4
+
+20,4
+19,7
+19,2
+18,9
+16,9
+16,6
+16,4
+16,3
+16,1
+16,0
+15,9
+15,8
+13,3
+13,2
+13,2
+13,1
+13,0
+13,0
+10,1
+10,1
+10,1
+10,0
+10,0
+10,0
+9,9
+9,9
+9,9
+9,8
+9,8
+9,8
+9,8
+9,7
+9,7
+9,7
+9,7
+9,7
+9,7
+9,6
+9,6
+9,6
+9,6
+9,6
+9,6
+9,6
+9,5
+9,5
+9,5
+
+30,6
+29,6
+28,8
+28,4
+25,4
+24,9
+24,6
+24,5
+24,2
+24,0
+23,9
+23,7
+20,0
+19,8
+19,8
+19,7
+19,5
+19,5
+15,2
+15,2
+15,2
+15,0
+15,0
+15,0
+14,9
+14,9
+14,9
+14,7
+14,7
+14,7
+14,7
+14,6
+14,6
+14,6
+14,6
+14,6
+14,6
+14,4
+14,4
+14,4
+14,4
+14,4
+14,4
+14,4
+14,3
+14,3
+14,3
+
+20/35
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+35/20
+30/40
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+40/30
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+
+Axiale Verstellkraft für Typ 40 (Durchschnittswerte aus Vollweg)
+DN
+
+Baulänge
+mm
+
+0 bar
+N/mm
+
+1 bar
+N/mm
+
+2,5 bar
+N/mm
+
+4 bar
+N/mm
+
+6 bar
+N/mm
+
+10 bar
+N/mm
+
+200
+
+200
+
+45
+
+79
+
+90
+
+144
+
+216
+
+360
+
+250
+
+200
+
+51
+
+88
+
+107
+
+166
+
+246
+
+405
+
+300
+
+200
+
+56
+
+98
+
+118
+
+180
+
+269
+
+454
+
+350
+
+200
+
+73
+
+129
+
+153
+
+239
+
+350
+
+599
+
+400
+
+250
+
+40
+
+70
+
+83
+
+131
+
+190
+
+322
+
+450
+
+250
+
+48
+
+85
+
+102
+
+152
+
+235
+
+389
+
+500
+
+250
+
+55
+
+99
+
+118
+
+171
+
+265
+
+457
+
+600
+
+250
+
+68
+
+119
+
+136
+
+218
+
+326
+
+544
+
+700
+
+250
+
+70
+
+121
+
+147
+
+228
+
+338
+
+557
+
+750
+
+250
+
+72
+
+126
+
+151
+
+232
+
+346
+
+583
+
+800
+
+250
+
+73
+
+129
+
+153
+
+239
+
+350
+
+599
+
+900
+
+300
+
+95
+
+169
+
+202
+
+300
+
+466
+
+770
+
+1000
+
+300
+
+136
+
+245
+
+291
+
+422
+
+656
+
+1129
+
+1100
+
+350
+
+210
+
+399
+
+462
+
+756
+
+1130
+
+1865
+
+1200
+
+350
+
+240
+
+458
+
+538
+
+876
+
+1277
+
+2136
+
+1400
+
+350
+
+245
+
+463
+
+532
+
+902
+
+1316
+
+2193
+
+1500
+
+350
+
+255
+
+492
+
+587
+
+944
+
+1403
+
+2295
+
+1600
+
+350
+
+310
+
+597
+
+685
+
+1138
+
+1668
+
+2821
+
+1700
+
+350
+
+390
+
+662
+
+818
+
+1468
+
+2142
+
+3569
+
+1800
+
+350
+
+480
+
+926
+
+1051
+
+1819
+
+2616
+
+4416
+
+2000
+
+350
+
+690
+
+1339
+
+1546
+
+2512
+
+3830
+
+6314
+
+2100
+
+350
+
+835
+
+1607
+
+1879
+
+2998
+
+4676
+
+7690
+
+2200
+
+350
+
+910
+
+1747
+
+2029
+
+3367
+
+4969
+
+8099
+
+2400
+
+350
+
+1050
+
+1995
+
+2363
+
+3812
+
+5691
+
+9450
+
+Achtung:
+
+Abweichungen (+/- 25%) der Verstellkräfte können durch Material- und
+Einlagenwechsel sowie Herstellverfahren auftreten.
+
+11
+
+Laterale Verstellkraft für Typ 40 (Durchschnittswerte aus Vollweg)
+DN
+
+0 bar
+N/mm
+
+1 bar
+N/mm
+
+2,5 bar
+N/mm
+
+4 bar
+N/mm
+
+6 bar
+N/mm
+
+10 bar
+N/mm
+
+200
+
+200
+
+200
+
+330
+
+366
+
+428
+
+540
+
+616
+
+250
+
+200
+
+220
+
+370
+
+407
+
+475
+
+605
+
+686
+
+300
+
+200
+
+250
+
+425
+
+470
+
+545
+
+695
+
+783
+
+350
+
+200
+
+280
+
+482
+
+529
+
+610
+
+781
+
+882
+
+400
+
+250
+
+180
+
+315
+
+347
+
+400
+
+513
+
+576
+
+450
+
+250
+
+190
+
+338
+
+371
+
+420
+
+536
+
+604
+
+500
+
+250
+
+200
+
+330
+
+366
+
+428
+
+540
+
+616
+
+600
+
+250
+
+235
+
+388
+
+430
+
+503
+
+635
+
+724
+
+700
+
+250
+
+310
+
+521
+
+574
+
+670
+
+853
+
+967
+
+750
+
+250
+
+310
+
+527
+
+583
+
+676
+
+862
+
+970
+
+800
+
+250
+
+340
+
+585
+
+643
+
+741
+
+949
+
+1071
+
+900
+
+300
+
+360
+
+641
+
+702
+
+796
+
+1015
+
+1145
+
+1000
+
+300
+
+380
+
+673
+
+749
+
+956
+
+1083
+
+1216
+
+1100
+
+350
+
+395
+
+612
+
+683
+
+901
+
+1067
+
+1217
+
+1200
+
+350
+
+440
+
+724
+
+783
+
+1025
+
+1197
+
+1390
+
+1400
+
+350
+
+480
+
+763
+
+878
+
+1133
+
+1330
+
+1526
+
+1500
+
+350
+
+530
+
+885
+
+1002
+
+1261
+
+1479
+
+1707
+
+1600
+
+350
+
+645
+
+1109
+
+1238
+
+1548
+
+1819
+
+2090
+
+1700
+
+350
+
+710
+
+1304
+
+1378
+
+1723
+
+2118
+
+2355
+
+1800
+
+350
+
+775
+
+1418
+
+1519
+
+1899
+
+2217
+
+2519
+
+2000
+
+350
+
+890
+
+1682
+
+1816
+
+2225
+
+2563
+
+2919
+
+2100
+
+350
+
+886
+
+1692
+
+1852
+
+2304
+
+2596
+
+2835
+
+2200
+
+350
+
+1050
+
+2016
+
+2226
+
+2940
+
+3150
+
+3465
+
+2400
+
+350
+
+1360
+
+2638
+
+3128
+
+3944
+
+4284
+
+4529
+
+Achtung:
+
+12
+
+Baulänge
+mm
+
+Abweichungen (+/- 25%) der Verstellkräfte können durch Material- und
+Einlagenwechsel sowie Herstellverfahren auftreten.
+
+Zulässige zusammengesetzte Dehnungsaufnahme
+Zusammengesetzte Bewegungen
+axiale und laterale Beanspruchung
+Lateral zul. = Lateral max. ( 1 -
+
+axial effectiv
+
+)
+
+axial max.
+Bei zusammengesetzten Bewegungen reduzieren sich
+die axialen und lateralen Wege entsprechend.
+
+Beispiel:
+
+Kompensator Typ 40 DN 1200
+PN 10 Flansche nach Tab. 2
+Baulänge 350 mm, Bewegung axial +/-10 mm
+? max. zulässige Auslenkung
+
+Lösung :
+
+Lat. zul. = 30 (1-
+
+10
+
+) = 18
+
+25
+= +/- 18 mm Lateralbeanspruchung zulässig,
+Einbaulänge 335 mm
+
+Verspannter Kompensator Ausführung M DN 2600
+
+13
+
+Verspannung:
+Unter Druck baut der Kompensatorbalg eine Reaktionskraft (in
+axialer Richtung [wirksame Fläche x Betriebsdruck]) auf, die von
+den nächstgelegenen Festpunkten aufgenommen werden muss.
+Bei reiner Lateral- bzw. Angulardehnung ist es möglich, durch
+Anordnung einer Verspannung (siehe Begrenzerausführung
+Seite 50) die Festpunkte oder Armaturenanschlüsse von der
+Reaktionskraft zu entlasten, so dass nur noch die Verstellkräfte
+aus der Dehnungsbewegung aufzunehmen sind.
+
+Verspannung
+Ausführung E
+
+Verspannung
+Ausführung K
+
+Gelenkverspannung
+Ausführung F
+
+Eckentlasteter Gummikompensator
+
+Wichtiger Hinweis:
+Gegenflansche müssen glatt ohne Rezess ausgeführt werden.
+Der Balg darf nicht einisoliert oder angestrichen werden.
+Einbauhinweise Seite 60 beachten.
+
+14
+
+Verspannung
+Ausführung M
+
+WILLBRANDT Gummi-Kompensator Typ 42
+Typ 42 ist ein widerstandsfähiger dickwandiger Gummikompensator mit eingearbeiteter Welle, der im Handwickelverfahren hergestellt wird.
+Durch das Herstellungsverfahren ist es möglich, diesen
+Kompensator in variablen Baulängen und Druckstufen
+herzustellen.
+Aufbau:
+Kunstkautschuk-Körper mit verschiedenen Trägereinlagen und
+ausgearbeiteten verstärkten Gummiflanschen mit bzw. ohne
+Stahleinlage. Der Gummiflansch ist selbstdichtend - keine
+Zusatzdichtung erforderlich.
+
+Kenndaten für Typ 42
+Farbkennzeichnung
+des Balges
+
+zulässige
+Betriebsdaten
+
+Aufbau des Balges
+
+Härte
+Oberflächenwiderstand Shore A
+
+Seele
+(innen)
+
+Trägereinlage
+
+Decke
+(außen)
+
+bar
+
+°C
+
+[Ohm cm]
+
+rot
+
+EPDM
+
+Nyloncord
+
+EPDM
+
+8
+
+90
+
+7 x 102
+
+rot/rot
+
+EPDM
+
+Aramid
+
+EPDM
+
+80
+
+130
+
+gelb
+
+NBR
+
+Nyloncord
+
+CR
+
+8
+
+90
+
+gelb/blau
+
+NBR
+
+Aramid
+
+CR
+
+80
+
+100
+
+grün
+
+CSM
+
+Nyloncord
+
+CSM
+
+8
+
+90
+
+4 x 104
+
+65
+
+weiß
+
+NBR/weiß
+
+Nyloncord
+
+CR
+
+10
+
+80
+
+5 x 103
+
+55
+
+lila
+
+FPM
+
+Kevlar
+
+EPDM
+
+10
+
+150
+
+60
+60
+
+5 x 103
+
+60
+60
+
+65
+
+Berstdruck > 30 bar
+vakuumfest 0,7 bar absolut, mit Stützring voll vakuumfest
+
+Flansche:
+Beiderseits mit druckstabilen Vollgummiflanschen,
+gelocht nach ihren Angaben mit einteiligen Stahlhinterlegflanschen aus S 235 JRG2 (RSt 37-2)
+mit Rostschutzanstrich.
+Ausführung I
+mit losen Hinterlegflanschen
+Ausführung II mit anvulkanisierten Hinterlegflanschen
+Ausführung III mit losen Hinterlegflanschen und
+angearbeiteter Stützschulter
+Ausführung IV mit anvulkanisierten Hinterlegflanschen
+und eingearbeiteten Stützringen
+
+Hinweis:
+Bei aggressiven Medien bitte Beständigkeitstabelle
+beachten. Der Balg darf nicht angestrichen oder
+einisoliert werden. Einbauhinweise im Anhang
+beachten.
+
+Ausführung I
+
+Ausführung II
+
+Ausführung III
+
+Ausführung IV
+
+15
+
+DN
+
+50
+65
+80
+100
+125
+150
+175
+200
+225
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+1000
+1050
+1100
+1150
+1200
+1250
+1300
+1350
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2800
+3000
+3200
+3400
+3500
+3600
+3800
+4000
+
+2"
+2 1/2"
+3"
+4"
+5"
+6"
+7"
+8"
+9"
+10"
+12"
+14"
+16"
+18"
+20"
+22"
+24"
+26"
+28"
+30"
+32"
+34"
+36"
+40"
+42"
+44"
+46"
+48"
+50"
+52"
+54"
+56"
+60"
+64"
+68"
+72"
+76"
+80"
+84"
+88"
+92"
+96"
+100"
+104"
+112"
+120"
+128"
+136"
+140"
+144"
+152"
+160"
+
+Standard
+BL
+
+Variabel
+BL
+
+FL
+
+mm
+
+mm
+
+ax +
+mm
+
+ax mm
+
+lat ±
+mm
+
+±°
+
+mm
+
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+32
+32
+32
+32
+32
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+40
+40
+40
+40
+40
+40
+40
+40
+40
+50
+50
+50
+50
+50
+
+10
+10
+10
+10
+10
+10
+15
+15
+15
+15
+15
+15
+15
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+25
+25
+25
+25
+25
+25
+
+20
+20
+20
+25
+25
+25
+25
+25
+25
+25
+25
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+30
+30
+30
+30
+30
+30
+
+10
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+20
+20
+20
+20
+20
+20
+
+10,0
+10,0
+10,0
+10,0
+10,0
+10,0
+10,0
+10,0
+10,0
+8,0
+8,0
+5,0
+8,0
+8,0
+7,0
+7,0
+5,0
+5,0
+4,0
+4,0
+4,0
+4,0
+3,0
+3,0
+3,0
+3,0
+3,0
+2,5
+2,5
+2,5
+2,5
+2,0
+2,0
+2,0
+1,5
+1,5
+1,3
+1,3
+1,2
+1,2
+1,0
+1,0
+0,8
+0,8
+0,7
+0,7
+0,6
+0,6
+0,5
+0,5
+0,4
+0,4
+
+150
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+250
+250
+250
+250
+250
+250
+250
+250
+250
+300
+300
+300
+300
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+350
+
+150
+150
+150
+150
+150
+150
+150
+150
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+200
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+
+-
+
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+500
+
+Dehnungsaufnahme
+für Standard-Typen
+
+Hinweis: Unsere Bälge Typ 42 werden in vier verschiedenen Flanschausstattungen hergestellt.
+Der in der Tabelle eingetragene Druck ist der maximal fertigungstechnisch mögliche Betriebsdruck.
+Die Bälge werden jedoch speziell auf den im Auftrag genannten Betriebsdruck gefertigt.
+
+16
+
+Druck
+(Standard)
+
+Druck
+(max.)
+
+bar
+
+bar
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+6
+6
+6
+6
+6
+6
+6
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+80
+80
+80
+80
+50
+50
+50
+50
+50
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+16
+16
+16
+
+WILLBRANDT Gummi-Kompensator Typ 45
+Typ 45 ist ein flachgewellter Formbalg-Kompensator, der gute
+Eigenschaften in der Geräuschdämmung erzielt. Er zeichnet sich
+durch große Dehnungsaufnahme in allen drei Ebenen aus.
+Aufbau:
+Flachgewellter Gummibalg mit zwei Wellen mit Nylon-Trägereinlagen und eingearbeitetem Dichtwulst (daher selbstdichtend
+ohne Zusatzdichtung) zur Aufnahme der dreiteiligen
+Verschraubungen (DIN 2999 kegelig). Lieferbar mit und ohne
+Vollring zwischen den Wellen außen.
+Anschlüsse:
+Typ 45 rot beidseitig:
+Typ 45 blau beiseitig:
+
+mit Tempergussverschraubungen
+verzinkt
+mit Rotguss/Messing- oder Edelstahlverschraubungen
+
+Typ 45 blau mit Trinkwasserzulassung nach KTW
+
+Kenndaten für Typ 45
+Farbkennung
+des Balges
+
+rot
+blau
+
+EPDM
+EPDM Tw
+
+Nylon
+Nylon
+
+20
+25
+32
+40
+50
+
+Zulässiger Betriebsdruck
+
+EPDM
+EPDM
+
+bar °C
+
+bar °C
+
+10 -20
+10 -20
+
+10
+10
+
+90
+90
+
+Anschluss
+
+Balg
+
+DN
+
+Decke
+außen
+
+Trägereinlagen
+
+Seele
+innen
+
+Vakuum
+
+Härte
+Shore A
+
+0,5 bar abs.
+0,5 bar abs.
+
+60
+60
+
+bar °C
+
+6
+6
+
+95
+95
+
+Dehnungsaufnahme
+
+Gewicht
+
+BL
+mm
+
+ØA
+mm
+
+GL
+mm
+
+SW1
+mm
+
+SW2
+mm
+
+R
+Zoll
+
+ax +
+mm
+
+ax mm
+
+lat ±
+mm
+
+±
+°
+
+kg
+
+155
+140
+140
+130
+120
+
+39
+49
+55
+63
+76
+
+200
+200
+200
+200
+200
+
+50
+62
+73
+82
+95
+
+33
+40
+50
+56
+70
+
+3/4
+1
+1 1/4
+1 1/2
+2
+
+6
+6
+6
+6
+6
+
+22
+22
+22
+22
+22
+
+22
+22
+22
+22
+22
+
+45
+45
+45
+45
+45
+
+0,7
+1,1
+1,5
+1,9
+2,6
+
+Einbauhinweise siehe Seite 60.
+
+17
+
+WILLBRANDT Gummi-Kompensator Typ 46
+Typ 46 in flachgewellter Hochdruckausführung ist geeignet
+für den Sanitär-, und Heizungs-, Klima- und Schwimmbadanlagenbau sowie die Solartechnik. Ferner für den Apparate-,
+Rohrleitungs- und Motorenbau.
+Er absorbiert Dehnungen und Schwingungen, gleicht axiale
+und laterale Abweichungen aus und ist widerstandsfähig
+gegen chemische und mechanische Beanspruchung.
+ZULASSUNG:
+Typ 46 rot/St und rot/Sp mit TÜV-Zulassung
+für Heizungsanlage gemäß DIN 4809.
+
+PED 97/23/EG
+
+Kenndaten für Typ 46
+Farbkennzeichnung
+des Balges
+
+zulässige Betriebsdaten
+
+Aufbau des Balges
+
+elektr.
+Widerstand
+
+Härte
+Shore A
+
+Seele
+(innen)
+
+Trägereinlage
+
+Decke
+(außen)
+
+rot/Sp
+
+EPDM
+
+Aramid
+
+EPDM
+
+16
+
+50
+
+10 100
+
+6 110
+
+7 x 102
+
+60
+
+rot/St
+
+EPDM
+
+Stahlcord
+
+EPDM
+
+16
+
+50
+
+10 100
+
+6 110
+
+7 x 102
+
+60
+
+blau
+
+IIR
+
+Nylon
+
+EPDM
+
+10
+
+50
+
+8
+
+70
+
+6
+
+85
+
+7 x 102
+
+55
+
+gelb
+
+NBR
+
+Nylon
+
+CR
+
+16
+
+50
+
+12
+
+70
+
+10
+
+90
+
+5 x 103
+
+65
+
+grau
+
+CR
+
+Nylon
+
+CR
+
+16
+
+70
+
+5 x 1010
+
+60
+
+rot
+
+EPDM
+
+Nylon
+
+EPDM
+
+16
+
+50
+
+12
+
+70
+
+10
+
+90
+
+7 x 102
+
+65
+
+weiß
+
+NBR
+
+Nylon
+
+CR
+
+16
+
+50
+
+12
+
+70
+
+10
+
+80
+
+5 x 103
+
+60
+
+grün
+
+CSM
+
+Nylon
+
+CSM
+
+16
+
+50
+
+12
+
+70
+
+10
+
+90
+
+5 x 103
+
+65
+
+bar
+
+°C
+
+bar
+
+°C
+
+bar
+
+°C
+
+Ohm
+
+cm
+
+Berstdruck >50 bar, Vakuumfest bis 0,5 bar abs.
+
+Aufbau:
+Flachgewellter Gummibalg mit Trägereinlagen und angearbeitetem Dichtwulst mit hinterliegender Gewindemutter
+zur Aufnahme der Gewindeanschlussteile, als Innen- bzw.
+Außengewindeverschraubung.
+Der Kompensatorenbalg-Wulst ist selbstdichtend.
+Es sind keine Zusatzdichtungen erforderlich.
+(Gewindeanschluss zur Rohrleitung wie üblich abdichten)
+
+Verspannung:
+Unter Druck baut der Kompensatorbalg eine
+Reaktionskraft in axialer Richtung auf. Diese
+Kraft muss durch ausreichende Festpunkte
+oder eine auf der Rohrleitung anzubringende
+Verspannung abgebaut werden.
+
+Anschlussteile:
+Typ 46 weiß: Temperguss, verzinkte Überwurfmutter
+mit MS- oder RG-Verschraubungen
+Übrige Typ 46: Überwurfmutter und Einschraubteile
+aus Temperguss verzinkt.
+
+Wichtiger Hinweis:
+Torsionsfreien Einbau einhalten.
+Der Balg darf nicht einisoliert oder angestrichen
+werden.
+Einbauhinweise siehe Seite 60.
+
+Sonderanschlüsse in Edelstahl möglich.
+
+18
+
+Einsatz:
+Typ 46
+Für Heizungsanlagen, gem. DIN 4809
+rot Aramid Mit korrosionsgeschützten Aramideinrot-Stahlcord lagen. Für Dauerbeanspruchung in
+Warm- und Heißwasser-Heizungen bei
+100°C / 110°C und 10 bar/6 bar Betriebsdruck für 10jährige Betriebdauer.
+Nicht für ölhaltige Medien geeignet.
+Typ 46
+blau Nylon
+
+Für Trinkwasser/Warmwasser
+Für kaltes und warmes Wasser
+(bis 85°C), auch unter Zusatz von
+Chemikalien zur Wasseraufbereitung,
+Brauchwasser, Säuren, Laugen,
+Alkohole, Ester und Ketone.
+Nicht für ölhaltige Medien geeignet.
+
+Typ 46
+weiß
+
+Für Nahrungsmittel- und Getränkeindustrie
+Auch für öl- und fetthaltige Nahrungsmittel geeignet. Eignungsbereich
+bis +80°C.
+
+Typ 46
+rot
+
+Für Warmwasser
+Für kaltes und warmes Wasser
+(bis 90°C), auch unter Zusatz von
+Chemikalien zur Wasseraufbereitung,
+Brauchwasser, Säuren, Laugen,
+Alkohole, Ester und Ketone.
+Nicht für ölhaltige Medien geeignet.
+
+Balg
+DN
+
+20
+25
+32
+40
+50
+
+BL
+
+AØ
+
+Wirks.
+Fläche
+
+Gesamtlänge
+
+R
+
+GL1
+
+GL2
+
+Schlüsselweite
+SW1 SW2
+
+SW3
+
+Typ 46
+grün
+
+Für chemischen Anlagen
+Für hohe chemische Beanspruchung
+bis 16 bar Betriebsdruck. Zulässige
+Temperatur, Betriebsdruck und Lebenserwartung richten sich im Einzelfall nach
+dem Medium und dessen Konzentration.
+Bitte Beständigkeitstabelle anfordern.
+
+Typ 46
+gelb
+gelbStahlcord
+
+Für Öle, Treibstoffe, Gas
+Elektrisch leitend, R = 103 bis 106 Ohm.
+Einsatzbereiche: Stadt- und Erdgas.
+Gichtgas, Treibstoffe, Schmieröle, Heizöl,
+Kühlwasseremulsionen.
+
+Typ 46
+grau
+
+Für Wasserleitungen
+Für Kalt- und Warmwasser, Waschwasser, Seewasser, Schwimmbadwasser, Abwasser (auch ölhaltig,
+schwach sauer oder alkalisch bei CR).
+
+Dehnungsaufnahme
+Druckträger Nyloncord
+axial
+
+mm
+
+mm
+
+cm2
+
+Zoll
+
+mm
+
+mm
+
+mm
+
+mm
+
+mm
+
++
+mm
+
+130
+130
+130
+130
+130
+
+65
+65
+78
+90
+109
+
+12
+12
+18
+27
+42
+
+3/4”
+1”
+1 1/4”
+1 1/2”
+2”
+
+228
+236
+246
+250
+256
+
+186
+192
+196
+202
+215
+
+36
+40
+48
+53
+66
+
+80
+80
+80
+90
+110
+
+48
+54
+66
+74
+90
+
+15
+15
+15
+15
+15
+
+lat.
+
+mm
+
++/mm
+
+30
+30
+30
+30
+30
+
+10
+10
+10
+10
+10
+
+°
+
+Dehnungsaufnahme
+Druckträger Stahlcord
+axial
+lat.
+
+Gewicht
+
+°
+
+Ausf.
+2
+
+Ausf.
+1
+
++/-
+
++
+mm
+
+mm
+
++/mm
+
++/-
+
+kg
+
+kg
+
+30
+30
+30
+30
+30
+
+10
+10
+10
+10
+10
+
+15
+15
+15
+15
+15
+
+8
+8
+8
+8
+8
+
+30
+30
+30
+30
+30
+
+0,60
+0,70
+1,10
+1,30
+1,50
+
+0,65
+0,85
+1,30
+1,50
+2,25
+
+19
+
+WILLBRANDT Gummi-Kompensator Typ 48
+Typ 48 ist ein hochgewellter Formbalg-Kompensator,
+der sehr gute Eigenschaften in der Geräuschdämmung
+erzielt. Er zeichnet sich durch große Dehnungsaufnahme
+in allen drei Ebenen aus.
+Aufbau:
+Hochgewellter Gummibalg mit Trägereinlagen und angearbeitetem Dichtwulst (daher selbstdichtend ohne
+Zusatzdichtung) zur Aufnahme der drehbaren Stahlhinterlegeflansche mit Vollringabstützung. Die Flansche
+sind mit Durchgangslöchern versehen (PN 6, PN 10,
+PN 16, ASA 150 lbs oder andere).
+Alle Stahlteile aus S 235 JRG2 (RSt 37-2) galvanisch
+verzinkt und passiviert.
+
+Einsatz:
+Typ 48 rot
+
+für Heißwasseranlagen und Laugen
+
+Kenndaten für Typ 48
+Farbkennung
+des Balges
+
+Seele
+innen
+
+rot
+
+EPDM
+
+Trägereinlagen
+
+Sp. Cord
+
+Balg
+
+Zulässiger Betriebsdruck
+
+Decke
+außen
+
+EPDM
+
+bar °C
+
+bar °C
+
+16
+
+10
+
+50
+
+Flansch PN 10
+
+7*104
+
+6 100
+
+55
+
+Dehnungsaufnahme
+
+DN
+
+BL
+mm
+
+ØA
+mm
+
+ØD
+mm
+
+Ø Lk
+mm
+
+Ød
+mm
+
+n
+
+s
+mm
+
+ax +
+mm
+
+ax mm
+
+lat ±
+mm
+
+±
+°
+
+ØC
+
+50
+65
+80
+100
+150
+200
+250
+
+150
+150
+150
+155
+155
+160
+160
+
+135
+150
+170
+200
+250
+295
+345
+
+165
+185
+200
+220
+285
+340
+395
+
+125
+145
+160
+180
+240
+295
+350
+
+18
+18
+18
+18
+23
+23
+23
+
+4
+4
+8
+8
+8
+8
+12
+
+16
+16
+18
+18
+20
+20
+20
+
+25
+25
+25
+40
+45
+45
+45
+
+25
+25
+25
+30
+35
+35
+35
+
+20
+20
+20
+25
+25
+25
+25
+
+30
+30
+30
+30
+20
+20
+20
+
+96
+116
+133
+153
+203
+261
+310
+
+Sonderausführungen
+Mit Längenbegrenzer Ausf. B als axiale Hubbegrenzung und zur
+Aufnahme der Reaktionskräfte. Mit Längenbegrenzer Ausf. C als
+axialer Hub- und Schubbegrenzer, Zugstangen in Gummibuchsen
+gelagert.
+
+20
+
+70
+
+bar °C
+
+OberflächenHärte
+widerstand Shore A
+[Ohm cm]
+
+WILLBRANDT Gummi-Kompensator Typ 49
+Typ 49 ist ein Hochleistungs-Gummi-Kompensator in sehr flexibler
+Ausführung. Durch die hohe Wellenform ist eine extrem kurze
+Baulänge mit hervorragenden Eigenschaften in der Geräusch- und
+Schwingungsabsorption sowie hohe Dehnungsaufnahmen in allen
+Richtungen bei sehr geringen Verstellkräften möglich.
+Aufbau:
+Hochgewellter Kugelrollenbalg mit angearbeitetem Dichtwulst
+(dadurch selbstdichtend ohne zusätzliche Dichtung) zur Aufnahme
+der drehbaren Flansche. Die Flansche sind mit Gewindelöchern
+versehen, da sich der Balg am Flansch abstützt.
+
+Kenndaten für DN 32 - DN 80
+Balg
+Farbkennzeichnung
+A-rot
+blau
+gelb
+weiß
+grün
+schwarz-EPDM
+
+Markierung
+rot
+blau
+gelb
+weiß
+grün
+-
+
+Aufbau des Balges
+Seele
+TrägerDecke
+(innen) einlage (außen)
+EPDM
+IIR
+NBR
+NBR
+CSM
+IIR
+
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+
+EPDM
+EPDM
+CR
+CR
+CSM
+EPDM
+
+Zulässige Betriebsdaten
+°C bar °C bar °C bar °C bar
+-40
+-40
+-20
+-20
+-20
+-40
+
+16
+16
+16
+16
+16
+10
+
+70
+50
+50
+50
+50
+50
+
+20 100 16 120
+20 70 16 100
+20 70 16 90
+20 70 16 90
+20 70 16 100
+10 70 8 100
+
+10
+10
+10
+10
+10
+6
+
+kurzfristig
+C°
+
+Oberflächenwiderstand
+[Ohm cm]
+3
+7
+1
+1
+3
+7
+
+150
+120
+100
+100
+110
+110
+
+x
+x
+x
+x
+x
+x
+
+103
+106
+102
+109
+1011
+106
+
+Vakuumfest bis 0,8 bar abs. ohne Stützring (2 m Saughöhe)
+Vakuumfest bis 0 bar abs. mit Stützring (10 m Saughöhe)
+Alle Kompensatoren können mit einem Potentialausgleich geliefert werden.
+
+Kenndaten für Typ DN 100 - DN 500
+Balg
+Farbkennzeichnung
+A-rot
+blau
+gelb
+weiß
+grün
+schwarz-EPDM
+
+Markierung
+rot
+blau
+gelb
+weiß
+grün
+-
+
+Aufbau des Balges
+Seele
+TrägerDecke
+(innen) einlage (außen)
+EPDM
+IIR
+NBR
+NBR
+CSM
+IIR
+
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+
+EPDM
+EPDM
+CR
+CR
+CSM
+EPDM
+
+Zulässige Betriebsdaten
+°C bar °C bar °C bar °C bar
+-40
+-40
+-20
+-20
+-20
+-40
+
+Vakuumfest bis 0,8 bar abs. ohne Stützring (2 m Saughöhe)
+Vakuumfest bis 0 bar abs. mit Stützring (10 m Saughöhe)
+Alle Kompensatoren können mit einem Potentialausgleich geliefert werden.
+
+PED 97/23/EG
+
+Zulassungen:
+Typ 49 A-rot
+mit TÜV/DIN 4809
+für Heizungsbau, Überwachungszeichen
+3 E001
+Typ 49 weiß
+mit Gütesicherung nach DIN 7725
+Lebensmittel geeignet - RAL-C 53
+Typ 49 blau
+mit Trinkwasserzulassung RAL-C 52
+und KTW-Ausschuss-Gummi des
+Bundesgesundheitsamtes von 1986
+Typ 49 alle
+Schiffs-Zulassung mit bzw. ohne
+Flammenschutzhülle, je nach Einsatzort
+
+16
+16
+16
+16
+16
+10
+
+70
+50
+50
+50
+50
+50
+
+25 100 18 120
+25 70 18 100
+25 70 18 90
+25 70 18 90
+25 70 18 100
+10 70 6 100
+
+12
+12
+12
+12
+12
+6
+
+kurzfristig
+C°
+
+Oberflächenwiderstand
+[Ohm cm]
+
+150
+120
+100
+100
+110
+110
+
+3
+7
+1
+1
+3
+7
+
+x
+x
+x
+x
+x
+x
+
+103
+106
+102
+109
+1011
+106
+
+Flansche: (Ausführung A)
+Beiderseits drehbare Flansche mit eingearbeitetem
+Gummiwulst, daher ist eine zusätzliche Dichtung
+nicht erforderlich (selbstdichtend). Die Flansche
+werden im Standard nach DIN PN 10 gebohrt, mit
+Gewindelöchern. Andere Abmessungen nach
+DIN, ASA, BS und Sonderflansche sind ebenfalls
+möglich.
+Der Flanschring ist mit entsprechenden Gewindelöchern versehen, Durchsteckschrauben sind nicht
+möglich.
+Flanschmaterial:
+Standard S 235 JRG2 (RSt37-2) galvanisch
+verzinkt und gelb passiviert.
+Andere Werkstoffe auf Anfrage möglich.
+21
+
+Einsatz:
+Typ 49
+A-rot
+
+Für Heizungsanlagen gem. DIN 4809
+Für Dauerbeanspruchung in Warmwasser- und
+Heißwasser-Leitungen bei 100°C/110°C und 10 bar/6 bar
+Betriebsdruck für 10jährige Betriebsdauer.
+Nicht für ölhaltige Medien geeignet.
+
+Typ 49
+blau
+
+Für Trinkwasser/Warmwasser
+Für kaltes und warmes Wasser, auch unter Zusatz
+von Chemikalien zur Wasseraufbereitung.
+Brauchwasser, Säuren, Laugen, Alkohole, Ester
+und Ketone.
+Nicht für ölhaltige Medien geeignet.
+
+Typ 49
+weiß
+
+Für Nahrungsmittel- und Getränkeindustrie
+Auch für öl- und fetthaltige Nahrungsmittel geeignet.
+
+Typ 49
+grün
+
+Für chemische Anlagen
+Für hohe chemische Beanspruchung.
+
+Typ 49
+gelb
+
+Für Öle, Treibstoffe, Gas
+Einsatzbereiche: Stadt- und Erdgas, Gichtgas, Treibstoffe,
+Schmieröle, Heizung, Kühlwasseremulsionen.
+
+Typ 49
+schwarz
+
+Für Wasserleitungen
+Für Kalt- und Warmwasser, Waschwasser, Seewasser,
+Schwimmbadwasser, Abwasser.
+Nicht für ölhaltige Medien geeignet.
+
+DN
+
+BL
+
+32
+40
+50
+65
+80
+100
+125
+150
+175
+200
+250
+300
+350
+400
+500
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+110
+110
+
+mm
+
+Balg
+Wirks.
+AØ
+Fläche
+cm2
+mm
+
+DØ
+
+LK Ø
+
+mm
+
+mm
+
+110
+110
+120
+135
+150
+170
+195
+260
+310
+310
+360
+410
+460
+515
+615
+
+140
+150
+165
+185
+200
+220
+250
+285
+315
+340
+395
+445
+505
+565
+670
+
+100
+110
+125
+145
+160
+180
+210
+240
+270
+295
+350
+400
+460
+515
+620
+
+18
+18
+35
+56
+87
+130
+190
+263
+416
+416
+607
+830
+1100
+1385
+2091
+
+wirks. Fläche
+
+Lochzahl n
+
+Dehnungsaufnahme
+
+Flansch PN 10
+Ød
+
+n
+
+M16
+M16
+M16
+M16
+M16
+M16
+M16
+M20
+M20
+M20
+M20
+M20
+M20
+M24
+M24
+
+4
+4
+4
+4
+8
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+
+S
+mm
+
+16
+16
+16
+16
+18
+18
+18
+20
+20
+20
+20
+20
+20
+25
+25
+
+axial
++
+mm mm
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+
+lat.
++/mm
+
+°*
+
+CØ
+
++/-
+
+mm
+
+kg
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+
+79
+79
+89
+104
+119
+142
+169
+195
+245
+245
+295
+345
+396
+450
+550
+
+2,7
+3,3
+4,1
+4,5
+5,5
+6,6
+7,2
+11,4
+13,7
+15,1
+18,7
+23,2
+26,9
+40,2
+49,0
+
+Zulässiger Ausnutzungsgrad der Bewegungsbereiche:
+bis 50°C – Ausnutzungsgrad ~ 100 %
+bis 70°C – Ausnutzungsgrad ~ 80 %
+bis 90°C – Ausnutzungsgrad ~ 70 %
+
+Hinweis:
+Bei aggressiven Medien bitte Beständigkeitstabelle
+beachten. Der Balg darf nicht eingestrichen oder
+einisoliert werden. Weitere Einbauhinweise im Anhang.
+22
+
+Gewicht
+
+* Der Wert gilt nur bei um 10 mm
+verkürztem Einbau (90/100 mm).
+
+Zubehör:
+Längenbegrenzer/Verspannung
+Leitbleche
+Flammenfeste Schutzhüllen
+Erdabdeckhauben
+
+siehe
+siehe
+siehe
+siehe
+
+Seite
+Seite
+Seite
+Seite
+
+50
+52
+52
+53
+
+Längenbegrenzer (Standard Ausführungen B + C)
+Da der Gummibalg ein weiches flexibles Bauteil ist, muss
+unbedingt beachtet werden, dass der Kompensator unter
+Druck versucht, durch seine Reaktionskraft (Balgquerschnittsfläche x Betriebsdruck) die Leitung axial zu verschieben.
+Es ist durch konstruktive Maßnahmen an der Rohrleitung
+(Gleitlager, Abstützungen bzw. Festpunkte) oder durch
+Längenbegrenzer direkt am Kompensator dafür zu sorgen,
+dass ein Überstrecken des Balges vermieden wird.
+Beachten Sie hierzu unsere Längenbegrenzer-Reihe
+auf den Seiten 50/51.
+Ausf. B
+
+Ausf. C
+
+Flanschausführungen bei Längenbegrenzung nach Ausf. B und Ausf. C bei 10 bar
+
+DN 25 - 200
+
+DN 250 - 500
+
+Hauptabmessungen PN 10
+
+DN
+
+BL
+mm
+
+S
+mm
+
+A
+mm
+
+B
+mm
+
+32
+40
+50
+65
+80
+100
+125
+150
+175
+200
+250
+300
+350
+400
+500
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+110
+110
+
+16
+16
+16
+16
+16
+16
+16
+20
+20
+20
+20
+20
+20
+25
+25
+
+240
+250
+265
+285
+300
+320
+350
+385
+415
+440
+519
+559
+619
+700
+805
+
+140
+150
+165
+185
+200
+220
+250
+285
+315
+340
+395
+445
+505
+565
+670
+
+23
+
+Vakuum-Stützspiralen
+
+Schraubenpackungen SU
+
+WILLBRANDT Kompensatoren
+Typ 49 sind vakuumfest. Um
+ein Zusammensaugen des
+Kompensatorbalges bei Unterdruck
+zu verhindern, ist jedoch ab 2 m
+Saughöhe (0,8 bar abs., 20 %
+Unterdruck) der Einbau einer
+Vakuum-Stützspirale erforderlich.
+
+Sechskantschrauben nach DIN 933/8.8
+Unterlegscheiben DIN 125
+
+DN
+
+Für den Anschluss der Kompensatoren
+Typ 49 an die Rohrleitung stehen sortierte
+Schraubenpackungen zur Verfügung, so
+dass bei Verwendung von DIN-Flanschen
+die Schraubenlänge plan zum KompensatorBalg hin abschließt.
+
+Art-Nr.
+
+32 / 40
+
+2149305132
+
+50 / 65
+80 / 100 / 125
+
+2149305150
+
+150
+
+2149305215
+
+175 / 200
+
+2149305217
+
+Bei der Montage ist auf glatte gratfreie
+Anlageflächen am Gummibalg zu achten,
+dabei dienen die U-Scheiben zur Längenkorrektur (unter den Schraubenkopf legen).
+
+2149305212
+
+250
+
+2149305225
+
+300
+
+2149305230
+
+350
+
+2149305235
+
+400
+
+2149305240
+
+500
+
+2149305250
+
+Inhalt
+Schraubenpackung
+
+Anzahl
+
+kg
+
+zugehörige Schraubenpackung
+
+DN
+32
+40
+50
+65
+80
+100
+125
+150
+175
+200
+250
+300
+350
+400
+500
+
+24
+
+DIN-Normen
+PN6
+
+PN10
+
+PN16
+
+SU 1
+SU 1
+SU 1
+SU 1
+SU 4
+SU 4
+SU 5
+SU 6
+SU 6
+SU 8
+SU 9
+SU 11
+SU 12
+SU 15
+SU 16
+
+SU 2
+SU 2
+SU 3
+SU 3
+SU 7
+SU 7
+SU 6
+SU 10
+SU 10
+SU 10
+SU 13
+SU 14
+SU 15
+SU 19
+SU 20
+
+SU 2
+SU 2
+SU 3
+SU 3
+SU 7
+SU 7
+SU 6
+SU 10
+SU 10
+SU 11
+SU 17
+SU 18
+SU 19
+SU 21
+SU 22
+
+SU 1
+SU 2
+SU 3
+SU 4
+SU 5
+SU 6
+SU 7
+SU 8
+SU 9
+SU 10
+SU 11
+SU 12
+SU 13
+SU 14
+SU 15
+SU 16
+SU 17
+SU 18
+SU 19
+SU 20
+SU 21
+SU 22
+
+0,35
+0,62
+0,67
+0,68
+1,4
+1,5
+1,55
+2,6
+2,4
+2,7
+4,1
+4,2
+4,3
+4,2
+5,8
+7,3
+6,7
+6,6
+9,3
+11,7
+13,5
+22,0
+
+Schrauben
+
+Anzahl
+
+Ø
+
+DIN 933/88
+
+8
+8
+8
+8
+16
+16
+16
+16
+24
+16
+24
+24
+24
+24
+32
+40
+24
+24
+32
+40
+32
+40
+
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+
+12X30
+16X30
+16X35
+16X35
+16X35
+16X40
+16X40
+16X45
+16X45
+20X45
+20X45
+20X45
+20X50
+20X50
+20X50
+20X50
+24X50
+24X50
+24X55
+24X55
+27X60
+30X60
+
+U-Scheiben
+
+8
+8
+8
+16
+16
+16
+32
+16
+48
+16
+24
+48
+48
+24
+64
+80
+48
+24
+64
+80
+64
+80
+
+13
+17
+17
+17
+17
+17
+17
+17
+17
+21
+21
+21
+21
+21
+21
+21
+25
+25
+25
+25
+28
+31
+
+WILLBRANDT Gummi-Kompensator Typ 50
+Typ 50 ist ein flachgewellter Formenbalg-Kompensator, der gute Eigenschaften
+in der Geräuschdämmung von Körper- und Flüssigkeitsschall hat. Er zeichnet
+sich aus durch eine große Dehnungsaufnahme, speziell im Angularbereich.
+Aufbau:
+Flachgewellter Gummibalg mit Trägereinlagen und angearbeiteten Dichtwülsten
+(daher selbstdichtend, Zusatzdichtungen sind nicht erforderlich) zur Aufnahme
+der drehbaren Flansche. Die Flansche sind mit Durchgangslöchern versehen.
+Kenndaten für DN 20 - DN 600
+Balg
+FarbkennMarkierung
+zeichnung
+rot Sp
+rot
+gelb
+weiß
+grün
+orange
+schwarz EPDM
+schwarz
+gelb St
+gelb LT
+gelb HNBR
+lila
+
+rot-rot
+rot
+gelb
+weiß
+grün
+orange
+ohne
+gelb-gelb
+gelb LT
+gelb-blau-gelb
+weiß-grün-weiß
+
+Zulässige Betriebsdaten
+Aufbau des Balges
+Seele
+TrägerDecke
+(innen) einlage (außen) °C bar °C bar °C bar °C bar
+EPDM
+IIR
+NBR
+NBR
+CSM
+NBR
+IIR
+CR
+NBR
+NBR-LT
+HNBR
+FPM
+
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Stahlcord
+Nyloncord
+Stahlcord
+Nyloncord
+
+EPDM
+EPDM
+CR
+CR
+CSM
+CR
+EPDM
+CR
+CR
+CR
+CR
+ECO
+
+-40
+-40
+-20
+-20
+-20
+-20
+-40
+-25
+-20
+-40
+-35
+-15
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+
+70
+50
+50
+50
+50
+50
+50
+50
+60
+50
+60
+50
+
+16 100 10 130 8
+16 70 12 100 10
+16 70 12 90 10
+16 70 12 90 10
+16 70 12 100 10
+25 70 20 90 15
+10 70 8 100 6
+16 70 12 90 10
+16 70 12 90 10
+16 70 12 90 10
+16 70 12 100 10
+16 70 12 100 10
+
+vakuumfest ohne Stützring bis 0,8 bar abs. (2 m Saughöhe)
+vakuumfest mit Stützring bis 0 bar abs. (10 m Saughöhe)
+DN 20 - DN 50 vakuumfest ohne Stützring.
+Alle Kompensatoren können mit einem Potentialausgleich geliefert werden.
+
+kurz- Oberflächenfristig widerstand Ro
+[Ohm cm]
+C°
+150
+120
+100
+100
+110
+100
+120
+100
+100
+100
+120
+130
+
+3
+7
+2
+1
+3
+2
+7
+8
+7
+1
+7
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+103
+106
+102
+109
+1011
+102
+106
+108
+108
+104
+108
+-
+
+Berstdruck DN 20 - 600 > 48 bar
+Berstdruck DN 700 - 1000 > 30 bar
+
+Kenndaten für DN 700 - DN 1000
+Balg
+Farbkennzeichnung
+rot Sp
+rot
+gelb
+weiß
+grün
+schwarz
+
+Markierung
+rot-rot
+rot
+gelb
+weiß
+grün
+ohne
+
+Aufbau des Balges
+Seele
+TrägerDecke
+(innen) einlage (außen)
+EPDM
+IIR
+NBR
+NBR
+CSM
+CR
+
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+
+EPDM
+EPDM
+CR
+CR
+CSM
+CR
+
+vakuumfest ohne Stützring bis 0,8 bar abs. (2 m Saughöhe)
+vakuumfest mit Stützring bis 0 bar abs. (10 m Saughöhe)
+Alle Kompensatoren können mit einem Potentialausgleich geliefert werden.
+
+Flansche: (Ausführung A)
+Beiderseits drehbare Flansche (Ausführung A) mit eingearbeitetem Gummiwulst, daher sind zusätzliche
+Dichtungen nicht erforderlich (selbstdichtend).
+Die Flansche werden im Standard nach DIN PN 10
+gebohrt. Andere Abmessungen nach DIN, ASA, BS
+und Sonderflansche sind ebenfalls möglich.
+Flanschmaterial:
+Standard S 235 JRG2 (RSt 37-2) galvanisch
+verzinkt und passiviert. Andere Materialien auf Anfrage
+möglich. (Die Flansche bis DN 200 werden teilweise
+mit einem Schmiedekragen zur Balgseite gefertigt.)
+
+Zulässige Betriebsdaten
+°C bar °C bar °C bar °C bar
+-40
+-40
+-20
+-20
+-20
+-25
+
+8
+8
+8
+8
+8
+8
+
+70
+50
+50
+50
+50
+50
+
+10 100 7,5 130
+10 70 8 100
+10 70 8 90
+10 70 8 90
+10 70 8 100
+10 70 8 90
+
+6
+6
+6
+6
+6
+6
+
+kurzfristig
+C°
+150
+120
+100
+100
+110
+100
+
+Oberflächenwiderstand
+[Ohm cm]
+3
+7
+2
+1
+3
+7
+
+x
+x
+x
+x
+x
+x
+
+103
+106
+102
+109
+1011
+106
+
+Berstdruck DN 20 - 600 > 48 bar
+Berstdruck DN 700 - 1000 > 30 bar
+
+Zulassungen:
+Typ 50
+mit TÜV/DIN-Zulassung, DIN 4809
+rot-Aramid
+für Heizungsbau,
+Überwachungszeichen 3 E 003
+Typ 50 rot
+mit Trinkwasser-Zulassung, gemäß
+KTW-Ausschuss-Gummi des
+Bundesgesundheitsamtes von 1986
+Typ 50 weiß
+mit Gütesicherung nach DIN 7725 Lebensmittel geeignet
+Typ 50 alle
+Schiffs-Zulassung mit bzw. ohne
+Flammenschutzhülle
+25
+
+Einsatz:
+Typ 50 rot Sp
+Für Heizungsanlagen gemäß DIN 4809, mit
+korrosionsgeschützten Aramidcordeinlagen für
+Dauerbeanspruchung in Warm- und Heißwasser,
+Kühlwasser und heißer Luft. Nicht geeignet für
+Medien mit ölhaltigen Zusätzen. Witterungs-,
+Alterungs- und Ozonbeständigkeit. Temperaturbereich -40 bis +130°C, kurzfristig bis 150°C,
+Oberflächen elektrisch ableitfähig.
+Typ 50 rot
+Für Trinkwasser, Warmwasser mit DVGW W270 und
+ACS Zulassung sowie für Seewasser, Kühlwasser
+mit chemischen Zusätzen zur Wasseraufbereitung,
+schwache Säuren und Laugen, Salzlösung,
+Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperatureinsatz -40 bis +100°C, kurzfristig 120°C,
+Oberflächen elektrisch ableitfähig. Nicht geeignet für
+Ölprodukte aller Art. Kühlwasser mit Zusätzen von
+ölhaltigen Beimengungen.
+Typ 50 schwarz, EPDM
+Für Trinkwasser mit DVGW W270 Zulassung
+sowie Seewasser, Kühlwasser, schwache Säuren
+und Laugen, technische Alkohole, Ester, Ketone.
+Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperaturbereich -40 bis +90°C, kurzfristig 100°C,
+Oberfläche elektrisch ableitfähig, Höchstdruck 10 bar.
+Typ 50 schwarz CR
+Für Kalt- und Warmwasser, Schwimmbadwasser,
+Salzwasser, Abwasser, Kühlwasser mit ölhaltigen
+Korrosionsschutzmitteln, Ölgemische, ölhaltige
+Pressluft. Witterungs-, Alterungs- und Ozonbeständigkeit. Temperaturbereich -25 bis +90°C, kurzfristig
+100°C, elektrisch isolierend.
+Typ 50 weiß
+Speziell für fetthaltige Lebensmittel, Innengummi
+entspricht dem deutschen Lebensmittelgesetz KTW.
+Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperaturbereich -20 bis +90°C, kurzfristig 100°C,
+elektrisch isolierend, nicht für Trinkwasser geeignet,
+Seele hell.
+Typ 50 orange
+Für Öle, Treibstoffe und Gase. Elektrisch leitend,
+R = 103 bis 106 Ohm. Einsatzbereiche: Stadt- und
+Erdgas, Gichtgas, Flüssiggas nach DIN 51622,
+Treibstoffe, Schmieröle, Heizöl, Kühlwasseremulsionen.
+
+26
+
+Typ 50 grün
+Speziell für Chemikalien und aggressive Chemieabwässer, ölhaltige Kompressorluft, bei den Medien
+bitte unbedingt Medium-Beständigkeitsliste beachten.
+Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperaturbereich -20°C bis +100°C, kurzfristig
+110°C, elektrisch isolierend.
+Typ 50 lila
+Speziell für Rauchgasentschwefelungsanlagen, Biodiesel, gute Beständigkeit gegenüber Benzol, Xylol,
+Toluol und Kraftstoffe mit einem Aromatengehalt
+von mehr als 50% aromatischen/chlorierten Kohlenwasserstoffen und mineralischen Säuren. Witterungs-,
+Alterungs- und Ozonbeständigkeit. Temperaturbereich
+-15°C bis +90°C, kurzfristig 130°C, elektrisch
+isolierend.
+Typ 50 gelb
+Für Öle, Treibstoffe, Gase, Kraftstoff-Ethanolgemisch
+und DIN EN-Kraftstoffe mit bis zu 50% Aromatengehalt. Stadt- und Erdgas mit Ausnahme von
+Flüssiggas. Witterungs-, Alterungs- und Ozonbeständigkeit. Temperaturbereich -20°C bis +90°C,
+kurzfristig 100°C, elektrisch leitfähig.
+Typ 50 gelb LT
+Wie Typ 50 gelb, bei den Medien und Flüssiggas
+nach DIN EN589. Für Tankwagen und Abfüllstationen,
+Temperaturbereich -40 bis +90°C, kurzfristig 100°C,
+elektrisch leitfähig.
+Typ 50 gelb St
+Für Öle, Treibstoffe, Gase, Kraftstoff-Ethanolgemisch
+und DIN EN-Kraftstoffe mit bis zu 50% Aromatengehalt. Stadt- und Erdgas mit Ausnahme von
+Flüssiggas. Witterungs-, Alterungs- und Ozonbeständigkeit. Temperaturbereich -20°C bis +90°C,
+kurzfristig 100°C, flammenbeständig bis 30 Minuten
+bei 800°C, elektrisch leitfähig.
+Typ 50 gelb HNBR
+Für Öle, Treibstoffe, Gase, Kraftstoff-Ethanolgemisch
+und DIN EN-Kraftstoffe mit bis zu 50% Aromatengehalt. Stadt- und Erdgas mit Ausnahme von
+Flüssiggas. Witterungs-, Alterungs- und Ozonbeständigkeit. Temperaturbereich -35 bis +100°C,
+kurzfristig 120°C, elektrisch leitfähig. Kühlwasser mit
+ölhaltigen Korrosionsschutz, Schmier- und Hydraulikölen und Seewasser.
+
+Balg
+DN
+
+20
+25
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+500
+600
+700
+800
+900
+1000
+
+BL
+
+Flansch PN 10
+
+Wirks.
+AØ Fläche
+
+mm
+
+mm
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+200
+200
+200
+200
+250
+250
+300
+300
+
+81
+81
+81
+86
+96
+111
+122
+142
+168
+192
+252
+302
+354
+420
+480
+580
+680
+800
+880
+1038
+1138
+
+cm
+
+2
+
+17
+17
+17
+18
+32
+53
+85
+128
+187
+259
+410
+596
+822
+1176
+1547
+2279
+3115
+4342
+5274
+7379
+8894
+
+DØ
+
+LKØ
+
+Ød
+
+n
+
+mm mm mm mm
+4
+75 12
+105
+4
+85 14
+115
+4
+100 18
+140
+4
+110 18
+150
+4
+125 18
+165
+4
+145 18
+185
+8
+160 18
+200
+8
+180 18
+220
+8
+210 18
+250
+8
+240 22
+285
+8
+295 22
+340
+12
+350 22
+395
+12
+400 22
+445
+16
+460 22
+505
+16
+515 26
+565
+20
+620 26
+670
+20
+725 30
+780
+24
+840 30
+895
+24
+950 33
+1015
+28
+1115 1050 33
+28
+36
+1160
+1230
+
+s
+mm
+
+14
+14
+15
+15
+16
+16
+18
+18
+18
+18
+20
+20
+22
+24
+25
+30
+30
+35
+40
+40
+40
+
+für Standard Typen
+
+für Typen mit Stahlcord
+
+Dehnungsaufnahme
+
+Dehnungsaufnahme
+
+axial
+
+CØ
++
+
+-
+
+mm mm mm
+65 30
+30
+65 30
+30
+65 30
+30
+74 30
+30
+86 30
+30
+105 30
+30
+118 30
+30
+137 30
+30
+166 30
+30
+192 30
+30
+252 30
+30
+304 30
+30
+354 30
+30
+412 30
+50
+470 30
+50
+570 30
+50
+675 30
+50
+780 30
+50
+887 30
+50
+985 30
+50
+1085 30
+50
+
+lat.
+
+°
+
+axial
+
+lat.
+
++/-
+
++/-
+
+mm mm
+30
+15
+30
+15
+35
+15
+35
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+-
+
++/-
+
+mm
+30
+30
+
+30
+30
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+
+30
+30
+30
+30
+30
+20
+20
+20
+12
+12
+12
+8
+8
+8
+8
+8
+6
+5
+5
+
++
+
+mm
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+-
+
+°
++/30
+30
+30
+25
+25
+20
+20
+15
+10
+5
+5
+-
+
+Zulässiger Ausnutzungsgrad der Bewegungsbereiche:
+bis 50°C – Ausnutzungsgrad ~ 100 %
+bis 70°C – Ausnutzungsgrad ~ 75 %
+bis 90°C – Ausnutzungsgrad ~ 60 %
+
+27
+
+Axiale Verstellkraft für Typ 50 (Durchschnittswerte aus Vollweg)
+DN
+
+Baulänge
+mm
+
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+200
+200
+250
+200
+200
+250
+250
+300
+300
+
+0 bar
+N/mm
+
+25
+24
+28
+35
+36
+49
+100
+105
+123
+105
+154
+167
+196
+208
+140
+180
+200
+225
+
+2,5 bar
+N/mm
+
+4 bar
+N/mm
+
+6 bar
+N/mm
+
+10 bar
+N/mm
+
+51
+53
+58
+71
+71
+102
+180
+207
+248
+177
+261
+320
+376
+292
+198
+270
+380
+420
+
+98
+100
+104
+116
+137
+189
+365
+388
+448
+349
+516
+581
+686
+692
+521
+594
+690
+742
+
+134
+150
+148
+206
+214
+293
+568
+609
+658
+567
+535
+903
+1060
+1123
+714
+975
+1080
+1248
+
+173
+190
+185
+274
+282
+390
+735
+778
+883
+753
+1090
+1162
+1364
+1441
+954
+1258
+1395
+1568
+
+Laterale Verstellkraft für Typ 50 (Durchschnittswerte aus Vollweg)
+DN
+
+Baulänge
+mm
+
+0 bar
+N/mm
+
+2,5 bar
+N/mm
+
+4 bar
+N/mm
+
+6 bar
+N/mm
+
+10 bar
+N/mm
+
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+200
+200
+250
+200
+200
+250
+250
+300
+300
+
+50
+40
+35
+55
+100
+120
+323
+379
+392
+305
+338
+342
+426
+456
+516
+558
+800
+960
+
+65
+78
+74
+88
+200
+260
+723
+806
+837
+610
+642
+639
+818
+834
+939
+960
+1480
+1824
+
+80
+115
+136
+143
+261
+309
+836
+1022
+1068
+762
+817
+821
+1048
+1062
+1191
+1055
+1984
+2361
+
+105
+150
+155
+168
+293
+366
+949
+1173
+1216
+875
+946
+971
+1204
+1295
+1449
+1557
+2248
+2736
+
+145
+165
+173
+192
+383
+466
+1219
+1479
+1542
+1098
+1199
+1200
+1495
+1586
+1775
+1758
+2560
+2976
+
+Achtung:
+
+28
+
+Abweichungen (+/-25%) der Verstellkräfte können durch Material- und
+Einlagenwechsel sowie Herstellverfahren auftreten.
+
+Längenbegrenzer (Ausführungen B + C)
+Da der Gummibalg ein weiches flexibles Bauteil ist, versucht
+der Kompensator unter Druck durch seine Reaktionskraft
+(Balgquerschnittsfläche x Betriebsdruck) die Leitung axial
+zu verschieben.
+Es ist durch konstruktive Maßnahmen an der Rohrleitung
+(Gleitlager, Abstützungen bzw. Festpunkte) oder durch
+Längenbegrenzer direkt am Kompensator dafür zu sorgen,
+dass ein Überstrecken des Balges vermieden wird.
+Beachten Sie hierzu unsere Längenbegrenzer-Reihe
+auf den Seiten 50/51.
+Ausf. B
+
+Vakuum-Stützring aus 1.4571
+DN
+
+Ausf. C
+
+Flanschausführungen bei Längenbegrenzung
+nach Ausf. B und Ausf. C bei 10 bar
+
+Art-Nr.
+
+350
+
+2150315235
+
+400
+500
+
+2150335240
+
+600
+
+2150315260
+
+700
+
+2150315270
+
+2150315250
+
+800
+
+2150315280
+
+900
+
+2150315290
+
+1000
+
+2150315310
+
+DN 25 - 200
+
+DN 250 - 900 (1000)
+
+DN 1000
+
+Vakuum-Stützspiralen:
+WILLBRANDT-Kompensatoren Typ 50 sind vakuumfest.
+Um ein Zusammensaugen des Kompensatorbalges
+bei Unterdruck zu verhindern, ist ab 2 m Saughöhe
+(0,8 bar abs., 20% Unterdruck) der Einbau einer
+Vakuum-Stützspirale (bis DN 300) bzw. eines Vakuumringes
+erforderlich (ab DN 350).
+
+Art-Nr.
+
+DN
+50
+
+2150315150
+
+65
+80
+
+2150305180
+
+100
+
+2150305210
+
+125
+
+2151305212
+
+2150305180
+
+150
+
+2150305215
+
+200
+
+2151305220
+
+250
+
+2151305225
+
+300
+
+2151305230
+
+Hinweis:
+Bei aggressiven Medien bitte Beständigkeitstabelle
+beachten. Der Balg darf nicht angestrichen oder
+einisoliert werden. Weitere Einbauhinweise im Anhang.
+Anwendungsbeispiel für eine Flanschausführung als Rohrgelenk DN 300.
+
+Zubehör:
+Längenbegrenzer/Verspannung
+Leitblech
+Flammenfeste Schutzhülle
+Erdabdeckhaube
+
+siehe
+siehe
+siehe
+siehe
+
+Seite
+Seite
+Seite
+Seite
+
+50
+52
+52
+53
+29
+
+Ausführung PTFE Chemie-Ausführung
+Diese Sonderausführung des Typ 50 wird für hohe chemische
+Beanspruchung, über den Gummibeständigkeitsbereich hinaus,
+mit einer PTFE-Folie ausgekleidet, um eine gute Standfestigkeit
+zu erreichen.
+Die PTFE-Auskleidung ist geeignet für alle gebräuchlichen Flüssigkeiten; die Wärmebeständigkeit ist zu beachten. Der Kompensator
+darf nur im Überdruckbereich (bis max. 6 bar) eingesetzt werden;
+kein Vakuum zulässig.
+Für Vakuum ist ein Spezial-PTFE-Stützring erforderlich, jedoch
+nur für DN 65 - 300 möglich.
+
+Flansch PN 10
+
+Balg
+
+DN
+25
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+500
+600
+800
+900
+1000
+
+30
+
+AØ
+
+Wirks.
+Fläche
+
+ØD
+
+ØLK
+
+mm
+
+mm
+
+cm2
+
+mm
+
+mm
+
+mm
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+200
+200
+200
+200
+250
+300
+300
+
+81
+81
+86
+96
+111
+122
+142
+168
+192
+252
+302
+354
+420
+480
+580
+680
+880
+1038
+1138
+
+17
+17
+18
+32
+53
+85
+128
+187
+259
+410
+596
+822
+1176
+1547
+2279
+3115
+4342
+7379
+8894
+
+115
+140
+150
+165
+185
+200
+220
+250
+285
+340
+395
+445
+505
+565
+670
+780
+1015
+1115
+1230
+
+85
+100
+110
+125
+145
+160
+180
+210
+240
+295
+350
+400
+460
+515
+620
+725
+950
+1050
+1160
+
+14
+14
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+26
+26
+30
+33
+33
+36
+
+BL
+
+Ød
+
+n
+
+4
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+24
+28
+28
+
+S
+
+Dehnungsaufnahme
+axial / lateral
+
+°
+
+ØC
+
++
+
+-
+
+mm
+
+mm
+
+mm
+
+mm
+
++/-
+
+mm
+
+14
+15
+15
+16
+16
+18
+18
+18
+20
+20
+20
+20
+24
+25
+30
+30
+40
+40
+40
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+
+15
+15
+15
+15
+15
+15
+10
+10
+10
+6
+6
+6
+4
+4
+4
+4
+3
+2,5
+2,5
+
+65
+65
+74
+86
+105
+118
+137
+166
+192
+252
+304
+354
+412
+470
+570
+675
+887
+985
+1085
+
++/-
+
+WILLBRANDT Gummi-Kompensator Typ 51 lila
+Typ 51 lila ist ein Sondermodell ähnlich der 50-Reihe und wird im
+Spezialverfahren hergestellt.
+Geeignet für chemische Anlagen speziell bei hoher thermischer
+Beanspruchung bis ca. 150°C.
+Die zulässige Höchstbeanspruchung setzt sich aus Temperatur,
+Druck, Bewegung und erwarteter Lebensdauer zusammen.
+Hinweis:
+Der Balg darf nicht angestrichen oder einisoliert werden.
+
+Aufbau des Balges
+Farbkennzeichnung Seele Träger- Decke
+des Balges (innen) einlage (außen)
+
+zulässige
+Betriebsdaten
+bar °C
+
+bar
+
+°C
+
+bar °C
+
+lila/rot
+
+FPM
+
+Aramid
+
+EPDM
+
+25 50
+
+16 120
+
+4 150
+
+lila
+
+FPM
+
+Aramid
+
+CR
+
+25 50
+
+16 100
+
+6 120
+
+Berstdruck > 50 bar
+DN 20 - DN 50 vakuumfest ohne Stützring.
+Vakuumfest ohne Stützring bis 0,8 bar abs. (2 m Saughöhe)
+Vakuumfest mit Stützring bis 0 bar abs. (10 m Saughöhe)
+
+Balg
+
+DN
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+500
+600
+700
+800
+900
+1000
+
+BL
+
+AØ
+
+Wirks.
+Fläche
+
+DØ
+
+Flansch PN 10
+LK Ø Ø d
+n
+
+mm
+
+mm
+
+cm2
+
+mm
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+200
+200
+250
+250
+250
+250
+300
+300
+
+86
+86
+96
+110
+122
+142
+170
+196
+256
+306
+353
+442
+495
+595
+695
+800
+880
+1038
+1138
+
+27
+27
+32
+53
+85
+128
+187
+259
+409
+599
+822
+1176
+1547
+2279
+3115
+4342
+5274
+7379
+8894
+
+140
+100
+150
+110
+165
+125
+185
+145
+200
+160
+220
+180
+250
+210
+285
+240
+340
+295
+395
+350
+445
+400
+505
+460
+565
+515
+670
+620
+780
+725
+895
+840
+950
+1015
+1115 1050
+1230 1160
+
+mm
+
+mm
+
+18
+18
+18
+18
+18
+18
+18
+23
+23
+23
+23
+22
+26
+26
+30
+30
+33
+33
+36
+
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+24
+24
+28
+28
+
+Dehnungsaufnahme
+axial
+
+S
+
+lat.
+
+°
+
++/-
+
++/-
+
++
+
+-
+
+mm
+
+mm
+
+mm
+
+mm
+
+15
+15
+16
+16
+18
+16
+18
+18
+20
+20
+22
+24
+25
+30
+30
+30
+30
+30
+30
+
+10
+10
+10
+10
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+30
+30
+30
+30
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+25
+25
+25
+30
+30
+30
+30
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+30
+30
+30
+30
+
+20
+20
+20
+20
+20
+20
+20
+20
+15
+10
+10
+10
+8
+6
+6
+6
+5
+4
+4
+
+CØ
+mm
+
+78
+78
+89
+104
+119
+142
+169
+195
+245
+295
+348
+398
+450
+563
+673
+780
+887
+985
+1085
+
+31
+
+WILLBRANDT Gummi-Kompensator Typ 53
+Typ 53 ist ein flachgewellter Formbalg-Kompensator, der gute
+Eigenschaften in der Geräuschdämmung erzielt. Er zeichnet
+sich durch große Dehnungsaufnahme in allen drei Ebenen aus.
+Aufbau:
+Flachgewellter Gummibalg mit Trägereinlagen und angearbeitetem Dichtwulst (daher selbstdichtend ohne Zusatzdichtung)
+zur Aufnahme der drehbaren Stahlhinterlegflansche mit Vollringabstützung. Die Flansche sind mit Durchgangslöchern
+versehen (PN 6, PN 10, PN 16, ASA 150 lbs oder andere).
+Alle Stahlteile aus S 235 JRG2 (RSt 37-2) galvanisch verzinkt
+und passiviert.
+Kenndaten für Typ 53
+Farbkennung
+des Balges
+
+Seele
+innen
+
+IIR-D
+NBR
+CSM
+
+rot/blau
+gelb/blau
+grün/blau
+
+Decke
+außen
+
+Trägereinlagen
+
+Aramid
+Aramid
+Aramid
+
+EPDM
+CR
+CR
+
+Härte
+Shore A
+
+Zulässiger Betriebsdruck
+bar °C
+
+bar °C
+
+bar °C
+
+25
+25
+25
+
+16 120
+16 90
+16 90
+
+10 130
+10 120
+10 120
+
+80
+50
+50
+
+60
+65
+65
+
+Vakuumfest ohne Stützring bis 0,8 bar abs., mit Stützring bis 0 bar abs.
+DN 20 - DN 50 vakuumfest ohne Stützring.
+
+Ausführung A
+Sonderausführungen:
+Mit Längenbegrenzer Ausf. B als axiale Hubbe-grenzung und zur Aufnahme der Reakionskräfte. Mit Längenbegrenzer Ausf. C als axialer
+Hub- und Schubbegrenzer, Zugstangen in
+Gummibuchsen gelagert (siehe Seite 50
+und 51).
+
+Flansch PN 10
+
+Balg
+
+32
+
+Dehnungsaufnahme
+
+DN
+
+BL
+mm
+
+ØA
+mm
+
+ØD
+mm
+
+Ø Lk
+mm
+
+Ød
+mm
+
+n
+
+s
+mm
+
+ax +
+mm
+
+ax mm
+
+lat ±
+mm
+
+±
+°
+
+ØC
+
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+500
+600
+
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+130
+200
+200
+250
+250
+
+81
+86
+96
+110
+122
+142
+170
+196
+256
+306
+356
+442
+495
+595
+695
+
+140
+150
+165
+185
+200
+220
+250
+285
+340
+395
+445
+505
+565
+670
+780
+
+100
+110
+125
+145
+160
+180
+210
+240
+295
+350
+400
+460
+515
+620
+725
+
+18
+18
+18
+18
+18
+18
+18
+23
+23
+23
+23
+22
+26
+26
+30
+
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+
+15
+15
+15
+15
+15
+15
+18
+18
+20
+20
+22
+24
+25
+30
+30
+
+10
+10
+10
+10
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+25
+25
+25
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+
+20
+20
+20
+20
+20
+20
+20
+20
+15
+10
+10
+10
+8
+6
+6
+
+65
+74
+86
+105
+118
+137
+166
+192
+252
+304
+354
+398
+450
+563
+673
+
+WILLBRANDT Gummi-Kompensator Typ 54 gelb
+Typ 54 gelb ist ein flachgewellter Formbalg-Kompensator,
+der gute Eigenschaften in der Geräuschdämmung erzielt.
+Er zeichnet sich durch große Dehnungaufnahme in allen
+drei Ebenen aus.
+Aufbau:
+Flachgewellter Gummibalg mit Trägereinlagen und angearbeitetem Dichtwulst (daher selbstdichtend ohne
+Zusatzdichtung) zur Aufnahme der drehbaren Stahlhinterlegflansche mit Vollringabstützung. Die Flansche
+SAE 3000 sind mit Durchgangslöchern versehen.
+Alle Stahlteile aus S235JRG2 (R St 37-2) galvanisch
+verzinkt und passiviert.
+Anmerkung:
+Die Flansche sind auch in anderen Normen lieferbar
+z. B. DIN PN 6, 10, 16 oder ASA 150 lb.
+
+Kenndaten für Typ 54 gelb
+Farbkennung
+des Balges
+
+Trägereinlagen
+
+Seele
+innen
+
+Zulässiger Betriebsdruck
+
+Decke
+außen
+
+bar °C
+
+gelb
+
+NBR
+
+Nylon
+
+CR
+
+10
+
+bar °C
+
+50
+
+bar °C
+
+10
+
+Oberflächenwiderstand
+[Ohm cm]
+
+Härte
+Shore A
+
+5*104
+
+60
+
+80
+
+Vakuumfest ohne Stützring bis 0,8 bar abs., mit Stützring bis 0 bar abs.
+
+Flansch SAE 3000
+
+Balg
+
+DN
+25/1“
+32/1 1/4“
+40/1 1/2“
+50/2“
+65/2 1/2“
+80/3“
+90/3 1/2“
+100/4“
+125/5“
+
+Dehnungsaufnahme
+
+BL
+mm
+
+Ø di
+mm
+
+A
+mm
+
+B
+mm
+
+D
+mm
+
+E
+mm
+
+Ød
+mm
+
+n
+
+s
+mm
+
+ax +
+mm
+
+ax mm
+
+lat ±
+mm
+
+±
+°
+
+ØC
+mm
+
+65
+65
+100
+100
+100
+100
+100
+100
+130
+
+24
+32
+40
+50
+65
+80
+80
+100
+121
+
+70
+80
+90
+100
+115
+132
+146
+156
+184
+
+55
+70
+80
+90
+105
+120
+130
+140
+165
+
+52,4
+58,7
+70,0
+77,8
+89,0
+106,4
+120,6
+130,2
+152,4
+
+26,2
+30,2
+35,7
+42,9
+50,8
+62,0
+70,0
+77,8
+92,0
+
+11
+13
+13
+13
+13
+17
+17
+17
+17
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+11
+11
+13
+13
+14
+14
+14
+16
+16
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+
+7,5
+7,5
+10,0
+10,0
+10,0
+10,0
+10,0
+10,0
+25,0
+
+46
+53
+64
+73
+89
+102
+102
+130
+166
+
+33
+
+WILLBRANDT Gummi-Kompensator Typ 55
+Typ 55 ist ein flachgewellter Formenbalg-Kompensator, der gute
+Eigenschaften in der Geräuschdämmung (Körperschall und
+Flüssigkeitsschall) aufweist. Er zeichnet sich durch eine große
+Dehnungsaufnahme aus, speziell im Angular-Bereich.
+Aufbau:
+Flachgewellter Gummibalg mit Trägereinlagen und angearbeiteten
+Dichtwülsten (daher selbstdichtend, Zusatzdichtungen sind nicht
+erforderlich) zur Aufnahme der drehbaren Flansche.
+Die Flansche sind mit Durchgangslöchern versehen.
+
+Kenndaten für DN 20 - DN 600
+Balg
+Farbkennzeichnung
+rot Sp
+rot
+gelb
+grün
+gelb St
+
+Markierung
+
+Aufbau des Balges
+Seele
+TrägerDecke
+(innen) einlage (außen)
+
+EPDM
+rot-rot
+IIR
+rot
+NBR
+gelb
+CSM
+grün
+gelb-gelb NBR
+
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+Stahlcord
+
+EPDM
+EPDM
+CR
+CSM
+CR
+
+Zulässige Betriebsdaten
+°C bar °C bar °C bar °C bar
+-40
+-40
+-20
+-20
+-20
+
+10
+10
+10
+10
+10
+
+70
+50
+50
+50
+60
+
+16 100 10 130 8
+16 70 12 100 10
+16 70 12 90 10
+16 70 12 100 10
+16 70 12 90 10
+
+kurzfristig
+C°
+150
+120
+100
+110
+100
+
+Oberflächenwiderstand
+[Ohm cm]
+3
+7
+2
+3
+7
+
+x
+x
+x
+x
+x
+
+103
+106
+102
+1011
+108
+
+Berstdruck > 50 bar
+Vakuumfest ohne Stützring bis 0,8 bar abs. (2 m Saughöhe)
+Vakuumfest mit Stützring bis 0 bar abs. (10 m Saughöhe)
+DN 20 - DN 50 vakuumfest ohne Stützring.
+Berstdruck DN 450 - 1000 > 30 bar
+Berstdruck DN 32 - 400 > 50 bar
+
+Kenndaten für Typ DN 700 - DN 1000
+Balg
+Farbkennzeichnung
+rot Sp
+rot
+gelb
+grün
+
+Markierung
+rot-rot
+rot
+gelb
+grün
+
+Aufbau des Balges
+Seele
+TrägerDecke
+(innen) einlage (außen)
+EPDM
+IIR
+NBR
+CSM
+
+Aramid
+Nyloncord
+Nyloncord
+Nyloncord
+
+EPDM
+EPDM
+CR
+CSM
+
+Zulässige Betriebsdaten
+°C bar °C bar °C bar °C bar
+-40
+-40
+-20
+-20
+
+8
+8
+8
+8
+
+70
+50
+50
+50
+
+10 100 7,5 130
+10 70 8 100
+10 70 8 90
+10 70 8 100
+
+6
+6
+6
+6
+
+kurzfristig
+C°
+150
+120
+100
+110
+
+Oberflächenwiderstand
+[Ohm cm]
+3
+7
+2
+3
+
+x
+x
+x
+x
+
+103
+106
+102
+1011
+
+Berstdruck > 50 bar
+Vakuumfest ohne Stützring bis 0,8 bar abs. (2 m Saughöhe)
+Vakuumfest mit Stützring bis 0 bar abs. (10 m Saughöhe)
+Berstdruck DN 450 - 1000 > 30 bar
+Berstdruck DN 32 - 400 > 50 bar
+
+Flansche: (Ausführung A)
+Beiderseits drehbare Flansche (Ausführung A) mit eingearbeitetem Gummiwulst, daher sind zusätzliche Dichtungen
+nicht erforderlich (selbstdichtend).
+
+Hinweis:
+Bei aggressiven Medien bitte Beständigkeitstabelle
+beachten. Der Balg darf nicht angestrichen oder
+einisoliert werden. Weitere Einbauhinweise im
+Anhang.
+
+Die Flansche werden im Standard nach DIN PN 10 gebohrt.
+Andere Abmessungen nach DIN, ASA, BS und SonderVakuum-Stützspiralen:
+flansche sind möglich.
+WILLBRANDT-Kompensatoren Typ 55 sind nicht
+vakuumfest. Um ein Zusammensaugen des
+Flanschmaterial:
+Kompensatorbalges bei Unterdruck zu verhindern,
+Standard S 235 JRG2 (RSt 37-2) galvanisch verzinkt und
+ist ab 2 m Saughöhe (0,8 bar abs., 20% Unterdruck)
+passiviert. Es sind auch andere Materialien auf Anfrage
+der Einbau einer Vakuum-Stützspirale (bis DN 300)
+möglich. (Die Flansche bis DN 200 werden teilweise mit
+bzw. eines Vakuumringes erforderlich (ab DN 350).
+einem Schmiedekragen zur Balgseite gefertigt.)
+34
+
+Typ 55 rot Sp
+Für Heizungsanlagen gemäß DIN 4809, mit
+korrosionsgeschützten Aramidcordeinlagen für Dauerbeanspruchung in Warm- und Heißwasser, Kühlwasser
+und heißer Luft. Nicht geeignet für Medien mit ölhaltigen Zusätzen. Witterungs-, Alterungs- und Ozonbeständigkeit. Temperaturbereich -40 bis +130°C, kurzfristig bis 150°C, Oberflächen elektrisch ableitfähig.
+
+Typ 55 gelb St
+Für Öle, Treibstoffe, Gase, Kraftstoff-Ethanolgemisch
+und DIN EN-Kraftstoffe mit bis zu 50% Aromatengehalt. Stadt- und Erdgas mit Ausnahme von Flüssiggas. Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperaturbereich -20°C bis +90°C, kurzfristig 100°C,
+elektrisch leitfähig, flammenbeständig bis 30 Minuten
+bei 800°C, elektrisch leitfähig.
+
+Typ 55 rot
+Für Trinkwasser, Warmwasser mit DVGW W270 und
+ACS Zulassung sowie für Seewasser, Kühlwasser
+mit chemischen Zusätzen zur Wasseraufbereitung,
+schwache Säuren und Laugen, Salzlösung,
+Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperatureinsatz -40 bis +100°C, kurzfristig 120°C,
+Oberflächen elektrisch ableitfähig. Nicht geeignet für
+Ölprodukte aller Art. Kühlwasser mit Zusätzen von
+ölhaltigen Beimengungen.
+
+Typ 55 grün
+Speziell für Chemikalien und aggressive Chemieabwässer, ölhaltige Kompressorluft, bei den Medien
+bitte unbedingt Medium-Beständigkeitsliste beachten.
+Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperaturbereich -20°C bis +100°C, kurzfristig 110°C,
+elektrisch isolierend.
+
+Typ 55 gelb
+Für Öle, Treibstoffe, Gase, Kraftstoff-Ethanolgemisch
+und DIN EN-Kraftstoffe mit bis zu 50% Aromatengehalt. Stadt- und Erdgas mit Ausnahme von Flüssiggas. Witterungs-, Alterungs- und Ozonbeständigkeit.
+Temperaturbereich -20°C bis +90°C, kurzfristig 100°C,
+elektrisch leitfähig.
+Balg
+
+AØ
+
+Wirks.
+Fläche
+
+DØ
+
+Flansch PN 10
+n
+LK Ø Ø d
+
+DN
+
+BL
+mm
+
+mm
+
+cm2
+
+mm
+
+mm
+
+mm
+
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+
+125
+125
+125
+125
+150
+150
+150
+150
+175
+175
+200
+200
+200
+250
+250
+250
+275
+250
+300
+300
+
+81
+86
+96
+110
+122
+142
+170
+196
+256
+306
+410
+470
+480
+545
+595
+695
+800
+880
+981
+1086
+
+17
+18
+32
+53
+85
+128
+187
+259
+409
+599
+822
+1176
+1547
+2279
+2038
+3310
+4342
+5274
+7379
+8894
+
+140
+150
+165
+185
+200
+220
+250
+285
+340
+395
+445
+505
+565
+615
+670
+780
+895
+1015
+1115
+1230
+
+100
+110
+125
+145
+160
+180
+210
+240
+295
+350
+400
+460
+515
+565
+620
+725
+840
+950
+1050
+1160
+
+18
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+26
+26
+26
+30
+30
+33
+33
+36
+
+Zulässiger Ausnutzungsgrad der Bewegungsbereiche:
+bis 50°C ~ 100 %
+bis 70°C ~ 75 %
+bis 90°C ~ 60 %
+
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+20
+24
+24
+28
+28
+
+Dehnungsaufnahme
+S
+mm
+
+ax +
+mm
+
+ax mm
+
+lat +/mm
+
+15
+15
+16
+16
+18
+18
+18
+18
+20
+20
+22
+24
+25
+25
+30
+30
+35
+40
+40
+40
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+20
+20
+20
+30
+30
+30
+30
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+40
+50
+40
+40
+40
+50
+50
+50
+50
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+
+Zubehör:
+Längenbegrenzer/Verspannung
+Leitrohr
+Flammenfeste Schutzhülle
+Erdabdeckhaube
+
+°
++/-
+
+30
+30
+30
+30
+30
+20
+20
+20
+12
+12
+12
+8
+8
+6
+6
+6
+8
+6
+5
+5
+
+CØ
+mm
+
+65
+74
+86
+105
+118
+137
+166
+192
+245
+295
+354
+412
+470
+512
+570
+675
+780
+887
+985
+1085
+
+siehe
+siehe
+siehe
+siehe
+
+Seite
+Seite
+Seite
+Seite
+
+50
+52
+52
+53
+35
+
+WILLBRANDT Gummi-Kompensator Typ 56
+Typ 56 ist ein zylindrischer Kompensator, der im Handwickelverfahren hergestellt wird. Durch das Herstellungsverfahren ist er in
+der Baulänge variabel. Seine Dehnungsaufnahmebereitschaft liegt
+nur im lateralen und angularen Bereich. Durch die wellenfreie
+Ausführung ergibt sich ein strömungsgünstiges und ablagerungsfreies Modell.
+Aufbau:
+Zylindrischer Balgkörper mit Trägereinlagen und angearbeiteten
+Gummiwülsten zur Aufnahme der drehbaren Flansche. Der
+Kompensator ist selbstdichtend, zusätzliche Dichtungen sind
+nicht erforderlich.
+Einsatz:
+Geräusch- und Vibrationsdämpfer, Dehnungsaufnahme in Förderleitungen, an Behältern und Pumpen bei feststoffhaltigen Medien.
+Kenndaten für Typ 56
+Farbkennzeichnung
+des Balges
+
+Seele
+(innen)
+
+rot
+gelb
+grün
+weiß
+lila
+
+EPDM
+NBR
+CSM
+NBR/weiß
+FPM
+
+Trägereinlage
+
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Aramid
+
+zulässige
+Betriebsdaten
+
+Decke
+(außen)
+
+EPDM
+CR
+CSM
+CR
+CR
+
+bar
+
+°C
+
+bar
+
+6
+6
+6
+6
+6
+
+20
+20
+20
+20
+20
+
+6
+6
+6
+6
+4
+
+Oberflächenwiderstand
+°C
+
+90
+90
+80
+80
+150
+
+Härte
+Shore A
+
+[Ohm cm]
+
+7
+5
+4
+5
+
+x
+x
+x
+x
+
+103
+103
+104
+103
+
+60
+60
+65
+55
+65
+
+Berstdruck > 25 bar
+
+Flansche:
+Beiderseits drehbare Flansche (Ausf. A) mit eingearbeitetem
+Gummiwulst, daher sind zusätzliche Dichtungen nicht erforderlich
+(selbstdichtend). Die Flansche werden im Standard nach
+DIN PN 10 gebohrt. Andere Abmessungen nach DIN, ASA, BS
+und Sonderflansche sind möglich.
+Flanschmaterial:
+Standard S 235 JRG2 (RSt 37-2) galvanisch verzinkt.
+Andere Materialien auf Anfrage möglich.
+Hinweis:
+Nur für laterale und angulare Bewegung einsetzbar (Faltenbildung).
+Nicht einisoliereren oder anstreichen. Einbauhinweise beachten.
+Flansch PN 10
+DN
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+36
+
+BL
+mm
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+
+-
+
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+
+ØC
+mm
+78
+88
+104
+119
+142
+169
+195
+245
+295
+348
+
+ØD
+mm
+
+Ø Lk
+mm
+
+Ød
+mm
+
+150
+165
+185
+200
+220
+250
+285
+340
+395
+445
+
+110
+125
+145
+160
+180
+210
+240
+295
+350
+400
+
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+
+n
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+
+
+
+s
+mm
+
+PBetr.
+zul.
+bar
+
+lat ±
+mm
+
+Gewicht
+BL 200 mm
+kg
+
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+25
+25
+20
+20
+20
+20
+20
+15
+15
+15
+
+3,6
+4,5
+4,9
+6,0
+7,3
+8,1
+12,5
+16,8
+20,4
+25,2
+
+WILLBRANDT Gummi-Kompensator Typ 57
+Typ 57 ist ein konischer Kompensator, der im Handwickelverfahren hergestellt wird. Seine Baulänge ist nicht variabel. Wir
+haben ein erweitertes Formenpaket vorrätig, bei Bedarf bitten
+wir um Rücksprache. Durch seine Bauform sind mit Typ 57
+nur Dehnungsaufnahmen im lateralen und angularen Bereich
+möglich.
+Aufbau:
+Konischer Balgkörper mit Trägereinlagen und angearbeiteten
+Gummiwülsten zur Aufnahme der drehbaren Flansche. Der
+Kompensator ist selbstdichtend, zusätzliche Dichtungen sind
+nicht erforderlich.
+Einsatz:
+Geräusch- und Vibrationsdämpfer sowie Dehnungsaufnehmer in
+Förderleitungen, an Behältern, Gebäudeausgängen und Pumpen
+und überall dort, wo ein weicher, glatter, strömungsgünstiger
+Übergang auf Grund von Medium-Zusammensetzungen, eingesetzt werden muss.
+
+Kenndaten für Typ 57
+Farbkennzeichnung
+des Balges
+
+Seele
+(innen)
+
+rot
+gelb
+grün
+weiß
+lila
+
+EPDM
+NBR
+CSM
+NBR/weiß
+FPM
+
+Trägereinlagen
+
+Nyloncord
+Nyloncord
+Nyloncord
+Nyloncord
+Kevlar
+
+Zulässige
+Betriebsdaten
+
+Decke
+(außen)
+
+EPDM
+CR
+CSM
+CR
+CR
+
+bar
+
+°C
+
+bar
+
+6
+6
+6
+6
+6
+
+20
+20
+20
+20
+20
+
+6
+6
+6
+6
+4
+
+Oberflächenwiderstand
+°C
+
+90
+90
+80
+80
+150
+
+Härte
+Shore A
+
+[Ohm cm]
+
+7
+5
+4
+5
+
+x
+x
+x
+x
+
+103
+103
+1010
+103
+
+60
+60
+65
+65
+65
+
+Berstdruck > 24 bar
+
+Flansche:
+Beiderseits drehbare Flansche (Ausführung A) mit eingearbeitetem
+Gummiwulst, daher sind zusätzliche Dichtungen nicht erforderlich
+(selbstdichtend). Die Flansche werden im Standard nach DIN
+PN 10 gebohrt. Andere Abmessungen nach DIN, ASA, BS und
+Sonderflansche sind möglich.
+Flanschmaterial:
+Standard S 235 JRG2 (RSt 37-2), galvanisch verzinkt und gelb
+passiviert. Andere Materialien auf Anfrage möglich.
+Längenbegrenzer/Verspannung:
+Es wird empfohlen, diese Kompensatorenelemente mit innen-liegender Verspannung einzusetzen. Durch den Druckaufbau tritt eine
+elastische Verformung auf, die versucht, den konischen Balgkörper
+aufzublähen. Dadurch kommt es zu einer Verkürzung des
+Kompensators bzw. hohen Zugkräften an den Anschlussteilen.
+
+37
+
+Flansch1
+DN1
+
+40
+40
+50
+50
+65
+65
+80
+80
+100
+100
+125
+125
+150
+150
+200
+200
+250
+250
+300
+300
+
+DN2
+
+25
+32
+32
+40
+40
+50
+50
+65
+65
+80
+80
+100
+100
+125
+125
+150
+150
+200
+200
+250
+
+BL
+mm
+
+C1 Ø
+mm
+
+D1 Ø
+mm
+
+LK1 Ø
+mm
+
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+300
+300
+300
+300
+300
+300
+
+78
+78
+88
+88
+104
+104
+119
+119
+142
+142
+169
+169
+195
+195
+245
+245
+295
+295
+348
+348
+
+150
+150
+165
+165
+185
+185
+200
+200
+220
+220
+250
+250
+285
+285
+340
+340
+395
+395
+445
+445
+
+110
+110
+125
+125
+145
+145
+160
+160
+180
+180
+210
+210
+240
+240
+295
+295
+350
+350
+400
+400
+
+Flansch2
+n x Ød
+
+4
+4
+4
+4
+4
+4
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+12
+12
+12
+12
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+22
+22
+22
+
+C2 Ø
+mm
+
+D2 Ø
+mm
+
+LK2 Ø
+mm
+
+63
+78
+78
+78
+78
+88
+88
+104
+104
+119
+119
+142
+142
+169
+169
+195
+195
+245
+245
+295
+
+115
+140
+140
+150
+150
+165
+165
+185
+185
+200
+200
+220
+220
+250
+250
+285
+285
+340
+340
+395
+
+85
+100
+100
+110
+110
+125
+125
+145
+145
+160
+160
+180
+180
+210
+210
+240
+240
+295
+295
+350
+
+Sonderausführungen:
+Exzentrische Bauweise, größere Nennweiten und andere
+Größensprünge auf Anfrage.
+Hinweis:
+Bei aggressiven Medien bitte Beständigkeitstabelle beachten.
+Der Balg darf nicht angestrichen bzw. einisoliert werden.
+Weitere Einbauhinweise ab Seite 60.
+
+38
+
+n x Ød
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+12
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+
+s
+mm
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+20
+20
+20
+20
+
+Zul.
+Druck
+bar
+
+lat ±
+mm
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+
+WILLBRANDT Gummi-Kompensator Typ 58
+Typ 58 ist ein zylindrischer Kompensator, der im Handwickelverfahren hergestellt wird. Durch das Herstellungsverfahren ist es
+möglich, die Baulänge variabel herzustellen. Dehnungsaufnahme,
+durch die Konstruktion bedingt, nur im lateralen und angularen
+Bereich möglich.
+Aufbau:
+Zylindrischer Gummibalgkörper mit Trägereinlagen und angearbeiteten verstärkten Vollgummiflanschen und hinterliegenden,
+geteilten Stützflanschen.
+Einsatz:
+Geräusch- und Vibrationsdämpfer sowie Dehnungsaufnehmer in
+Förderleitungen, an Behältern, Gebäudeausgängen und Pumpen,
+und überall dort, wo ein weicher, glatter strömungsgünstiger
+Übergang eingesetzt werden muss.
+Kenndaten für Typ 58
+Farbkennzeichnung
+des Balges
+
+rot
+gelb/St
+gelb
+grün
+weiß
+lila
+
+Seele
+(innen)
+
+EPDM
+NBR
+NBR
+CSM
+NBR/weiß
+FPM
+
+Trägereinlage
+
+Nyloncord
+Stahlcord
+Nyloncord
+Nyloncord
+Nyloncord
+Aramid
+
+Decke
+(außen)
+
+bar
+
+°C
+
+bar
+
+6
+6
+6
+6
+6
+6
+
+20
+20
+20
+20
+20
+20
+
+6
+6
+6
+6
+6
+4
+
+EPDM
+CR
+CR
+CSM
+CR
+CR
+
+Härte
+Shore A
+
+OberflächenWiderstand
+
+Zulässige
+Betriebsdaten
+°C
+
+90
+90
+90
+80
+80
+150
+
+[Ohm cm]
+
+7
+1
+5
+4
+5
+
+x
+x
+x
+x
+x
+
+103
+102
+103
+104
+103
+
+60
+60
+60
+65
+55
+65
+
+Berstdruck > 24 bar
+
+Flansche:
+Druckfeste Vollgummiflansche
+mit Verstärkungseinlagen und
+zweiteiligen Hinterlegflanschen
+aus S 235 JRG2 (RSt 37-2),
+nach DIN PN 10 gebohrt.
+Andere Materialien und
+Bohrungen auf Wunsch möglich.
+Der Kompensator ist selbstdichtend, es sind keine zusätzlichen
+Dichtungen erforderlich.
+Hinweis:
+Nur für laterale und angulare
+Dehnungsaufnahme einsetzbar.
+Gegenflansche müssen glatt,
+ohne Vor- und Rücksprung sein.
+Nicht einisolieren oder
+anstreichen.
+Einbauhinweise beachten.
+
+Flansch PN 10
+
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+
+D Ø LK Ø
+
+Ød
+
+mm
+
+mm
+
+mm
+
+mm
+
+-
+
+150
+165
+185
+200
+220
+250
+285
+340
+395
+445
+505
+565
+615
+670
+
+110
+125
+145
+160
+180
+210
+240
+295
+350
+400
+460
+515
+565
+620
+
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+26
+26
+26
+
+BL
+
+DN
+
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+
+n
+
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+
+b
+
+S
+
+mm
+
+mm
+
+8
+8
+8
+8
+8
+8
+8
+8
+10
+10
+10
+10
+10
+10
+
+15
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+24
+24
+24
+
+Zul.
+Druck
+
+lat.
++/-
+
+bar
+
+mm
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+
+39
+
+WILLBRANDT Gummi-Kompensator Typ 59
+Typ 59 ist ein konisch von Hand gewickelter Gummibalg zur Aufnahme
+von lateralen und angularen Bewegungen. Seine Baulänge kann nur
+durch Erstellung neuer Formen verändert werden. Es steht jedoch ein
+erweitertes Formenpaket zur Verfügung. Abgedruckt wurde nur eine
+Standard-Reihe. Im Planungsfall bitten wir um Rücksprache.
+Aufbau:
+Konischer Gummibalgkörper mit Trägereinlagen und angearbeiteten
+verstärkten Vollgummiflanschen und hinterliegenden Stützflanschen.
+Einsatz:
+Geräusch-, Vibrations- und Wasserschalldämpfer sowie Dehnungsaufnehmer in Förderleitungen, an Behältern, Pumpen und Gebäudeabgängen, und überall, wo ein weicher, glatter, strömungsgünstiger
+Übergang eingesetzt werden muss.
+Kenndaten für Typ 59
+Farbkennzeichnung
+des Balges
+
+rot
+gelb/St
+gelb
+grün
+weiß
+lila
+
+Seele
+(innen)
+
+EPDM
+NBR
+NBR
+CSM
+NBR/weiß
+FPM
+
+Trägereinlage
+
+Nyloncord
+Stahlcord
+Nyloncord
+Nyloncord
+Nyloncord
+Aramid
+
+Decke
+(außen)
+
+Oberflächenwiderstand
+
+Zulässige
+Betriebsdaten
+
+EPDM
+CR
+CR
+CSM
+CR
+CR
+
+bar
+
+°C
+
+bar
+
+6
+6
+6
+6
+6
+6
+
+20
+20
+20
+20
+20
+20
+
+6
+6
+6
+6
+6
+4
+
+Härte
+Shore A
+
+[Ohm cm]
+
+°C
+
+90
+90
+90
+80
+80
+150
+
+7
+1
+5
+4
+5
+
+x
+x
+x
+x
+x
+
+103
+102
+103
+104
+103
+
+60
+60
+60
+65
+55
+65
+
+Flansche:
+Druckfeste Vollgummiflansche mit
+Verstärkungseinlagen und einteiligen
+Hinterlegflanschen aus S 235 JRG2
+(RSt 37-2) nach DIN PN 10 gebohrt.
+Andere Materialien und Bohrungen auf
+Wunsch möglich. Der Kompensator ist
+selbstdichtend, es sind keine zusätzlichen
+Dichtungen erforderlich.
+
+Hinweis:
+Nur für laterale und angulare Dehnungsaufnahme einsetzbar.
+Gegenflansche müssen glatt, ohne Vor- und Rücksprung sein.
+Nicht einisolieren oder anstreichen. Einbauhinweise beachten.
+
+Sonderausführungen:
+Exzentrische Bauweise, größere Nennweiten
+und andere Größensprünge sind möglich.
+
+100
+100
+125
+125
+150
+150
+200
+200
+250
+250
+300
+300
+350
+350
+400
+400
+450
+450
+500
+500
+
+Längenbegrenzer/Verspannung:
+Es wird empfohlen, diese Kompensatorenelemente mit innenliegender Verspannung
+einzusetzen. Durch den Druckaufbau tritt
+eine elastische Verformung auf, die versucht,
+den konischen Balgkörper aufzublähen.
+Dadurch kommt es zu einer Verkürzung
+des Kompensators bzw. hohen Zugkräften
+an den Anschlussteilen.
+Sonderausführungen mit verstärktem
+Balgteil möglich (kein Aufblähen).
+
+40
+
+Flansch1
+DN1 DN2
+
+65
+80
+80
+100
+100
+125
+125
+150
+150
+200
+200
+250
+250
+300
+300
+350
+350
+400
+400
+450
+
+BL
+
+s
+
+b
+
+D1 Ø LK1Ø n x Ød D2 Ø LK2Ø n x Ød
+
+mm mm mm mm
+
+mm
+
+220
+220
+250
+250
+285
+285
+340
+340
+395
+395
+445
+445
+505
+505
+565
+565
+615
+615
+670
+670
+
+180
+180
+210
+210
+240
+240
+295
+295
+350
+350
+400
+400
+460
+460
+515
+515
+565
+565
+620
+620
+
+250
+250
+250
+250
+250
+250
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+
+15
+15
+15
+15
+15
+15
+20
+20
+20
+20
+20
+20
+20
+20
+24
+24
+24
+24
+24
+24
+
+8
+8
+8
+8
+8
+8
+8
+8
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+
+Zul.
+Druck
+
+Flansch2
+
+8
+8
+8
+8
+8
+8
+8
+8
+12
+12
+12
+12
+16
+16
+16
+16
+20
+20
+20
+20
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+18
+18
+18
+18
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+26
+26
+26
+26
+26
+26
+
+mm
+
+mm
+
+185
+200
+200
+220
+220
+250
+250
+285
+285
+340
+340
+395
+395
+445
+445
+505
+505
+565
+565
+610
+
+145
+160
+160
+180
+180
+210
+210
+240
+240
+295
+295
+350
+350
+400
+400
+460
+460
+515
+515
+565
+
+4x
+8x
+8x
+8x
+8x
+8x
+8x
+8x
+8x
+8x
+8x
+12 12 x
+12 x
+12 x
+16 16 x
+16 x
+16 x
+20 x
+
+18
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+26
+26
+26
+
+lat.
++/-
+
+bar
+
+mm
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+
+WILLBRANDT Rohrverbindung Typ 60 - WRG
+Typ 60 ist eine Gummi-Metall-Rohrverbindung zur Unterbrechung von
+Geräuschen und Oberflächenschwingungen in Rohrleitungen, an
+Pumpen, Maschinen und Apparaten. TÜV-Eignungsbescheinigung
+zum Einsatz in Heizungsanlagen mit 100/110°C und 10/6 bar liegt vor.
+Aufbau:
+Zylindrischer Gummipuffer mit einvulkanisierten Flanschringen zur
+Aufnahme der Flanschbohrungen. Die Gummi-Metall-Rohrverbindung
+ist selbstdichtend, daher sind keine zusätzlichen Dichtungen erforderlich.
+Einsatz:
+Hausinstallation, Krankenhaus und Schulen, in Heizungsanlagen und
+im Wasser-, Heißwasserbereich; ferner einsetzbar für leichte Säuren
+und Laugen im Industrieanlagenbau
+Werkstoff:
+Gummiteile EPDM ohne Einlagen. Flanschringe aus Stahl/Aluminium
+mit Gewindelöchern. Andere Werkstoffe als EPDM werden nicht
+verarbeitet.
+Ausführung PN 6
+
+DN
+
+BL
+
+Balg
+Wirks.
+Fläche
+
+Ausführung PN 10
+Flansch PN 6
+
+D Ø LK Ø Ø d
+
+Gewicht
+n
+
+DN
+
+BL
+
+Balg
+Wirks.
+Fläche
+
+mm
+
+cm2
+
+mm
+
+cm2
+
+20 70
+
+3
+
+90
+
+65 M10
+
+4
+
+1,0
+
+20
+
+70
+
+3
+
+25 70
+
+5
+
+100
+
+75 M10
+
+4
+
+1,2
+
+25
+
+70
+
+32 70
+
+8
+
+120
+
+90 M12
+
+4
+
+1,7
+
+32
+
+70
+
+40 70
+
+13
+
+130 100 M12
+
+4
+
+2,7
+
+40
+
+50 70
+
+20
+
+140 110 M12
+
+4
+
+3,1
+
+50
+
+65 70
+
+33
+
+160 130 M12
+
+4
+
+3,7
+
+80 70
+
+50
+
+190 150 M16
+
+4
+
+4,0
+
+100 70
+
+79
+
+210 170 M16
+
+4
+
+125 70
+
+123
+
+240 200 M16
+
+8
+
+150 70
+
+177
+
+265 225 M16
+
+200* 70
+
+314
+
+320 280 M16
+
+kg
+
+mm mm
+
+Flansch PN 10
+D Ø LK Ø Ø d
+
+Gewicht
+n
+kg
+
+mm mm
+
+105
+
+75 M12
+
+4
+
+1,7
+
+5
+
+115
+
+85 M12
+
+4
+
+2,2
+
+8
+
+140 100 M16
+
+4
+
+3,3
+
+70
+
+13
+
+150 110 M16
+
+4
+
+3,6
+
+70
+
+20
+
+165 125 M16
+
+4
+
+4,4
+
+65
+
+70
+
+33
+
+185 145 M16
+
+4
+
+5,2
+
+80
+
+70
+
+50
+
+200 160 M16
+
+8
+
+5,7
+
+4,6
+
+100
+
+70
+
+79
+
+220 180 M16
+
+8
+
+6,9
+
+4,8
+
+125
+
+70
+
+123
+
+250 210 M16
+
+8
+
+8,1
+
+8
+
+8,2
+
+150
+
+70
+
+177
+
+295 240 M20
+
+8
+
+11,7
+
+8
+
+10,9
+
+200
+
+70
+
+314
+
+340 295 M20
+
+8
+
+15,5
+
+*ohne TÜV
+
+Einbauhinweise:
+Die betriebssichere Funktion setzt eine einwandfreie Rohrleitungsführung und exakt ausgelegte Festpunkte voraus.
+Die Gummi-Metall-Rohrverbindungen sind spannungsfrei einzubauen. Die Einbaulücke soll 70 mm betragen. Nicht auf Zug,
+Torsion oder Abwinklung belasten. Der Einbau sollte an einer
+gut zugänglichen Stelle erfolgen, wo Wartung und Überprüfung
+der Anlage ohnehin erfolgt. Ist ein spannungsfreier Einbau nicht
+möglich oder sind axiale oder radiale Bewegungen zu erwarten,
+dann sollten WILLBRANDT Gummi-Kompensatoren vorgesehen
+werden. Zusätzliche Dichtungen sind nicht erforderlich, da
+Gummi an der Dichtfläche vorsteht. Montage mit Sechskantschrauben DIN 933 und Unterlegscheiben. Anzugsmoment für
+die Schrauben 30 Nm. WILLBRANDT Rohrverbindungen nicht
+einisolieren (Wärmestau!).
+
+41
+
+WILLBRANDT Rohrverbindung Typ 61
+Typ 61 ist ein flachgewellter Gummi-Kompensator, der sich
+durch seine zylindrischen Anschlussteile auszeichnet.
+Dadurch ist eine einfache, schnelle Schellenmontage möglich.
+Aufbau:
+Flachgewellter Gummikörper mit Trägereinlagen, beiderseits
+mit zylindrischen Enden zur Schellenbefestigung.
+Einsatz:
+Abwasserleitungen, Motorkühlungssysteme, Industrieanlagen,
+Belüftungsanlagen, Klärwerke.
+
+Kenndaten für Typ 61
+Farbkennzeichnung
+des Balges
+
+rot/St
+rot
+gelb/St
+gelb
+grün
+weiß
+lila
+
+Trägereinlage
+
+Seele
+(innen)
+
+EPDM
+EPDM
+NBR
+NBR
+CSM
+NBR/weiß
+FPM
+
+Stahlcord
+Nyloncord
+Stahlcord
+Nyloncord
+Nyloncord
+Nyloncord
+Aramid
+
+Decke
+(außen)
+
+EPDM
+EPDM
+CR
+CR
+CSM
+CR
+EPDM
+
+Oberflächenwiderstand
+
+Zulässige
+Betriebsdaten
+bar
+
+°C
+
+bar
+
+6
+6
+6
+6
+6
+6
+6
+
+50
+50
+50
+50
+50
+50
+50
+
+3
+4
+4
+4
+4
+4
+2
+
+°C
+
+100
+90
+90
+80
+80
+80
+150
+
+Härte
+Shore A
+
+[Ohm cm]
+
+7
+7
+5
+5
+4
+5
+
+x
+x
+x
+x
+x
+x
+
+103
+102
+104
+103
+1010
+103
+
+60
+60
+60
+60
+65
+60
+65
+
+Berstdruck >24 bar, vakuumfest mit Stützring
+
+Hinweis:
+Sonderabmessungen sind möglich. Rohrleitungsaußendurchmesser
+muss glatt (evtl. Schweißnähte überschleifen) und sauber sein.
+Balg nicht einisolieren oder anstreichen. Breite Schellen verwenden
+(mind. 20x1). Bis 2 bar können je Seite eine Schelle angesetzt
+werden. Über 2 bar empfehlen wir 2 Schellen zu verwenden.
+Bewegungsaufnahme nur für Typ 61 - A.
+
+Dehnungsaufnahme
+DN
+
+di Ø
+mm
+
+BL
+mm
+
+AØ
+mm
+
+s
+mm
+
+H
+mm
+
+B
+mm
+
+ax +
+mm
+
+ax mm
+
+lat ±
+mm
+
+±
+°
+
+Gewicht
+kg
+
+50
+65
+80
+100
+125
+150
+175
+200
+225
+250
+300
+350
+400
+500
+600
+
+60,3
+76,1
+88,9
+114,3
+139,7
+168,3
+193,7
+219,1
+227,0
+273,0
+323,9
+355,6
+406,4
+508,0
+610,0
+
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+
+120
+135
+158
+183
+208
+254
+278
+304
+311
+359
+408
+439
+491
+594
+696
+
+5
+6
+6
+6
+6
+7
+7
+7
+7
+7
+7
+7
+8
+8
+8
+
+97
+97
+85
+85
+85
+65
+65
+65
+65
+65
+65
+65
+60
+60
+60
+
+55
+55
+80
+80
+80
+120
+120
+120
+120
+120
+120
+120
+130
+130
+130
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+
+20
+20
+20
+20
+20
+15
+15
+10
+10
+10
+8
+8
+8
+6
+6
+
+0,5
+0,6
+0,7
+0,9
+1,1
+1,4
+1,5
+1,7
+1,8
+2,2
+2,6
+2,7
+3,2
+4,0
+4,8
+
+Größere Nennweiten möglich.
+
+42
+
+WILLBRANDT Entwässerungsschlauch Typ 62
+Typ 62 ist speziell für die Brückenentwässerung entwickelt worden
+und entspricht allen Anforderungen, die bei diesem rauhen Betrieb
+auftreten, wie z. B. hohe Temperaturschwankungen, verschiedenartige Medien, Vibration und hohe Dehnungsaufnahme. Besonders
+hervorzuheben ist seine flexible Ausführung mit einer sehr geringen
+Verstellkraft.
+Aufbau:
+Seele und Decke durchgehend gewellt mit verdeckt liegender,
+eingearbeiteter Stahldrahtspirale und entsprechenden Gewebeeinlagen. Beiderseits mit spiralfreien Muffen zur Schellenbefestigung.
+Werkstoff:
+Chloropren mit Nylongewebeeinlagen, Schellen aus Stahl
+verzinkt oder Edelstahl.
+
+Hinweis:
+Beim Einbau auf die vorhandene Einbautemperatur achten und entsprechend vorgespannt
+einbauen. Schlauch nicht einisolieren oder anstreichen. Bei Bestellung Rohrdurchmesser für
+die Muffenerweiterung angeben. Schlauch ist nur für Niederdruck-Betrieb (0,5 bar) geeignet.
+
+DN
+
+Li Standard
+mm
+
+Li SML Rohr
+mm
+
+H
+mm
+
+s
+mm
+
+50
+65
+70
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+
+60,3
+76,1
+114,3
+139,7
+168,3
+219,1
+273,0
+323,0
+355,6
+406,4
+457,0
+508,0
+610,0
+
+58
+78
+110
+135
+160
+210
+274
+326
+-
+
+50
+50
+50
+50
+50
+50
+50
+50
+75
+75
+75
+75
+100
+100
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+Bl
+mm
+
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+300
+
+-
+
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+3000
+
+Beiderseits spiralfreie Muffen, die entsprechend Ihren Wünschen erweitert werden können.
+Axiale Minus-Dehnungsaufnahme ca. 30%, laterale Dehnungsaufnahme ca. +/-15% der flexiblen Länge.
+
+43
+
+WILLBRANDT Gummi-Kompensator Typ 63
+Typ 63 ist ein Gummi-Kompensator, der speziell nach
+Ihren Konstruktionsmaßen hergestellt werden kann. Es
+gibt für diesen Typ keine Standardmaße. Die Baulänge
+ist variabel und abhängig von der aufzunehmenden
+Bewegung.
+Einsatz:
+Für Luft-, Wasser- und Chemikalienanlagen bzw. für
+Wanddurchführung in Kraftwerken innen und außen.
+
+Kenndaten für Typ 63
+Farbkennzeichnung
+des Balges
+
+rot
+gelb
+schwarz
+grün
+weiß
+lila
+
+zulässige Betriebsdaten
+
+Aufbau des Balges
+Seele
+(innen)
+
+Trägereinlage
+
+Decke
+(außen)
+
+max
+bar
+
+max
+°C
+
+Härte
+Shore A
+
+IIR
+NBR
+CR
+CSM
+SI
+FPM
+
+Polyestergewebe
+Polyestergewebe
+Polyestergewebe
+Polyestergewebe
+Glasgewebe
+Edelstahl
+
+IIR
+NBR
+CR
+CSM
+SI
+FPM
+
+8
+8
+8
+8
+8
+8
+
+120
+120
+100
+100
+200
+180
+
+60
+60
+60
+60
+50
+65
+
+Anmerkung:
+Die zulässige Druckstabilität ist stark formabhängig.
+Hinweis:
+Ausführung in allen Formen rund, eckig oder oval möglich.
+Betriebsdruck muss je nach Form speziell festgelegt werden
+(rund max. 8 bar, eckig max. 2 bar). Einbauhinweise beachten!
+Nicht anstreichen oder einisolieren!
+
+Wandabdichtung mit
+Schellen
+Wandabdichtung mit
+Flansch
+44
+
+WILLBRANDT Gummi-Kompensator Typ 64
+Typ 64 ist ein Kompensator, der speziell nach
+Ihren Konstruktionsmaßen hergestellt werden
+kann. Es gibt für diesen Typ keine Standardabmessungen. Die Baulänge ist variabel und
+abhängig von der aufzunehmenden Bewegung.
+Der Kompensator wird aus vorgefertigten Folien
+hergestellt und je nach Material in der Endform ausvulkanisiert bzw. ausgeheizt.
+Anwendungsbereich
+Durch die Auswahl der verschiedenen
+Materialien kann der Typ 64 in einer breiten
+Palette eingesetzt werden, wie z. B. für
+Probleme bei der Behandlung heißer Gase
+und zugehörigem Kondensat in Wäscher- und
+Rauchgassystemen.
+Gegenüber metallischen Kompensatoren ist
+Typ 64 in der Lage, auf kürzester Baulänge
+größere axiale und laterale Dehnung sowie
+Montageungenauigkeiten aufzunehmen.
+Zugleich werden Geräusche und Schwingungen
+von Aggregaten, wie Ventilatoren etc., absorbiert.
+
+Dehnungsaufnahme
+
+axial = ~ 0,3 x L
+
+axial -
+
+lateral ±
+
+= ~ 0,05 x L
+
+= ~ 0,1 x L
+
+Dehnungswerte können durch Wellenausführungen und Materialwahl erhöht werden.
+
+45
+
+Normalausführungen:
+Typ 64 wird in zwei Grundausführungen produziert: Einmal als Schlauchtyp- und
+einmal als Flanschtyp-Kompensator.
+Beide können mit flachen konvexen
+oder konkaven Profilen für runde und
+rechteckige Leitungssysteme in allen
+Größenabmessungen hergestellt werden.
+Die Materialdicken schwanken je nach
+Ausführung zwischen 1 mm und 4 mm.
+Die Anschlussflächen im Balgbereich
+werden entsprechend verstärkt, so dass
+hier ein problemloser Anschluss mit
+Schellen- bzw. Flansch-SchraubenVerbindung möglich ist.
+
+Typ 64 - I
+
+Anzumerken wäre noch, dass die
+Kompensatoren mit Flanschausführung
+bis zu einem Durchmesser von 1200 mm
+in vorgeformter Form geliefert werden; bei
+größeren Abmessungen werden diese Teile
+in Flachform geliefert, sodass die Flansche
+bei der Montage aufgerichtet werden.
+
+Typ 64 - II
+
+Einsatzgebiete:
+Anlagenbau, Kraftwerksbau, Rauchgasentschwefelungsanlagen, Kläranlagenbau,
+Regenwasseranlagen, Rohrwanddurchführungen etc.
+Typ 64 - III
+
+Anmerkung:
+Wir bitten Sie, die entsprechenden Einbauhinweise zu beachten. Die Kompensatoren
+sollten nicht angestrichen und nicht einisoliert werden, da dieses zu einem
+vorzeitigen Ausfall der Materialien führen
+kann! Wir bitten Sie, bei Anfragen die
+entsprechende Bauform mit anzugeben
+und bei Flanschausführung das entsprechende Lochbild.
+Typ 64 - IV
+
+Kenndaten für Typ 64
+Aufbau des Balges
+
+Farbkennzeichnung
+des Balges
+
+rot
+grau
+ohne
+ohne
+
+46
+
+zulässige Betriebsdaten
+
+Seele
+(innen)
+
+Trägereinlage
+
+Decke
+(außen)
+
+max.
+bar
+
+max.
+°C
+
+EPDM
+CR
+FKM
+PTFE
+
+Nyloncord
+Nyloncord
+Nyloncord
+
+EPDM
+
+0,5
+0,5
+0,5
+0,3
+
+120
+100
+200
+200
+
+CR
+FKM
+-
+
+Härte
+Shore A
+
+65
+55
+70
+-
+
+WILLBRANDT PTFE-Kompensator Typ 80
+Typ 80 ist ein PTFE-Faltenbalg-Kompensator, der aus einem
+extrudierten PTFE-Rohr unter Druck heiß verformt wurde, so
+dass die Umlenkung der Materialfasern ohne Unterbrechung
+erfolgt.
+Aufbau:
+Reiner PTFE-Balg mit außenliegenden Edelstahlstützringen,
+beiderseits PTFE-Bördel mit hinterliegendem Stahlflansch
+und integrierter Verspannung.
+Einsatz:
+In Chemieanlagen, als Dehnungsaufnehmer bzw.
+Geräuschminderer und für den Ausgleich von
+Montageungenauigkeiten.
+Empfohlen für den Einsatz in Rohrleitungen aus zerbrechlichem
+Material wie z. B. Glas, Graphit, Emaille, da ihre große Elastizität
+nur sehr kleine Verstellkräfte für die Bewegungsaufnahme
+erforderlich macht.
+
+Leistungskurven bei Vakuum mit 3 Wellen
+
+Leistungskurven bei Druck mit 3 Wellen
+Kurve
+
+1
+
+DN
+
+25 -
+
+80
+
+2
+
+100 - 150
+
+3
+
+200 - 250
+
+4
+
+300 - 350
+
+5
+
+400 - 450
+
+6
+
+500 - 600
+
+7
+
+700 - 1200
+
+Überdruck
+für Ausführung mit 5 Wellen ist der Wert
+mit 0,5 zu multiplizieren
+
+Wichtiger Einbauhinweis:
+Es ist darauf zu achten, dass mit Ausnahme von PTFE/
+PTFE-Verbindungen unbedingt Dichtungen verwendet
+werden, z. B. PTFE-ummantelte IT-Dichtungen (Ausf. 1)
+oder PTFE-ummantelte IT-Dichtungen mit
+Edelstahleinlage (Ausf. 2) bzw. gleichwertige.
+
+Unterdruck
+nicht für 5 Wellen geeignet
+
+Flansche:
+Beiderseits Bördelflansche aus Stahl mit Rostschutzanstrich, nach DIN PN 10 gebohrt.
+Andere Materialien und Bohrbilder sind möglich.
+
+Hinweis:
+Nicht für Schwingungen geeignet! Nicht einisolieren!
+Einbauhinweise beachten!
+Sonderausführungen:
+Sonderausführungen für Glasleitungen, für
+Vollvakuum oder höheren Betriebsdruck auf
+Anfrage möglich.
+Sonderkonstruktion bis PN 16 möglich
+in 2 - 10 welliger Ausführung (Typ 80 HD).
+Ausf. 1
+
+Ausf. 2
+47
+
+Verstellkräfte Typ 80
+3 Wellen
+DN
+
+ax ±
+N/mm
+
+lat ±
+N/mm
+
+20
+25
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+1200
+
+45
+45
+50
+50
+50
+40
+40
+50
+60
+100
+150
+150
+150
+200
+200
+250
+300
+300
+350
+380
+400
+425
+460
+
+20
+20
+25
+28
+45
+50
+60
+90
+110
+150
+180
+200
+200
+270
+270
+290
+350
+350
+410
+490
+530
+570
+620
+
+5 Wellen
+ax ±
+N/mm
+
+lat ±
+N/mm
+
+40
+40
+40
+40
+35
+35
+35
+40
+80
+100
+100
+120
+160
+200
+200
+250
+250
+-
+
+15
+20
+20
+35
+40
+45
+60
+80
+120
+150
+170
+170
+250
+230
+240
+300
+300
+-
+
+3 Wellen
+DN
+
+Balg
+Wirks.
+Fläche
+
+Flansch
+DØ
+
+LK Ø
+
+Ød
+
+mm
+105
+115
+140
+150
+165
+185
+200
+220
+250
+285
+340
+395
+445
+505
+565
+615
+670
+780
+895
+1015
+1115
+1230
+1455
+
+cm2
+75
+85
+100
+110
+125
+145
+160
+180
+210
+240
+295
+350
+400
+460
+515
+565
+620
+725
+840
+950
+1050
+1160
+1380
+
+mm
+14
+14
+18
+18
+18
+18
+18
+18
+18
+22
+22
+22
+22
+22
+27
+27
+27
+30
+30
+33
+33
+36
+39
+
+Dehnungsaufnahme
+n
+
+s
+
+CØ
+
+4
+4
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+20
+24
+24
+28
+28
+32
+
+mm
+12,0
+10,0
+12,5
+12,5
+14,5
+18,5
+18,5
+18,0
+20,5
+21,0
+23,0
+27,0
+27,0
+27,0
+27,5
+27,0
+29,0
+33,0
+33,0
+35,0
+35,0
+35,0
+35,0
+
+mm
+53
+62
+72
+80
+98
+118
+122
+148
+174
+200
+256
+303
+360
+402
+453
+513
+564
+658
+800
+905
+1005
+1110
+1330
+
+BL
+
+20
+25
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+1200
+
+48
+
+9
+13
+18
+25
+39
+55
+90
+135
+190
+295
+460
+670
+940
+1080
+1400
+1800
+2100
+3100
+4415
+5700
+7120
+8740
+12561
+
+Gelat. wicht
+
+axial
++
+
+cm2
+
+5 Wellen
+
+mm mm
+50 10
+50 12
+50 12
+50 12
+75 15
+75 22
+100 25
+100 25
+125 28
+150 28
+150 28
+150 28
+150 30
+150 30
+150 30
+150 30
+150 30
+175 30
+170 35
+170 35
+170 35
+170 35
+170 35
+
+-
+
+Dehnungsaufnahme
+BL
+
++/-
+
+mm mm kg
+8
+2,5
+10
+2,5
+12 10
+3,0
+12 12
+4,0
+12 15
+6,0
+15 15
+7,0
+22 17
+8,0
+25 17
+10,0
+25 17
+12,0
+28 18
+15,0
+28 18
+20,0
+28 20
+35,0
+28 10
+8
+48,0
+30
+6
+57,0
+30
+6
+70,0
+30
+5
+78,0
+30
+5
+86,0
+30
+4 125,0
+30
+2 128,0
+35
+2 130,0
+35
+2 133,0
+35
+2 146,0
+35
+2 175,0
+35
+
+mm
+70
+75
+75
+100
+100
+125
+150
+175
+225
+225
+225
+225
+225
+225
+225
+225
+250
+
+Gelat. wicht
+
+axial
++
+
+-
+
+mm
+15
+20
+20
+20
+35
+40
+40
+45
+45
+45
+45
+50
+50
+50
+50
+50
+50
+
+mm
+15
+20
+20
+20
+35
+40
+40
+45
+45
+45
+45
+50
+50
+50
+50
+50
+50
+
++/-
+
+mm kg
+12
+2,8
+18
+3,5
+20
+4,5
+25
+6,5
+30
+7,5
+30
+9,0
+30
+11,0
+32
+13,0
+32
+17,0
+32
+22,0
+15
+37,0
+10
+50,0
+8
+59,0
+8
+72,0
+7
+80,0
+7
+89,0
+6 130,0
+
+WILLBRANDT PTFE-Kompensator Typ 80 HD
+Typ 80 HD ist ein PTFE-Faltenbalg-Kompensator, der
+aus einem gewickeltem PTFE-Folienrohr unter Druck
+heiß verformt wurde. So kann die Umlenkung der
+Materialfasern ohne Unterbrechung erfolgen. Es können
+für alle Nennweiten 2 bis 10 Wellen gefertigt werden.
+Aufbau:
+Reiner Wickelfolienbalg mit außenliegenden Edelstahlstützringen, beiderseits mit PTFE-Bördel und hinterliegenden Stahlflanschen sowie integrierter Verspannung.
+
+Druck- und Vakuumdiagramm
+bei Temperatureinfluss
+
+Flansch:
+Material GGG 40 mit Rostschutzanstrich (Lochkreisbohrungen teilweise mit Gewindelöchern, bei enger
+Bauweise), Standardausführung PN 10.
+Sonderbohrungen und -materialien auf Anfrage möglich.
+
+Bewegungsaufnahme
+bei 2 Wellen
+
+Baulänge
+DN
+
+25
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+500
+600
+
+2
+Wellen
+mm
+
+45
+55
+55
+60
+60
+65
+70
+75
+75
+80
+90
+95
+100
+100
+105
+105
+
+Bewegungsaufnahme
+bei 3 Wellen
+
+Bewegungsaufnahme
+pro weitere Welle*
+
+3
+Wellen
+mm
+
++ je
+Welle*
+mm
+
+ax +/-
+
+lat +/-
+
+ang +/-
+
+ax +/-
+
+lat +/-
+
+ang +/-
+
+ax +/-
+
+lat +/-
+
+ang +/-
+
+mm
+
+mm
+
+°
+
+mm
+
+mm
+
+°
+
+mm
+
+mm
+
+°
+
+55
+65
+70
+70
+80
+90
+95
+100
+105
+110
+120
+125
+125
+135
+140
+140
+
+12
+13
+15
+16
+20
+24
+25
+25
+25
+25
+26
+26
+26
+26
+26
+26
+
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+15
+13
+
+4
+4
+5
+5
+6
+6
+6
+6
+6
+7
+7
+7
+7
+7
+8
+8
+
+9
+8
+8
+7
+7
+7
+6
+6
+5
+4
+4
+3
+3
+3
+3
+2
+
+9
+9
+11
+11
+12
+12
+14
+14
+15
+15
+17
+17
+18
+18
+20
+20
+
+6
+6
+8
+8
+9
+9
+9
+9
+9
+11
+11
+11
+11
+11
+12
+12
+
+14
+12
+12
+11
+11
+11
+9
+9
+8
+6
+6
+5
+5
+5
+5
+3
+
+3,0
+3,0
+3,5
+3,5
+4,0
+4,0
+4,5
+4,5
+5,0
+5,0
+5,5
+5,5
+6,0
+6,0
+6,5
+6,5
+
+2,0
+2,0
+2,5
+2,5
+3,0
+3,0
+3,0
+3,0
+3,0
+3,5
+3,5
+3,5
+3,5
+3,5
+4,0
+4,0
+
+4,5
+4,0
+4,0
+3,5
+3,5
+3,5
+3,0
+3,0
+2,5
+2,0
+2,0
+1,5
+1,5
+1,5
+1,5
+1,0
+
+*max. 10 Wellen
+Flanschbild siehe Seite 71.
+
+49
+
+Begrenzer / Längenbegrenzer
+Unter Druck bauen die Gummi-Kompensatoren eine Reaktionskraft in axialer Plus-Richtung auf (wirksame Fläche x Betriebsdruck), die bei unverspannten Kompensatoren - Ausf. A - von
+den nächstgelegenen Festpunkten bzw. Quergleitlagern aufgenommen werden muss.
+Beim Einsatz zur Aufnahme von Schwingungen, lateraler und
+angularer Dehnungsaufnahme, sowie zur Geräuschabsorption
+ist es möglich, durch Anordnung von Verspannungen eine
+kontrollierte Einbausituation (kontrollierte Dehnungsaufnahme,
+siehe Einbauhinweise) zu schaffen. Die von uns unter B-M
+dargestellten Begrenzer-Ausführungen können für alle Typen
+eingesetzt werden (mit Ausnahme von H nur für Typ 49).
+Die Darstellungen spiegelt die Gestaltung der entsprechenden
+Ausführungen wider.
+
+Anwendungsbeispiel für eine
+Flansch-Ausführung
+als Kardangelenk DN 300
+(Ausf. G)
+
+Flanschformen für Begrenzertypen B-E (10 bar)
+
+DN 25 - 200
+
+Ausführung A
+Gummi-Kompensator ohne Verspannung mit
+drehbaren Flanschen, geeignet für allseitige
+Bewegungsaufnahme.
+
+DN 250 - 900 (1000)
+
+DN 1000
+
+Ausführung B
+Gummi-Kompensator mit Längenbegrenzer
+zur Aufnahme der Reaktionskraft. Zugstangen
+in Gummibuchsen gelagert. Geeignet zur
+Absorbierung von Geräuschen, Schwingungen
+und Lateraldehnung/radial (+/-10-15 mm).
+
+Ausführung C
+Gummi-Kompensator mit Längenbegrenzer
+zur Aufnahme der Reaktionskraft. Zugstangen in
+Gummibuchsen gelagert einschl. Schubbegrenzer
+zur Balgsicherung. Geeignet zur Absorbierung von
+Geräuschen, Schwingungen und Lateraldehnung/
+radial (+/-10-15 mm).
+
+50
+
+Ausführung E
+Gummi-Kompensator mit Längenbegrenzer zur
+Aufnahme der Reaktionskraft. Zugstangen in
+Kugelscheiben und Kegelpfannen gelagert.
+Geeignet zur lateralen Dehnungsaufnahme (radial).
+
+Ausführung G
+Gummi-Kompensator mit Kardangelenkverspannung
+zur Aufnahme der Reaktionskraft. Geeignet zur
+Aufnahme angularer Bewegungen in Kreisebene.
+Drei Kardangelenke in Winkelanordnung können
+sehr hohe axiale und laterale Dehnungen aufnehmen (siehe Einbaubeispiele).
+
+Ausführung F
+Gummi-Kompensator mit Gelenkverspannung zur
+Aufnahme der Reaktionskraft. Geeignet für angulare Bewegungen in einer Ebene; zwei
+Gelenkkompensatoren mit Zwischenrohr können
+sehr große laterale Dehnungen aufnehmen (siehe
+Einbaubeispiele).
+
+Ausführung L
+Gummi-Kompensator mit Segmentverspannung
+und in Kugelscheiben/Kegelpfannen gelagerten
+Zugstangen zur Aufnahme von Schub- und
+Zugkräften. Geeignet für laterale Dehnungsaufnahme im Druck- und Vakuumbereich.
+
+Ausführung K
+Gummi-Kompensator mit Segmentverspannung
+und in Kugelscheiben gelagerter Zugstangen zur
+Aufnahme der Reaktionskräfte. Geeignet zur
+Aufnahme großer lateraler (radialer) Dehnung.
+Ausführung H
+Gummi-Kompensator mit Zugstangenverspannung
+außen zur Aufnahme der Reaktionskraft. Zugstangen außen in Kugelscheiben und Kugelpfannen gelagert, innen mit Sechskantmuttern
+als Schubbegrenzung ausgestattet.
+
+Ausführung M
+Gummi-Kompensator mit innenliegender Verspannung
+und in Kugelscheiben/Kegelpfannen gelagerter Zugstangen zur Aufnahme von Schub- und Zugkräften. Geeignet für laterale Dehnungsaufnahme
+im Druck- und Vakuumbereich.
+
+Anmerkung:
+Die Auslegung der Begrenzer erfolgt im Normalfall
+unter Zugrundelegung der Reaktionskraft/Reibkraft.
+Sollen zusätzliche Rohrkräfte aufgenommen werden, teilen Sie uns dies bitte unbedingt mit!
+
+51
+
+Sonderteile
+Flammfeste Schutzhülle
+Für die Typen 40, 49, 50, 55 in asbestfreier Ausführung
+mit Zulassungen der Klassifikationsgesellschaften lieferbar.
+Diese Zubehörteile schützen den Gummikompensator
+gegen Flammeneinwirkung bis 800°C bei einer Dauer
+von 30 Minuten. Bei Verwendung an Bord von
+Schiffen, bei Feuerlösch-Leitungen in Betriebsgebäuden oder bei Druckerhöhungsanlagen entsprechen
+die flammfesten Schutzhüllen in Verbindung mit dem
+WILLBRANDT Kompensator den Forderungen der
+Klassifikationsgesellschaften.
+Einbauhinweise:
+Die Montage des Kompensators erfolgt in bekannter Weise. Die Schutzhüllen werden nachträglich
+umgelegt und decken den Kompensator einschließlich
+der angrenzenden Rohrleitungsflansche ab. die
+Funktion des WILLBRANDT Kompensators wird nicht
+behindert; durch die bis auf die Rohrleitung übergreifende Abdeckung kann das volle Bewegungsspiel des
+Kompensators aufgenommen werden. Sondergrößen
+auch für die Abdeckung einschließlich Verspannung
+sind auf Wunsch lieferbar.
+
+Das Bild zeigt den geöffneten Zustand.
+
+Leitrohr
+Es sollte immer dann eingesetzt werden, wenn stark
+schleißende Medien gefördert werden oder eine starke
+Wirbelbildung vermieden werden soll.
+Das Leitrohr wird mit Bördelflansch bzw. Lochflansch in
+konischer Form gefertigt, um die Dehnungswerte des
+Kompensators möglichst nicht einzuschränken.
+Die Leitrohrlänge ist abhängig von der Kompensatorlänge und der aufzunehmenden Dehnung (Richtwert:
+Kompensatorlänge - 15 mm entspricht Leitrohrlänge).
+Ausführung I mit Flanschlochbild
+
+Einbauhinweis:
+Es sind unbedingt Dichtungen einzusetzen.
+Baulücke entsprechend dem Leitblech gestalten.
+Achtung:
+Bei axialer Dehnung von mehr als -15 mm den
+Gegenflansch-Innendurchmesser beachten und
+Leitrohrdurchmesser prüfen.
+Bei lateraler Dehnung verkleinert sich der Leitrohrdurchmesser um den zweifachen Wert der aufzunehmenden lateralen Dehnung (Standardausführung für lat. +/- 5 mm).
+
+52
+
+Ausführung II mit Bund
+
+Sonderteile
+Erdabdeckhaube
+Für alle Typen mit oder ohne Begrenzer lieferbar.
+Die Erdabdeckhaube ist eine zweiteilige Haube, die
+speziell für den Schutz von Gummi-Kompensatoren im
+Erdbereich konzipiert wurde. Sie ist so gestaltet, dass
+eine Einschränkung der Dehnwerte des Kompensators
+nicht eintritt.
+Aufbau:
+Zweiteilige Haube aus S 235 JR G2 (RSt 37-2) oder
+Edelstahl. Die Befestigung erfolgt mittels Klemmschellen,
+die fest mit den Halbschalen der Haube verbunden sind.
+Hinweis:
+Einfache Montage, da zweiteilig. Bei der Montage
+darauf achten, dass Entwässerung nach unten
+möglich ist.
+
+Sicherheitskompensator
+Für alle Typen mit oder ohne Begrenzer lieferbar.
+Der Sicherheitskompensator wird eingesetzt bei aggressiven Medien, um eine Leckageüberwachung zu erreichen (2-Balg-System).
+
+Eckentlasteter Gummikompensator
+Für alle Typen lieferbar. Der eckentlastete
+Kompensator absorbiert die Reaktionskräfte
+innerhalb der Verspannung und ist geeignet zur
+Aufnahme von axialen und lateralen Dehnungen.
+
+53
+
+WILLBRANDT Edelstahl-Kompensatoren
+Standard-Programm-Übersicht
+Auf den folgenden Seiten haben wir unser umfangreiches Baureihen-Programm,
+von dem wir eine breite Auswahl aus Lagervorrat führen, zusammengestellt. Dies
+sind Bautypen, die in der Praxis am häufigsten zur Anwendung kommen. Die hier
+dargestellten Anschlussarten können nach Ihrem Bedarf geändert werden.
+Wahlweise liefern wir Ihnen Schweißstutzen, Flansche oder Anschlussteile in
+Sonderausführung. Selbstverständlich fertigen wir für Sie auch Kompensatoren
+in Sonderkonstruktion, ganz auf Ihren Bedarf abgestimmt.
+
+Typ
+
+Abgaskompensatoren PN 2,5, mehrwandig
+DN 40
+
+Typ
+
+Axialkompensatoren, einwandig
+PN 10/16 DN 15 – DN 250
+
+200
+201
+
+mit Anschweißenden
+mit Anschweißenden und Innenleitrohr
+
+206
+207
+
+mit Anschweißenden
+mit Anschweißenden und Innenleitrohr
+
+202
+203
+
+mit Losflanschen
+mit* Losflanschen und Innenleitrohr
+
+208
+
+mit Losflanschen
+
+204
+205
+
+mit Festflanschen
+mit Festflanschen und Innenleitrohr
+
+Typ
+
+Axialkompensatoren, mehrwandig
+PN 10 - PN 25, ab DN 40
+
+Typ
+
+Lateralkompensatoren, mehrwandig
+PN 10 - PN 25, ab DN 40
+
+210
+211
+
+mit Anschweißenden
+mit Anschweißenden und Innenleitrohr
+
+220
+221
+
+mit Anschweißenden
+mit Anschweißenden und Innenleitrohr
+
+212
+213
+
+mit Losflanschen
+mit* Losflanschen und Innenleitrohr
+
+222
+223
+
+mit Festflanschen
+mit Festflanschen und Innenleitrohr
+
+214
+215
+
+mit Festflanschen
+mit Festflanschen und Innenleitrohr
+
+216
+217
+
+mit Vorschweißflanschen
+mit Vorschweißflanschen und Innenleitrohr
+
+* Mit einerseits Los- und andererseits Festflansch.
+
+54
+
+Typ
+
+Angularkompensatoren, einseitig
+beweglich PN 10 - PN 25, mehrwandig
+ab DN 40
+
+Typ
+
+Angularkompensatoren, allseitig beweglich
+PN 10 - PN 25, mehrwandig
+ab DN 40
+
+230
+231
+
+als Rohrgelenk
+als Rohrgelenk
+Innenleitrohr
+als Rohrgelenk
+als Rohrgelenk
+Innenleitrohr
+
+234
+235
+
+als Kardangelenk mit Anschweißenden
+als Kardangelenk mit Anschweißenden und
+Innenleitrohr
+
+236
+237
+
+als Kardangelenk mit Festflanschen
+als Kardangelenk mit Festflanschen und
+Innenleitrohr
+
+232
+233
+
+Typ
+
+mit Anschweißenden
+mit Anschweißenden und
+mit Festflanschen
+mit Festflanschen und
+
+Lateralkompensatoren als
+Doppelrohrgelenk PN 10 – PN 25,
+mehrwandig,
+ab DN 40
+
+224
+225
+
+mit Anschweißenden
+mit Anschweißenden und Innenleitrohr
+
+226
+227
+
+mit Festflanschen
+mit Festflanschen und Innenleitrohr
+
+Typ
+
+Eckentlasteter Kompensator
+ab DN 40
+
+Typ
+
+Fernheizkompensator
+ab DN 40
+
+228
+229
+
+One-Step-Ausführung
+Standardausführung
+
+Typ
+
+Heizungskompensator
+DN 15 - DN 50
+
+270
+
+mit beiderseits Gewindeanschluss
+
+55
+
+Edelstahlschlauch Typ 310/311
+Typ 310
+Edelstahl-Wellenschlauch ohne Umflechtung
+Typ 311
+Edelstahl-Wellenschlauch mit Umflechtung
+Konstuktion
+Parallel gewellter Ganzmetallschlauch aus stumpfgeschweißtem Rohr gefertigt. Ausführbar mit und
+ohne Umflechtung.
+Schlauchwerkstoffe
+Standard:
+Sonderwerkstoff:
+
+1.4541 / DIN 17440
+1.4571 / DIN 17440
+
+Umflechtung
+Standard:
+
+1.4301
+
+Auf Anfrage auch in 1.4571 bzw. 1.4541 möglich.
+
+Temperatur
+Einsatzbereich von -270 °C bis max. +600 °C
+möglich.
+Biegeradius
+Entnehmen Sie bitte der nachfolgenden Tabelle.
+Hierbei ist zu unterscheiden: Mindest-Biegeradius bei
+einmaligen Biegungen und Normal-Biegeradius bei
+häufigen Bewegungen.
+Materialanschluss
+Hierfür stehen eine Reihe von verschiedenen Ausführungen zur Verfügung, die auf nachfolgender
+Seite abgebildet werden. Es besteht die Möglichkeit,
+diese Anschlüsse in unterschiedlichen Materialien zu
+gestalten.
+Die entsprechenden Auswahlkriterien sind in
+folgender Tabelle zusammengefasst:
+
+Weitere Sonderwerkstoffe können für Schlauch und
+Umflechtung bei entsprechender Mengenabnahme
+angefragt werden.
+
+Auswahlkriterien
+
+56
+
+Nr.
+
+Bezeichnung
+
+001
+002
+003
+004
+005
+006
+007
+008
+009
+010
+011
+012
+013
+014
+015
+016
+017
+018
+019
+020
+
+Bund Losflansch
+Festflansch
+Rohr Festflansch
+Rohr Bund Losflansch
+Bördel Losflansch
+Rohrstutzen
+Konisches Außengewinde
+Muffe
+Zylindrisches Außengewinde
+Sechskantmuffe
+Konische Verschraubung mit Außengewinde
+Konische Verschraubung mit Innengewinde
+Flachdichtende Verschraubung mit Außengewinde
+Flachdichtende Verschraubung mit Innengewinde
+Stutzen Überwurfmutter
+Bajonettverschluss A
+Bajonettverschluss B
+Manschette
+Schlitzhülse
+Schnellverschluß
+
+Material der Anschlüsse
+Stahl
+
+Edelstahl
+
+Messing
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+
+x
+x
+
+x
+
+Temperguss Rotguss
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+Kenndaten
+Zoll
+
+Innen-Ø
+
+Toleranz
+(innen)
+
+mm
+
+mm
+
+3/8
+
+10,6
+
+0,3
+
+1/2
+
+12,9
+
+0,3
+
+5/8
+
+15,7
+
+0,4
+
+3/4
+
+19,8
+
+0,4
+
+1
+
+25,8
+
+0,4
+
+1 1/4
+
+33,0
+
+0,4
+
+1 1/2
+
+40,0
+
+0,5
+
+2
+
+51,6
+
+0,5
+
+2 1/2
+
+66,0
+
+0,6
+
+3
+
+76,6
+
+0,6
+
+4
+
+103,0
+
+1,0
+
+5
+
+127,5
+
+1,0
+
+6
+
+151,5
+
+1,0
+
+Nennbiege- Mindestbiegeradius
+radius
+einmalige
+häufige
+Biegung
+Biegung
+
+Außen-Ø
+
+Toleranz
+(außen)
+
+Druck
+
+mm
+
+mm
+
+kg/cm2
+
+310
+
+16,1
+
+0,6
+
+5,0
+
+125
+
+35
+
+150
+
+311
+
+17,5
+
+0,8
+
+75,0
+
+190
+
+35
+
+300
+
+310
+
+19,3
+
+0,6
+
+5,0
+
+140
+
+35
+
+160
+
+311
+
+20,8
+
+0,8
+
+70,0
+
+210
+
+35
+
+320
+
+310
+
+23,7
+
+0,8
+
+4,0
+
+190
+
+45
+
+250
+
+311
+
+25,2
+
+1,0
+
+65,0
+
+285
+
+45
+
+500
+
+310
+
+28,8
+
+0,8
+
+3,0
+
+215
+
+55
+
+280
+
+311
+
+30,3
+
+1,0
+
+50,0
+
+310
+
+55
+
+530
+
+310
+
+34,5
+
+0,8
+
+3,0
+
+250
+
+70
+
+380
+
+311
+
+36,0
+
+1,0
+
+40,0
+
+375
+
+70
+
+750
+
+310
+
+43,7
+
+0,8
+
+3,0
+
+270
+
+80
+
+420
+
+311
+
+45,7
+
+1,0
+
+35,0
+
+405
+
+80
+
+950
+
+310
+
+52,0
+
+1,0
+
+2,0
+
+320
+
+100
+
+700
+
+311
+
+54,0
+
+1,2
+
+30,0
+
+480
+
+100
+
+1350
+
+310
+
+65,5
+
+1,0
+
+1,0
+
+360
+
+130
+
+880
+
+311
+
+67,5
+
+1,2
+
+25,0
+
+550
+
+130
+
+1600
+
+310
+
+85,4
+
+1,2
+
+1,0
+
+450
+
+175
+
+1250
+
+311
+
+87,9
+
+1,4
+
+20,0
+
+675
+
+175
+
+2600
+
+310
+
+97,5
+
+1,2
+
+1,0
+
+500
+
+200
+
+1750
+
+311
+
+100,0
+
+1,4
+
+18,0
+
+750
+
+200
+
+3200
+
+310
+
+125,0
+
+1,2
+
+1,0
+
+600
+
+250
+
+2100
+
+311
+
+128,0
+
+1,4
+
+14,0
+
+920
+
+250
+
+4400
+
+310
+
+151,5
+
+1,2
+
+1,0
+
+750
+
+325
+
+3250
+
+311
+
+154,5
+
+1,4
+
+12,5
+
+1160
+
+325
+
+5750
+
+310
+
+177,0
+
+1,2
+
+0,8
+
+850
+
+375
+
+4000
+
+311
+
+180,0
+
+1,4
+
+10,0
+
+1320
+
+375
+
+6900
+
+Typ
+
+mm
+
+mm
+
+Gewicht
+± 10 %
+g/m
+
+57
+
+Anschlussmöglichkeiten für Edelstahlschläuche Typ 310/311
+
+58
+
+WILLBRANDT Gewebe-Kompensator Typ 300-GEW
+Typ 300 ist ein hochflexibler Dehnungsausgleicher, der in
+der Energieerzeugung (Kohle-, Öl- und Kernkraftwerke,
+Gasturbinen-Spitzenkraftwerke), Erzaufbereitung (Hochofen- und Sinteranlagen), Zementindustrie, Klima- und
+Fördertechnik (an Ventilatoren und Gebläsen, in Pneumatikund Vibrationsförderanlagen), im Schiffs-, Apparate- und
+Motorenbau sowie in vielen anderen Industriezweigen längst
+zu einem selbstverständlichen Konstruktionselement geworden ist. Er kompensiert Wärmedehnungen in allen Ebenen
+und nimmt mechanische und akustische Schwingungen
+oder Vibrationen auf.
+
+Standardausführung
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Die einfachste Form für einen GEW-Kompensator, jedoch nur für runde Kanäle und Überdruck.
+(Bei eckigen Kanälen müsste die Leitung angebohrt werden. Unterdruck zieht den Kompensator
+nach innen und verengt den Kanalquerschnitt)
+Medientemperatur bis 300°C
+Überdruck bis 2000 mm WS
+Maß „R“: 4 x Dehnungsaufnahme (Mindestmaß 40 mm)
+Mit dieser Ausführung können auf wirtschaftliche Weise die meisten Dehnungsprobleme gelöst werden. Eckige Leitungen müssen nicht angebohrt werden, keine Verringerung des Leitungsquerschnittes bei Unterdruck, bei Vergrößerung von Maß „i. W“ guter „i.W“ guter Temperaturabbau im
+Befestigungsbereich, einfache Montage (weil Bandform) auch bei nachträglichem Einbau.
+Für runde, eckige oder ovale Kanäle sowie für Über- und Unterdruck.
+Medientemperatur bis 600°C
+Überdruck bis 3000 mm WS, bei höherem Druck sprechen Sie bitte mit uns!
+Maß „R“: 4 x Dehnungsaufnahme (Mindestmaß 40 mm)
+Wie Ausführung 2, jedoch für sehr hohe Temperaturen mit Isolierung aus Glaswolle (säurebeständig)
+zwischen Kompensator und Leitblech.
+Für runde, eckige oder ovale Känale sowie für Über- und Unterdruck.
+Medientemperatur bis 1000°C
+Überdruck bis 2000 mm WS
+Maß „R“: 4 x Dehnungsaufnahme (Mindestmaß 40 mm)
+Diese Ausführung wird gewählt, wenn bereits Befestigungsflansche vorgesehen sind (z. B. an einem
+Ventilator) bei höherem Druck oder wenn eine geringe Einbaulänge erforderlich ist.
+Für alle Kanalquerschnitte.
+Nur für Überdruck
+Medientemperatur bis 300°C (bei höheren Temperaturen Abstand zwischen Leitblech und
+Kompensator vergrößern).
+Überdruck bis 5000 mm WS
+Maß „E“ = 3 x Dehnungsaufnahme;  I - axial
+Maß „E“ = 4 x seitlicher Versatz (radiale Verschiebung), wenn dieser größer ist als die axiale
+Dehnungsaufnahme (Mindestmaß 80 mm)
+Wie Ausführung 4, jedoch nur für Unterdruck. Größerer Abstand zwischen Kompensator und Ableitblech, damit dieser nicht auf dem Blech aufliegt.
+Medientemperatur bis 350 °C (bei höheren Temperaturen Abstand zwischen Leitblech und
+Kompensator vergrößern)
+Unterdruck bis 4000 mm WS
+Maß „E“ = 3 x Dehnungsaufnahme,  I - axial
+Maß „E“ = 4 x seitlicher Versatz (radiale Verschiebung), wenn dieser größer ist als die axiale
+Dehnungsaufnahme (Mindestmaß 80 mm)
+Diese Ausführung wird für Wand- und Deckendurchführungen für nichtbrennbare Rohrleitungen
+mit axialen, lateralen und angularen Bewegungen gewählt.
+Der Kompensator hat einen beidseitigen Wand- oder Deckenabschluss mit Membrane aus
+Siliconkautschuk ohne Gewebeeinlage und gegenüberliegendem Kompensator mit Gewebeeinlage.
+Geprüft nach DIN 4102, Teil 11
+MPA Braunschweig Nr. P-3740/4280-MPA BS
+
+59
+
+Planungs-, Montage- und Wartungshinweise für
+Gummikompensatoren mit drehbaren Flanschen oder mit Vollflanschen
+WILLBRANDT Gummikompensatoren werden in zwei
+Ausführungen einbaufertig geliefert. Einmal mit einteiligen,
+drehbaren Stahlhinterlegeflanschen, mit entsprechendem
+Normanschluss (DIN, ASA, BS usw).
+Diese Flanschen sollten sauber, gratfrei in den Einspannbereich des Gummibalges passen, wobei die Dichtfläche
+je nach Nennweite ca. 1 - 10 mm vorstehen kann. Die
+Gegenflanschdichtflächen dürfen glatt bzw. mit Dichtleiste
+ausgeführt sein, entsprechend EN 1092 - 1: 2001
+(Form A oder B).
+Die 2. Gruppe wird mit druckstabilen Vollgummiflanschen
+geliefert, einschliesslich einteiligen Stahlhinterlegeflanschen,
+entsprechend dem Normanschluss (DIN, ASA, BS usw).
+Die Gegenflanschen sollten mit glatter Dichtfläche ausgeführt werden.
+
+2. Verspannungsbeispiele
+Gummikompensatoren müssen bei axialer Dehnungsaufnahme zwischen Festpunkten eingebaut werden. Sollte
+dies nicht möglich sein, muss die axiale in laterale Dehnung
+umgewandelt werden, damit die Gummikompensatoren
+mit Verspannung zur Neutralisierung der entstehenden
+Reaktionskräfte (Innenfläche des Kompensators mal
+Betriebsdruck) eingesetzt werden können. Bei dieser
+Anordnung sind nur noch entsprechende Gleitlager zur
+richtigen Einleitung der Dehnung zu setzen.
+Eine große Anzahl von GummikompensatorenVerspannungen finden Sie in unserem Katalog.
+
+3. Wichtig
+Beide Kompensatoren sind selbstdichtend, zusätzliche
+Dichtungen sind nicht erforderlich.
+
+1. Planungshinweise
+Die Leitungen sollten grundsätzlich so ausgeführt werden,
+dass die Kompensatoren durch Festlager (FP) bzw. Gleitlager (GL) geführt sind, siehe:
+Einbaubeispiel 1
+Kompensierung von Axialdehnung mit unverspannten
+Kompensatoren.
+Einbaubeispiel 2
+Kompensierung von Lateral- und Axialdehnung mit einem
+unverspannten Kompensator.
+Einbaubeispiel 3
+Kompensierung von Lateral- und Axialdehnung mit unverspannten Kompensatoren an einem Rohrabgang.
+Einbaubeispiel 4
+Kompensierung von Axialdehnung durch Umlenkung in
+Angularbewegung mit verspannten Kompensatoren.
+Vorteil: große axiale Dehnungen können von nur zwei
+Kompensatoren aufgenommen werden.
+Einbaubeispiel 5
+Anordnung von Rohrgelenkkompensatoren in drei Gelenksystemen zur Aufnahme von Dehnung in zwei Richtungen;
+Vorteil: hohe Dehnungsaufnahme, geringe Verstellkräfte,
+weiche Ecke.
+Einbaubeispiel 6
+Einsatz von Gummikompensatoren an Pumpen; hier sollten
+in der Druckleitung die Kompensatoren grundsätzlich verspannt eingesetzt werden, um eine Überbelastung des
+Pumpenstutzens durch Innendruck zu vermeiden.
+Saugseitig sollte bei Unterdruck von mehr als 0,8 bar
+absolut ein Vakuum-Stützring eingesetzt sein.
+
+60
+
+Bei Förderung von abrasiven Medien (Flüssigkeiten mit
+Feststoff-Anteilen wie z.B. Wasser/Sand) dürfen die
+Kompensatoren nicht direkt am Pumpenstutzen (saug-/
+druckseitig) angeordnet werden. Es besteht sonst die
+Gefahr, dass die Kompensatoren durch relativ hohe
+Geschwindigkeiten aus Drall- und Wirbelbildung am
+Pumpenstutzen beschädigt werden. Das gleiche gilt
+auch für Krümmer und Abgänge.
+EB 7
+Der Montageabstand vom Pumpenstutzen zum Kompensator/Krümmer muss 1 bis 1,5 x DN betragen. Der Betrieb
+der Pumpe gegen ganz oder teilweise geschlossene
+Schieber oder Klappen ist zu vermeiden. Ebenso muss
+Kavitation vermieden werden, da diese kurzfristig zur
+Zerstörung des Kompensators führen kann.
+EB 8 (Axiale Vorspannung)
+Bei axialer Vorspannung ist darauf zu achten, dass die
+Kompensatoren maximal 10 mm in unmontiertem Zustand
+vorgespannt werden dürfen. Sollten größere Vorspannungen erfolgen, muss der Kompensator gemäß EB 8
+eingesetzt werden, d.h. der Kompensator wird zuerst
+fertig montiert, dann wird an einer geöffneten Stelle die
+entsprechende Vorspannung mit dem fest eingebauten
+Kompensator erzeugt.
+Grund: bei höherer Vorspannung in uneingebautem
+Zustand springt der Dichtwulst aus der Halterung des
+Stahlhinterlegeflansches, und es kann zu einer
+Beschädigung des Dichtwulstes kommen.
+EB 8 (Laterale Vorspannung)
+Bei der Kompensatoranordnung ist zu beachten, dass
+bei der Auslegung der Leitung die eventuell erforderliche
+laterale Vorspannung nur mit fest installiertem Kompensator
+mittels Leitungsversatz aufgebracht werden sollte (EB 8a).
+Nur geringe laterale Vorspannungen von 5 mm sind im
+nicht eingebauten Zustand möglich. Es ist jedoch darauf zu
+achten, dass der Gummiwulst nicht aus der Nut des
+Stahlhinterlegeflansch gezogen wird.
+
+EB 9
+Bei gummierten Rohrleitungen oder Armaturen mit
+Ausgummierung ist eine Gummi- auf Gummidichtung
+zu vermeiden mittels Steckscheibe.
+
+Vakuum-Stützring (EB15)
+
+4. Sicherheitsmaßnahmen
+
+a. Fester Sitz (max. 10 - 15 mm Spielraum zwischen Balg
+und Ring einseitig)
+
+Die Leitungen sollten durch entsprechende Sicherheitsmaßnahmen vor unzulässigem Überdruck, zu hohem
+Temperaturanstieg und unkontrolliertem Vakuum
+geschützt werden. Die Grenzwerte für die entsprechenden
+Einstellungen entnehmen Sie bitte den Datenblättern
+unseres Kataloges zu den entsprechenden Typen.
+Ferner sollten entsprechende Entleerungs- und Entlüftungsmöglichkeiten vorgesehen werden, um Wasserschlag- und
+Vakuumeinbruch zu vermeiden, die ebenfalls zur Kompensatorbeschädigung führen können.
+Mediumsicherheit
+Da die Kompensator-Innenseite die medienberührte Seite
+darstellt, ist unbedingt darauf zu achten, dass nur solche
+Medien gefahren werden, die in der Beständigkeitsliste als
+geeignet für das Innengummi aufgeführt sind.
+
+Bei Einsatz von Vakuumstützringen ist darauf zu achten,
+dass bei dem Einsatz direkt hinter der Pumpe, Klappe oder
+Rohrkrümmer die Vakuumstützringe nach der Montage auf
+richtiger Positionierung überprüft werden.
+
+b. Gegebenenfalls einsetzen von Adapterplatten, um den
+zulässigen Sitzspielraum zu erreichen.
+c. Das Verbindungsschloss sollt immer im unteren
+Strömungsbereich (6°°) liegen.
+d. Bei hoher Strömungsgeschwindigkeit sollte geprüft
+werden, ob evtl. ein Kompensator mit einvulkanisiertem
+Stützring zum Einsatz kommen sollte, um evtl.durch starke
+Turbulenzströmungen auftretende Schwingungsbrüche zu
+vermeiden.
+e. Nach der Montage überprüfen, ob die Sechskantschrauben und Sechskantmuttern entsprechend gegen
+Lösen gesichert sind.
+
+Andere Medien sollten uns aufgegeben werden, mit entsprechenden Daten gemäß Sicherheitsdatenblatt für
+chemische Stoffe und Zubereitung DIN 52900 Punkt 1 bis
+2.13 soweit erforderlich, so dass unsererseits überprüft
+werden kann, ob der Innengummi des Kompensators
+geeignet ist.
+Strömungsgeschwindigkeit
+Bei hohen Geschwindigkeiten ist abzuklären, ob die
+Kompensatoren mit oder ohne Leitrohr eingesetzt werden
+müssen, um hier einen Verschleiß durch zu hohe
+Wirbelbildung zu vermeiden.
+Gegenflansche
+Die Gegenflansche müssen entsprechend EB 10 ausgeführt werden, um eine sichere Abdichtung und Einsparung
+der Gummikompensatoren zu gewährleisten.
+Bei Kompensatoren mit drehbaren Flanschen können
+Gegenflansche mit und ohne Vorsprung gemäß
+EN 1092-1:2001 Form A or B verwendet werden. Bei
+Kompensatoren mit Vollflanschen sollten nur glatte
+Gegenflansche zum Einsatz kommen.
+
+61
+
+5. Transport
+Teile verpackt lassen.
+„TOP“ oben und „Seil bzw. Lasthaken“ beachten.
+Stahlhinterlegringe (mit Verspannung) und die Gummikompensatoren-Flansche müssen bis zur endgültigen
+Montage fixiert bleiben. (Das relative leichte Gummiteil
+ist mit schweren Stahlflanschen verbunden. Übermäßige
+Belastungen am Gummiteil vermeiden!)
+
+6.6 Die Schrauben am Flansch sind wechselweise
+gleichmäßig fest anzuziehen gemäß Tabelle 1 und 2
+(Seite 69/70). Weiterhin ist darauf zu achten, dass kein
+Verkanten des Dichtwulstes auftritt. Die vorstehende
+Dichtfläche sollte rundum gleichmäßig zusammengedrückt werden. Schrauben müssen kreuzweise
+in 3 bis 4 Umläufen gleichmäßig fest angezogen
+werden.
+
+Hubtransport
+Immer beide Stahlflansche gleichzeitig anheben. In den
+Flanschbohrungen beidseitig einschäkeln oder gepolsterte
+Traverse durch den Kompensator legen oder beidseitig
+anheben.
+
+6.7 Beim Anzug mit Drehmomentenschlüssel
+Alle Schrauben gleichmäßig von Hand (Stufe 1)
+anziehen (auf Parallelität der Dichtflächen achten).
+Danach gemäß Stufe 2 (Tabelle 1 und 2 Seite 69/70)
+kreuzweise anziehen. Nach der dritten Stufe sollte
+nach einer Wartezeit von 30 Minuten ein nochmaliges
+Anziehen mit dem Enddrehmoment Stufe 3 durchgeführt werden. Ein weiteres festeres Anziehen der
+Schrauben ist nicht erforderlich. Es würde letztendlich
+zur Zerstörung der Dichtfläche führen.
+
+Flurtransport
+Auf den Flanschen rollend bewegen.
+
+6.8 Am Stahlhinterlegflansch keine U-Scheibe
+verwenden.
+
+6. Montage
+
+6.9 Nicht in der Nähe der Gummikompensatoren
+schweißen. Kompensator gegebenenfalls gegen
+Schweißhitze und Funkenflug mit Asbest abdecken.
+(Funken und Temperaturen über 80°C schaden den
+Gummiteilen!)
+
+Werkzeuge
+Keine scharfkantigen Werkzeuge, Drahtseile, Ketten oder
+Lasthaken verwenden (Verletzungsgefahr am Gummi).
+
+6.1 Die Verpackung der Gummikompensatoren auf Beschädigung hin prüfen. Beschädigte Kompensatoren
+sollten grundsätzlich nicht zum Einbau freigegeben
+werden.
+6.2 Die vorgesehene Baulücke überprüfen, die
+Gegenflansche sollten fluchtend eingesetzt werden.
+Maximale Abweichung in der Baulücke zum
+Kompensator: + 10 mm minus entsprechender
+Dehnungsvorgabe. Laterale Abweichung der Flansche:
+maximal 5 mm.
+Hinweis: Sollten die oben genannten Toleranzen nicht
+eingehalten werden können, muss entsprechend EB 8
+wie bei einer axialen / lateralen Vorspannung vorgegangen werden.
+6.3 Keine scharfkantigen Werkzeuge verwenden. Es sind
+keine zusätzlichen Dichtungen erforderlich. Der
+Gummiflansch des Kompensators dichtet direkt gegen
+den Rohrleitungsflansch.
+6.4 Vor dem Lösen der Hubeinrichtung Kompensator
+an beiden Flanschen z. B. mit je 2 Gewindestangen
+fixieren.
+6.5 Schraubenanordnung EB10
+Bei Kompensatoren mit Durchgangslöchern müssen
+die Schrauben mit dem Schraubenkopf zum Balg eingesetzt werden, um eine Verletzung des Balgkörpers
+unter Druck zu vermeiden. Bei Kompensatoren mit
+Gewindelöchern im Flansch sollten die Schrauben
+bündig zur Balgseite mit dem Flansch abschließen,
+da bei überstehenden Schrauben hier eine Verletzung
+des Balges unter Druck stattfindet.
+62
+
+6.10 Achtung: Bei Schweißarbeiten am gesamten
+Rohrleitungssystem können Stahldraht-Kompensatoren
+durch vagabundierende Ströme oder elektrische
+Masse-Leitung zerstört werden. Anode und Kathode
+des E-Schweißanschlusses müssen immer auf dem
+gleichen Leitungsabschnitt liegen. (Nicht durch den
+Gummi-Kompensator getrennt!)
+6.11 Achtung: Balg
+Der Balg darf nicht angestrichen oder einisoliert
+werden, wenn die Temperatur 50°C überschreitet.
+(Aufheizung und Verhärtung des Gummis).
+
+7. Rohrführung
+
+9. Druckprobe
+
+Festpunkte und Halterungen
+Vor dem Auffüllen der Leitungen prüfen, ob alle Festpunkte und Halterungen montiert und funktionsfähig sind.
+Die Verspannungsanker müssen gleichmäßig tragen und
+sind auf den derzeitigen Leitungszustand einzustellen.
+
+Der Gummikompensator ist kein richtiger Druckbehälter,
+sondern wird gemäß der Druckgeräterichtlinie unter dem
+Begriff „Rohrleitungszubehörteil“ (Rohrleitungskomponente)
+eingeordnet. Beim Einbinden des Kompensators in die
+Rohrleitung erfolgt die Abdichtung nicht über eine eingelegte separate Dichtung, sondern direkt an der integrierten
+Dichtfläche des Gummibalges.
+
+8. Einbauabschlusskontrolle
+
+Bei einer hundertprozentigen Druckprüfung der Gummikompensatoren beim Hersteller kann es zu einer nachteiligen Beeinflussung der integrierten Gummidichtfläche
+kommen. Aus diesem Grunde wird eine Druckprobe der
+Gummikompensatoren beim Hersteller nur auf speziellen
+Kundenwunsch mit besonderer Sorgfalt durchgeführt.
+
+8.1 Schäden
+Kompensatoren rundum auf äußerlich erkennbare
+Beschädigungen prüfen und besonders den Spalt
+zwischen Stahl-Hinterlegflansch und Gummibalg
+säubern (Fremdkörper, Sand usw. entfernen).
+8.2 Nach der Montage sollten die Kompensatoren
+mit einem geeigneten Schutz vor Beschädigung
+geschützt werden, welcher erst unmittelbar vor
+der Inbetriebnahme entfernt wird.
+8.3 Die Gummiteile dürfen nicht gestrichen werden.
+Lösungsmittel und Chemikalien greifen die
+Oberfläche an und zerstören den Balg.
+8.4 Ein Einisolieren der Kompensatoren ist nicht
+statthaft, da es hier zu einer Überhitzung und
+Austrocknung des Balges kommen kann, was
+ebenfalls zur Zerstörung führt.
+8.4 Die besten Betriebsergebnisse werden erreicht,
+wenn der Kompensator unter Betriebsbedingungen
+spannungsfrei arbeiten kann (entsprechende
+Vorspannung bei der Montage berücksichtigen).
+8.6 Die Festpunkte müssen daraufhin kontrolliert
+werden, ob sie geeignet sind, die Reaktionskraft
+aus dem unverspannten Kompensator aufzunehmen
+bzw. ob die Verstellkräfte und Einleitung der
+Dehnung mit geeigneten Gleitlagern im richtigen
+Abstand vom Kompensator erfolgt.
+8.7 Verspannte Kompensatoren mit Zugstangen sollten
+nach der Montage entsprechend eingestellt werden.
+Die Zugstangen sollten sich handfest drehen lassen.
+Danach sind alle Sechskantmuttern zu kontern.
+
+Die Druckprüfung erfolgt i.d.R. erst nach dem Einbau des
+Gummikompensators im komplett montierten Rohrleitungssystem. Vor der Druckprobe sollten alle in dieser Montageanleitung beschriebenen Hinweise beachtet werden.
+
+10. Lagerung
+Siehe DIN 7716, Richtlinien für die Lagerung von Gummiteilen. Gummikompensatoren müssen spannungsfrei, ohne
+Verformung und Knickstellen gelagert werden.
+Gummikompensatoren mit Stahlflansche müssen auf den
+Flanschen stehend gelagert werden (sonst Quetschgefahr).
+Lagerraum
+Der Lagerraum soll kühl, trocken, staubfrei und mäßig
+gelüftet sein.
+Sauerstoff und Ozon
+Gummiteile vor Zugluft schützen. Notfalls abdecken.
+Keine ozonerzeugenden Einrichtungen wie Elektromotoren,
+fluoreszierende Lichtquellen usw. im Lagerraum betreiben.
+Mitlagernde Medien
+Keine Lösungsmittel, Kraftstoffe, Chemikalien oder
+ähnliches gleichzeitig mitlagern.
+
+8.8 Stützringe nach Montage auf richtigen Sitz und
+Sicherung kontrollieren.
+8.9 Leckagen
+Bei eventuellen Leckagen während des Probedruckes
+(1,3-facher Auslegungsdruck) gemäß Anzugstabelle
+Stufe 3 Schrauben nachziehen.
+
+63
+
+11. Ergänzende Einbau- und Montagehinweise für
+Typ 45 - 46 (EB 11)
+Die Montage des Gummikompensators Typ 46 sollte
+spannungsfrei erfolgen. Die Verschraubungen sollten
+immer mit zwei Schraubenschlüsseln montiert werden,
+um schädliche Torsion am Kompensator zu vermeiden,
+siehe EB 11.
+Ablauf der Montage
+1. Verschraubungsteile auf Rohrleitung montieren
+und Baulücke prüfen! Die Baulücke sollte gleich
+der Kompensatorlänge (130 mm +/- 5 mm) sein.
+2. Kompensator einsetzen und mit zwei Schraubenschlüsseln anziehen.
+DN 20 - 25
+Es wird das vordere Einschraubteil als Gegenhalter benutzt
+und die Überwurfmutter angezogen (um Torsion auf den
+Balg zu vermeiden).
+DN 32 - 50
+Es wird das hintere Einschraubteil als Gegenhalter benutzt
+und die Überwurfmutter angezogen (um Torsion auf den
+Balg zu vermeiden).
+Alle anderen Einbaupunkte gemäß unserer Hauptmontageanweisung.
+
+14. Wartung und Überwachung
+14.1 Vor der endgültigen Inbetriebnahme ist eine einmalige
+Überprüfung des Anzugsmomentes der Flanschverbindung erforderlich.
+14.2 Gummiteile dürfen nicht mit Farbe gestrichen werden
+und sollen sauber gehalten werden (Reinigung mit
+Wasser, Seifenwasser). Teile frei von Fett und Ölen
+halten!
+14.3 Gummiteile dürfen nicht einisoliert sein, wenn die
+Temperatur 50°C überschreitet. (Aufheizung und
+Verhärtung des Gummis.)
+14.4 Mindest-Inspektionen nach Inbetriebnahme nach einer
+Woche. Flanschschrauben mit Drehmomentschlüssel
+nachziehen. Nach 1, 4 und 12 Monaten, dann jährlich
+besichtigen.
+14.5 Überprüfungskriterien
+- Äußerliche Schäden am Gummi und an der
+Verspannung.
+- Verformungen am GummiflanschAußendurchmesser zwischen den Schrauben
+(Verschiebungen der Flanschflächen).
+- Veränderungen am Gummibalg (Blasen,
+Versprödungen, Risse, Haarrisse
+- Verspannungen auf unzulässige Auslenkung
+und Versatz kontrollieren.
+
+Anzugsmomente für alle Typen 100 Nm.
+Beurteilung von Korrosion und Verschleiß am
+gesamten Bauteil.
+12. Ergänzende Einbau- und Montagehinweise für
+druckentlastete Kompensatoren
+Kompensatoren zur Aufnahme von Axialdehnungen, ohne
+dass Reaktionskräfte aus Über- oder Unterdruck auf die
+angrenzenden Festlager, Apparate oder Maschinen übertragen werden (EB 12).
+Kompensatoren zur Aufnahme von Axial- und Lateraldehnungen an einem Rohrkrümmer, ohne dass das
+Reaktionskräfte aus Über- und Unterdruck auf die
+angrenzenden Festlager übertragen werden (EB 13).
+
+13. Ergänzende Einbau- und Montagehinweise für
+Kompensatoren als Ausbaustück
+An Armaturen können zum Ausgleich von Montageungenauigkeiten oder zum einfachen Ein- bzw. Ausbau verspannte Kompensatoren eingesetzt werden. Einerseits
+verhindern die Verspannungen die Übertragung von
+Reaktionskräften auf die angeschlossene Armatur. Andererseits kann nach dem Lösen der Flanschverbindung mit Hilfe
+des Verspannungsflanschs der Gummibalg um seinen
+maximal möglichen axialen Verstellweg gestaucht werden,
+um Freiraum für den Ausbau der Armatur zu schaffen
+(EB 14).
+64
+
+Einbaubeispiele
+EB 1
+
+EB 6
+
+EB 2
+
+EB 3
+1-1,5 x DN
+
+1-1,5 x DN
+
+EB 7
+
+EB 8
+EB 4
+
+EB 8 a
+
+EB 5
+
+65
+
+EB 9
+
+EB 10
+
+66
+
+EB 10
+
+EB 11
+
+DN 20/25 Typ 46 / DN 20 - 50 Typ 50
+
+EB 14
+
+DN 32 - 50 Typ 46
+
+EB 12
+EB 15b
+
+EB 13
+
+EB 15a
+
+67
+
+Anzugsmomente (Nm) der Flanschschrauben
+Montage-Hinweis
+Werkzeuge Drehmoment-Schraubenschlüssel, Gummihammer, Zentrierdorne. Alle Werkzeuge
+gratfrei (Verletzungsgefahr für Gummiteile).
+Flanschschrauben mit Festigkeitsklasse 8.8 verwenden
+(Schrauben ohne Nachbehandlung, geschmiert)
+I. Stufe
+
+a)
+b)
+
+c)
+
+II.Stufe
+
+d)
+
+e)
+
+III. Stufe
+
+f)
+
+Alle Schrauben einstecken und
+gleichmäßig von Hand anziehen.
+Drehmoment Stufe 1 kreuzweise
+und gleichmäßig in ca. 3 Umläufen
+aufbringen. Spaltbreite am äußeren
+Rand des Flansches kontrollieren.
+Absetz-Zeit >= 30 Minuten
+
+Kreuzweises Nachziehen aller
+Schrauben in 3 Umläufen obenstehender Tabelle bzw. 2/3 des
+End-Drehmomentes. Spaltbreite
+kontrollieren.
+Absetz-Zeit >= 60 Minuten
+
+End-Drehmoment in 2 Umläufen
+kreuzweise aufbringen.
+KEIN WEITERES NACHZIEHEN!
+
+Flansch-Anzugsmoment
+Die in der Tabelle angegebenen Anzugsmomente für die
+Flanschschrauben ergeben eine spezifische Flächenpressung von 7 N/mm2 (70 kp/cm2) bezogen auf die
+gesamte Fläche des Kompensator-Flansches (Flansche
+ohne Dichtleiste verwenden). Die Flächenpressung sinkt
+unter Betriebsbedingungen durch den zeitlichen Setzungsvorgang in der Gummi-Flanschzone auf etwa 50 % des
+aufgebrachten Endwertes (III. Stufe) ab. Die dabei verbleibende effektive Einspann- und Dichtkraft ist absolut
+ausreichend und für Probedrücke bis 16 bar geeignet.
+(Zugspannungen aus Überdehnung sind nicht zulässig!)
+Achtung:
+
+Die angegebenen max. Anzugsmomente
+dürfen nicht wesentlich überschritten
+werden, da bei überhöhter Druckbeanspruchung der Fließvorgang im
+Elastomer ständig fortschreitet und zur
+Zerstörung (Zerquetschung) führt.
+
+Anzugsmoment:
+
+Überschlägige Ermittlung des EndAnzugsmomentes bei Sonderflanschen.
+
+Faustformel:
+MA
+MA
+d2
+FVM
+*KA
+
+= 0,2 x FVM x d2
+= Anzugsmoment der Schrauben
+= Gewinde-Flanken-Ø 1,4
+= Montage-Vorspannkraft = *KA x FKL
+= Anziehfaktor ~ 1,4 geschmiert,
+gegen feste Auflage
+
+Vor Probedruck: Drehmoment in 1 Umlauf kreuzweise mit
+Endwert (Stufe 3) kontrollieren.
+
+KA
+
+= Erfahrungswert = 1,0 gewählt
+Fließvorgang im Gummi-Flansch
+
+Spätere Inspektionen: Wartungsanleitung beachten.
+Flanschschrauben nur bis Endwert (Stufe 3) nachziehen.
+
+FKL
+
+= Klemmkraft, Anpreßkraft.
+7 N/mm2 für ges. Flanschfläche
+bei Typ 40
+
+FKL = ( Flansch D2 - DN2 ) x
+4
+
+68
+
+x
+
+Anpresskraft
+x (N)
+Anzahl der Schrauben
+
+Schraubenanzugsmomente für Typ 40, 42, 58 und 59 (Tabelle 1)
+Stufe 1
+DN
+
+Stufe 2
+
+Stufe 3
+
+Vormontage
+
+PN 6
+
+PN 10
+
+PN 16
+
+ASA 150
+
+PN 6
+
+PN 10
+
+PN 16
+
+ASA 150
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+900
+950
+1000
+1050
+1100
+1150
+1200
+1250
+1300
+1350
+1400
+1450
+1500
+1600
+1650
+1800
+1950
+2000
+2100
+2200
+2250
+2400
+2550
+2600
+2700
+2800
+2850
+3000
+
+100
+100
+150
+150
+150
+150
+150
+200
+200
+200
+200
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+
+160
+160
+160
+200
+160
+200
+160
+
+200
+160
+160
+160
+240
+160
+240
+
+160
+200
+240
+200
+280
+280
+360
+
+240
+
+320
+
+520
+
+240
+
+320
+
+440
+
+320
+
+440
+
+560
+
+360
+
+440
+
+520
+
+360
+
+560
+
+720
+
+440
+
+680
+
+960
+
+560
+
+840
+
+1000
+
+600
+
+1120
+
+1360
+
+680
+
+1120
+
+1360
+
+840
+
+1160
+
+1560
+
+880
+
+1480
+
+920
+
+1520
+
+1120
+
+1560
+
+1160
+
+1880
+
+200
+200
+280
+360
+320
+360
+360
+400
+480
+440
+440
+480
+640
+600
+640
+720
+680
+720
+720
+720
+720
+880
+920
+1000
+960
+1040
+1000
+920
+1160
+1120
+1320
+1480
+1520
+1640
+1840
+2040
+2320
+2560
+2560
+2680
+2960
+3200
+
+200
+200
+200
+250
+200
+250
+200
+
+250
+200
+200
+200
+300
+200
+300
+
+200
+250
+300
+250
+350
+350
+450
+
+300
+
+400
+
+650
+
+300
+
+400
+
+550
+
+400
+
+550
+
+700
+
+450
+
+550
+
+650
+
+450
+
+700
+
+900
+
+550
+
+850
+
+1200
+
+700
+
+1050
+
+1250
+
+750
+
+1400
+
+1700
+
+850
+
+1400
+
+1700
+
+1050
+
+1450
+
+1950
+
+1100
+
+1850
+
+1150
+
+1900
+
+1400
+
+1950
+
+1450
+
+2050
+
+1450
+
+2350
+
+250
+250
+350
+450
+400
+450
+450
+500
+600
+550
+550
+600
+800
+750
+800
+900
+850
+900
+900
+900
+900
+1100
+1150
+1250
+1200
+1300
+1250
+1150
+1450
+1400
+1650
+1850
+1900
+2050
+2300
+2550
+2900
+3200
+3200
+3350
+3700
+4000
+
+DN < 3000 - 5000 auf Anfrage.
+
+69
+
+Schraubenanzugsmomente für Typ 48, 49, 50, 51, 53, 55, 56 und 65 (Tabelle 2)
+
+DN
+
+Stufe 2
+
+für alle
+
+für alle
+
+Stufe 3
+PN 6
+
+PN 10
+
+PN 16
+
+PN 25
+
+ASA 150
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+Nm
+
+25
+
+von Hand
+
+50
+
+60
+
+80
+
+80
+
+80
+
+80
+
+32
+
+von Hand
+
+50
+
+60
+
+80
+
+80
+
+80
+
+80
+
+40
+
+von Hand
+
+50
+
+60
+
+80
+
+80
+
+80
+
+80
+
+50
+
+von Hand
+
+50
+
+60
+
+80
+
+80
+
+80
+
+80
+
+65
+
+von Hand
+
+50
+
+60
+
+80
+
+80
+
+80
+
+80
+
+80
+
+von Hand
+
+50
+
+60
+
+80
+
+80
+
+80
+
+80
+
+100
+
+von Hand
+
+50
+
+80
+
+100
+
+100
+
+100
+
+100
+
+125
+
+von Hand
+
+50
+
+80
+
+100
+
+100
+
+100
+
+100
+
+150
+
+von Hand
+
+50
+
+80
+
+100
+
+100
+
+100
+
+100
+
+175
+
+von Hand
+
+50
+
+90
+
+100
+
+100
+
+100
+
+100
+
+200
+
+von Hand
+
+50
+
+90
+
+100
+
+100
+
+100
+
+100
+
+250
+
+von Hand
+
+50
+
+90
+
+100
+
+100
+
+110
+
+100
+
+300
+
+von Hand
+
+50
+
+100
+
+110
+
+110
+
+110
+
+100
+
+350
+
+von Hand
+
+50
+
+120
+
+130
+
+135
+
+165
+
+110
+
+400
+
+von Hand
+
+50
+
+120
+
+140
+
+155
+
+200
+
+140
+
+450
+
+von Hand
+
+50
+
+140
+
+145
+
+165
+
+200
+
+145
+
+500
+
+von Hand
+
+50
+
+120
+
+145
+
+170
+
+200
+
+145
+
+600
+
+von Hand
+
+100
+
+185
+
+210
+
+255
+
+280
+
+210
+
+700
+
+von Hand
+
+100
+
+200
+
+225
+
+300
+
+300
+
+230
+
+800
+
+von Hand
+
+100
+
+235
+
+300
+
+360
+
+410
+
+300
+
+900
+
+von Hand
+
+100
+
+235
+
+300
+
+360
+
+415
+
+300
+
+1000
+
+von Hand
+
+100
+
+300
+
+360
+
+425
+
+525
+
+360
+
+Bitte Einbauhinweise beachten.
+
+70
+
+Stufe 1
+
+Montage- und Wartungshinweise für Typ 64
+Die Kompensatoren sind aus hochflexiblen
+Materialien gefertigt. Die Haltbarkeit hängt von dem
+sorgfältigen und korrekten Einbau ab. Scharfe Kanten
+und Falten müssen vermieden werden. Sorgfalt ist
+erforderlich, wenn Kompensatoren bei der Montage
+angehoben werden. Bei einem Anheben ist es empfehlenswert, eine Unterstützungsplatte oder einen
+Innenrahmen zu benutzen. Besser noch wäre es,
+wenn ein Kompensator vor dem Anheben
+mit Losflanschen und mit Leitblech (wenn im
+Lieferumfang enthalten), auf dem Boden vormontiert
+wird.
+
+Lagerung
+Die Kompensatoren sollten unter sauberen und
+trockenen Bedingungen gelagert werden und müssen
+vor mechanischer Beschädigung geschützt werden.
+Den Kompensator nicht vor Montagebeginn auspacken. Schutzhüllen sollten so lange wie möglich
+an ihrem Platz gelassen werden.
+Unterstützungsvorrichtungen für den Transport dürfen
+nicht entfernt werden, bevor der Kompensator im
+Rohrleitungssystem in Position gebracht ist.
+Einbau
+Mit dem Einbau nicht beginnen, bevor alle Arbeiten
+an den Rohrleitungen und Flanschen beendet sind
+und alle Verankerungen und Abstützungen montiert
+sind. Dies soll verhindern, dass irgendwelche
+Beschädigungen am Kompensator durch Schweißfunken, scharfkantige Gegenstände usw. auftreten
+und sicherstellen, dass der Kompensator nicht überbeansprucht wird.
+
+Kanalflansche / Toleranzen
+Wenn im Lieferumfang Kanalflansche, Hinterlegflansche oder andere Stahlteile enthalten sind, sollte
+kontrolliert werden, ob die Abmessungen mit den
+Zeichnungen übereinstimmen und die Bolzenlöcher
+in jedem Flansch symmetrisch angeordnet sind.
+24 Stunden nach der Montage des Kompensators
+müssen die Schrauben nachgezogen werden.
+
+Der Balg darf nicht angestrichen oder einisoliert
+werden.
+Anzugsdrehmomente
+
+M12
+
+60 x 10
+M12
+
+60 x 12
+M16
+
+60 Nm
+
+70 Nm
+
+80 Nm
+
+80 Nm
+
+60 Nm
+
+80 Nm
+
+80 Nm
+
+80 Nm
+
+80 Nm
+
+80 Nm
+
+80 Nm
+
+Hinterlegflansch
+
+40 x 10
+
+50 x 10
+
+Schrauben
+
+M10
+
+NBR
+EPDM
+VITON
+
+Steckscheiben für die Montage von Gummikompensatoren
+mit Aufschweißflanschen
+
+DN 32
+
+DN 40
+
+DN 50
+
+DN 65
+
+DN 80
+
+DN 100
+
+DN 125
+
+DN 150
+
+DN 175
+
+DN 200
+
+DN 250
+
+DN 300
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+32
+
+82
+
+40
+
+92
+
+50 107 65 127 80 142 100 162 125 192 150 218 175 248 200 273 250 328 300 378
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+71
+
+Montagevorschrift für Typ 80
+1.
+
+Schutzdeckel
+Diese dienen dem Schutz der Bördeldichtfläche
+vor mechanischen Beschädigungen und dürfen
+erst unmittelbar vor der Montage entfernt
+werden. Falls eine Entfernung zwecks Inspektion
+unabdingbar ist, sind die Schutzdeckel in jedem
+Fall wieder anzuschrauben.
+
+2.
+
+Schweißen, löten und brennen an den ausgekleideten Bauteilen ist nicht zulässig, da hierdurch die hochwertige Auskleidung zerstört wird
+und sich hochgiftige Gase entwickeln können.
+
+3.
+
+Dichtungen zwischen Dichtflächen PTFE/PTFE
+sind nicht notwendig. Für Anschlüsse an Glas,
+Keramik, Emaille und andere Bauteile wird eine
+ca. 5 mm starke PTFE-Dichtung empfohlen.
+
+4.
+
+Montage
+Zur Vermeidung von Beeinträchtigungen der
+Dichtflächen durch zu stark angezogene
+Schrauben sollten die nachfolgenden Drehmomente bei der Montage als Richtlinie gelten.
+(Die Werte gelten für Flanschverbindungen bis
+PN 25 für Schrauben mit geschmiertem
+Gewinde.)
+
+5.
+
+Farbanstriche / Isolation
+Die Kompensatorenbälge dürfen nicht einisoliert
+werden oder mit Farbe angestrichen werden.
+Spritzschutzhauben müssen so angebracht
+werden, dass bei Warmleitungen kein Wärmestau im Balgbereich stattfindet.
+
+6.
+
+Inbetriebnahme
+Nach Erreichen der Betriebstemperatur sollten
+die Flanschverbindungen nochmals mit dem
+angegebenen Drehmoment nachgezogen
+werden. Zeigen sich Leckagen, sind die
+Flanschverbindungen auf Parallelität der
+Flansche beziehungsweise auf Verunreinigungen
+oder auch Beschädigungen der Dichtfläche zu
+prüfen. Geringfügige Eindrücke oder
+Beschädigungen können mit Schmirgelleinen
+entfernt werden.
+
+7.
+
+Montage von Kompensatoren
+Neben den obigen Produkten gilt hier zusätzlich, dass die Begrenzungsschrauben nach
+Einstellung auf maximale Dehnung auch nach
+der Montage nicht entfernt werden dürfen.
+
+Der Balg darf nicht angestrichen oder einisoliert
+werden.
+Flanschanschlußmaße nach DIN 2501
+PN 10
+DN
+
+Schrauben
+Anzahl
+
+20
+25
+32
+40
+50
+65
+80
+100
+125
+150
+200
+250
+300
+350
+400
+500
+600
+700
+
+72
+
+4
+4
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+16
+16
+20
+20
+24
+
+PN 25
+Md
+
+Gewinde
+
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+
+12
+12
+16
+16
+16
+16
+16
+16
+16
+20
+20
+20
+20
+20
+24
+24
+27
+27
+
+NM
+
+10
+20
+30
+40
+50
+70
+40
+40
+50
+60
+90
+60
+70
+110
+160
+180
+240
+260
+
+Schrauben
+Anzahl
+
+4
+4
+4
+4
+4
+8
+8
+8
+8
+8
+12
+12
+
+Md
+
+Gewinde
+
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+
+12
+12
+16
+16
+16
+16
+16
+20
+24
+24
+24
+27
+
+NM
+
+10
+20
+30
+40
+50
+40
+40
+50
+80
+90
+100
+120
+
+Gummibalg-Übergangsprofil
+
+Typ 39
+Typ 55 Ausführung S
+
+Typ 50
+Typ 53 N
+Typ 55 Ausführung E
+
+Typ 55
+
+DN
+25
+32
+40
+50
+65
+80
+100
+125
+150
+175
+200
+250
+300
+350
+400
+450
+500
+600
+700
+800
+900
+1000
+
+Typ 50/53 N
+
+±2
+
+±2
+
+~
+
+C1/2
+
+B1/2
+
+A1/2
+
+A/D
+
+65
+65
+74
+92
+105
+118
+137
+166
+192
+
+37 28,5
+37 28,5
+42
+36
+55
+45
+71 60,5
+81
+74
+106
+94
+132 121
+160 147
+
+30
+30
+39
+48
+64
+77
+98
+125
+151
+
+252 213
+304 257
+354 309
+412 350
+470 414
+512 445
+570 514
+675 611
+780 708
+887 813
+985 907
+1085 1007
+
+Typ 49
+Typ 53 S
+
+Typ 49/53 S
+
+±2
+
+±2
+
+~
+
+C1
+
+B1
+
+A1
+
+A/D
+
+65
+65
+74
+85
+105
+115
+137
+166
+192
+
+37
+37
+42
+55
+71
+81
+106
+132
+160
+
+28,5
+28,5
+36
+45
+60,5
+74
+94
+121
+147
+
+30
+30
+39
+48
+64
+77
+98
+125
+151
+
+202 206 252 213
+250 254 304 257
+300 304 354 309
+330 340 412 350
+404 408 470 414
+445 450
+504 508 570 514
+603 607 675 611
+680 695 780 708
+801 805 887 813
+897 900 985 907
+997 1000 1085 1007
+
+202
+250
+300
+330
+404
+
+206
+254
+304
+340
+408
+
+504 508
+603 607
+680 695
+801 805
+897 900
+997 1000
+
+Typ 39
+
+±2
+
+±2
+
+~
+
+C3
+
+B3
+
+A3
+
+A/D
+
+79
+79
+89
+104
+119
+149
+169
+195
+220
+245
+295
+345
+396
+450
+
+42
+42
+57
+69
+86
+110
+137
+164
+182
+200
+256
+304
+358
+405
+
+35
+35
+45
+59
+75
+98
+125
+149
+173
+197
+252
+299
+354
+402
+
+37
+37
+47
+61
+77
+100
+127
+151
+175
+200
+255
+302
+357
+405
+
+550
+
+508
+
+504
+
+507
+
+±4
+
+±4
+
+~
+
+C2
+
+B2
+
+A2
+
+A/D
+
+79
+89
+104
+119
+149
+169
+195
+220
+245
+298
+351
+412
+470
+512
+570
+675
+780
+887
+985
+1085
+
+42
+55
+71
+81
+106
+132
+160
+
+36
+45
+60,5
+74
+94
+121
+147
+
+39
+48
+64
+77
+98
+125
+151
+
+202
+247
+302
+340
+410
+449
+500
+597
+701
+801
+898
+998
+
+195
+244
+298
+330
+390
+439
+490
+587
+691
+791
+888
+988
+
+199
+248
+302
+330
+390
+439
+490
+587
+691
+791
+888
+988
+
+73
+
+74
+
+100
+120
+130
+
+140
+160
+190
+
+210
+240
+265
+295
+
+320
+375
+440
+490
+
+540
+595
+645
+
+755
+860
+975
+
+25
+32
+40
+
+50
+65
+80
+
+100
+125
+150
+175
+
+200
+250
+300
+350
+
+400
+450
+500
+
+600
+700
+750
+800
+
+4
+8
+8
+8
+
+4
+4
+4
+
+4
+4
+4
+
+2265
+2375
+2475
+2685
+
+2000
+2100
+2200
+2400
+
+2180
+2285
+2390
+2600
+
+48
+48
+52
+56
+
+40
+40
+44
+44
+
+1830
+1940
+2045
+2155
+
+1600
+1700
+1800
+1900
+
+1760
+1865
+1970
+2075
+
+32
+36
+36
+
+1300 1520 1450
+1400 1630 1560
+1500 1730 1660
+
+20
+24
+24
+
+16
+16
+20
+
+8
+12
+12
+12
+
+n
+
+24
+28
+28
+32
+
+705
+810
+920
+
+495
+550
+600
+
+280
+335
+395
+445
+
+170
+200
+225
+255
+
+110
+130
+150
+
+75
+90
+100
+
+LK ø
+mm
+
+1075 1020
+1175 1120
+1290 1230
+1405 1340
+
+900
+1000
+1100
+1200
+
+Dø
+mm
+
+DN
+
+PN 6
+
+42
+42
+42
+42
+
+36
+39
+39
+42
+
+36
+36
+36
+
+30
+30
+33
+33
+
+26
+26
+30
+
+22
+22
+22
+
+18
+18
+22
+22
+
+18
+18
+18
+18
+
+14
+14
+18
+
+11
+14
+14
+
+dø
+mm
+
+565
+615
+670
+
+340
+395
+445
+505
+
+220
+250
+285
+315
+
+165
+185
+200
+
+115
+140
+150
+
+Dø
+
+1115 1050
+1230 1160
+1345 1270
+1455 1380
+
+725
+840
+950
+
+515
+565
+620
+
+295
+350
+400
+460
+
+180
+210
+240
+270
+
+125
+145
+160
+
+85
+100
+110
+
+LK ø
+mm
+
+M39
+M39
+M39
+M39
+
+M33
+M36
+M36
+M39
+
+2325
+2440
+2550
+2760
+
+1915
+2015
+2115
+2220
+
+2230
+2335
+2440
+2650
+
+1820
+1920
+2020
+2125
+
+M33 1565 1485
+M33 1675 1590
+M33 1795 1705
+
+M27
+M27
+M30
+M30
+
+M24 780
+M24 895
+M27 1015
+
+M20
+M20
+M20
+
+M16
+M16
+M20
+M20
+
+M16
+M16
+M16
+M16
+
+M12
+M12
+M16
+
+M10
+M12
+M12
+
+Gew.
+d
+
+8
+8
+8
+8
+
+4
+4
+8
+
+4
+4
+4
+
+48
+48
+52
+56
+
+40
+44
+44
+48
+
+32
+36
+36
+
+28
+28
+32
+32
+
+20
+24
+24
+
+16
+20
+20
+
+8
+12
+12
+16
+
+n
+
+PN 10
+
+48
+56
+56
+56
+
+48
+48
+48
+48
+
+42
+42
+48
+
+33
+36
+36
+39
+
+30
+30
+33
+
+26
+26
+26
+
+22
+22
+22
+22
+
+18
+18
+22
+22
+
+18
+18
+18
+
+14
+18
+18
+
+dø
+mm
+
+M45
+M52
+M52
+M52
+
+M45
+M45
+M45
+M45
+
+M39
+M39
+M45
+
+M30
+M33
+M33
+M36
+
+M27
+M27
+M30
+
+M24
+M24
+M24
+
+M20
+M20
+M20
+M20
+
+M16
+M16
+M20
+M20
+
+M16
+M16
+M16
+
+M12
+M16
+M16
+
+Gew.
+d
+
+1050
+1170
+1280
+1390
+
+770
+840
+950
+
+525
+585
+650
+
+295
+355
+410
+470
+
+180
+210
+240
+270
+
+125
+145
+160
+
+85
+100
+110
+
+1820
+1920
+2020
+2125
+
+2345 2230
+2555 2440
+2765 2650
+
+1930
+2030
+2130
+2240
+
+1585 1490
+1685 1590
+1810 1705
+
+1125
+1255
+1370
+1485
+
+840
+910
+1025
+
+580
+640
+715
+
+340
+405
+460
+520
+
+220
+250
+285
+315
+
+165
+185
+200
+
+115
+140
+150
+
+Dø LK ø
+mm
+
+48
+52
+56
+
+40
+44
+44
+44
+
+36
+36
+36
+
+28
+28
+28
+32
+
+20
+24
+24
+
+16
+20
+20
+
+12
+12
+12
+16
+
+8
+8
+8
+8
+
+4
+4
+8
+
+4
+4
+4
+
+n
+
+PN 16
+
+62
+62
+62
+
+56
+56
+56
+62
+
+48
+48
+56
+
+39
+42
+48
+48
+
+36
+36
+39
+
+30
+30
+33
+
+22
+26
+26
+26
+
+18
+18
+22
+22
+
+18
+18
+18
+
+14
+18
+18
+
+dø
+mm
+
+M56
+M56
+M56
+
+M52
+M52
+M52
+M56
+
+M45
+M45
+M52
+
+M36
+M39
+M45
+M45
+
+M33
+M33
+M36
+
+M27
+M27
+M30
+
+M20
+M24
+M24
+M24
+
+M16
+M16
+M20
+M20
+
+M16
+M16
+M16
+
+M12
+M16
+M16
+
+Gew.
+d
+
+2445
+-
+
+1975
+2195
+-
+
+1755
+-
+
+1185
+1320
+1530
+
+845
+960
+1085
+
+620
+730
+
+360
+425
+485
+555
+
+235
+270
+300
+330
+
+165
+185
+200
+
+150
+
+Dø
+
+2300
+-
+
+1860
+2070
+-
+
+1640
+-
+
+1090
+1210
+1420
+
+770
+875
+990
+
+550
+660
+
+310
+370
+430
+490
+
+190
+220
+250
+280
+
+125
+145
+160
+
+110
+
+LK ø
+mm
+
+48
+-
+
+40
+44
+-
+
+36
+-
+
+28
+28
+32
+
+20
+24
+24
+
+16
+20
+
+12
+12
+16
+16
+
+8
+8
+8
+12
+
+4
+8
+8
+
+4
+
+n
+
+PN 25
+
+70
+-
+
+62
+70
+-
+
+62
+-
+
+48
+56
+62
+
+39
+42
+48
+
+36
+36
+
+26
+30
+30
+33
+
+22
+26
+26
+26
+
+18
+18
+18
+
+18
+
+dø
+mm
+79,2
+89,0
+98,4
+
+LK ø
+mm
+
+298,4
+361,9
+431,8
+476,2
+
+190,5
+215,9
+241,3
+269,9
+
+M64
+-
+
+M56
+M64
+-
+
+M56
+-
+
+M45 1168,4 1085,8
+M52 1289,0 1200,1
+M56
+
+749,3
+863,6
+914,4
+977,9
+
+596,9 539,7
+635,0 577,8
+698,5 635,0
+
+342,9
+406,4
+482,6
+533,4
+
+228,6
+254,0
+279,4
+311,2
+
+152,4 120,6
+177,8 139,7
+190,5 152,4
+
+108,0
+117,0
+127,0
+
+Dø
+
+M36 812,8
+M39 927,1
+- 984,2
+M45 1060,4
+
+M33
+M33
+
+M24
+M27
+M27
+M30
+
+M20
+M24
+M24
+M24
+
+M16
+M16
+M16
+
+M16
+
+Gew.
+d
+
+32
+36
+
+20
+28
+28
+28
+
+16
+16
+20
+
+8
+12
+12
+12
+
+8
+8
+8
+8
+
+4
+4
+4
+
+4
+4
+4
+
+n
+
+41,3
+41,3
+
+34,9
+34,9
+34,9
+41,3
+
+28,6
+31,7
+31,7
+
+22,2
+25,4
+25,4
+28,6
+
+19,0
+22,2
+22,2
+22,2
+
+19,0
+19,0
+19,0
+
+15,7
+15,7
+15,7
+
+dø
+mm
+
+ASA 150 lb.
+
+1
+1
+
+1
+1
+1
+1
+
+1
+1
+1
+
+1
+
+1/
+2
+1/
+2
+
+1/
+4
+1/
+4
+1/
+4
+1/
+2
+
+1/
+8
+1/
+8
+
+3/
+4
+7/
+8
+7/
+8
+
+5/
+8
+3/
+4
+3/
+4
+3/
+4
+
+5/
+8
+5/
+8
+5/
+8
+
+2
+
+36
+40
+
+24
+28
+30
+32
+
+16
+18
+20
+
+8
+10
+12
+14
+
+4
+5
+6
+7
+
+3
+
+1/
+2
+
+2
+
+DN
+Gew. in
+d
+Zoll
+1
+1/
+2
+1/
+1/
+1
+4
+2
+1/
+1 1/2
+2
+
+Flansch-Anschlussmaße
+
+Erstellung eines Bewegungsschaubildes
+Sämtliche Bewegungskombinationen können diesem Schaubild entnommen werden.
+
+Maximale Dehnwerte
+max. axial : +30/-45 mm
+
+max. lateral : +/-30 mm
+
+lateral + mm
+
+30
+
+axial - 20 mn
+
+axial + 15 mm
+
+20
+lateral + 15 mm
+10
+
+axial - mmm
+
+axial + mm
+-40
+
+-30
+
+-20
+
+10
+
+-10
+
+20
+
+30
+
+-10
+lateral - 15 mm
+-20
+
+-30
+
+lateral - mm
+
+Die aktuellen Bewegungen in Kombination müssen als Rechteck in die Bewegungsraute passen.
+
+Beispiel:
+
+axial
+
+-20 mm
+
+lateral +15 mm
+
+lateral
+
+max +/- 15 mm
+
+75
+
+WILLBRANDT KG
+Schnackenburgallee 180
+22525 Hamburg
+Germany
+Phone +49 40 540093-0
+Fax
++49 40 540093-47
+eMail info@willbrandt.de
+
+Niederlassung Hannover
+Großer Kolonnenweg 18
+30163 Hannover
+Germany
+Phone +49 511 99046-0
+Fax
++49 511 99046-30
+eMail hannover@willbrandt.de
+
+Schwingungstechnik
+Kompensatoren
+Lärmschutzsysteme
+Profile und Formteile
+Antriebselemente
+Spezialdichtungen
+Gummi für Schiff und Hafen
+
+WILLBRANDT Gummiteknik ApS
+Finlandsgade 29
+4690 Haslev
+Denmark
+Phone +45 56870164
+Fax
++45 56872208
+eMail info@willbrandt.dk
+web
+www.willbrandt.dk
+
+www.willbrandt.de
+
+231-2-07/10-HD
+
+Niederlassung Berlin
+Breitenbachstraße 7 - 9
+13509 Berlin
+Germany
+Phone +49 30 435502-25
+Fax
++49 30 435502-20
+eMail berlin@willbrandt.de
+
+&
+
+£
+0N Mﬂ’t’u
+
+ 
+ 
+ 
+ 
+\ "‘IMﬂjwH“l‘”|l-|H.I$WH
+
+x
+: Ly
+N
+
+ 
+o
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F “
+fﬂ,;// dww, A
+L
+
+ 
+ 
+ 
+ 
+ 
+ 
+EEEEE
+EEEEE
+EREDERp AP
+ERNZ4RyeZay,
+
+=lﬂl'ldl'7
+
+1 -09 -08 -07 -06 -05 04 -03 -02 ~01 0
+bar
+
+ 
+NNNNNNNNNNRNNNN
+AVAVAV;
+
+ 
+
+AUIIEEENENENNENS
+AlANIINNNNANNS
+
+ 
+ 
+ 
+ 
+ 
+III I||I
+II'I'I'I l'lll'l'_l 'I'l'
+
+ 
+ 
+S
+[~z
+
+I~ 7
+
+ 
+AT,
+
+S
+
+3
+m
+
+ 
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ﬁ\ 2
+
+N \\~\~\~\\ o
+YN N ._. ._.___ _._._._._._._._._._._._._._. B e
+
+.““""“"f‘l“ AL ARV L RNLALLELRRRRABARRWY. A S S T N S S0V SV R SV P W S S
+
+ 
+/7 i
+
+-\II\\\ _l-
+V4|
+
+| |
+Iﬂﬂ ||=||| hﬂi P "'ihh
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+Stainless Steel
+Expansion Joints
+
+ 
+

@@ -1,0 +1,4 @@
+Manuelle Durchgangsklappe
+
+DN:200
+PN:16

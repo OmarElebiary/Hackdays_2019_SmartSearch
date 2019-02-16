@@ -1,0 +1,4844 @@
+      
+
+1 E6-1A-02ER-02
+
+1A W23/2009
+
+2 E6-2A-02ER-00
+
+3 ES-3G-17FP-01
+
+3A ES-3G-17FP-02
+
+4 E8-5A-15FP-00
+
+4A E8-5A-16FP-01
+
+5 E6-6B-16FP-01
+
+SA £9-6B-17FP-01
+
+6 ES-6B-05EE-00
+
+ 
+
+3V COGEIM Srl
+56376
+
+ 
+
+ 
+
+ 
+
+  
+    
+
+Specifiche di Saldatura e Qualifiche dei Saldatori
+sl WELDING PROCEDURE - WELDER'S QUALIFICATION
+
+WM 10090 01
+
+55 10090
+& M44-MECC-110 Rev.1
+
+VEE groove B.W. 8.1 28106307-2 01 202 1/5-06 2841-04
+
+with backing 8.1
+
+VEE groove B.W. 8/1 QW 1040 AP 223 QW 1040 AW 242
+
+no backing 8/1
+
+Sing. Bevel Groove 8.1 28106307-2 01202 1/5-06 2841-04
+
+Back reweld 8.1
+
+Fillet weld 8 28111106 01202 1/5-11 8424-2
+1.1-1.2
+
+Fillet weld 8 28111106 01202 1/5-11 8424-2
+1.1-1.2
+
+Fillet weld 8 28110634 01202 1/5-10 7640
+8
+
+Fillet weld 8 28111105 01202 1/5-11 8424-1
+8
+
+Fillet weld 8.1 28111105 01202 1/5-11 8424-1
+8.1
+
+Fillet weld 8 28111106 01202 1/5-11 8424-2
+1.1-1.2
+
+Fillet weld 8 28106307-5 01202 1/5-06 2841-1
+
+wr7
+
+AGITATOR STORAGE VESSEL
+
+ 
+
+DTD
+
+DTD
+
+IC72
+
+Pagina1dil
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i
+=
+
+Norma
+
+Spacilication  AD 2000 + PED (97/23/EC)
+
+Via Alo Cavo 6 - 24020 PEIA (EG)
+Tel 035-73.3255 Fax 035-71.72.767
+
+WELDING
+MAP
+
+Malerola
+Maleril
+
+AGITATOR STORAGE
+14404 EN 10028-7
+
+3V COGEM
+
+&
+Seidl N 3268
+
+Draang 1. MA4-MECC-10 R1
+
+ 
+
+EL
+
+ 
+
+Doc. . y\-10090-01
+
+        
+
+Pag.
+Sheol 1 of 2
+Com. Clenio )
+
+Customer Job M44
+
+Com. INOXTECH N
+Job 10090
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B 1 e s e e e
+
+v
+       
+
+ 
+
+3268
+
+ 
+
+ 
+
+M44-MECC-110 Rev.1
+
+WPS RECORD
+NUMBER
+
+SPECIFICA PROCED. DI
+
+SALDATURA
+
+Welding Procedure Specification (WPS)
+EN ISO 15614-01_08_07
+
+    
+
+   
+
+E6-1A-02ER02 "0 T omormaoor_|
+
+PROCEDIMENTO 111 SMAW Preparazione giunto LAV. MECC. - MOLATURA
+I1SO 857-1 Process Manual Joint design MACHINING - GRINDING
+
+Sostegno — Backing: mm- Materiale Backing material  WELD METAL
+
+NO TIPO - Type
+
+     
+
+     
+
+  
+
+   
+
+      
+
+     
+
+  
+
+     
+
+ 
+
+Posizione cianfrino
+
+Position(s) of groave
+Progressione saldatura
+Welding progression {up/down)
+Posizione angolo
+
+Position(s) of fillet
+
+Tipo di Giunto
+
+Joint type
+Giunto a V -Testa a Testa con ripresa
+
+VEE Butt Weld double side with back reweld
+SIDE 1 - VEE GROOVE
+
+SIDE 2 —~ BEAD TYPE
+
+Nome saldatori one Qualifica N°
+Welder's name Welder's Approval Test Nr
+
+Imberii Cristian 01 202 1/S-06 2841-03
+Guerini Angelo 01 202 1/S-06 2841-04
+
+ 
+
+' ASTM A 240 316 - 3161 ASTM A 240 316 — 316L
+SPEC'F'CAT'POEGRADO X5 - X2 Cr NI Mo 17 12 2 EN 10028-7 A-To | X5-X2 CrNiMo 17 12 2 EN 10028-7
+
+Epesiiication yperand gmds 1.4401 — 1,404 1.4401 — 1.4404
+
+CAMPI DI SPESSORE - Thickness range
+PROCEDIMENTO - Process | CIANFRINO - Groove mm (") ANGOLO Fillet
+
+Deposed weld metal - mm (in. 3+10.2
+
+METALL] D'APPORTO - Filler metals
+CLASSIFICAZIONE
+
+PARAMETRI DI SALDATURA - Welding details
+Corrente Current
+Preced. ;
+Frocess H“n Classification W Manufacturer
+(72 [vowAn |54 | E3t6L16 | 1600 | E19123LR | 325 | AVESTA | seuskraccc [ooRP | 90+110 | 22425 | 12+14 | ()
+| 4 |
+[
+
+ 
+
+ 
+
+ 
+
+SALDATURA DEPOSITATA
+
+ 
+
+             
+ 
+
+  
+
+ 
+
+Tensione VELOCITA'I Altro
+Travel speed
+(cm/min.)
+
+        
+
+   
+
+     
+
+    
+
+ 
+
+    
+
+Denominazione
+Trade name
+
+Produttore Volt range Othen
+
+Strato
+Layer(s)
+
+ 
+
+  
+
+1 T T T T 1T 1 T —
+NA. DES. COMM. FL. INS. CONSUMABILE NA.
+
+FLUSSO ELETT. NA.
+Elect. fluss Class )
+
+      
+
+  
+
+Consumable Insert
+
+     
+
+Flux trade name
+
+        
+
+   
+
+  
+   
+     
+
+      
+
+  
+
+Trattamento termico - Past Weld Heat Treatment
+m Campo Temperatura
+
+PRERISCALDO - Preheat
+111 SMAW | Mantenim. Preriscaldo
+
+        
+
+                              
+
+Tempo di permanenza
+
+ 
+     
+
+TEMP. MIN. PRERISC.
+
+       
+
+Minimum preheat temperature 15°C m Temperature range (“C) Time range (min)
+TEMP. MAX. DI INTERPASS | 111 SMAW ]
+Max intetpass temperature 250°C | ALTRO- Other | GAS
+
+ 
+
+PROCEDIMENTO
+Process
+GAS DI PROTEZIONE
+Shielding Gas
+COMPOSIZIONE $%(MISCELA)
+% composilion (mixture)
+PORTATA FLUSSO
+Flow rate
+GAS AL ROVESCIO
+Backing gas
+
+GAS AL ROV. PORTATA -
+g oo umn | a0 ]
+
+       
+
+      
+
+CAMPO DI VELOCITA' DEL FILO NA.
+Electrode wire fed speed range
+
+TECNICA - Technique
+
+PASSATA LARGA O CORDONI
+Weave or string bead
+PULIZIA INIZIALE E INTERPASS
+
+       
+
+MODO DI TRASFERIMENTO DEL METALLO PER GMAW
+GMAW metal transfer mode
+
+      
+
+  
+
+  
+
+           
+
+                
+
+       
+
+CORDONI
+STRING
+
+- SPAZZOLATURA
+
+    
+
+MOLATURA
+GRINDING - BRUSHING
+
+     
+
+         
+
+Initial and interpass cleaning
+PASSATE MULT. O SING. (PER LATO) MULTIPLE | COMPOS. GAS TRAINATO
+Multiple or single pass (for side) MULTIPASS | Tralling gas composition
+
+   
+
+OSCILLAZIONE
+
+Oscillation NA.
+MARTELLATURA
+Peaning
+DIAM. ORIFIZIO O COPPA GAS
+Orifice of gas cup size
+METODO SOLC. A ROVESCIO MOLATURA
+Method of back gounging GRINDING
+DIST. TUBO DI CONT. - MATERIALE mm NA.
+Contact tube to work distance 3
+ELETTR. MULTIPLO O SINGOLO SINGOLO
+Single or multiple eletirode SINGLE
+DENTRO/FUORI CAMERA CHIUSA NA.
+CLOSED CHAMBER/ OUT OF CH. <
+
+                  
+
+   
+
+   
+
+NOTE - Notes
+
+   
+     
+
+           
+
+REMOVE TACK WELDS
+TW = TACKWELDS
+(*) NO PASS THICKER THAN 1/2°
+
+   
+
+      
+              
+
+           
+
+    
+
+ 
+
+         
+
+        
+
+REDATTO
+
+Prepared by : D. Bonazzi DATA ~ Date : 02/07/2007
+
+ 
+
+i
+|
+!
+i
+!
+i
+|
+i
+!
+
+b A i S 18 s P 4 Yo e ARt e
+
+B PR
+
+e e
+
+ 
+MOD. 60 Rev. 0
+
+ 
+
+     
+
+[ TUBISTEEL S.r.l.
+,Vla Campania, 15
+36015 SCHIO (Vi)
+
+      
+
+| Ente Esammante Examining body
+
+] Procedimento di saldatura
+i Welding Process
+
+t Sostegno Backing
+
+| Tipo di materiale di sostegno
+_Backing Material Type
+
+ 
+
+i Specifica del Materiale Base
+| Parent Malerial Speciiication
+
+Spessore del materiale
+| Malerial Thickness (mm)
+Diametro esterno
+Outside Diamefef (mm)
+Passata singola, Muitipla (per lato)
+Single pass, Miffiple (per side)
+Unita di saldatura Welding unil
+
+ 
+
+ 
+
+                  
+
+          
+
+Processo
+
+di saldatura
+Welding Process
+
+Passata 0
+
+strato
+Run or layer
+
+          
+
+__ITALCERT S.R.L (MILANO)
+
+ 
+
+EN 10025-7 1.4404 (Tp 316L)
+
+  
+
+Dimensione Mat.
+d'apporto (mm)
+Size of Filler Mefal
+
+SPECIFICA DEL PROGEDIMENTO DI SALDATURA WPS N°
+DEL COSTRUTTORE WPS
+
+Manufacturer's Welding P\
+UNIENISO 15
+
+      
+
+15 + 141 MECCANIZZATO
+15:NO  141: Sl
+15: N. A 141 SALDATURA
+
+15 {Campo: 7,5 - 30)
+N.A. (Campo: 2 150)
+
+MULTIPLA
+SAF NERTINOX TH500 (lmpzamo 1) Plasma matr, 00189LD333
+
+            
+
+CORRENTE Ay
+
+Current
+
+             
+
+] Tlpo Corrente
+
+e Polarita
+Cureni/Folarity
+
+250 -260
+
+DCEN 270 ~ 280
+DCEN 270-280
+DoEN | z70-280
+
+Classnﬁcaz:one del matenale d‘apporto £ nome commerciale
+
+ 
+
+i
+
+ﬁ
+
+ 
+
+| Designation of welding consumable and frade name
+Eventuale ncottura ed essiccazlone Any Special Baking or Drying
+
+  
+
+  
+
+ 
+
+Gas/Flusso Portata gas
+Gas Gss fes Gas/Flux Gas Flow Rate
+Plasma Pizsma Ar 98,99% ISO 14175 1 8 limin
+| Protezione Shielding  (15-141) Ar95%+H25% 1SO 14175 R1 25-30 limin
+Aggiuntivo Trailing N.A. N.A.
+Sostegno Backing Argg ,00% IS0 14175 11 30 Umin
+Diametro ugello o ceramica . )
+Orifice cr Gas cup Size (mm) 15: 817 141:022
+Elettrodo di Tungsteno (tipo diam.)
+Tungsten Electrode Type/Size EN 1SO 6848 WTh20 @ 4,8 mm
+Dettagii sulla solcatura NA.
+Details of Back Gouging .
+Temperatura di preriscaldo 15°C
+Praheaf Temperature
+Temperatura tra le passate °
+Interpass Temperalure ’ 150°C
+Dettagli della sald. al plasma
+Plasa v ekﬁng derails ARCO TRASFERITO A Keyhole
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬁ 30 Divergeﬁntre
+
+7 \—DOUNO \ i o
+
+w )z
+
+ 
+
+               
+
+                        
+
+e
+
+ 
+
+1
+
+Rev, o
+
+  
+
+    
+
+| Wi W23/2009
+
+WPQRdisuppor&on” E
+Suppariing WPOR n* QW1040AP223 E
+
+  
+
+rocedure Specification
+609-1: 2006
+
+    
+
+    
+
+ 
+
+   
+
+Tipo dl glunto Joint Tipe BW / TESTA A TESTA Plena Pen aVeon spalia
+
+  
+  
+
+Metodo di preparazione e pulizia )
+Msthod of preparation and Cleaning TAGLIO PLASMA - SPAZZOLATURA
+
+  
+    
+
+  
+
+       
+
+                
+ 
+
+    
+
+Gruppo n® Group n’ 8.1 (CR ISO 15608)
+
+Altezza cordone di saldatura NA
+Throa! Thickness (mm) '
+Posizione di saldatura welding Position PA
+
+ 
+ 
+
+Modo di trasferimento Mode of Matal Transfer ~ N.A.
+
+  
+   
+
+                
+
+      
+
+   
+
+Velocia di Sald.
+
+              
+
+       
+               
+
+[ Velocita del flo' ” Apporto T lenmco
+
+~TENSIONE (V) |
+
+                  
+
+ 
+
+ 
+
+Tension Wire Fead Speed | Travel Speed {mm/min) Heat input (Kifmmj |
+{mm/min) V2AXB0XK
+1000xS
+= ; . 130- 150 1,56 - 1,94
+19-20 1140 90-120 1,54-2,24 )
+18- 19 2400 90- 120 146-213 |
+18 -18 800 | 70-100 1,75-2,74
+
+EN 12072: 19 12 3 LSi - SIDER 316 LSi - SOGES
+
+  
+
+ 
+
+Trattamento lermico dopo sald. (PWHT) elo invecchiamento NO
+Post-Weld Heat Treatment and/or Ageing
+
+   
+
+    
+
+Temperatura Temperature (°C) N.A
+
+Tempo di mantenimento Soaking Time (h) N.A.
+
+Gradiente di riscaldamento Heating rate (°Ch) N.A.
+
+Gradiente di raffreddamento Cooling rate (°Clh) N.A. ‘
+Oscillazione (larghezza max della passata) N A" ]
+Weawing (maximum widlh of run) e
+
+Pendolazione: ampiezza, frequenza, tempo sosta . .
+Oscillation: amplitude, frequency, dweil time A1A2:33  TH-T2:25
+Dettagli delle tecniche ad impulsi NA.
+
+Pulse Welding Details :
+
+Distanza libera filo NA
+
+Distance confact tube — work piece o
+
+Angolazione della torcia 9p°
+
+Torch angle
+
+Tipo di torcia
+
+Type of torch SPé
+
+Alfre informazioni Other informaiions NA
+
+   
+
+ 
+
+17.06.2009
+
+g
+
+i A
+
+3
+
+ 
+
+i
+i
+i
+
+ 
+
+ 
+INOXTECH SRL
+
+     
+
+ 
+ 
+
+ 
+
+10090
+
+DATA - Date
+
+02/07/2007
+
+28106307-2 pWPS W02/06
+
+LAV. MECC. - MOLATURA
+MACHINING — GRINDING
+
+SPECIFICA PROCED. Dl
+
+SALDATURA
+
+Welding Pracedure Specification (WPS)
+EN ISO 15614-01_08 07
+
+    
+ 
+
+WPS RECORD
+NUMBER E6-2A-02ER-00
+
+              
+
+     
+
+ 
+
+     
+        
+
+      
+
+ 
+
+Preparazione giunto
+Joint design
+
+    
+
+PROCEDIMENTO
+ISO 857-1 Process
+
+Backing:
+
+       
+
+ 
+
+Sostegno —
+
+Posizione cianfrino
+Position(s) of groove
+
+Progressione saldatura
+Welding progression (up/down)
+Posizione angolo
+Position(s) of fillet
+Tipo di Giunto
+Joint type
+Giunto fasciame - tronchetto
+Latot-12 V
+
+Lato 2 — Con ripresa
+
+Side 1 - Bevel groove
+
+Side 2 — Bead type back rewsld
+
+Nome saldatori Qualifica N®
+Welder's name Welder's Approval Test Nr
+
+Imberti Cristian 01 202 1/S-06 2841-03
+01 202 1/S-06 2841-04
+
+ 
+
+TIPO - Type e
+
+ 
+
+      
+
+             
+
+         
+
+ 
+
+Branch
+connection
+
+ 
+
+                  
+      
+
+              
+
+Guerini Angelo
+
+   
+
+GRUPPO - TR ISO 15608 Group GRUPPO - TR ISO 15608 Group
+
+ASTM A 312 TP 316-316L—(1.4401-1.4404) EN 10216-5 H(217-7
+
+ASTM A 240 316 - 316L
+X5~ X2 CrNi Mo 17 12 2 EN 10028-7 (1.4401-1.4404)
+
+       
+ 
+
+ASTM A 312 TP 316-316L—(1.4401.1.4404) EN 102185 /102177
+ASTM A 240 316 - 316L
+X5 = X2 Cr Ni Mo 17 12 2 EN 10028-7 (1.4401-1.4404)
+
+     
+
+   
+
+SPECIFICA TIFO E GRADO
+Specification type and grade
+
+                
+ 
+
+    
+
+   
+
+   
+
+PROCEDIMENTO - Process | CIANFRINO — Groove mm (*)
+
+   
+
+ 
+
+ 
+
+METALLO BASE - Base Metal - mm (in.)
+
+  
+
+ 
+
+SALDATURA DEPOSITATA
+
+     
+
+   
+
+METALLI D'APPORTO - Filler melals
+
+Gced .-n
+
+! £
+
+-—--—-—-—-—-
+
+FLUSSO ELETT. DES. COMM. FL. INS. CONSUMABILE
+Elect fluss Class Flux rade name Consumable insert
+
+Trattamento termico - Post Weld Heat Treatment
+
+Tempo dl permanenza
+Time range (min)
+
+ 
+
+VELOCITA'
+Travel speed
+{cmimin.)
+
+Tensione
+
+            
+
+      
+
+       
+
+CLASSIFICAZIONE | @ Size Produttore Denominazione
+Classification Manutacturer Trade name
+
+ 
+
+Volt range
+
+Strato
+Layer(s)
+
+     
+
+ 
+
+ 
+
+  
+
+            
+
+        
+
+     
+
+ 
+
+       
+
+   
+
+PRERISCALDO - Preheat
+1
+
+    
+
+   
+
+TEMP. MIN. PRERISC.
+Minimum preheat temperature
+
+TEMP. MAX. DI INTERPASS | 111 SMAW |
+
+Max interpass temperature | 250°C | ALTRO=Othes
+ELETTRODO DI TUNGSTENO DIAME'RO ETIPO
+Tungsten electrode diameter and
+MODO DI TRASFERIMENTO DEL METALLO PER GMAW
+GMAW metal transfer mode
+CAMPO DI VELOCITA' DEL FILO
+Electrode wire fed speed range
+
+TECNICA - Technique
+
+PASSATA LARGA O CORCONI
+Weave or string bead
+PULIZIA INIZIALE E INTERPASS
+
+Initial and interpass cleaning
+PASSATE MULT. O SING. (PER LATO) MULTIPLE | COMPOS. GAS TRAINATO
+MULTIPASS | Tralling gas composition
+
+Multiple or single pass (for side)
+
+OSCILLAZIONE NA
+
+Oscillation .
+
+MARTELLATURA
+
+Peaning NOTE —~ Notes
+
+DIAM. ORIFIZIO O COPPA GAS
+Orifice of gas cup size
+
+= REMOVE TACK WELDS
+METODO SOLC. A ROVESCIO MOLATURA TW = TACK WELDS
+
+Method of back gounging GRINDING
+i (*) NO PASS THICKER THAN 12"
+
+ 
+
+ 
+
+   
+
+   
+     
+
+    
+
+PROCEDIMENTO
+Precess
+GAS DI PROTEZIONE
+Shielding Gas
+COMPOSIZIONE %{MISCELA)
+% composition (mixture)
+PORTATA FLUSSO
+Flow rate
+GAS AL ROVESCIO
+Backing gas
+GAS AL ROV. PORTATA
+Backing gas flow rate
+
+   
+
+   
+
+        
+               
+
+        
+
+     
+
+                               
+
+    
+
+CORDONI
+STRING
+
+MOLATURA - SPAZZOLATURA
+GRINDING - BRUSHING
+
+       
+
+       
+
+          
+
+  
+
+ 
+
+DIST. TUBO DI CONT. — MATERIALE
+
+Contact tube to work distance
+
+ELETTR. MULTIPLO O SINGOLO SINGOLO REDATTO
+
+Single or multiple elettrode SINGLE . 55
+DENTRO/FUORI CAMERA CHIUSA NA | Prepared by : D. Bonazzi DATA ~ Dale : 02/07/2007
+CLOSED CHAMBER/ OUT OF CH. -
+
+ 
+
+ 
+
+et
+
+  
+  
+
+M44-MECC-110 Rev.1
+
+              
+
+ 
+ 
+
+INOXTECH SRL
+
+ 
+
+      
+
+     
+
+"o [zoozon |
+
+pWPS W17/10
+
+LAV. MECC. - MOLATURA
+MACHINING — GRINDING
+
+BASE METAL + WELD METAL
+
+ 
+
+WPS RECORD
+NUMBER
+
+WPAR
+Supporting WPAR 28111106
+
+Preparazione giunto
+Joint design
+
+SPECIFICA PROCED. DI
+
+SALDATURA
+
+Welding Procedure Specification (WPS)
+EN ISO 15614-01_08_07
+
+135 amaw | TIPO Manuale
+Type Manual
+
+Smver | o oo ||
+
+Sl-Yes
+
+        
+
+ES-3G-17FP-01
+
+               
+
+               
+
+        
+
+       
+
+    
+
+         
+
+PROCEDIMENTO
+1SO 857-1 Process
+
+Sostegno - Backing:
+
+       
+
+ 
+  
+
+ 
+
+ 
+   
+
+ 
+ 
+
+TIPO - Type —
+
+         
+
+         
+
+Supporto — Retainers:
+
+Posizione cianfrino
+Posilion(s) of groove
+Progressione saldatura
+Welding progression {up/down)
+
+Posizione angolo
+Position(s) of fillet
+
+ 
+
+=
+1
+¢
+i
+:
+i
+i
+]
+i
+i
+£
+f
+i
+i
+i
+i
+i
+i
+:
+i
+3
+|
+i
+i
+i
+|
+i
+i
+i
+
+ 
+
+Giunto ad angolo
+
+ 
+
+Filiet weld
+
+      
+
+Qualifica N°
+Welder's Approval Test Nr
+
+01 202 I/S-11 8424-2
+
+   
+
+Nome saldatori
+Welder's name
+
+ 
+
+   
+
+GRUPPO ~ TR ISO 15608 Group
+
+     
+      
+
+ 
+   
+
+     
+      
+
+ASTM A 105 - ASTM A 350 LF2
+
+ASTM A 240 316 - 316L
+P275 NH EN 10028-3 - P355 NH EN 10028-3
+
+1.4401 / 1.4404 EN 10028-7
+CAMPI| DI SPESSORE - Thickness range
+
+[ [PROCEDIMENTO-Process | CIANFRINO - Groove mm (*)
+METALLO BASE - Base Metal - mm (in.) 135 GMAW A
+
+Altezza di gola (a) 135 GMAW
+
+    
+
+SPECIFICA TIPO E GRADO
+Specification type and grade
+
+ 
+
+            
+
+         
+
+ANGOLO Fillat
+
+  
+
+   
+
+      
+
+        
+
+   
+    
+
+VELOCITA
+Travel speed
+
+Tensions
+
+   
+
+    
+
+ 
+
+METALL! D'’APPORTO - Filler metals
+CLASSIFICAZIONE Denominazione
+
+% % Proced.
+
+=5 1p A
+
+@5 oees E““ Classification m Mz;offfctz:er Trade name
+T+ -+ [ [ |
+
+ 
+
+Volt range
+
+    
+  
+
+      
+
+       
+
+DES. COMM. FL.
+Flux trade name
+
+   
+
+FLUSSO ELETT. NA.
+Elect fluss Class ’
+
+  
+
+    
+
+Tempo di permanenza
+Time range (min)
+
+PROCEDIMENTO
+GAS DI PROTEZIONE
+
+ARGON 98%
+
+             
+
+TEMP. MIN. PRERISC.
+Minimum preheat temperature
+
+TEMP. MAX. DI INTERPASS
+Max interpass temparature
+ELETTRODO DI TUNGSTENO DIAMETRO E TIPO
+Tungsten electrode diameter and
+MODO DI TRASFERIMENTO DEL METALLO
+GMAW metal transfer mode
+
+CAMPO D) VELOCITA' DEL FILO —
+Electicde wire fed speed range -
+
+TECNICA
+
+PASSATA LARGA O CORDONI CORDONI
+‘Weave ot string bead STRING
+
+PULIZIA INIZIALE E INTERPASS MOLATURA - SPAZZOLATURA
+Initial and interpass cleaning GRINDING - BRUSHING
+
+PASSATE MULT. O SING. (PER LATO) MULTIPLE
+Multiple or single pass (for side] MULTIPASS
+OSCILLAZIONE
+Oscillation
+MARTELLATURA
+Peaning
+DIAM. ORIFIZIO O COPPA GAS 216
+Qrifice of gas cup size
+METODO SOLC. A ROVESCIO NA
+Method of back gounging
+DIST. TUBO DI CONT. — MATERIALE mm 8=10
+Contact tube to work distance
+ELETTR. MULTIPLO O SINGOLO
+Single or multiple elettrode
+DENTRO/FUORI CAMERA CHIUSA
+CLOSED CHAMBER/ OUT OF CH.
+
+     
+
+ 
+                                
+
+       
+
+                   
+
+                       
+
+C022%
+
+   
+
+    
+
+e
+
+PORTATA FLUSSO
+Flow rate
+GAS AL ROVESCIO
+Backing gas
+GAS AL ROV. PORTATA
+Backing gas flow rate
+COMPOS. GAS TRAINATO
+Tralling gas compaosition
+
+ 
+
+— Technique
+
+           
+
+    
+
+          
+
+          
+
+  
+
+i
+i
+i
+{
+i
+i
+
+     
+
+  
+
+NOTE — Notes
+
+        
+
+        
+
+REMOVE TACK WELDS
+TW=TACK WELDS
+(*) NO PASS THICKER THAN 1/2"
+
+           
+
+       
+
+    
+
+REDATTO
+
+A | Prepared by : D. Bonazzi DATA - Date : 20/01/2011
+
+ 
+
+ 
+
+i
+i
+t
+M44 MECC-110 Rev 1
+
+INOXTECH SRL
+
+ 
+ 
+
+         
+
+n 20/01/2011
+Welding Procedure Specification (WPS) WPAR 28111106
+
+EN ISO 15614-01_08_07 Supporing WPAR pPWPS  W17/10
+PROCEDIMENTO Manuale Preparazione giunto LAV. MECC., - MOLATURA
+ISO 857-1 Process Manual Joint design MACHINING - GRINDING
+Soslegno — Backing: m 135 GMAW | NO —No _ Materiale Backing material ~ BASE METAL +WELD METAL
+
+N.A. i
+
+Posizione cianfrino
+Position(s) of groove
+
+Progressione saldatura NA
+Welding progression (up/down) -
+
+Posizione angolo
+Position(s) of fillet
+Tipo di Giunto
+
+Giunto ad angolo
+
+WPS RECORD
+NUMBER
+
+     
+
+SPECIFICA PROCED. DI
+SALDATURA
+
+ 
+
+E9-3G-17FP-02
+
+e e A B e e
+
+     
+
+     
+ 
+
+ 
+
+ 
+
+     
+
+G14GZ > 2xT
+
+ 
+
+E
+i
+|
+i
+i
+!
+t
+
+ 
+
+Fillet weld
+
+  
+
+Nome saldatori Punzonz Qualifica N°
+Welders name Welder's Approval Test Nr
+
+Della Torre Diego “ 01202 IS-11 8424-2
+METALLI BASE - Base Metals
+
+GRUPPO — TR ISO 15608 Group [A-To [ GRUPPO - TR 1SO 15608 Group
+
+  
+
+ 
+
+ 
+
+               
+
+    
+     
+
+      
+
+ASTM A 105 —ASTM A 350 LF2
+
+ASTM A 240 316 - 316L
+P275 NH EN 10028-3 — P355 NH EN 10028-3
+
+1.4401 / 1.4404 EN 10028-7
+
+CAMPI DI SPESSORE - Thickness range
+PROCEDIMENTO - Pracess | CIANFRINO ~ Groove mm (") ANGOLO Fillet
+
+135 GMAW N.A. Nbo Restriction
+
+2150 if weld in PA or PC Rolated Position
+2500 for other Pasitions
+
+   
+
+SPECIFICA TIPO E GRADO
+Specification type and grade
+
+METALLO BASE - Base Metal - mm (in.)
+
+Altezza digola (a)
+Throat thickness (a
+
+   
+
+     
+
+  
+ 
+
+  
+   
+
+     
+
+               
+
+    
+             
+
+  
+
+   
+
+PARAM
+
+         
+
+     
+
+   
+
+VELOCITA'
+Travel speed
+
+Tensione
+
+        
+
+      
+
+ETRI DI SALDATURA - Welding details
+Polarita
+
+-Fi Corrente Current
+2 Size Produttore Denominazione
+(mm) | Manufacturer Trade name Potarity
+
+      
+
+ 
+
+CLASSIFICAZIONE
+Classification
+
+   
+
+Volit range
+
+    
+
+  
+
+INS. CONSUMABILE
+Consumable insert
+
+     
+
+DES. COMM. FL.
+Flux trade name
+
+Trattamento iermico - Post VWeld Heat Treatment
+Mantenim. Preriscaldo Campo Temperatura Tempo di permanenza
+
+TEMP. MIN. PRERISC. [__15°C ] NA
+
+Minimum preheat temperature || Preheatmaintenace m Temperature range (°C) . * Time range (min)
+TEMP. MAX. D! INTERPASS 150 *°C :
+
+Max interpass temperature ALTRO Other GAS
+
+EL 0ODO DI TUNGSTENO DIAMETRO ETIPO PROCEDIMENTO
+
+         
+
+    
+
+FLUSSO ELETT. NA.
+Elect fluss Class #
+
+       
+
+ 
+   
+ 
+ 
+ 
+
+ 
+
+  
+   
+
+     
+
+z
+(et
+
+     
+
+     
+
+                    
+
+   
+ 
+
+      
+
+                    
+
+       
+
+  
+       
+
+         
+
+           
+
+ 
+
+Tungstenalectrodedlameterandtyne
+GASDIPROTEIONE
+GMAW metal transfer mode PULSED ARC (135-GMAW) | ghipding Gas LINDE CRONIGON 2 —
+CAMPO DI VELOCITA' DEL FILO
+= RTATA FLUSSO -
+
+TECNICA — Technique FomTAT Umin s |
+PASSATA LARGA O CORDONI CORDONI | GAS AL ROVESCIO
+PULIZIA INIZIALE E INTERPASS MOLATURA - SPAZZOLATURA | GAS AL ROV. PORTATA z
+Initial and interpass cleaning GRINDING - BRUSHING | Backinggas flow rate = *
+Multiple or single pass (for side) MULTIPASS | Tralling gas composition “
+OSCILLAZIONE NA ’
+MAR'_I'ELLATURA
+Peaning NOTE - Notes
+Qrifice of gas cup size
+METODO SOLC. A ROVESCIO REMOVE TAGK WELDS
+
+LA TW =TACKWELDS
+
+DIST. TUBO DI CONT. ~ MATERIALE
+Contact tube to work distance
+Single or multiple eletirode
+DENTRO/FUORI CAMERA CHIUSA NA. Prepa[ed by :D. Bonazzi
+
+MODO DI TRASFERIMENTO DEL METALLO
+m COMPOS[ZIONE %(MISCELA) ARGON 88%
+Electrode wire fed speed range CO22%
+Weave or string bead STRING | Backing gas
+PASSATE MULT. O SING. (PER LATO) MULTIPLE | COMPOS. GAS TRAINATO
+Oscillation
+DIAM. ORIFIZIO O COPPA GAS
+Method of back gounging
+- (*) NO PASS THICKER THAN 1/2"
+ELETTR. MULTIPLO O SINGOLO NA.
+) - | REDATTO
+CLOSED CHAMBER/ OUT OF CH.
+
+DATA — Date : 20/01/2011
+
+i
+e
+1
+}
+i
+i
+M44-MECC-110 Rev.1
+
+ 
+ 
+
+IOXTECH SHI
+
+ 
+
+€
+§
+i
+
+   
+
+| o Josn2roio
+
+28110634 pWPS 15/10
+
+LAV. MECC. - MOLATURA
+Joint design MAGHINING — GRINDING
+
+Materiale Backing material BASE METAL
+
+Posizione cianfrino
+Positian(s) of groove
+
+Progressione saldatura
+Welding progression (up/down
+Posizione angolo
+Position(s) of fillet
+Tipo di Giunto
+Joint fype
+Giunto ad angolo
+
+WPS RECORD
+NUMBER
+
+WPAR
+Supporting WPAR
+
+Preparazione giunio
+
+SPECIFICA PROCED. D!
+SALDATURA
+
+Welding Procedure Specification (WPS)
+EN ISO 15614-01_08 07
+
+Manuaie
+Manual
+
+    
+
+       
+
+           
+
+E8-5A-15FP-00
+
+                      
+
+      
+
+        
+
+        
+
+    
+
+TIPO
+Type
+
+    
+
+PROCEDIMENTO
+1SO 8571 Process  1=° GMAW
+
+  
+
+        
+
+ 
+        
+
+               
+  
+
+ 
+
+i
+i
+i
+
+A RN TN
+Voo
+
+         
+
+Fillet weld
+
+  
+  
+
+Qualifica N°
+Welder's Approval Test Nr
+
+01 202 I/S-10 7640
+
+Nome saldator
+Welder's name
+
+Imberii Cristian
+
+        
+
+   
+
+            
+   
+
+METALLI BASE — Base Metals
+GRUPPO - TR ISO 15608 Group 8.1 [A-To | GRUPPO - TR ISO 15608 Group
+
+     
+
+  
+ 
+
+    
+
+X5 Cr Ni 18 10 EN 10028-7
+
+X5 Cr NI 18 10 EN 10028-7
+ASTM A 240 304 - 304L
+
+ASTM A 240 304 - 304L
+
+CAMPI DI SPESSORE - Thickness range
+PROCEDIMENTO - Process | CIANFRINO — Groove mm (*)
+
+SPECIFICA TIPO E GRADO
+Specification type and grade
+
+   
+
+   
+ 
+
+ 
+
+ANGOLO Fillet
+
+ 
+
+                 
+
+           
+
+             
+
+   
+
+     
+
+    
+
+o e METALLI D'APPORTO - Filler metals Corrente Current Tensione | VELOCITA'
+g S N . Travel speed
+& > | Process CLASSIFICAZIONE | @ Size | Picdutiore Denominazione | Polarita e
+“5 SFA AWS EN Classificaton m Manufacturer Trade name Polarity Voitrange femimin.}
+
+ 
+
+T 1 T T T 1 [ T T T 7
+T ]
+T T T T T T ]
+
+FLUSSO ELETT. NA. DES. COMM. FL. NA INS. CONSUMABILE NA
+Elect fluss Class T Flux trade name - Consumable insert -
+
+PRERISCALDO - Preheat Trattamento termico - Post Weld Heat Treatment
+
+TEMP. MIN, PRERISC. 215°C | Mantenim. Presiscalda | NA. [ Campo Temperatura Tempo di penmanenza
+Minimum preheat temperature _ Preheat maintenace m Temperature range (°C) - Time range (min)
+
+TEMP. MAX. DIINTERPASS | _5150°C [, o 1
+
+Max interpass temperature —
+PROCEDIMENTO
+v R
+
+ELETTRODO DI TUNGSTENO DIAMETRO E TIPO
+Tungsten electrode diameter and type
+PULSED ARC (135-GMAW) gﬁﬂp gc:;ralons
+
+MODO DI TRASFERIMENTO DEL METALLO PER GMAW
+GMAW metlal transfer mode
+CAMPO DI VELCCITA' DEL FILO mimin. 6+7 COMPOSIZIONE %(MISCELA)
+Electrode wire fed speed range . % composition (mixture)
+& PORTATA FLUSSO
+TECNICA - Technique
+
+Flow rate
+PASSATA LARGA O CORDONI GAS AL ROVESCIO
+Weave or string bead
+
+Backing gas
+PULIZIA INIZIALE E INTERPASS GAS AL ROV. PORTATA
+Initial and interpass cleaning
+
+Backing gas flow rate
+PASSATE MULT. O SING. (PER LATO) COMPOS. GAS TRAINATO
+Multiple or single pass (for side] Tralling oas compasition
+OSCILLAZIONE
+
+Oscillation
+MARTELLATURA
+Peaning
+DIAM. ORIFIZIO O COPPA GAS
+Orifice of gas cup size
+METODO SOLC. A ROVESCIO
+Method of back gounging
+DIST. TUBO DI CONT. ~ MATERIALE - 8+10
+Contact tube to work distance
+
+      
+
+ 
+
+Seiame
+
+ 
+
+v
+
+ 
+ 
+
+      
+
+                          
+
+       
+ 
+
+   
+
+ARGON 88%
+C0O22%
+
+                  
+
+                    
+
+            
+
+CORDONI
+STRING
+MOLATURA - SPAZZOLATURA
+GRINDCING - BRUSHING
+SINGOLA
+SINGLEPASS
+
+          
+             
+
+=z
+>
+4o
+
+          
+
+               
+
+NOTE - Notes
+
+ 
+
+   
+       
+
+REMOVE TACK WELDS
+TW = TACK WELDS
+() NO PASS THICKER THAN 1/2"
+
+     
+ 
+ 
+
+ 
+
+ 
+
+ELETTR. MULTIPLO O SINGOLO NA. | REDATTO
+Single or multiple elettrode - .
+DENTRO/FUORI CAMERA CHIUSA N.A. | Prepared by : D. Bonazzi BATA—Bate : BR300
+
+ 
+
+CLOSED CHAMBER/ OUT OF CH.
+
+e
+                   
+
+ 
+
+M44-MECC-110 Rev.1
+
+         
+           
+
+|0 | 200122011
+
+PWPS  W16/11
+
+LAV. MECC. - MOLATURA
+MACHINING - GRINDING
+
+BASE METAL
+
+WPS RECORD
+NUMBER
+
+WPAR
+Supporting WPAR 28111105
+
+Preparazione giunto
+Joint design
+
+SPECIFICA PROCED. DI
+
+SALDATURA
+
+Welding Procedure Specification (WPS)
+EN ISO 15614-01_08_07
+
+Manuzale
+Manual
+
+      
+
+ 
+
+E8-5A-16FP-01
+
+        
+
+   
+
+ 
+
+      
+ 
+
+    
+
+ 
+
+PROCEDIMENTO TIPO
+1SO 8571 Progess 120 CMAW | e
+
+   
+     
+
+Posiziona cianirino “
+Pasitien(s) of groove
+
+Progressione saldalura N.A
+Walding progression (up/down) 5%
+Posizions angolo
+Position(s) of fillet
+Tipo di Giunto
+
+      
+
+Giunto ad angolo
+
+Fillet weld
+
+ 
+ 
+
+Nome saldatori
+Welder's name
+
+Della Torre Diego
+
+ 
+
+Punzone Qualidfica N°
+Stamp Welder's Approval Test Nr
+“ 01 202 1/5-11 8424-1
+METALLI BASE — Base Metals
+
+GRUPPO - TR ISQ 15608 Group 8 A-To
+
+      
+
+ 
+
+   
+    
+
+       
+
+     
+
+       
+
+X5 CrNI 18 10 EN 10028-7
+ASTM A 240 304 - 304L
+
+    
+
+X5 Cr Ni 18 10 EN 10028-7
+ASTM A 240 304 - 304L
+
+SPECIFICA TIPO E GRADO
+Specification type and grade
+
+    
+
+            
+
+  
+
+   
+
+PROCEDIMENTO - Process | CIANFRINQO ~ Groave (mm) ANGOLO Fillet (mm)
+
+ 
+
+      
+
+METALLO BASE - Base Metal - mm (in.)
+
+  
+
+ 
+
+No Restriction
+
+=150 if weld in PA or PC Rolated Pesilion
+2500 for other Positions
+
+              
+
+           
+
+ 
+  
+
+VELOCITA'
+Travel speed
+
+Tensione Altro
+
+       
+
+ 
+    
+
+Produttore Denominazione
+Manufacturer Trade name
+
+[+ [scuaw |59 | ersweisi [12072 | G9123Lsi | 12 |mecaweio| mecarmox |oose | 2104220 | 27+28 | 20+2 | )
+- r—+— ¢ °— ‘¢ ;[ ;] |
+T+ "+ "+ 1 [ [ |
+1 ¢+ 1+ 1 [ [ [ 1 1 [ |
+N.A. N.A.
+
+FLUSSOELETT. NA. DES. COMM. FL. INS. CONSUMABILE
+
+Elect fluss Class Flux trade name Consumable insert
+PRERISCALDO - Preheat Trattamento termico - Post Weld Heat Treatment
+m Mantenim. Preriscaldo m Campo Temperatura
+Preheat maintenace m Temperature range (°C) - Time range (min)
+TEMP. MAX. DI INTERPASS
+
+Tempo di permanenza
+=150 I
+ELETTRODO DI TUNGSTENO DIAMETRO E TIPO PROCEDIMENTO
+MODO DI TRASFERIMENTO DEL METALLO PER GMAW | by sep aRc (135.GMAW) | OFS DI PROTEZIONE INDECRONIEON 2 —
+
+GMAW metal transfer mode Shiekiing Gas
+CAMPO DI VELOCITA® DEL FILO COMPOSIZICNE %(MISCELA) ARGON 98%
+Electrode wire fed speed range % composition {mixture) CO2 2%
+
+= PORTATA FLUSSO
+TECNICA - Technique o tate
+PASSATA LARGA O CORDONI CORDONI
+
+Volt range Othen
+
+    
+
+ 
+
+               
+
+        
+
+    
+
+ 
+
+ 
+    
+
+  
+    
+
+      
+ 
+
+TEMP. MIN. PRERISC.
+Minimum preheat temperature
+
+    
+
+ 
+
+              
+ 
+
+    
+
+     
+
+   
+
+        
+
+   
+     
+
+GAS AL ROVESCIO
+
+Weave or string bead STRING | Backing gas
+PULIZIA INIZIALE E INTERPASS MOLATURA - SPAZZOLATURA | GAS AL ROV. PORTATA
+Initial and interpass cleaning . GRINDING - BRUSHING | Backing gas flow rate
+
+PASSATE MULT. O SING. (PER LATO) SINGOLA | COMPOS. GAS TRAINATO
+Mulliple or single pass (for side) SINGLEPASS | Tralling gas composition
+
+QSCl IONE
+
+ 
+
+MARTELLATURA
+Peaning _N
+
+DIAM. ORIFIZIO O COPPA GAS NOTE — Notes
+
+Orifice of gas cup size
+
+METODO SOLC. A ROVESCIO REMOVE TACK WELDS
+
+Method of back gounging - TW = TACK WELDS
+
+DIST. TUBO DI CONT. — MATERIALE ) (*) NO PASS THICKER THAN 1/2
+Contact tube to work distance
+
+ELETTR. MULTIPLO O SINGOLO MR | REDATTC
+
+Single or multiple eletirode . .
+DENTRO/FUORI CAMERA GHIUSA A_| Prepared by : D. Bonazzi DATA — Date : 20/01/2011
+CLOSED CHAMBER/ OUT OF CH. -
+
+ 
+
+  
+
+ 
+
+ 
+
+i
+0
+
+ 
+
+|
+|
+ 
+
+ 
+
+M44-MECC-110 Rev.1
+
+SPECIFICA PROCED. DI | WPSRECORD | pg_5-16FpP-01 S | DATA-Date |
+
+J ﬁ?@@g E@“EE&% . SALDATURA NUMBER | 0| 20012011 |
+
+     
+            
+
+Welding Procedure Specification (WPS) WPAR
+EN ISO 15614-01_08_07 Supporting WPAR ARTHTE pWPS  Wient
+PROCEDIMENTO TIPO Manuale -Preparazione giunto
+ISO 857-1 Process o> SMAW Type Manual Joint design MOLATURA — GRINDING
+
+ 
+
+    
+
+Sostegno — Backing: mwm- Materiale Backing material BASEMETAL
+Supporto ~ Retainers: m- TIPO - Type —
+!
+|, —_—
+
+Paosizione cianfrino PA
+Posifion(s) of groove
+
+Progressione saldalura N.A
+Welding progression {up/down i
+
+Posizione angolo
+Position(s) of fillet N.A.
+
+Tipo di Giunto PAD FLANGE
+Joint type SETIN
+
+Giunto fasciame - massello
+
+Lato 1—1/2 V- Lato 2 - Con ripresa
+Pad Flange connection
+
+Side 1 — Bevel groove
+
+Side 2 — Bead type - back reweld
+
+Nome saldatori Sunzone
+Welder's name Stamp
+
+Della Torre Diego “
+
+SPECIFICA TIPO E GRADO
+Specification type and grade
+
+ 
+
+ 
+
+ 
+
+ 
+
+Qualifica N°
+Welder's Approval Test Nr
+
+01202 I/S-11 84241
+
+ 
+
+                   
+
+     
+                  
+
+       
+
+METALLI BASE — Base Metals
+GRUPPO - TR ISO 15608 Group 8 GRUPPO - TR ISO 15608 Group
+
+ASTM A 240 316 - 316L
+ASTM A 312 TP 316 - 316L
+X5 —X2 Cr Ni Mo 17 12 2 EN 10028-7
+
+CAMPI| D] SPESSORE - Thickness range
+
+    
+ 
+
+   
+
+   
+
+ASTMA 479 /182 F /316 - 316L
+X5 - X2 Cr Ni Mo 17 12 2 EN 10028-7 (1.4401 - 1.4404)
+
+    
+
+   
+
+   
+
+ANGOLO Fiilet
+
+ 
+    
+
+   
+
+  
+
+METALLO BASE - Base Metal - mm (in.)
+
+   
+
+SALDATURA DEPOSITATA
+Deposed weld metal - mm (in.)
+
+ 
+
+   
+
+        
+      
+
+    
+
+    
+
+   
+
+cZ Tensione | VELOCITA'
+=% T | Proced.
+
+Es Process Denominazione Travel apeed
+ne SFA Trads rame Voltsange |  (cm/min.)
+
+  
+
+      
+
+INS. CONSUMABILE
+Consumable insert
+
+       
+
+     
+
+DES. COMM. FL. NA.
+
+FLUSSO ELETT. NA
+i Flux trade name
+
+Elect fiuss Class
+PRERISCALDO - Preheat
+TEMP. MIN. PRERISC.
+
+Mamenim.Preriscaldo
+Minimum preheat temperature _ Preheat maintenace
+TEMP. MAX. DI INTERPASS =150 °C
+
+Max interpass temperature || ALTRO - Other
+ELETTRODO DI TUNGSTENO DIAMETRO E TIPO
+Tungsten electrode diameter and
+MODO DI TRASFERIMENTO DEL METALLO PER GMAW
+
+GMAW metal transier mode
+CAMPO D} VELOCITA' DEL FILO COMPOSIZIONE %{MISCELA)
+
+Electrode wire fed speed range % composition (mixture)
+
+TECNICA — Technique oy o
+
+PASSATA LARGA O CORDONI CORDONI | GAS AL ROVESCIO
+Weave or string bead STRING | Backing gas
+
+PULIZIA INIZIALE E INTERPASS MOLATURA - SPAZZOLATURA | GAS AL ROV. PORTATA
+Initial and Interpass cleaning GRINDING - BRUSHING | Backing gas flow rats
+
+PASSATE MULT. O SING. (PER LATO) SINGOLA | COMPOS. GAS TRAINATO
+Multiple or single pass (for side) SINGLEPASS | Tralling gas composition
+
+OSCILLAZIONE
+
+Oscillation
+
+MARTELLATURA
+
+Peaning _
+
+DIAM. ORIFIZIO O COPPA GAS NOTE ~ Notes
+
+Orifice of gas cup size
+REMOVE TACK WELDS
+METODO SOLC. A R(_)VESCIO LA, TW = TACKWELDS
+
+Method of back gounging "
+
+DIST. TUBO DI CONT. - MATERIALE (") NO PASS THICKER THAN 1/2
+
+Contact tube to work distance
+
+ELEITR,I Muﬂpl,lo ?o'leGOL.o RE s
+
+Single or multiole elettrode - i
+DENTRO/FUCRI CAMERA CHIUSA nA. | Prepared by : D. Bonazzi DATA - Date : 20/01/2011
+CLOSED CHAMBER/ OUT OF CH. oo
+
+    
+
+   
+
+        
+
+    
+
+Tempo di permanenza
+Time range (min)
+
+         
+
+ 
+
+        
+
+ 
+
+               
+
+     
+
+     
+
+GAS DI PROTEZIONE
+Shiekding Gas
+
+          
+
+PULSED ARC (135-GMAW)
+
+ 
+
+  
+
+ARGON 88%
+CO22%
+
+           
+
+           
+
+        
+
+          
+
+   
+
+ 
+
+     
+
+ 
+
+ 
+
+e A gt s
+
+ 
+
+Vvt o ey
+
+ 
+
+T
+ 
+ 
+
+M44-MECC-110 Rev.1
+
+INOXTECH SRL
+
+AR et
+
+     
+
+              
+
+       
+
+| Rev | DATA-Date
+
+SPECIFICA PROCED. DI WPS RECORD
+
+                    
+
+E9-6B-17FP-01
+
+               
+
+ 
+
+       
+
+SALDATURA NUMBER | 0 [ 20/01/2011
+
+Welding Procedure Specification (WPS) WPAR i
+
+EN ISO 15614-01_08_D7 Supporting WPAR 28111106 PWPS  WI17/10 ;
+
+PROCEDIMENTO Manuale Preparazione giunto LAV. MECC. - MOLATURA 5
+
+ 
+
+ 
+
+MACHINING - GRINDING
+BASE METAL + WELD METAL
+
+    
+
+ 
+
+Joint design
+Materiale Backing material
+
+TIPO - Type
+
+TR oM Type Manual
+
+N.A.
+
+ISO 857-1 Process
+
+    
+           
+
+     
+                   
+
+1 B A NS 4 g
+
+Posizione cianfrino
+
+Position(s) of groove
+Progressione saldatura
+Welding progression (up/down)
+Posizione angolo
+Position(s) of fillet
+Tipo di Giunto
+
+          
+
+    
+
+e
+
+   
+
+Giunto ad angolo
+
+  
+
+Flliet weld
+
+  
+
+   
+
+    
+
+Qualifica N®
+Welder's Approval Test Nr
+
+Nome saldatori
+Welder's name
+
+     
+
+  
+
+GRUPPO - TR ISO 15608 Group GRUPPO ~ TR I1SO 15608 Group
+
+ASTM A 105 - ASTM A 350 LF2
+P275 NH EN 10028-3 — P355 NH EN 10028-3
+
+P265 GH EN 10222-2
+
+   
+       
+
+ASTM A 240 316 - 316L
+1.4401/1.4404 EN 10028-7
+
+     
+
+     
+
+SPECIFICA TIPO E GRADO
+Specification type and grade
+
+ 
+
+   
+  
+
+      
+   
+
+     
+
+  
+
+          
+
+PROCEDIMENTO - Process | CIANFRINO - Groove mm (*) ANGOLO Fillst
+
+i
+
+   
+
+METALLO BASE - Base Metal - mm (in.)
+
+Altezza di gola (a )
+Throat thickness (a
+
+                        
+
+     
+
+2150 If weld in PA or PC Rotated Position
+2500 for other Posilions
+
+   
+
+CAMPO DIAMETRO TUBO - Pipe diameter range (mm)
+PARAMETRI DI SALDATURA - Welding details
+
+Corrente Current
+
+  
+    
+
+ 
+
+         
+
+          
+
+  
+ 
+
+METALLI D'APPORTO — Filler metals
+
+Proced.
+Process CLASSIFICAZIONE | & Size
+- E“ﬂ CIBSSEfbaﬁon m
+
+VELOCITA!
+Travel speed
+
+Tensione
+
+           
+
+       
+ 
+
+          
+
+ 
+
+ 
+
+Denomunazione | Polarita
+Trade name Polarity
+
+MIG 309LS! DC-sP
+
+Produttore
+Manufacturer
+
+Volt range
+
+Strato
+ayer(s)
+
+ 
+
+        
+  
+         
+
+     
+  
+
+  
+
+ 
+
+   
+
+                
+
+INS. CONSUMABILE
+Consumable insert
+
+DES. COMM. FL.
+Flux trade name
+
+   
+
+FLUSSO ELETT. NA.
+
+Elect fluss Class
+PRERISCALDO - Preheat
+
+Trattamento termico - Post Weld Heat Treatment
+TEMP. MIN. PRERISC. [ 215°C | Mantenim. Preriscaldo | __N.A. | NA Tempo di permanenza
+Preheat maintenace | N.A. | Temperature range (°C) ¢ Time range (min)
+
+Minimum preheat temperature | ] g
+
+TEMP. MAX. DI INTERPASS =150 °C ]
+
+Maxinterpass temperatue_ [~ | ATRO-Oher [ b
+
+ELETTRODO DI TUNGSTENO DIAMETRO E TIPO PROGEDIMENTO
+
+Tomtas e S e | we R | woww [
+MODO DI TRASFERIMENTO DEL METALLO GAS DI PROTEZIONE
+
+GMAW mete] tnster made PULSED ARC (135-GMAW) | gpiniinc Gag LINDE CRONIGON 2 —
+CAMPO DI VELOCITA' DEL FILO COMPOSIZIONE %(MISCELA) ARGON 98%
+
+Electrode wire fed speed range % compasition (mixture)] C0O22%
+
+        
+
+    
+
+  
+
+  
+
+   
+
+     
+
+Campo Temperatura
+
+ 
+
+         
+
+  
+
+              
+                         
+
+         
+
+          
+
+ 
+
+  
+
+                       
+
+                
+
+TECNICA — Technique Howmle
+
+PASSATA LARGA O CORDONI GAS AL ROVESCIO
+Weave or string bead Backing gas
+PULIZIA INIZIALE E INTERPASS MOLATURA - SPAZZOLATURA | GAS AL ROV. PORTATA
+Initial and Iinterpass cleaning GRINDING - BRUSHING | Backing gas tlow rate
+PASSATE MULT. O SING. (PER LATO) MULTIPLE | COMPOS. GAS TRAINATO
+Multiple or single pass (for side) MULTIPASS | Tralling gas compasition
+
+OSCILLAZIONE
+Oscillation
+MARTELLATURA
+Peaning
+DIAM. ORIFIZIO O COPPA GAS
+Orifice of gas cup size
+
+REMOVE TACK WELDS
+METODO SOLC. A ROVESCIO Y TW = TACK WELDS
+
+Method of back gounging .
+DIST. TUBO DI CONT. — MATERIALE () NO PASS THICKER THAN 1/2
+
+Contact tube to work distance
+ELETTR. MULTIPLO O SINGOLO NA
+"~ | REDATTO
+
+Single or muttiple elettrode
+DENTRO/FUORI CAMERA CHIUSA nA. | Prepared by : D. Bonazzi
+
+CLOSED CHAMBER/ QUT OF CH.
+
+    
+
+CORDONI
+STRING
+
+          
+
+     
+
+        
+
+   
+
+      
+         
+
+               
+
+    
+
+NOTE - Notes
+
+      
+
+ 
+
+     
+
+   
+
+   
+
+DATA - Date : 20/01/2011
+
+       
+
+   
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+M44—MECC 110 Rev.1
+
+ 
+
+INOXTECH SRL
+
+ 
+ 
+
+SPECIFICAPROCED. DI | WPS RECORD | £g.55-05EE-00 |Ro_| 2ATA-Dale |
+
+SALDATURA NOMBER | o [osnanmoto]
+
+        
+
+ 
+
+Welding Procedure Specification (WPS) WPAR
+EN ISO 15614-01_08_07 Supporting WPAR 26106307-5 PWPS  WOS5/06
+PROCEDIMENTO Manuale Preparazione giunto LAV, MECC. - MOLATURA
+
+ 
+
+ISO 857-1 Process Manual Joint design MACHINING — GRINDING
+
+Sostegno ~Backing: |Si-Yes | 111SMAW [NO-No | | Materiale Backing material  BASE METAL
+
+Posizione cianfrino
+Position(s) of groove
+
+N.A.
+Pragressione saldatura N.A
+Welding progression (up/down -
+Paosizione angolo PR
+
+Position(s) of fillel
+
+Tipo di Giunto
+Joint type
+
+Giunto ad angolo
+
+i
+i
+i
+i
+i
+£
+£
+|
+L
+:
+i
+I
+'
+i
+b
+i
+i
+
+ 
+
+    
+
+   
+
+    
+
+       
+
+ 
+
+Fillet weld i
+i
+
+Nome saldatori Punzone | Qualifica N° [
+
+Welder's name Stamp Welders Approval Test Nr
+
+01 202 1/S-06 2841-11
+01202 I/S-06 2841-10
+
+Imberti Cristian IC 72
+Della Torre Diego | DTD
+
+      
+           
+
+METALLI BASE - Base Metals
+
+| ] eruUPPO-TRISO 15608 Group 8.1 [A-To [ GRUPPO - TR ISO 15608 Group
+
+SPECIFICA TIPO E GRADO ASTM A 240 316 - 316L ASTM A 105 - ASTM A 350 LF2
+Specification type and grade ASTM A 312 TP 316 — 316L P275 NH EN 10028-3 — P355 NH EN 10028-3
+
+CAMPI DI SPESSORE -
+PROCEDIMENTO - Process | CIANFRINO — Groove mm (“) ANGOLO Fillet
+
+Altezza di gola (a) o
+
+ 
+
+            
+
+ 
+
+       
+     
+
+  
+
+Thickness range
+
+             
+
+        
+
+Corrente Current
+
+  
+ 
+
+VELOCITA'
+
+Travel speed
+(cm/min.)
+
+Tensione
+
+    
+
+     
+
+     
+
+    
+
+g % Proced.
+& & | Process SFA AWS CLASSIFICAZIONE Produttore Denominazione
+= Classifcabon Manufacturer Trade name
+
+T T T T T
+I A A S e s S
+
+FLUSSO ELETT. DES. COMM. FL. INS. CONSUMABILE
+Elect fiuss Class Flux trade name Consumable insert
+
+PRERISCALDO - Preheat Trattamento termico - Post Weld Heat Treatment
+
+15 °C Tempo di permanenza
+TEMP. MAX. DI INTERPASS
+
+I Time range (i)
+175°C
+Max interpass temperature ALTRO
+
+ELETTRODO DI TUNGSTENO DIAMETRO E TIPO
+Tungsten slectrode diameler and type
+MODO DI TRASFERIMENTQ DEL METALLO PER GMAW
+GMAW metal transfer mode
+CAMPO DI VELOCITA® DEL FILO i
+
+Electrode wire fed speed range i
+
+PORTATA FLUSSO . i
+
+i
+
+i
+
+i
+
+1
+
+Volt range
+
+ 
+  
+
+   
+
+    
+
+               
+
+  
+
+  
+     
+
+   
+ 
+
+TEMP. MIN. PRERISC.
+Minimum preheat temperature
+
+       
+
+ 
+
+~Otner N
+
+   
+
+ 
+
+   
+
+    
+
+GAS DI PROTEZIONE
+Shielding Gas
+
+ 
+
+TECNICA - Technique Flow rate
+PASSATA LARGA O CORDONI CORDONI | GAS AL ROVESCIO
+
+Weave or string bead STRING | Backing gas .
+PULIZIA INIZIALE E INTERPASS MOLATURA - SPAZZOLATURA | GAS AL ROV. PORTATA G NA
+iti; i i GRINDING - BRUSHING | Backing gas flow rate - ais
+
+Initial and interpass cleaning
+
+       
+
+      
+
+   
+
+ 
+    
+
+PASSATE MULT. O SING. (PER LATO) MULTIPLE | COMPOS. GAS TRAINATO
+Multiple or single pass (for side) MULTIPASS | Tralling gas compasition -
+Oscillation ol
+
+MAETELLATURA
+Peaning NOTE - Notes
+
+|
+
+i
+
+DIAM. ORIFIZIO O COPPA GAS :
+Orifice of gas cup size i
+METODO SOLC. A ROVESCIO REMO_VE TACK WELDS . :
+Methed of back gounging s A ; TW =TACK WELDS i i
+DIST. TUBO DI CONT. — MATERIALE (") NO PASS THICKER THAN 1/2 ;
+i
+
+t
+
+i
+
+!
+
+i
+
+Contact tube to work distance
+ELETTR. MULTIPLO Q SINGOLO SINGOLO
+
+Single or muttiple elettrode SINGLE | REDATTO ‘ ,
+DENTRO/FUORI CAMERA CHIUSA N | Prepared by : D. Bonazzi DATA - Date : 08/12/2010
+CLOSED CHAMBER/ OUT OF CH. s
+
+ 
+——— CERTIFICATO DI QUALIFICA
+ot bodeme 058 PROCEDURA DI SALDATURA (WPQR)
+
+In accordo al punto 3.4.2 allegato | direttiva 97/23/CE e P ’
+UNI EN 180 15614-1: 2008 SCUOLA SUPERIORE DI SALDATURA
+
+ITALCERT WELDING PROCEDURE APPROVAL RECORD  E CONTROLLO S.R.L. - CALDOGRO VI
+- S.RL
+
+o 312 | 703/EC and standard www.saldaturacontrollo.com
+ccording fo poit annex | direcfive 87/23/EC and standar Yel. 0444 986301
+
+UNI EN ISO 15674-1: 2008
+
+ 
+
+Viale Sarca, 336 - 20126 Milano
+
+Tel. 02 66104876 Fax 02 66101473 Commessa / job T Ne Rev.
+talcart@aloar 1 = wialern.t N° documento delPOrganismo Esaminante: QW 1040 AP 223 0
+Examining body documant No.
+Foglio Sheet 1 diof 3
+
+Nome ed indirizzo del costruttore: TUBISTEEL S.1.l. via Campania, 15 - 36015 SCHIO (Vi-l)
+
+Manufacturer's name and address
+
+Specifica di procedura di saldatura WPS N°: W23/2009 Rev. 0
+
+Manufacturer’s Welding Procedure Specification Reference No. Revision
+
+Codice/Norma di riferimento: UNI EN ISO 15614-1: 2008
+
+Code/Testing standard
+
+Nome ed indirizzo dellEnte Esaminante:  ITALCERT S.R.L. Viale Sarca, 336 - 20126 MILANO (MI-ITALIA)
+Examining body name and adoress
+
+Campo di validita: vedi appendice A foglio 2 Dettagli e dati del procedimento vedi appendice B foglio 3
+Range of epproval See appandix A shest 2 See appendix B sheet 3 for defails and procedure’s dala
+
+RISULTAT! DELLE PROVE Resuts of tests
+TIPO DI PROVA Certificato N°-Rilasciato da TIPO DI PROVA Certificato N°-Rilasciato da
+Type of lests Ceriificate No.- Performed b Type of fests Certificate No.- Performed b
+
+Esame visivo Visual Examination (EN 970) DA355/09 SSSC Radiografia Radiography (EN 1435) N.R.
+Liquidi penetranti Penstrant {EN 571-1) 033/09 SSSC Magnetoscopia Magnelic Particle (EN 1290) N.A.
+Macrografia Macro Examination (EN 1321) 25772 LAB. S. MARCO Ultrasuoni Utirasonic Examination (EN 1714) 0113/09 MC CONTROL
+
+Micrografia Micro Examination (EN 1321) N.R. Altre prove Other Tests N.R.
+
+PROVE DI TRAZIONE Tensile Tests (EN 895) | Certificato N°—Rilasciato da Cerfiicate No - Performed by: 25772 LAB. S. MARCO
+
+Figura N°/Tipo 4. . Requisiti Requirements: _Rm 530 Nimm? Zona di rottura Risultati
+No Pic/ Type Fracture Location Restuilts
+
+21743 Att1 13.8x 25,0 MATERIALE BASE Duttile/Accettabile
+21743 Att2 14,1 x 25,0 MATERIALE BASE Dutlile/Accettabile
+
+| PROVA DI PIEGA Bend Tes! (EN 910) Certificato N°-Rilasciato da Cerificate No - Performed by: 25772 LAB. 8. MARCO
+
+Angolo di piegamento Allungamento Diametro del mandrino (4 t)
+Bend Angle > 180° Elongation Former Diameler
+Accettabile
+
+Accettabile
+Accettabile
+Accettabile
+
+T
+
+21743 A LATERALI
+21743 A LATERALI
+21743 A LATERAL
+21743 A LATERALI
+
+ 
+
+PROVA DI RESILIENZA Impact Test (EN 875) | Certificato N°-Rilasciato da Certfcate No - Performed by:
+
+Tipo di intaglio / Direzione Valore Medio Risultafi
+Noich Location/Direction Average Results
+
+S| CERTIFICA CHE Cerified that
+LA PROCEDURA DI SALDATURA E STATA QUALIFICATA SECONDO IL CODICE / NORMA: UNIEN ISC 15614-1: 2008; UN! EN 13445-4: 2007;
+Weldind procedure compiies with the requirements of Code/Standard:
+
+PROVE ESEGUITE ALLA PRESENZA Di: LIVIO BENOZZATO
+Test carried out in presence of:
+
+   
+   
+
+Data di rilascio
+Dale ol issue
+
+15.07.2009
+
+         
+
+       
+
+Nome e firma del rappre enfante del Costruttore
+Namg and signature of Manufa yrer's rvpresentailve
+
+Nome Nzme TL)biStBeL Sl
+
+Ve i| Firma Signatus5015 SCH \/ Via Campania, 15-Z..
+2 o 02014910240
+
+Nome e firma del rappresentante dell’ Entz mtfxa
+Name and Signafure of Exarmnlng body replese/r@‘
+
+     
+   
+
+   
+
+Nome Name Cav.
+Firma Segnaiure ¥ T
+A
+
+       
+
+MOD. 53 Rev. 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+B et e ad e e e b ey e
+
+e
+
+i
+i
+Organismo Natifcato n° 0426 CERTIFICATO DI QUALIFICA
+g e ot 043¢ PROCEDURA DI SALDATURA (WPQR)
+
+In accordo al punto 3.1.2 allegato ! direttiva 97/23/CE ¢
+UNIEN ISO 15614-1: 2008 SCUOLA SUPERIORE DI SALDATURA
+
+ING PROCEDURE APPROVAL RECORD E CONTROLLO S.R.L. - CALDOGNO VI
+
+T ‘ -E- WELDIN APPR E
+E ALQ E R S.R.L. ; ol - www.saldaturacontrollo.com
+According to point 3.1.2 annex | directive 97/2Y/=C and standard Tel O 986901
+
+UNI EN 1SO 15614-1: 2008
+
+ 
+
+Viale Sarca, 336 - 20126 Milano
+
+Tel. 02 66104876 Fax 02 66101479 Commessaljop T N° Rev.
+alceri@faloertil - wwweiziceiit N° documento dell’Organismo Esaminante: QW 1040 AP 223 0
+Examining body document No.
+APPENDICE A Appendix A: Foglioc Sheet 2 diof 3
+
+Nome ed indirizzo del costruttore: TUBISTEEL S.r.l. via Campania, 15 - 36015 SCHIO (VI-])
+
+Manufaclurer's name and address
+
+Specifica di procedura di saldatura WPS N°:  W23/2009 Rev, G del 17.06.2009
+
+Manuriacfurer's Brazing Procedure Specification Re. No. Revision
+
+Data di esecuzione della saldatura: 17.06.2009
+
+Dale of welding
+
+Campo di validita Range of approval
+
+Variabili Note Valori impiegati nella qualifica Campo di validita della qualifica
+Notes Aclual Values Used in Qualiication Quafiication Range
+
+Variables
+
+  
+
+ 
+
+Procedimento di saldatura - 15 | PLASMA+141/TIG MECCANIZZATO ] 15/ PLASMA+141[TIG MECCANIZZATO
+Welding process
+Tipo dl glunto T-P
+Joint Type BW . FW
+Tipo di materiale base gruppo e sottogruppo * Gruppo: B (7)
+Parent Material Group(s} and Sub Group(s)
+Spessore del materiale base {mm) 7,5-30
+Parent Material Thickness
+Spessore del metallo depositato (mm) 15:3-7.8
+Weld Metal Thickness : 141;:3-16
+Altezza di gola (mm) 15 metallo depositato NESSUNA RESTRIZIONE
+Throat Thickness
+Passata singola o multipla 15: SINGOLA 15: SINGOLA
+Singls Run Mulii Run 141: MULTIPLA i 141: MULTIPLA
+Diametro esterno del tubo (mm) N.A. >150in PA
+Outside Pipe Diamster
+141: EN 12072: 1912 3 LSi 141: EN 12072: 1912 3 LSi !
+
+Tipo di materiale d'apporto
+Filler Material Type
+
+      
+      
+
+141: SIDER 316 LSi- SOGES
+
+ 
+      
+
+ 
+
+i
+Marca del metallo d’apporio l
+Filler Material Make
+
+Dimensione materiale d'apporto
+
+Filler Material Size
+Tipo di gas di protezione/Flusso Orifizio Plasma: Ar 99,99% 1SO14175 11
+
+Shielding Gas /Flux Type 15+141: Ar85%+H25% 1SO14175 R1 15+141: Ar95%+H,5% 15014175 R1
+Tipo di gas di sostegno al rovescio Backing Ges Ar 99,89% 1SO14175 1 Ar 98,89% I1S014175 1
+
+Tipo di corrente di saldatura e polarita DCEN
+
+Type of Welding Cument and Polarit
+
+Mode of Metal Transfer
+
+Apporto termico Heat Input Vedi pag 3 Vedi pag. 3
+
+Posizione di saldatura - TUTTE TRANNE PG E J-L045
+Welding Posilion
+
+Temperatura di preriscaldo Prehsaf Temperature - 15%C “
+Temperatura tra le passate inferpass Temperature <150 °C
+
+Temperatura di post-riscaldo Post— Heating
+
+Tratt. termico / invecchiamento dopo saldatura
+Post-Weld Heal Treaiment / ageing
+
+Altre informazioni / Other information
+
+     
+ 
+
+    
+
+     
+
+Orifizio Plasma: Ar 99,99% I1S014175 |1
+
+         
+
+  
+ 
+
+   
+
+ 
+
+       
+
+1)  Applicabile solo per saldatura ad angolo Only applicable fo fillet weld
+* | gruppi e i sotto gruppi Tab. 3 della norma sono in accordo alla CR 1SO 15608 [ Reference of groups and sub-groups Tab. 3 of norm in according fo CR ISO 15508
+
+ 
+
+Tipo Type Cert. N° Cerf No Colata N° Heat No Rilasciato da Performed by
+Materiale Base: 6073666.R00 462597 OUTOKUMPU
+Materiale D'apporto: 14191,2 302/08 2Y297, SOGES
+1k
+L
+TupiSteel. sri.
+35015 SSRIGHA) ,?Campama 15-Z.).
+CF eP 2014910240
+
+  
+
+bisteelsri.com
+
+ 
+
+ 
+
+ 
+
+e
+
+ 
+
+ 
+ 
+
+   
+
+T CERTIFICATO DI QUALIFICA
+ottty 08¢ PROCEDURA DI SALDATURA (WPQR) 3
+
+In accordo al punto 3.1.2 allegato | direttiva 97/23/ICE &
+UNIEN ISO 15614-1: 2008 SCUOLA SUPERIORE DI SALDATURA
+
+WELDING PROCEDURE APPROVAL RECORD E CONTROLLO S.R.L. - CALDOGNO Vi
+
+E TA L 6 E R? S-R.L. . ;.'::r;zﬁng ;a paint 3. 'l.; annex I;ileclﬁvhe 57/‘243/E'C ;nd .;andard www.saldaturacontrollo.com
+
+Vigle Sarca, 336 - 20126 Milano UNI EN IS0 15614-1- 2008 Tel. 0444 986901
+Tel. 02 66104876 Fax 02 66101479 Commessa/ job T N° Rev.
+
+elcer@italcerit - wiw.talcartit N® documento dell’Organismo Esaminante: QW 1040 AP 223 0
+
+Examining body documeni No.
+APPENDICE BAppendb(oZ Foglio sheet 3 dior 3
+
+ 
+
+52;;‘;‘,‘,:‘;1’;‘;“ di saldatura 15 + 141 MECCANIZZATO Tipo di giunto o Tpe  BW ] TESTA A TESTA Piena Pen. 2 V con spalla.
+
+Sostegno Backing 15:NO 141 Sl . . .
+
+i < Metodo di preparazione e pulizia
+
+‘ gIPkO dLl;atelerlale di sostegno 15:N.A. 141: SALD ATURA Mistioid oF pieparalion 8 Cisaiing TAGLIO PLASMA - SPAZZOLATURA
+ac. mq erial pe ] B ] o -
+
+   
+
+ 
+    
+
+     
+  
+
+  
+
+    
+
+    
+
+Specifica del Materiale Base — Iy o .
+= ks i EN10028714404 (Tp 316L) Gruppo n° Group n 8.1 {CR IS0 15608)
+
+            
+              
+
+Spessore del materiale 15 Altezza cordone di saldatura NA.
+Material Thickness (mm) Throat Thickness (mm) -
+Diametro esterno : . ) L
+
+Outside Diameler (mm) N.A. Posizione di saldatura welding Position PA
+Passata singola, Multipla (per lato) MULTIPLA Modo di trasferimento aMode of Metal Transfer  N.A.
+
+   
+
+| Single pass, Muttiple (per side)
+
+| Unita di saldatura Welding unit SAF NERTINOX TH500 (lmpxanto 1) Plasma matr. 00189LD333
+
+                
+         
+
+ 
+
+  
+
+       
+
+     
+
+       
+
+             
+
+~Veloctta del filo
+
+          
+
+            
+
+                    
+
+            
+
+                             
+
+  
+
+ 
+
+     
+              
+
+[ Processo | Dimensione Mat Tlpo Corrente CORRENTE (A) TENS[ONE (V)> Veloclta di Sald.
+di saldatura d'apporto (mm) e Polarita Current Tension Wire Faed Speed | Trave! Speed (mmimin) | Heatinpul (Kt/imm)
+Size of Filler Mefal | Cuwrent/Polarity (mm/mis V:;\xogfgx
+
+ 
+
+130~ 150
+90-120
+80-120
+70~ 100
+
+EN 12072; 19 12 3 LSi - SIDER 316 LSi - SOGES
+
+250 - 260
+270-280
+270 - 280
+270 - 280
+
+       
+
+1,54-2,24
+1,46~ 2,13
+175274
+
+     
+   
+
+   
+ 
+ 
+ 
+
+ 
+
+ 
+     
+
+b Classlﬂcazlone del matenale o apporto e nome commercxale
+Designafion of we’dmg consumable and trade name
+
+    
+
+ 
+
+" Portata gas
+Gas Flow Rafe
+
+Gas/Fmssd
+Gas/Flux
+
+‘ Plasma Piasma Ar 99,88% ISO 14175 1
+| Protezione Shebing ~ (15-141) Ar95%+Hz5% 1SO 14175 R1 25-30 Imin
+
+| Aggluntivo Trailing NA N.A.
+i Sostegno Backing. Ar99,99% I§O 14_17§ I1 30 Ilmln
+
+         
+
+   
+     
+
+       
+
+| Gradiente di riscaldamento Heating rate {°Clh) N.A.
+| Gradiente di raffreddamento Cooling raie (°Clh)
+
+   
+
+   
+
+     
+
+NA
+
+                     
+                     
+
+{ Diametro v ugeﬂo oceramica o i ° " Oscillazione (larghezza max della passata)
+Orifice or Gas cup Size (mm) 15817 141:8 22 Weawing {maximum widlh of run)
+i Elettrodo di Tungsteno {tipo diam.) Pendolazione: ampiezza, frequenza, tempo sosta . .
+| Tungsien Electrode Type/Size EN ISO 6848 Wih20 @4,8 mm Oscllizfion: ampliude, flEqUEI;C}/, dwell ime A1-A2:3,3 T1-T2: 25
+Dettagli sulla solcatura NA Dettagli delle tecniche ad impulsi NA
+Delails of Back Gouging . o Pulse Welding Details i
+Temperatura di preriscaldo 15°C Distanza libera filo
+Distance conlact tube ~ work piece
+
+  
+
+Preheat Temperature
+
+Temperatura tra le passate 150°C
+Interpass Temperature
+
+Dettagli della sald. al plasma
+| Plasma welding details - ARCO TRASFERITO A Keyhole T'e of lcth L
+| Foro Plasma Orifice gas body {mm) @ 3,0 Divergente Altre informazioni Dker mlormanons
+
+ 
+
+Angolazione della torcia
+Torch angie
+
+Tipo di torciz t
+
+     
+
+   
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+H{DYVI Va mpania,
+360155(: @( x 14910240
+
+.com
+
+ 
+
+e A A oo s
+
+  
+
+i
+i
+i
+i
+i
+i
+i
+!
+
+ 
+
+i
+
+s
+
+N —
+
+   
+
+[
+
+  
+   
+
+10090
+
+ 
+
+. 28106307-2
+
+‘Qualifica Procedura di Saldatura WPAR A
+
+Welding Procedure Approval Record =
+EE ENISO 15614-1 1 ENISO 15614-7 [J ENISO 15614-8 O TUV TOV Rueinland Group
+
+     
+
+Numero di riferimento della procedura di saldatura
+
+del costruttore ( pWPS ) Wo02/06 WPAR Nr. 281 06307“2
+
+Manufacturer's welding procedure reference
+
+ 
+
+Costruttore : Esaminatore o Ente
+
+Manufacturer Name:
+
+        
+
+      
+
+     
+
+  
+
+INOXTECH
+
+    
+
+N. di identif, del'Esaminatore o Ente esaminante
+
+Via alle Cave , 6
+Examiner or tesi body reference No.
+
+I - 24020 PEIA (BG) - Italy
+
+    
+
+Procetlimento di saldatura
+Welding process ’
+Tipo di giunto
+Joint Tipe
+Gruppo(i) di metalli base
+Parent metal group(s)
+Spessore del saggio di prova
+Tost pieca thickness _(mm)
+Diametro esterno del tubo
+Pipe outside diameter {mm)
+Spessore materiale depositato
+Weld Metal thickness  (mm)
+Spessore materiale per Giunt angolo
+Metal thicknsss for fillet weld  (mm)
+Altezza di gola - "a"
+Throat thickness “a” (mm)
+Passo - Distanza tra | tubi
+Picth Type - Distance beiween Pipes 5 R - RS AC BT
+Metalio d'apporto: AWS 5.9 ER316L / . 15/ |  SameClassification f Impact Test s
+Tipo/Designazione EN 12072 : W 18 123 L | EN1600: 19 12 3LR12 required [ If Impact Test is required, the same
+
+o i Filler Metals used in WPQR
+Filler metal Type/designation HAINEK 316LTIG | ETCPHRS316L shalt ba tsed
+Gasdlprotazlone
+
+Shielding gases
+
+Tipo di corrente di saldatura
+Tipe of welding current
+Posizione di saldatura
+Welding posifion -
+
+PA .
+Preriscaldo 5 o
+Interpass ,, .
+: 1
+Trattamento termico Temperature | Time ° HeatingR. | CoolingR.
+
+'
+i
+
+i ees @ cee i .
+3 : i
+
+1,05 Kd/mm
+
+                      
+
+  
+        
+
+              
+    
+
+    
+
+ASTM A312 Tp316L +
+
+Thk.3,0 = 15,3 mm
+
+ 
+
+       
+
+        
+
+  
+
+ThkA4,75+50mm ; Thk3,0+10,2mm
+
+ 
+
+ 
+
+ 
+
+   
+         
+
+                
+  
+
+     
+
+         
+   
+
+        
+
+        
+
+ 
+
+               
+
+ 
+
+      
+
+DC REVERSE
+
+       
+
+    
+
+L045
+
+ 
+
+    
+  
+
+  
+
+Temperature] Time | Heating
+
+         
+
+ 
+             
+
+ 
+
+     
+
+        
+
+      
+
+'0,53 KJ/min
+
+(&) Cover the equal or lover spacifisd yéld strenght steel of same group
+
+(b) Cover stegl in same sub-group and any lower sub-group within the same gmub"
+(c) For groups 41 1o 48, a procedure test carried out with a sofid solution or precipitaion herdenable alloy in & group covers alf sofid solution or precipitation hardenable alloy
+
+respectively in the same group
+
+       
+
+   
+
+         
+
+     
+
+  
+ 
+
+Altre informazioni - lTestseguitoda
+Other information Test Conduced by |
+
+Si certifica che | sapai di prova sono stati preparati, saldati e controllatl con esito soddisfacente In'confonnﬂé ai requisiti del codice/norma di prova
+
+data}
+! 15.11.20
+date! 11,2006
+
+ 
+
+1) pWps Nri  Wo2i08
+
+TECHNOLOGICAL LAB.
+
+      
+
+    
+    
+
+sopra indicata.
+
+Pogliano M.se(Mi) 15.11.2006
+
+TOV tndustrie Service GmbH, Am Grauen Stein, 51105 Kain, Tel. ++49-221/806-0, Fax +~+48-221/806-1354, e-mail: tuevat@de.tuv.
+
+ 
+
+Paginz 1 di 30
+
+  
+
+AT ety s
+
+i
+i
+
+ 
+
+T Lt s
+Qualifica Procedura di Saldatura WPAR é |
+
+Welding Procedure Approval Record —
+&8 ENISO 15614-1 1 ENISO 15614-7 [C] ENISO 15614-8 O . F UV
+
+A et o
+
+TUV Rheinland Group
+
+.|Numero di riferimento della procedura di saldatura . ) ‘
+-{del costruttore ( pWPS ) : W05/06 g A 281 06307'5
+
+Manufacturer's welding procedure reference
+
+        
+                     
+
+    
+
+Esaminatore o Ente
+Inspection Agency
+
+      
+
+    
+
+TOV Industrie Service GmbH
+
+    
+
+Costruttore :
+Manufacturer Name:
+
+INOXTECH
+
+        
+
+ 
+
+N. di identif. dell’'Esaminatore o Ente esaminante
+Examiner or fest body reference No.
+
+Via alle Cave, 6
+I - 24020 PEIA (BG) - ltaly
+
+Indirizzo:
+Address
+
+   
+
+  
+    
+
+)
+
+ 
+
++
+i
+
+rocedxmento di- saldatura
+We!dmg process
+Tipo di giunto
+Joint Tipe ;
+Grappo(i) di metalli base ASTM A312 Tp316L +
+Parent metal group(s) ASTM A106 Gr.B
+Spes_s'oreAde'l saggio di prova Thk. 7,62 mm
+Test piece thickness ~ (mm)
+Diametro esterno del tubo
+Pipe outside diameter (mm)
+Spessore materiale depositato
+Weld Metal thickness  (mm)
+Spessore materiale per Giunti angolo
+Metal thickness for fillet weld  (mm)
+Altezza di gola - "a"
+Throat thickness "a" (mm)
+Passo - Distanza tra i tubi
+Picth Type - Distance between Pipes
+Metallo d’apporto:
+Tipo/Designazione
+
+   
+
+         
+
+111 SMAW 141 GTAW 111 SMAW
+
+            
+ 
+
+BW + FW+ Branch conn. with angle = 60°
+
+     
+
+   
+
+Gruppo 1{(a)-1 saldato con
+gruppo 8(c)-8
+
+Thk.3,0 + 15,3 mm
+
+ 
+  
+
+   
+
+      
+   
+
+@ 88,9 mm : > 044,45 mm i
+
+       
+
+                  
+
+ 
+
+BiEsraeE 5
+IS SO
+
+            
+
+   
+
+             
+
+                
+
+          
+
+Same Classification it Impact Test Is not
+required / If impact Test is required, the same
+Filler Metals used in WPQR
+
+shall be_us d
+Shielding & Backing: :
+(AIEN439 | gases Ermiiomresiiie
+
+AWS5.9ER309L/ ~ AWS 5.4 E309L-16/
+EN12072:W 2312 L/i EN1600:23 12L R22
+NARDUCC! 309L ETC PH RS 309L
+
+Shielding & Backing:
+ARGON 99,98%
+
+DC STRAIGHT
+
+   
+
+Filler metal Type/designation
+
+       
+
+     
+
+           
+
+Gas di protezione
+Shielding gases
+Tipo.di corrente di saldatura
+Tipe of welding current
+Posizione di saldatura
+Welding position
+Preriscaldo
+Preheat
+Interpass
+Interpass
+Trattamento termico
+Heat Treatment
+
+ 
+        
+
+  
+
+   
+
+ 
+
+            
+
+0,54 KJ/mm 1,15 KJimm
+
+(a) Cover the equal or lover specified yeld strenght steel of same group i
+
+{b) Cover steel in same sub-group and any lower sub-group within the same group
+(c) For groups 41 to 48, a procedure test carried out with a solid solution or precipitation herdenable alloy in a group covers ali solid solution or precipitation hardenable alloy
+
+respectively in the same group
+
+ 
+
+Tést ESeéunto da
+
+Altre informazioni " i
+1) pWps Nr. W05/06 Test Conduced by ; . A1
+
+Other information
+Si certifica che i saggi di prova sono stati preparati, saldati e controllati con esito soddisfacente in conformita ai requisiti del codice/norma di prova
+
+ 
+
+i
+sopra indicato. i
+i
+
+s |
+Luogo/location- Pata di emissione/date of issugl ~ Esaminatore o Ente Esam./Exsaminer or test body aifti'ébtem‘r@a/n)a&me and signature H
+
+ 
+
+: . RN ) 5
+Pogliano M.se(MI) 24.11.2008 ) TUV Industrie Service GmbH - ‘ U iRl 9 i
+
+ 
+O€ I TT eulfeq
+
+ 
+
+ 
+
+ 
+
+g
+
+ 
+
+ 
+
+i
+i
+{
+)
+i
+
+ 
+
+ 
+
+s s
+
+ 
+
+A e AT 4 A AR ] (] 1A I £ 15 e Ry
+: Y iy
+
+ 
+    
+  
+
+i Qualifica Procedura di Saldatura WPAR 2%
+Welding Procedure Approval Record e
+
+ENISO 156141 []ENISO 156147 [JENISO 156148  E& AD 2000 HP 2/1 TUVY
+
+28111105
+
+   
+
+TOV Rheinland Group
+
+      
+   
+
+merodi riferimento delld procedurs di saldatura
+| costruttore ( pWPS )
+Manufacturer's welding procedure reference
+
+  
+
+   
+           
+
+     
+
+              
+    
+
+Esaminatore o Ente
+Inspactiori Agency
+
+    
+    
+
+Costruttore :
+
+o e Name: TUV Rheinland industrie Service GmbH
+
+INOXTECH
+
+Via allé 'Cave , 8
+| - 24020 PEIA (BG) - Ital
+
+    
+
+N. di identif. del’Esaminatore o Ente esaminante
+Examiner or test body reference No.
+
+141 GTAW 135 GMAW
+
+BW +FW
+
+  
+
+   
+
+       
+
+Procedimento di saldatura
+
+Welding process
+Tipo di giunto
+Joint Tipe.
+Gruppo(i) di metalli base
+TParent metal gioip(s)
+Spessore del saggio di prova
+Test piece thickness  {mm)
+“*ametro esterno del tubo
+outside diameter (mm,
+Spessore materiale depositato
+Weld Metal thickness _(mm)
+Spessore materiale per Giuntiangolo PR 0
+Metal thickness for fillet weld  (mm) - T
+Altezza di gola - “s” T "“'""f';'__'_'_ _\"'
+Throat thickness "a" {mm) L
+Passo - Distanza tra i tubi
+Picth Type - Distance between Pipes
+Metallo d'apporto:
+TipolDeslgnazione
+Filler metal Type/designation
+Gas di protezione
+'Shielding gases
+Tipo di corrente di saldatura
+Tipe of welding current
+Poslzsone di saldatura
+
+       
+
+ 
+
+ 
+
+ASTM A240 TP316 / TP316L
+
+EN10028-7 W.Nr.1.4401 / 1.4404 8(c)-8
+
+ 
+
+Thk.15,0 = 60,0 mm
+
+> 150 if weld in PA or PC Rotated Position
+> 500 for other Position
+
+         
+
+ 
+
+                         
+
+                         
+    
+
+             
+
+                      
+
+Same Classification if Impact Test is not required
+If Impact Test is required, the same Filler Metals
+used In WPQR shall be used
+
+Shielding & Backing: Shielding:
+EN-ISO 14175 -1 EN-ISC 14175 - M12
+
+DC DC - PULSED '
+STRAIGHT REVERSE
+
+PA . all Position Except PG and J~
+We!:fmgposmon St cept PG and J-L045
+lntarpass e e
+Interpass
+
+Trattamefito termico | Temperature | Time | HeatingR | CaolngR |Temperature
+Heat Treéiment ﬂ—_—_——
+
+Max 1,49 Kdimm Max 0,60 Kd/mm +25%
+
+a} Cover the equal or lover spacified ysld strenght steel of same group
+5) Cover stea! in same sub-group and any lower sub-group wﬂhm the same group
+
+AWS A5.9 ER316LSi
+MEGA WELD
+Megafil Inox 316LSi
+Shielding:
+Ar/C0O, 9812%
+- DC - PULSED
+REVERSE
+
+AWS A5.9 ER316L
+EN12072: 19.12.3L
+NARDUCCI TIG ER316L
+
+Shielding & Backing:
+PURE ARGON
+
+         
+
+        
+
+ 
+
+  
+
+   
+
+     
+
+ 
+         
+
+Test eseguito da IRTEC - Istifuto Ricerche |data
+
+ 
+
+Altre informazioni
+
+: 18.01.201
+Other information 1
+Si cerhﬁca che i saggi di prova sono stat! preparati, saldati ¢ controllati con esito soddisfacente in conformit3 ai requisiti del codi A&os“gédn 2,
+
+sopra indicato. & N\
+Ceriifled that test welds prepared, welded and tested satisfactorily in accordance with requirements of the codeftesting standard indicated 'abov , il "‘ “g
+
+ 
+
+Test Conduced by Tecnologiche e Collaudi date
+
+ 
+
+   
+
+‘Data di emissione / Esaminatore o Ente Esaminatore /
+date of issue Examiner or test body
+
+B v
+
+R AN PR R i e et e b
+l
+
+      
+
+   
+
+Qualifica Procedura di Saldatura WPAR
+Welding Procedure Approval Record
+[3 ENISO 156147 {1 ENISO 15614-8 B2 AD 2000 HP 2/1
+
+ 
+
+-E-UV TOV Rheinland Group i
+28111106
+
+   
+ 
+
+ENISO 156141
+
+ 
+
+i riferiihéﬁt‘o;&euaipraceduré di saldatura
+
+         
+
+£
+i
+{
+i
+;
+!
+
+   
+
+Esaminatore o Ente
+Inspection Agency
+
+       
+
+TUV Rheinland Industrie Service GmbH
+
+ 
+
+   
+
+N. di identif. dell'Esaminatore o Ente esaminante
+Examiner or test body reference No.
+
+Via alle Caife . B
+24020 PEIA (BG) - ltal
+
+  
+
+     
+
+s e 44 b e famt s
+
+ 
+
+135 GMAW
+
+ 
+
+141 GTAW
+
+BW on PLATE
+
+- ASTM A240 TP316 ] TP316L Metal group 1(a)-1 welded to
+) EN10028-3 P355NH Metal group 8 c)-B
+Spessore-del.sagglo di prova
+
+!
+: Thk.30,0 mm Thk.15,0 = 60,
+S e o e ] s0+s00mm
+“ametro estemo del tubo > 150 if weld in PA or PC Rotated Position
+utside diameter (mm) > 500 for other Position
+Spessore materialé depositato Thic5,0 mm Thk.25,0 mm m 12,5+ 50,0 mm
+Weld.Metal th!ckness (mm} - _ !
+S;?%sore matgnale per Giunti angolo : ______ >5,0mm
+Mefal ihxckness for fillet weld _(mm) B g
+Thiroat th:ckness "a" (mm) . o ) |
+
+{Passo - Dlstanza tra i tubl
+Picth Type - Distance bétwee
+
+Metallo d'apparto:
+Tipo/Designazione
+
+        
+
+   
+
+     
+
+   
+
+    
+  
+ 
+
+    
+
+ 
+
+              
+
+                              
+
+                    
+
+                    
+
+n Pipes
+
+  
+
+                           
+
+      
+
+      
+
+       
+
+    
+
+            
+
+Gas di protezione
+Shielding gaéw
+T‘pd di corrente di saldatura
+17 Jpe of weldmg current .
+
+            
+
+        
+
+ 
+
+   
+
+Same Classification if Impact Test is not required /
+NARDUCCI TIGRW 309L | NARDUCCI MIG 309LSi
+Shielding & Backing: } Shielding:
+DC DC - PULSED
+STRAIGHT REVERSE STRAIGHT REVERSE
+150°C <150°C =
+
+AWS A5.9 ER309L | AWS A5.9 ER309LSI
+If Impact Test is required, the same Filler Metals
+Shielding & Backing: Shielding:
+EN-ISO 14175 . | EN-ISO 14175 - M12
+mmmmm HeatingR. | CoolingR.
+|
+i
+i a) ‘Cover the equal or lover spectﬁed yeld strenght steel of same group
+
+EN12072: 23.12L EN14343: G 23.12LSi
+used in WPQR shall be used
+PURE ARGON Ar/CO, 98/2%
+DC DC- PULSED
+b)-"-Covers!aeI,Amesame 'sub-gmup and any lower ‘sub- gmup thhm the same group
+
+ 
+
+          
+
+   
+
+      
+
+IRTEC - Istituto Ricerche
+Tecnologiche e Collaudi
+
+Test eseguito da
+Test Conduced by
+
+        
+   
+
+Altre informazioni
+Ob‘zerinfozméﬁon
+
+  
+
+. @
+%
+=81
+o
+=
+[l
+?.'7.
+«.
+e
+g
+©
+o
+»
+0
+o
+=2
+o
+w
+&
+o
+9
+g
+E!‘
+Ul
+B
+[+ %
+Y
+[=
+o
+0
+Q.
+=1
+o
+2
+s
+O
+o
+=
+&
+&
+0
+2
+a;
+&
+O
+(14
+=
+&
+5
+a1
+3
+3
+&
+»,
+a
+£
+S
+0n
+F
+a,
+&
+Q
+&
+&
+=3
+o
+;
+:CE
+=
+@
+oy
+X
+
+       
+
+    
+
+      
+
+ 
+
+     
+
+Luo"gbl Data di emissione/ Eszminatore o Ente Esaminatore /
+location date of issue Examiner or fest body
+¥ Pogﬁénoimé(m) 18.01.2011 |
+i
+
+TUV Rhemland Industrie Semce GmbH, Am Grauen Stein, 51105 Koln, Tel. ++49-221/806-0, Fax ++48-221/806-1354, e-mail: tuevat@de tuv. com
+
+ 
+

@@ -105,7 +105,7 @@ def unit_test(rootDir, testcase_path, out_file):
 
 
 if __name__ == '__main__':
-    rootDir = '../docs_txt'
+    rootDir = 'docs_txt'
     testcase_file = 'test_queries.txt'
     eval_out = 'eval.txt'
 

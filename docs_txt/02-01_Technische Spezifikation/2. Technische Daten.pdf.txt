@@ -1,0 +1,159 @@
+2 Technische Daten
+
+2.1 Allgemein
+
+2.2 Elektrische Daten
+
+2.2.1 Schnecken/-Paddelan-
+trieb
+
+2.2.2 Vibromotor
+
+2.3 EX-Schutz
+
+02_Technische_Daten.fm
+
+Allgemein
+
+      
+
+  
+
+Bezeichnung: Ultraschall-Rotationssiebmaschine
+
+_ SONIC SPEED SCREEN WS4-0-0Z
+Typ Nr.: WS4-0-0ZS
+
+Abmessungen: 1379 (1679) x 760 x 1714 mm
+
+LxBxH
+250 kg
+Einlaufrohr NW 150
+
+Gerausch- <70dBp)
+
+emission
+M 400 V AC/ 50 Hz/ 3Ph
+
+Maximale Vorsi- 20 A
+
+cherung
+
+Leistungs- 3 kVA
+
+aufnahme
+
+Regelung Frequenzumrichter
+Steuerspannung: 24V DC
+
+  
+
+     
+
+  
+
+            
+
+  
+
+ 
+  
+
+   
+
+ 
+
+Leistung: 0,74 kW
+
+   
+
+Die Maschine ist ATEX-ready: Zur Einstufung und ggf. weite-
+rer MaBnahmen setzen Sie sich bitte mit
+assonic MECHATRONCS GmbH in Verbindung.
+
+2-1
+Technische Daten
+
+2.4
+
+2.5
+
+2-2
+
+Siebkapazitat
+
+Digital-Ultraschal-
+leinheit:
+
+Die Siebkapazitat hangt von der GréRe und der Art des Pul-
+vers ab. Sie muss fir ein bestimmtes Pulver durch Versuch
+bestimmt werden.
+
+Siebkorbbespannung (in Edelstahl 1.44404): wahlweise
+
+e 20 pm,
+
+e 25 um,
+
+e 40 um,
+
+e 45 pum,
+
+e 63 um,
+
+* 90 um,
+
+« 100 ym,
+
+120 um,
+
+e 150 um
+
+300 um
+
+450 um
+
+« 500 ym
+
+« 1.000 pm
+
+DGS
+
+Max. Ultraschallleistung: m
+
+Ausgangsfrequenz: 30 kHz- 38 kHz
+(Frequenz ist variabel)
+
+Konverter: ATEX-zertifiziert,
+IP 65, (C35 SD5)
+HF-Kabel: 5 m und Military-Stecker
+optional:
+bis 15m mit Military-Stecker
+
+ 
+
+02_Technische_Daten.fm
+Linear-Klopfer
+
+2.6 Linear-Klopfer
+
+OLl, K15
+Pneumatischer Linear-
+schwinger
+
+Luft:
+
+Druck 2 bis 6 bar
+: gefiltert
+
+Art:
+
+ 
+
+02_Technische_Daten.fm 2-3
+Technische Daten
+
+2-4
+
+02_Technische_Daten.fm
+

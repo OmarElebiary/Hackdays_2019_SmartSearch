@@ -1,0 +1,14 @@
+Mechanische Dokumentation
+
+10.3 Mechanische Dokumentation
+In diesem Kapitel befindet sich die mechanische Dokumenta-
+tion
+« Ubersichtszeichnung der Maschine
+Gibt einen allgemeinen Uberblick Uber die Maschine
+
+* Montagelochbild
+gibt Information zur fachgerechten Aufstellung des
+Maschinengestells.
+
+10_Anhang.fm 10
+

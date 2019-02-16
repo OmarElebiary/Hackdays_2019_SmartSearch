@@ -1,0 +1,433 @@
+Stiick- und Ersatzzteilliste
+
+ 
+ 
+
+Erstellung:__[23.05:2012
+Rev.01  [31.10.2012
+Rev.02 | 1 ]
+
+ 
+       
+   
+   
+    
+ 
+  
+   
+
+% assonic
+
+Zeichnungsnummer: WS4-0-0Z
+
+assonic Mechatronic GmbH Benennung: Sonic Speed Screen Rev.o3 [ [ |
+Kippdorfstr 6-24 Rev.o4a | | |
+
+42857 Remscheid
+Deutschland
+
+Revos | | |
+Revos [ [ |
+
+ 
+ 
+  
+ 
+
+       
+  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+     
+ 
+
+2 ] [ws3.0ss Gehéuse/Case WS3-0-225
+
+  
+
+ 
+
+3 [ |wssoass Trichter/Funnel
+4 [ |wssoars Abdeckung
+s [ qwsses  fschamier lassonic  |ws3os | 1 |
+6 | [ws30ez5
+7 T ® wssoz  lsensorUnterlage  fasonic  [ws307 | 12 |
+s [ lwssoss e lasonic  [ws3o8zs [ 1 |
+s | & |wsoozs lpaddewerk  fassonic  [ws3oozs | 1 |
+0 | wssodozs " keilriemenabdeckung  lassomic  |wssodozs | 1 |
+| & wssotazs " stuscheibe lassomic  [ws3odazs | 1 |
+13 | wssoaszs liagerabdeckung  lasonic  [wszoa3zs | 1 |
+1 | lwssoaazss " lsperrluftgehdusequs)  lassonic  [ws30-14zs | 1 |
+[ s [ qwssoas |sensorwinkel
+1 | lwssoue  Waer  fassonic |wsso16 [ 1 |
+v [ wssoar  lvuranschlag  lassonic  [ws3.017 | 1 |
+18 | lwss018 |Aufnahmeplatte
+19 | lwssoa9 lAbdeckbleeh  fassonic  [ws019 [ 3 |
+20 | € wssoo;zs  fsieb  lassomic  |wss02725 | 1 |
+21 WS3-0-9 Einscheibensicherheitsglas, 6mmm, klar, assonic WS3-0-9 1
+|22 | [ws3012
+23 [ fwssos " lerdungfeder  fasonic  [ws3023 | 2 |
+Schlauchdichtung (Trichter)
+Schlauchdichtung (Auszug)
+2% [ qwssox  lAamsh __ lassonic  [wsso1x | 1 |
+2 [ qwssom Aamsh  lassonic  [wssoa1 | 1 |
+28 [ & qwssos lewegerstab __  lassonic  [ws303 | 2 |
+| 29 [ Jwsso4 0 |schamier
+
+     
+
+WS4-0-0Z Stiickliste 121101 .xIsx
+Stiick- und Ersatzzteilliste
+
+%% assonic Ersteiiung:[73.05.2012
+Rev.01  [31.10.2012
+Zeichnungsnummer: WS4-0-0Z Rev.02 | [ 1]
+
+assonic Mechatronic GmbH Benennung: Sonic Speed Screen Rev.03 [ | ]
+Kippdortls .24 Revos [
+42857 Remscheid Rev.os [ | |
+Deutschland Revos [ 1 |
+
+nummer
+
+30 ] 0 |ws306 Unterlage WS3-06 3
+
+s [ wsesws  fgedmse®  fwenc wsoson | 1|
+200 | v woayieo  [BordeldichtringDN120  [Noro [ 1232 [ 1 |
+201 |  |Montageplatte1568700  [enewmatk  [Rwal [ [ 1 |
+202 | [einschraubwinkel12-61/2" [kaquaoss  Isve [ 135 [ 1 |
+| 203 |  |stopfent/g"Viekan: [ 0000000000000 |vea [ [ 1 |
+| 204 | v Jioosé0  |BbrdeldichtringDNi7SKeltan  [noko [ [ 2 |
+205 | [Horizontal-Spanner GN820-75-M-NI__ [incl. Andrilckschraube GN8O7-MS-NI__ leanter | | 3 |
+| 206 | e fwoososer  sackschnale  laob | T 1 |
+207 C
+
+SPJS100-E Lenkrolle Misumi
+Verschluss-Spanner GN851-320-T2-NI
+Stopfen 3/8" Vierkant
+Einschieberohr 1213009
+1213052
+Gerdtesteckdose
+
+anometer 40mm 1/8"
+
+/2Wege Magnetventil G1/8" T307-5DZ-01-Q
+
+iiterregler mit Manometer AwaoFosge 0000000000000 fsmc 00 ] 1534 | 1 |
+
+GehéuseRittal1530-000  [Pewmatk 0000000000000 Rl | 0000|001 |
+
+GehsuseRittal 1529000  elekeo 0000000000000 Rttal [ 0000|001 |
+
+TSteckverbinderos  lkamesoo 0000000000000 fsmc 0| 1ss9 | 2 |
+v waer 000000000000 |ourchfihrungstile 0000000000000 coned | 000000 4 |
+Schanier 63000770-AC-H-5400 000000 lewe [ 0] 3 |
+O-Ring 62¢1,5 NeR 0 000000000owe [ 0000} 1 |
+Lagereinheit 6006 BGRROO6zz 0 0000000000 fmismi [ 000 ] 1 |
+Lagereinheit 6006 2 fach BGRR6006zz80 0 00 IMiswmi | ] 1 |
+erade Reduktion 06-12 karos12 0000000000000 fsmc ] 1ss1 | 1 |
+pannring1233162 spannringoNi20 00000000 fnoro ] 000000 | 2 |
+ingdichtung DN120 NBR 1207911 Ringdichtung  voro | 00| 1 |
+eilrienenscheibe T8Z0071-02-1108-EE12 00000000000 lews | 00000 1 |
+aperbuchse 1108-024-EE21 0000 feks ] 000001 1 ]
+
+ 
+
+P Ww
+
+O L Y N Y
+
+208
+209
+21
+211
+212
+213
+214
+215
+216
+217
+218
+22|
+221
+222
+223
+224
+225
+226
+227
+228
+229
+
+o
+
+730472002|Viega
+
+o
+
+=500mm 11121120, L=1000mm 11121110
+nschlussstutzen DN120
+
+=z
+o
+o
+o
+
+g5 ¢
+
+o 3
+
+o o
+
+@
+HIIHIH
+
+=[x
+N
+@
+<
+O
+
+co
+
+-10-40
+
+<
+o
+
+w
+
+<
+=
+
+m
+=
+
+|-
+
+o
+w
+
+<
+=
+
+e -
+
+N
+
+N
+
+=
+
+=
+
+ 
+
+=
+-
+
+W54-0-07 Stiickliste 121101 .xlsx
+Stiick- und Ersatzzteilliste
+
+       
+   
+
+ 
+ 
+
+Erstellung: __[23.05.2012
+Rev.01  [31.10.2012
+
+%% assonic
+
+Zeichnungsnummer: WS4-0-0Z
+assonic Mechatronic GmbH Benennung: Sonic Speed Screen
+
+Kippdorfstr 6-24
+42857 Remscheid
+Deutschland
+
+ET/ VT BESCHREIBUNG Bastall m
+nummer
+
+230 Gerade Kupplung 06 QNO06-99
+
+23 Welle_EEWM-30_L=750
+
+232 Fueller_1030-05 ca.1350mm
+
+233 Klemmprofil_1030-03 ca. 1350mm Emka | 1 1 ]
+234 StoRdaempfer mit Befestigung_MC75M-3+UM12 —_
+235 Bogensegment 30 Grad DN150 11523020 M
+236 drdeldichtring DN 150 15627160 - INoRo ] 1]
+237 erschluss-Spanner_GN851-160-T2 NI - feenter [ ] 2]
+238 ellendichtring 30x40x7 Wellendichtring  feev [ | 4 |
+
+239 eilriemen SPZ01280-ED15-XPZ Keilriemen,Fa Fenner ERIKS 1 2 ]
+
+240 raverse_beweglich_TA-30
+24 uadrolager_RQA-01-30
+
+242 5333162 Spannring DN 150
+243 i
+
+icherheits-Betitiger EX-BPS250-3G-D stollenwerk | [ 3 ]
+244 icherheits-Sensor [EX-BNS250127-2187-36D  Istollenwerk [ | 3 |
+245 [ |winkelEinsteckverbinders2 ka2  fsmc | 1536 [ 2 |
+246 |  Jaas040  Rebr 0 Iwro | [ 1 |
+
+247 MVE100-3 Unwuchtmotor oLl
+3 Ph, 230/ 400V, 50Hz, 0,74 kW, 0,16 A, GroRe 10, ATEX
+ExII3D 100°C, IP66
+
+| 249 | |einschraubwinkel 06-1/8" KQLO6-01S 1569
+
+| 250 | [|Taperbuchse 1610-030-EE21 - OO eRKs ]
+
+| 251 [  [Keilriemenscheibe TBZ0140-02-1610 EE12 000000000 |eris I
+EW
+
+252 Drehstrommotor Drehstrommotor S
+EDRE9OMA4/FF/3GD/KCC/TF/AL/VE
+50 Hz, 1420 1/min, 1,1 kW, 4,45/ 2,55 A
+—TF_lI3G Ex nA IICT3 Gc
+
+253 | @ schamieraosevo 0000000000000\ 00000000000 lemka [ 0000 2 |
+| 25 | e [Druckuftkopferkss 0 000000000 Jou 0} 000000 1 |
+[ 257 | [schottSteckverbinder6mm  Jkaeso0 0 Jsmc ] 158 | 2 |
+| 258 |  [schalldsmpferc/e" 0 fawsoos 0 fmc [ 1532 | 1 |
+
+=
+=
+
+— |
+v ||
+®
+o
+HHIH
+
+=
+
+|
+=
+
+N
+
+<
+
+NS
+
+H
+
+-
+
+m
+
+wv
+RIN (W
+
+-
+
+IH
+
+=
+
+ 
+
+WS4-0-0Z Stiickliste 121101 .xIsx
+Stiick- und Ersatzzteilliste
+
+    
+      
+   
+  
+
+     
+
+L8 . [ [patum _ [Name |
+s assonlc Erstellung: 23.05.2012
+31.10.2012
+
+Zeichnungsnummer: \WS4-0-0Z
+assonic Mechatronic GmbH Benennung: Sonic Speed Screen
+
+Kippdorfstr 6-24
+42857 Remscheid
+Deutschland
+
+ 
+  
+    
+
+ 
+
+    
+
+T [ [ v [ oo | oo | S [
+nummer
+| 259 | |schott-Steckverbinder 12mm smc
+| 260 | [Einschraubwinkel 12-G3/8" smc
+| 261 | |GeradeVerschraubumg6-1/8" ___ |kaWosots  Ismc [ 1a13 | 3 |
+| 263 | E  |DruckschalterG/s"  [swoot6L  |smc
+|24 | e |oruckregler  [aeo-fFo8  |smc
+| 265 | E [3/2Wege Magnetventil G3/8" smc
+| 267 | € |Drosselriickschlagventiios _____ [As001F-063  |smc
+268 | [rsStickm. Einschraubgew.123/8"  fkavieoss 0 |smc
+
+  
+
+WS4-0-0Z Stiickliste 121101 .xIsx
+Ersatzteile/ Ubersichtszeichnung
+
+10.2.1 Ersatzteilbestellung An
+assonic MECHATRONICS GmbH
+-Service-
+KippdorfstralRe 6-24
+42857 Remscheid
+Telefon: +49 (0) 2191 - 59 11-823/-841
+Telefax: +49 (0) 2191 - 59 12-008
+Deutschland
+
+Hiermit bestellen wir nachfolgend aufgefiihrte Teile fiir
+folgende Maschine:
+
+   
+        
+
+Rotationssiebmaschine
+
+WS4-0-0Z
+
+Maschine:
+
+  
+
+Baujahr:
+
+Benennun Anzahl der
+T Bestellnummer bendtigten
+Beschreibung i
+
+ 
+
+lhre Daten
+
+Firma:
+lhr Name, Vorname:
+Abteilung:
+
+- Strale:
+Postleitzahl, Stadt:
+Land:
+Telefonnummer:
+
+Datum/ Unterschrift:
+
+10_Anhang.fm 10
+
