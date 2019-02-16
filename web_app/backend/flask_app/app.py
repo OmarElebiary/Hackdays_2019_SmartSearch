@@ -32,12 +32,11 @@ def search():
     paths = [get_real_filepath(rootDir, realFileDir, file_dirs, i) for i in range(n_results)]
     print(paths)
 
-    return paths
+    return jsonify(paths)
 
 @app.route('/file/<name>')
 def static_file(name):
-    print(name)
-    filePath, fileExtension = search_files('Drehstrommotor SEW Eurodrive.pdf')
+    filePath, fileExtension = search_files('Marking Map & Mill Test Report SN 3268.pdf')
     print(filePath)
     return send_file(filePath)
 
