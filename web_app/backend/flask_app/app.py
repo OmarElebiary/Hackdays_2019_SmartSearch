@@ -4,9 +4,14 @@ from flask_cors import CORS, cross_origin
 from flask import jsonify
 
 from collections import defaultdict
+import sys
+import os
+sys.path.append("../../../.")
+
 import metrics
-from files import get_filtered_data
+from files import get_filtered_data, get_filename
 from preprocessing import preprocess
+from search import search_query
 
 app = Flask(__name__)
 cors = CORS(app)
@@ -18,11 +23,15 @@ def search():
     # Perform the search query
     # Execute the searching script
 
-    results = search_query(searchTerm, filentoken2tfidf, token2files)
+    results = search_query(searchTerm.decode('utf-8'), filentoken2tfidf, token2files)
 
-    return searchTerm
+    path = get_filename(results, file_dirs, 5)[0]
+
+    return path
 
 if __name__ == '__main__':
+
+    rootDir = "../../../../docs_txt"
 
     (file_data, file_dirs) = get_filtered_data(rootDir)
     tokens_filtered = preprocess(file_data)
