@@ -3,25 +3,65 @@ import metrics
 from files import get_filtered_data
 from preprocessing import preprocess
 from search import search_query
+import csv
 
 
-def unit_test(rootDir):
+def read_testcases(path):
+    with open(path, newline='') as csvfile:
+        r = csv.reader(csvfile)
+        return list(r)
+
+
+def path_equal(system_path, testcase_path):
+    # remove double filename such as .txt.txt
+    system_path = system_path[:system_path.rfind('.')]
+
+    return system_path.endswith(testcase_path)
+
+
+def unit_test(rootDir, testcase_path):
     ''''''
+    testcases = read_testcases(testcase_path)
+
     (file_data, file_dirs) = get_filtered_data(rootDir)
     tokens_filtered = preprocess(file_data)
-
     token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
     filentoken2tfidf = metrics.get_tfidf(tokens_filtered, token2files, filentoken2occ)
-
     print('Loading done.')
-    
-    results = search_query('Artech c32-hp1 atex', filentoken2tfidf, debug=True)
-    resultsDirs = [(score, file_dirs[idx], debug) for score, idx, debug in results]
 
-    print(resultsDirs)
+    testcase_pos = []
+    all_results = []
 
-    print('Done.')
+    for t in testcases:
+        results = search_query(t[0], filentoken2tfidf, token2files, debug=True)
+        all_results.append(results)
+        # where is the testcase target?
+        for i, r in enumerate(results):
+            if path_equal(file_dirs[r[1]], t[1]):
+                testcase_pos.append(i)
+                break
+        else:
+            # not found
+            testcase_pos.append(-1)
+
+    # if not found, partial error 100
+    testcase_errors = list(map(lambda x: 100 if x == -1 else x, testcase_pos))
+    error = sum(testcase_errors)
+
+    print('Total error: {} (sum of target pos)\nTestcase errors: {}'.format(error, ' '.join(map(str, testcase_errors))))
+
+    for i, t in enumerate(testcases):
+        print('\n\n\n\nTESTCASE {}\nError: {}\nQuery: {}\n{}'.format(i + 1, testcase_errors[i], t[0], '-'*50))
+        for j, res in enumerate(all_results[i]):
+            if testcase_pos[i] == j:
+                print('(target) ', end='')
+            print('score: {}, path: {}, explanation: {}'.format(*res))
 
 
-def main():
+
+
+if __name__ == '__main__':
     rootDir = '../docs_txt'
+    testcase_file = 'test_queries.txt'
+
+    unit_test(rootDir, testcase_file)

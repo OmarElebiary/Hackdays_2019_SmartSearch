@@ -1,20 +1,20 @@
 Artech c32 hp1 atex,01-01_Identifikation/Typenschild_3.txt
-Artech c32 hp1 atex,02-01_Technische Spezifikationen/Produktinformationen.pdf
+Artech c32 hp1 atex,02-01_Technische Spezifikation/Produktinformationen.pdf
 ATEX,01-01_Identifikation/Typenschild_3.txt
-ATEX,02-01_Technische Spezifikationen/Produktinformationen.pdf
+ATEX,02-01_Technische Spezifikation/Produktinformationen.pdf
 Ultraschallkonverter Artech,01-01_Identifikation/Typenschild_3.txt
-Ultraschallkonverter Artech,02-01_Technische Spezifikationen/Produktinformationen.pdf
+Ultraschallkonverter Artech,02-01_Technische Spezifikation/Produktinformationen.pdf
 Ultraschallkonverter Artech atex,01-01_Identifikation/Typenschild_3.txt
-Ultraschallkonverter Artech atex,02-01_Technische Spezifikationen/Produktinformationen.pdf
-Druck glasdeckel,02-01_Technische Spezifikationen/Technische Daten Schauglas Zimmerlin.pdf
+Ultraschallkonverter Artech atex,02-01_Technische Spezifikation/Produktinformationen.pdf
+Druck glasdeckel,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
 Druck glasdeckel,01-01_Identifikation/Schauglas.txt
-Glasdeckel 230,02-01_Technische Spezifikationen/Technische Daten Schauglas Zimmerlin.pdf
+Glasdeckel 230,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
 Glasdeckel 230,01-01_Identifikation/Schauglas.txt
-Glasdeckel Material,02-01_Technische Spezifikationen/Technische Daten Schauglas Zimmerlin.pdf
+Glasdeckel Material,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
 Glasdeckel Material,01-01_Identifikation/Schauglas.txt
-Glasdeckel Werkstoff,02-01_Technische Spezifikationen/Technische Daten Schauglas Zimmerlin.pdf
+Glasdeckel Werkstoff,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
 Glasdeckel Werkstoff,01-01_Identifikation/Schauglas.txt
-glasdeckel hersteller,02-01_Technische Spezifikationen/Technische Daten Schauglas Zimmerlin.pdf
+glasdeckel hersteller,02-01_Technische Spezifikation/Technische Daten Schauglas Zimmerlin.pdf
 glasdeckel hersteller,01-01_Identifikation/Schauglas.txt
 Absackmaschine Rührwerk,"03-04_Inspektion, Wartung, Prüfung/ Wartung der Absackmaschine.pdf"
 Absackmaschine Rührwerk,01-01_Identifikation/ Typenschild Absackmaschine.txt

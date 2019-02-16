@@ -13,8 +13,6 @@ def search_query(query, filentoken2tfidf, token2files, debug=False):
     :return: Combined result of all tokens with (score, file index)
     """
     query_prep = preprocess([query])[0]
-    if debug:
-        print('"{}" -> {}'.format(query, query_prep))
     T = len(query_prep)
     scores = []
     # accumulate results for individual tokens
