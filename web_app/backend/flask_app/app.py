@@ -27,9 +27,8 @@ def search():
     # Perform the search query
     # Execute the searching script
     results = search_query(searchTerm, filentoken2tfidf, token2files)
-    n_results = 5
-    paths = [get_real_filepath(rootDir, realFileDir, file_dirs, results[i][1]) for i in range(n_results)]
-    inds = [results[i] for i in range(n_results)]
+    paths = [get_real_filepath(rootDir, realFileDir, file_dirs, results[i][1]) for i in range(len(results))]
+    inds = [results[i] for i in range(len(results))]
 
     fileNames = [element[element.rfind('/')+1:] for element in paths]
     print(fileNames)
