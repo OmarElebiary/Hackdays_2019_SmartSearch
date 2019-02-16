@@ -47,8 +47,8 @@ def static_file(name):
 
 if __name__ == '__main__':
 
-    rootDir = "../../../docs_txt_new"
-    realFileDir = "../../../classified documents"
+    rootDir = "../../../docs_txt"
+    realFileDir = "./assets/classified documents"
 
 
     print("\n\n\n\nLoading smart-search data..")
