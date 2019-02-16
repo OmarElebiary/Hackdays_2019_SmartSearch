@@ -46,3 +46,8 @@ def get_filename(query_results, file_dirs, N=5):
 def get_real_filepath(rootDir, realFileDir, file_dirs, fileIndex):
     fileName = file_dirs[fileIndex].replace(rootDir, realFileDir)
     return fileName[:-4]
+
+
+def get_dictionary():
+    with open('wordlist_german_prepr.txt') as f:
+        return set(f.read().split('\n'))
