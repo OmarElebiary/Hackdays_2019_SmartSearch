@@ -52,8 +52,8 @@ def search_token(token, filentoken2tfidf, token2files):
 
     file_scores = []
     for file in token2files[token]:
-        # weight = filentoken2tfidf[file, token]
-        weight = 1
+        weight = filentoken2tfidf[file, token]
+        # weight = 1
         file_scores.append((file, weight))
 
     return file_scores
