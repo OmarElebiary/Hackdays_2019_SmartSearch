@@ -5,14 +5,14 @@ from files import get_filtered_data
 from preprocessing import preprocess
 
 
-def search_query(query, filentoken2tfidf, token2files, debug=False):
+def search_query(query, filentoken2tfidf, token2files, dictionary, debug=False):
     """
 
     :param query: Whole query (can be composed of multiple tokens)
     :param filentoken2tfidf:
     :return: Combined result of all tokens with (score, file index)
     """
-    query_prep = preprocess([query])[0]
+    query_prep = preprocess([query], dictionary)[0]
     T = len(query_prep)
     scores = []
     # accumulate results for individual tokens

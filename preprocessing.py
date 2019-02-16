@@ -37,10 +37,10 @@ def _tokenize(data):
         tokens.append(tokenized)
     return tokens
 
-def preprocess(data):
+def preprocess(data, dictionary):
     """
 
-    :param data: list of lists
+    :param data: list of strings
     :return: list of lists with tokens
     """
     tokens = _tokenize(data)
@@ -48,4 +48,32 @@ def preprocess(data):
     for t in tokens:
         tokens_filtered.append(_remove_stopwords(t))
 
-    return tokens_filtered
+    segmented = []
+    for outer in tokens:
+        segmented.append([])
+        for inner in outer:
+            segmented[-1].extend(segment(inner, dictionary))
+
+    return segmented
+
+
+def segment(token, dictionary):
+    """
+    Segments single token into multiple ones for compound nouns
+    (e.g. werkstoff -> werk stoff)
+    :param token:
+    :return:
+    """
+    n = len(token)
+    segments = []
+    start = 0
+    min_segment_len = 15
+    for i in range(len(token)):
+        if i - start >= min_segment_len - 1 and n - (i + 1) >= min_segment_len and token[start:i + 1] in dictionary:
+            segments.append(token[start:i + 1])
+            start = i + 1
+
+    # add remaining str
+    segments.append(token[start:])
+
+    return segments

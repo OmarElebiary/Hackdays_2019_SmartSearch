@@ -1,6 +1,6 @@
 # Loading the data files
 import metrics
-from files import get_filtered_data
+from files import get_filtered_data, get_dictionary
 from preprocessing import preprocess
 from search import search_query
 import csv
@@ -61,7 +61,8 @@ def unit_test(rootDir, testcase_path, out_file):
     ''''''
 
     (file_data, file_dirs) = get_filtered_data(rootDir)
-    tokens_filtered = preprocess(file_data)
+    dictionary = get_dictionary()
+    tokens_filtered = preprocess(file_data, dictionary)
     token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
     filentoken2tfidf = metrics.get_tfidf(tokens_filtered, token2files, filentoken2occ)
     print('Loading done.')
@@ -73,7 +74,7 @@ def unit_test(rootDir, testcase_path, out_file):
     all_results = []
 
     for t in testcases:
-        results = search_query(t[0], filentoken2tfidf, token2files, debug=True)
+        results = search_query(t[0], filentoken2tfidf, token2files, dictionary, debug=True)
         all_results.append(results)
         # where is the testcase target?
         for i, r in enumerate(results):
