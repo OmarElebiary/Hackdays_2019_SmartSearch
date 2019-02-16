@@ -1,0 +1,5 @@
+Membranventil
+Cata ND 0,15-3,5bar
+Anschluss :1/2"
+
+In Betriebsanleitung unter Punkt 1.4 zu finden

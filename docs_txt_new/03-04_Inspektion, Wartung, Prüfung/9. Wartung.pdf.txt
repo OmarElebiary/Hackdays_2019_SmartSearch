@@ -1,0 +1,343 @@
+Sicherheitshinweise
+
+9 Wartung
+
+9.1 Sicherheitshinweise Das Wartung-/Instandhaltungspersonal muss tiber die, not-
+wendige Ausbildung und Qualifikation verfiigen, um die nach-
+stehend aufgefiihrten Tatigkeiten durchzufithren (Siehe
+Kapiel 3.6: Fachwissen)!
+
+Alle in diesem Kapitel genannten Intervalle beziehen sich auf
+einen Ein-Schicht-Betrieb von acht Stunden. Bei anderen Be-
+triebszeiten der Maschine sind die Intervalle in geigneter Art
+und Weise durch den Betreiber anzupassen. Die genannten
+Intervalle wurden vom Hersteller mit Sorgfalt erstellt. Je nach
+Betriebsumgebung sind jedoch die Intervalle an die be-
+trieblichen Gegebenheiten anzupassen.
+
+9.1.1 Vor den Arbeiten Die Luftversorgung muss vor Beginn von Arbeiten abgeschal-
+tet werden, wenn es nicht ausdriicklich notwendig ist. Es ist si-
+cher zu stellen, dass die Luftversorgung nicht unbeabsichtigt
+wieder eingeschaltet werden kann.
+
+Die Spannungsversorgung ist vor Beginn der Arbeiten abzu-
+schalten. Dazu istder Hauptschalter in die Stelung ,,0 OFF* zu
+schalten. Der Hauptschalter muss mit einem Schloss gegen
+unbeabsichtigtes Einschalten gesichert werden.
+
+9.1.2 Wahrend der Arbeiten Es ist fur alle Arbeiten nur geeignetes Werkzeug zu nutzen.
+Grundsatzlich gilt, dass beschéadigte oder verschlissene Teile
+auszutauschen sind.
+
+Atemschutz tragen!
+
+Durch die Siebstdube besteht bei Reinigungsarbeiten Ver-
+letzungsgefahrfiir die Atemwege. Die Verletzungen werden
+teilweise erst spater bemerkbar. Bei allen Arbeiten, die in
+der N&he von Filterstaub stattfinden oder Filterstaube
+aufwirbeln kénnen, ist geeigneter Atemschutz zu tragen.
+Dies gilt insbesondere fiir Reinigungsarbeiten.
+
+ 
+
+Wird wahrend der Arbeiten festgestellt, dass eine Sicherheit-
+seinrichtung oder ein sicherheitsrelevantes Bauteil defekt
+oder wirkungslos ist, so darf die Maschine nicht mehr weiter
+betrieben werden. Die Maschine darf dann erst weiter be-
+trieben werden, wenn im Wege der Ersatzteilbeschaffung ein
+Ersatzteil beschafft wurde und die Maschine repariert wurde.
+
+09_Wartung.fm 9-1
+Wartung
+
+9.1.3 Vor/ Nach dem Wieder- Wurden fur die Instandhaltungsarbeiten Schutz- und Sicher-
+einschalten heitseinrichtungen entfernt, sind diese anschlieBend
+unbedingt wieder an zu bringen und deren Funktion zu priifen
+Dies betrifft insbesondere:
+
+* Abdeckungen
+» Sicherheitshinweise
+*  Warnschilder
+« Erdungskabel
+
+Die Maschine ist zur Probe einzuschalten. Wahrend des
+Probelaufs ist die Maschine zu beobachten und zu tber-
+wachen. Zeigt die Maschine nach dem Wiedereinschalten ein
+Fehlverhalten, ist die Maschine sofort abzuschalten.
+
+9.2 Wartungstabellen
+9.2.1 Té&gliche Priifung
+
+ 
+
+Priifen ob Erregerstab fest montiert ist.
+
+.
+2 Funktionsprifung:
+
+Generator mit der Hand beriihren: Der Gene-
+'
+
+rator muf} im Betrieb vibrieren.
+
+Prufen ob Ablaufe frei sind:
+Es dirfen sich keine Pfropfen gebildet haben.
+
+Luftmesser
+
+4 Luftmesser auf Sauberkeit prifen.
+Verunreinigungen entfernen.
+
+Linearklopfer
+“Linearklopfer auf festen Sitz prifen.
+
+Funktionspriifung:
+Linearklopfer mit der Hand beriihren: Linear-
+klopfer muss im Betrieb vibrieren.
+
+ 
+
+9-2 09_Wartung.fm
+
+o
+Wartungstabellen
+
+9.2.2 Wéchentliche Priifungen
+
+Hinweis!
+
+Ol darf nicht mit dem Siebgut in Kontakt kommen. Wird Ol
+“ am Oler nachgefiillt, ist darauf zu achten, dass keine ande-
+
+ren Teile mit Ol in Beriihrung kommen.
+
+Kontaktlaschen am Rotationssieb
+
+Prifen ob Kontaktlaschen des Rotationssiebes
+unbeschédigt sind und elektrisch leitend
+miteinander verbunden sind.
+
+Rotationssieb
+
+Sieb auf Beschadigungen untersuchen. Bei
+Beschadigungen Sieb austauschen
+
+Siebspannung prifen.
+Ist die Spannung des Siebs zu gering, ist das
+Sieb durch den Hersteller zu warten.
+
+Olstand kontrollieren
+
+Ist der Olstand zu gering, muss Ol nachgefiillt
+werden: Spezial6l fur Druckluftwerkzeuge
+nach DIN 51502.
+
+ 
+
+09_Wartung.fm 9-3
+Wartung
+
+9.2.3 Monatliche Priifungen
+
+9-4
+
+Prifen, ob alle Verschluss-Spanner funktions-
+fahig sind und fest schlieRen.
+
+ 
+
+Prifen, ob Not-Halt-Schalter unbeschadigt und
+funktionsfahig ist
+
+Prufen ob Keilriemenabdeckung vorhanden ist
+und fest sitzt.
+
+Prufen ob Scheibe der Inspektionsklappe
+unbeschéadigt ist.
+
+Sicherheits-Sensoren (Schmersal)
+Wartung gem Betriebsanleitung, Fa. Schmer-
+sal, siehe Kapitel 10: Anhang.
+
+» Sicherheitssensor reinigen
+
+Betatiger und Sicherheitssensor auf festen
+Sitz prifen.
+
+etwaige Eisenspédne entfernen.
+Zuleitung auf beschadigung prifen.
+
+Leitungseinfiihrung und -anschlisse in
+spannungslosen Zustand priifen.
+
+Sicherheitssensoren durfen nicht
+beschéadigt oder manipuliert sein.
+
+Funktionsprifung
+
+Erdung/ Potenzialausgleich
+
+Alle Erdungen mit einem MegaohmmeRgerat
+Uberprifen.Der Erdungswiderstand soll 1
+MOhm nicht Giberschreiten.
+
+ 
+
+09_Wartung.fm
+Wartungstabellen
+
+9.2.4 Vierteljahrliche Priifungen
+
+Prifen, ob die ESG-Scheibe der Inspektions-
+klappe unbeschadigt ist.
+
+Priifen ob die Dichtung der Inspektionsklappe
+vorhanden und unbeschéadigt ist.
+
+Elekirische Anschliusse auf Beschadigungen
+und festen Sitz kontrollieren.
+
+Pneumatische Anschliisse auf festen Sitz
+Leckagen prifen
+
+ 
+
+09_Wartung.fm 9-5
+Wartung
+
+9.2.5 Halbjdhrliche Priifungen
+
+Motor auf Staubablagerungen priifen.
+Staubablagerungen sind zu entfernen.
+
+Keilriehmen auf Beschadigung und richtige
+Spannung prifen. Bei Beschadigungen
+austauschen. Nachspannen bei zu geringer
+Spannung.
+
+Motor auf Laufgerdusche prifen. Bei
+Laufgerduschen Motor tauschen.
+
+ 
+
+Luftungsschlitze des Motors priifen und ggf.
+mit geeignetem Industriesauger freisaugen
+bzw. reinigen. Explosionsgefahren sind zu
+beriicksichtigen.
+
+ 
+
+9-6 09_Wartung.fm
+9.2.6 Jahrliche Priifungen
+
+09_Wartung.fm
+
+Wartungstabellen
+
+Beschrelbung
+
+[Sepritty
+|
+
+ 
+
+-Jahrllche Prufungen gem. UVV durchfiihren
+
+9-7
+Wartung
+
+9.3 Fehlersuche
+
+Tabelle 1: Fehlersuche
+
+9-8
+
+Fehler
+
+Kurze Lebensdauer des
+Siebes
+
+UbermaRiger Pulverabfall
+
+Maschine bleibt stehen
+oder lauft nicht an.
+
+Ursache
+
+Metallspéne im Sys-
+tem
+
+Sieb Gberspannt oder
+zu schlaff
+
+Verstopfte Siebporen
+
+Unregelmé&Rige Uber-
+speisung
+
+Behebung
+
+Maschine reinigen
+
+Sieb zum Spannen an
+den Hersteller schicken.
+
+Sieb wechseln
+
+Paddelumdrehungen
+neu justieren
+
+ 
+
+Siebspannung nicht
+richtig
+
+Siebmaschenweite
+nicht richtig
+
+Motorschutzschalter
+I6ste aus.
+
+Sicherheitsschalter
+der Inspektions-
+klappe, des Trichters
+oder des Aus-
+
+traggehauses loste
+aus
+
+ 
+
+ 
+
+Sieb zum Spannen an
+den Hersteller schicken.
+
+Maschenweite gegen-
+tber
+Riickgewinnungs-
+anforderungen
+kontrollieren;
+
+Sieb mit anderer
+Maschenweite ver-
+wenden
+
+Uberlastschalter—Ein-
+stellungen und
+Umgebungstemperatur
+kontrollieren
+
+Nachsehen, ob Paddel
+frei rotieren kann
+
+Prifen ob Inspektions-
+klappe, Trichter und Aus-
+tragsgehause richtig
+geschlossen sind.
+
+Prifen ob Sicherheits-
+schalter defekt sind.
+
+09_Wartung.fm
+

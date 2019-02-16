@@ -1,0 +1,112 @@
+Stiick- und Ersatzzteilliste
+
+  
+ 
+ 
+ 
+
+    
+  
+
+sl - [ | Datum |
+%% assonic gm0 fobe
+Zeichnungsnummer: WS4-0-0Z Rev.o2 [ | |
+assonic Mechatronic GmbH Benennung: Pneumatik Rev.03 | [ |
+Kippdorfstr. 6-24 Rev.o4 [ [
+42857 Remscheid Rev.os | | |
+Deutschland Rev.o6 [ | |
+
+ 
+
+ 
+ 
+     
+  
+ 
+
+        
+
+    
+
+  
+    
+
+1 |Kupplungsstecker G1/2" 238110048 Jassonic | 1528 | 1 |
+[ T ""Schnellkupplung-Schiauchttlle D13 [238231300 __ lassonic | 1471 | 1 |
+| e [ -0 _ |Handabsperrventil G1/2"
+I ISchalldampferGa/®” ______ |AN30-03 Jassonic | 1532 | 1 |
+T Zwischenstick  Jvyaoor ___  Jassonic | 15383 | 1 |
+| | e [ -0z1 _ [Filterregler mitManometer  |AW40-FO4BE assonic | 1534 | 1 |
+[ 1 [Schott-Steckverbinder 6mm [KQEOB00  Jassonic [ 1568 [ @2 |
+[ 1 1~ [Schott-Steckverbinder 12mm [KQE1200  Jassonic [ 1537 [ 2 |
+[ 1 [Einschraubwinkel 12-G1/2" KQL12-04S
+| E [ -1v1/-1v2 [3/2Wege Magnetventil G3/8" VP542-5YOD1-03FA  fassonic | 1548 | 2 |
+1 [Einschraubwinkel 12-G3/8" KQL12038  fassonic | 1561 | 3 |
+I IT-Stuckm.Einschraubgew. 12-3/8" _ |KQY12:03s __  lassonic | 1539 | 1 |
+T TTIStopfen3/8"Vierkant 730472002 Jassonic | [ 2 |
+T IGeratesteckdose ______ [x82 Jassonic | 1549 | 2 |
+T TZylinderschraubeM4x70DIN912 | = Jassonic | | 2 |
+T "IScheibeB43DIN125 | Jassonic | 1446 [ 4 |
+[ T T |Winkel-Einsteckverbinder 12 |KQL1299  fassonic [ 1536 | 2 |
+[ T T |GeradeReduktion 0612 |KQRO6-12 _ fassonic [ 1561 | 1 |
+[ T |T-Steckverbinder06 ______ |KQT06-00  fassonic [ 1569 | @2 |
+T l7yiinderschraubeM4x25DIN912 |  Jassonic | ] 2 |
+I Ischeibe43DiNg0ot2 | = lassonic | 1445 | 2 |
+T |GeradeKupplung06 ______ |KQN06-99 Jassonic | 1560 | 2 |
+[ T |Gerade Steckverschraub.06-01 ____ [KQF06-01 _ lassonic | 1550 | 1 |
+T E 554  |DruckschatterG1/8" ___ [iS10016L ___ lassonic | 1540 | 1 |
+| | E |  -1tv4  [Drosselrickschlagventil 06 AS2001F-06-3
+[ 1 [Einschraubwinkel 06-1/8"
+[ T E T vs  IDruckreger _ |AR20-F01B  Jassonic | 1562 [ 1 |
+| [ E |  [Manometer40mm 1/8"
+[ I l7ylinderschraubeM5x12DIN912 |  Jassomic | 0] 2 |
+I "IScheibeB53DIN912 | Jassomic | ] 2 |
+" B ] -1v3 _ [3/2Wege Magnetventii G1/8"  |VT307-5DZ-01-Q .
+T IBefestigungsplatte ________ [DXT152254A  lassonic | 1542 | 1 |
+[ I I |Gerade Verschraubung 6-1/8" _____ [KQH06-01§  fassonic | 14738 ]| 1 |
+
+ 
+
+QHO06-01S
+
+i b 1 1
+1
+
+'I I‘
+
+!
+WS4-0-0Z Stiickliste Pneumatlkil(unde | 4
+
+   
+Stiick- und Ersatzzteilliste
+
+ 
+ 
+
+—-mm-
+14.06.2012
+
+    
+
+%% assonic
+
+Zeichnungsnummer: WS4-0-0Z
+assonic Mechatronic GmbH Benennung: Pneumatik
+
+Kippdorfstr. 6-24
+42857 Remscheid
+Deutschland
+
+ 
+
+ 
+
+WS4-0-0Z Stiickliste Pneumatik Kunde
+
+e e
+At . 4 e
+o T .t e et 4
+— e b
+
+feny
+

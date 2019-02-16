@@ -1,0 +1,7408 @@
+MT-VESS Rov.3.4.1
+
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO Calculation Code:  AD 2000-MERKBLATT - Updales March 2009
+
+  
+
+MT-VESS Acv.3.4.1
+
+Project: M44-MECC-110  ltem: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO Calculation Code:  AD 2000-MERKBLATT - Updates March 2009
+
+  
+
+MAURO ZUCCHELLI ASME materials archive: ASME i}-Part D - METRIC - E2007A09
+
+MAURO ZUCCHELLI ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Sh.l  ofl
+
+Sh.l of |
+
+TABLE OF CONTENTS
+
+Hydraulic test pressure
+Head - Element No. 1
+Flange - Element No. 2
+Cylinder - Element No. 4
+Nozzle N1-N2
+
+Nozzle N3
+
+Nozzle N4
+
+Nozzle N5-N6
+
+Adjacent nozzles summary
+Local Ioads - Nozzle N1-N2
+Local loads - Nozzle N3
+Local loads - Nozzle N5-N6
+Flange N4
+
+Dished heads N4
+
+Bolts N1-N2
+
+Bolts N3
+
+Bolts N5-N6
+
+Support brackels
+
+INOXTECH S.r.l.
+
+AGITATOR STORAGE VESSEL
+
+JOB: M44
+5.N.: 3268
+DWG Nr.: M44-MECC-110
+
+é‘ TOVRheinland®
+
+Attachment No:
+
+hirargalll, 26
+e i ' belongs to Test Report No: F
+
+FhnAsdiod ’
+
+P.IVA: IT 03552970168
+
+ST %E&TEGHIDO MANRO ZUPCHELLY
+
+ 
+
+This cocument is the property of STUDIO ZUCCHELL! who wil saleguard &s fights accorsing ta the chvil and peral provisions of tha law
+This dacumort Is the property of STUDIO ZUCCHELL who wil saleguard ks rights according to the civil end penal pravisions of tha law
+
+   
+ 
+
+ 
+
+o e g e 0= 5 v o 1 AR R R S AR
+
+i o i I
+
+i
+i
+
+T s e Epr———
+MT-VESS Rev.3.4.1
+Project: M44-MECC-110  llem: S.N., 3268 Dale: 17-01-2011
+STUDIO TECNICO | calculalion Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: HP 30 - 4.17
+MAURO ZUCCHELLI
+
+MT-VESS Rov.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO | calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: HP 30 - 4.17
+MAURO ZUCCHELLI
+Caleul.Datasheel : Hydraulic test pressure Calcul.Datasheet : Hydraulic test pressure
+
+ 
+
+————
+
+7* DESIGN DATA . GRHERAL QUANYITLES
+Calcularion code 2D Y
+
+ 
+
+< HYDRAULIC TEST PREISURS
+
+ 
+
+Allowable stresu coda AL-MERKBLATT
+
+Sequenca nusbar g
+Fluid elrculated s Sotv &
+
+ 
+
+Allvwablo stross ac 20°C {£20)
+
+1"lazes 1 173.333 173,333
+Large foryings : 143,333 193,333 163.333
+Swall forglngy
+
+ey
+
+Fludd donuicy 3
+
+lut deslgn condition
+Breusure G.8 (rd1y
+Zesporatuzae 50 111
+
+   
+
+# L nazy LM d¥2.666 4H2.6E6 422,866
+pipes
+
+2nd design condition
+
+ 
+
+rreasure (razy Aliowable stzuss we T
+Tempuratuze (12} Places g 158.083 158,083
+K - £20/fc 1.CY646 1.096<6
+Lzege Eorgingy 4 138,660 158
+
+K~ E20/tt 1.03465 1.03375
+
+Srauld forgings
+
+K - f20/fc
+
+drd design condition
+Preguure (rdy)
+Terpuraturo (13)
+
+Test pressure Specified by usor
+
+Test type Hydreulic ualre & ruvu 475,733 475.743 475,733
+Vunnol ponit.in tost $ Horizuneal
+
+K - £20/t¢ 1.01437 1.01487 1.01457
+pipes
+
+K w £20/fc
+Allowable whzasy an T2
+
+HATERIALS Archivio parerisli ASME : ANCKIVIO METRICO
+
+Matesials clays
+
+Plutus
+
+K = £20/fc
+Lutge forgings
+X - f20/¢8z
+Swall forglngs
+K - r2a/fz
+tolzy & nuzs
+K~ £20/f:
+pipes
+
+K = £20/fr
+
+Aldoauble utzuxs s 3
+
+Macarialy spociflcacion Tev. veucriptlon Code
+Platey 2004 kN 10028 T-X2CINiKol 1122
+vipes 2009 ASI¥ A 312 TPIL6L-531603
+Large forqings 2004 NT EM 102222 - P265 GH
+Balts/nuts 2009 A 1Y3 37-A194 21#-G41420
+small forglings 2009 AST A 162 FII6L-S3L603
+Transizion olatue 2009 ASTM A 24G 316L-531602
+Vusxol supporcs 2009 ASTM A 285 GR C-KG2801
+Auchor bolrs 1940 C.5.
+seaffoning rings 2009 AS1M A 240 316L-S31GA3
+lusuluvion supporcy 1940 C.5.
+
+Base ring 2009 ASIM A 285 GR C-KN2801
+Internaly supporcs 1960 A1SI 116 L
+
+Insornals 1980 ALSY 316 L
+
+Bolts/nuts (intern.) 1980 Atsy 204
+
+Liniy 2009 ASTIL A 240 304--530400
+Ceps/Fitcings 2009 ASIM A 403 JIL6L(GS)-S316
+
+rov. Deseripeion
+
+  
+
+  
+
+?lutan 15e.083 158,383 153.283
+K - £20/fc 1.09646 1,0964C 1.C9646
+Laxge fargings 158
+
+K - f20/fc 1.03375
+
+Suall foryings
+
+X - £20/tc
+
+ 
+
+Boles 3 nuty 475.743 4315.733 415,733
+
+K - f20/£2 1,01457 1.02¢57 1.014%7
+pipes
+Ko~ £20/fc
+
+r1 1.GYEAE L,09646 L.09846 L.GY6LE 1.0%640
+PLh S 1.0964€ 1,09646 L,09646 1.0964b 1.GH64E
+K2
+
+2L
+
+K2 1.09€48 :.096496 1,69646 L.DYb46 1,0D9645
+P 0.13705 €. 1375 0.2370% 0.1370% €.13705
+v 1.144 1.144 1.144 1.194 1.144
+
+Phyd e L.l6a 1.144 1.144 1.144 1.144
+
+RL - maxizun velue of K relacod o tenperature 11. Pl ~ 1.25¢KM4pdl
+
+ 
+
+K2 - maximurm value of K related to cemperscure 12.
+
+ 
+
+o= 1.20°K2°1d2
+KY - waxinur value of K rudatod to temparacure T3, v3h ~ 1.25°K3*v63
+
+P4L « 1.43-Mar( vel, pa2, rdl )
+Phyd « BHax( Bih, P2L, 23, Bikw )
+
+Thes document s the property 6 STUDIO ZUCCHELLI wha Wil safequard ks rights according ta fha ¢l and penal pravisions of the taw
+This documeat s e property of STUDIC 2UCCHELLI who wil sateguard ks righls accaraung to e cidl nd penal provisions of the law
+
+ 
+
+ 
+
+ 
+
+e e ey e s
+
+   
+
+e
+
+ 
+
+      
+
+e e e A S AR ER AR
+
+e
+Tha document is the propeny of STUDIO ZUGCHELLI wha will safcguerd te rights a¢oeicing to the G and pena! provisens of th aw
+
+pp——
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+MT-VESS Rov.3.4.1
+Project: M44-MECC-110  ltem: S.N, 3268 Date: 17-01-2011
+
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B3
+
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datashest : Head - Element No. 1 Sh. 3 of 56
+
+Head Type: TORISPHERICAL
+Constructlon: ONE PIECE
+Material
+Base: EN 10028-7-X2CrNiMo 17122
+Int.Lining:
+
+ 
+
+P - Pressure
+
+T - Temperalure
+Di - Inside diameter
+K - Yield strength
+
+z - Joint efficiency
+Ri - Crown radius
+ri - iKnuckle radius
+He -Head height
+
+De = DI + 28( - 2Ple - 2Ce = 1520.
+-Ci-Ce-Pli-Ple-t=85
+
+Crown thickness
+
+St=15
+
+Deq = 2*(R + Sb) = 3060.
+Deq*P
+
+INTERNAL PRESSURE
+
+0.815 MPa Ci - Internal corrosion
+50. Cent Ce - External corrosion
+1500. mm Pli - Internal lining
+237.125 N/mm2 Ple - External lining
+
+1 t - Tolerance
+
+1520, mm d - Opening diameter
+152, mm Li - Nozzle offsel
+298,57 mm St - Total thickness
+
+ 
+
+R =Ri + Pli = 1520.
+Sb =S5t-Pli- Ple = 10.
+
+f=K/Sf=158.083
+
+St = +Ci+ Ce + Pli + Ple +t = 5,437
+
+4z 4+ P
+
+Knuckle thickness
+Si=15
+
+X = Max(3.5'Sb, 100 ) = 100,
+d/De = -
+
+s/De = 0.0056
+De’P'p
+
+f=K/Sf=158.083
+Li+d2=- <0.3'De =-
+f=3.182 From diagram in Fig. 7
+
+§2=—"———4+Ci+Ce+Pli+Ple+=7.731
+
+4"z
+
+Installed thickness = 10.
+
+Rl = De - Pli = 1520.
+
+fl=0.1"De - Pll = 152,
+
+He = 0.1935‘De - 0.455'Sh + Sb = 299,57
+
+  
+
+ 
+
+ 
+
+S A e 3 st 8 ey
+
+ 
+
+Thia document Lt the propanty of STLDIO ZUCCHELLI who will sateguard 3 rights aceorting 1o the civd 2nd panal provisions of e law
+
+STUDIO TECNICO
+
+MAURO ZUCCHELL}
+
+P - Pressure
+
+m - Temperature
+Di - Inside diameter
+K - Yield strength
+
+z - Joint efficiency
+Rl - Crown radius
+fi - Knuckle radlus
+He - Head height
+
+De = Di + 25t - 2Ple - 2Ce = 1520.
+§=5t-Ci-Ce-Pli-Ple-t=8.5
+
+Crown thickness
+
+Sf=1.05
+
+Deq = 2*(R + Sb) = 3060.
+Deq'P
+
+MT-VESS Rov.d.4.1
+Projecl: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B3
+
+ASME materials archive: ASME lI-Part D - METRIC - E2007A09
+Calcul.Datasheet : Head - Element No. 1 Sh. 4 of 56
+
+ 
+
+Head Type: TORISPHERICAL
+Construction: ONE PIECE
+Material
+Base: EN 10028-7-X2CrNiMo17122
+Int.Lining:
+
+TEST PRESSURE
+
+1.159 MPa Ci - Internal corrosion
+20. Cent Ce - External corrosion
+1500. mm Pli - Internal lining
+260. N/mm2 Ple - External lining
+
+1. t - Tolerance
+
+1620. d - Opening diameter
+152. L - Nozzle offset
+299,57 St - Total thickness
+
+R =Rl + Pli = 1520.
+Sb = 8t- Pli- Ple = 10.
+
+=K/Sl=247619
+
+81=—————— 4+ Ci+Ce +Pli+Ple +t=5.076
+
+4"z + P
+
+Knuckle thickness
+S1=1.05
+
+X = Max( 3.5°Sb, 100) = 100.
+s/De = 0.0056 d/De = -
+
+De'P'p
+
+f=K/Sf=247.619
+Lti+d2=- <0.3"De = -
+B =3.182 From diagram In Fig. 7
+
+S2=—————+Ci+Ce+Pli+Ple+t=7.157
+
+4'f'z
+Installed thickness = 10.
+
+Rl = De - Pll = 1520.
+
+1 =0.1"De - Pli = 152.
+
+He = 0.1935°De - 0.455°Sb + Sb = 299.57
+
+  
+
+ 
+
+ 
+
+e i et
+MT-VESS Rov.3.4.1
+Project: M44-MECC-110  ltem: S.N. 3268 Dale: 17-01-2011
+STUDIO TECNICO | calcutation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B3
+MAURO ZUCCHELLI | ASME materials archive: ASME Il-Part D - METRIG - E2007A09
+
+Calcul.Datasheet : Head - Element No, 1 ’ Sh. 5 of 56
+
+MT.VESS Rev.3.4.1
+Project: M44-MECC-110  item: S.N., 3268 Date: 17-01-2011
+
+STUDIO TECNICO | Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B3
+MAURO ZUCCHELLI | ASME materials archive: ASME Il-Part D - METRIC - E2007A09
+Calcul.Datasheet : Head - Element No. 1 Sh. 8 of 56
+
+  
+
+ 
+
+ 
+
+Head Type: TORISPHERICAL
+Conslruction: ONE PIECE
+Materlal
+Base: EN 10028-7-X2CrNiMo17122
+int.Lining:
+
+Head Type: TORISPHERICAL
+Construction: ONE PIECE
+Material
+
+Base: EN 10028-7-X2CiNiMo17122
+Int.Lining:
+
+ 
+
+EXTERNAL PRESSURE - CONCAVE SIDE EXTERNAL PRESSURE
+
+- Pressure 0.1 MPa Ci - Internal corrosion
+- Temperature 50. Cent Ce - External carrosion
+- Inside diameter 1500. mm Pli - Intermnal lining
+- Yield strength 237125 N/mm2 Ple - External lining
+- Joint efficiency 1. t - Tolerance
+- Crown radius 1520. mm d - Opening diameter
+- Knuckle radius 152, mm Li - Nozzle offset
+
+He - Head height 299.57 mm St - Total thickness
+
+P - Pressure 0.1 MPa Ci - Internal corrosion
+T - Temperature 50. Cent Ce - External corrosion
+E - Elasticity modulus 192952. N/mm2 Pli - Intemal lining
+
+{ - Allowable stress 158.083 N/mm2 Ple - External lining
+
+RI - Crown radius 1520. mm t - Tolerance
+
+St - Total thickness
+
+  
+
+De = Di + 2St - 2Ple - 2Ce = 1520. R = Ri + Pli = 1520,
+
+R = R+ Pli = 1520.
+s=5t-Ci-Ce-Pli-Ple-1=8.5 Sb = St-Pli- Ple = 10.
+
+s=S5t-Ci-Ce-Pli-Ple-t=8.5
+
+Crown thickness
+
+St=24 f=K/SI=98.802
+Deq =2"(R + Sb) = 3060.
+
+Deq*P
+41z + P
+
+S1= +Ci+Ce +Pli+Ple+1=2.274
+
+0.002
+
+=3.358
+{s/R)
+
+Knuckle thickness
+Sf=1.8 f=K/S81=131.736
+X = Max( 3.5*Sb, 100) = 100. Li+d/2=- <0.3'De =-
+
+s/De = 0.0056 d/De =~ =3.182  From diagram in Fig. 7
+De*P*g
+S2 ='—4W+Ci+CE+PIi+PIE+l=2.418
+
+Pi oaee—E—'(iz 0.645
+=03085 " (gP=0
+
+Maximum External Pressure = 0.645
+Installed thickness = 10.
+
+Ri = De - Pll = 1520. ri=0.1"De - Pli = 152,
+He = 0.1935'De - 0.455"Sb + Sb = 299.57
+
+This docunantls the property of STUDIO ZUCCHELLI who wa safequard bs rights accordng 1o the evil and panal provis:ons of ha law
+Th.s document s the prop2ny of STLDIO ZUCCHELLI who will saleguard b rights 26€51aing 10 B1c A £0d penal pravisions of e law
+
+ 
+
+ 
+
+ 
+
+g e
+
+ 
+
+T e s
+Thes cocument is the property of STUDKS ZUCCHELU who wil safoguard s rights aesansing 10 the civil and penal provisions ot the law
+
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+P - Pressure
+
+Pe - External pressure
+T - Temperalure
+
+Ci - Internal comosion
+Ce - External corrosion
+Pli - Internal lining
+
+DI - Shell inside diam.
+Ts - Shell lhickness
+
+KV - Shell yield
+
+KVo - Shell yield (amb)
+Tb - Bolls temperature
+Nb - Bolts number
+
+Ds - Bolts root diameter
+Db - Bolts nom.diameter
+dL ~ Bolts hale diameter
+b - Auxiliary factor
+
+KB - Bolts yield
+
+KBo - Bolls yleld (amb.)
+PRz - Operating axial force
+PRx - Seating axial force
+
+Hri - Gaskel ring height (int.)
+
+A =De-2'Ce = 1680.
+
+B = Di + 2*Ci + 2°Pli = 1500,
+
+G = Qo - 2°Hre - Ng = 1520.
+Forces
+
+FRB = n'Piw'B2/ 4 = 1439712,
+
+FFB = p*P1w*(G2 - B2) / 4 = 38648.27
+FSB =FR + FFB + FDB = 1506371.
+
+FDV = n"G"KOKD = 2865164.
+FDVas = FDV = 2865164.
+
+Csal = 1.1
+
+MT-VESS Rev.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: B7-B8-DIN 2505
+
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Dalasheet : Flange - Element No. 2/ 3 Sh. 7 of 56
+
+Material
+Shell: EN 10028-7-X2CrNiMa17122
+Flange: NF EN 10222-2 - P265 GH
+Bolts: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasket: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolts series: UNI/ ISO
+
+(Flange 1)
+DESIGN CONDITIONS
+
+0.815 MPa De
+0.1 MPa c
+50. Cent Go
+- mm T
+
+- mm g0
+- mm gl
+1500. mm h
+10. mm Cfg
+237.125 N/mm2 Pfg - Weld depaosit (gask.lace)
+
+260. N/mm2 KF - Flange yield
+
+50. Cent KFo - Flange yield (amb.)
+
+40 Ng - Gasket width 10.
+20.32 mm w - Gasket graoves plich -
+
+24. mm KO - Gasket lactor KO 1.5
+
+27. K1 - Gasket tactor K1 6.
+
+0.75 KOKD - Gasket factor KO"KD 600.007
+713.6 KD - Gasket factor KD 400.004
+724, e = Noeulral axis distance -
+
+- Ri - Riser thickness 0.001
+
+- b - Clearance shell/llange 1.5
+
+- Flange outside diam.
+
+- Bolts circle diam.
+
+- Gasket outslde diam.
+
+- Flange thickness
+
+- Hub lower thickness
+
+- Hub higher thickness
+
+- Hub length
+
+- Flange corr. (gask.face)
+
+   
+
+Hre - Gaskel ring helght (ext.)
+
+Ss=Ts-Ci-Ce-Pli=10.
+Dif = DI + 2°Ts + 2°§ = 1523,
+
+R« .5°(C-B)-glc=-
+SD=1.2
+
+Piw=P =0.815
+
+FR = FRB + PRz = 1439712.
+FDB = x*P1w'G'SD*K1 = 28011.04
+
+FS0 = Max| (FDVas+PRx), Csal*FSB } = 2865(64.
+
+Gasket overloading
+KD® = 405.004
+FD@ = x*G*K0*KD@ = 2900979.
+
+ 
+
+VA S
+
+From B7 Table 2
+
+  
+
+ 
+
+ 
+
+HI = T( - Ce - MAX( RI, Cfg+Pfg ) = 79.599
+
+Th.s documaent is the oroparty of STUDID ZUCCHELLI who will safeguarc RS righls acsorang 1o the cail and panat provisions of the Law
+
+STUDIO TECNICO
+MAURQ ZUCCHELLI
+
+MT.VESS Rov.34.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-88-DIN 2505
+
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheet : Flange - Element No. 2/3 Sh. 8
+
+ 
+
+Flange allowable stress
+St=15
+
+Sfo=1.05
+Sf=15
+Sfo=1.05
+
+Bolts check
+C5=3.
+
+If = KF / sf = 138.667
+
+flo = KFo / Sfo = 204.762
+fv=KV/Sf=158.083
+fvo = KVo/ Sfo = 247.619
+
+ 
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+Flange: NF EN 10222-2 - P265 GH
+Bolts: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasketl: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolts series: UNI/ ISO
+
+(Flange 1)
+
+DESIGN CONDITIONS
+
+Bolls allowable stress
+S(=1.8
+
+Sto=13
+
+(B7 Table 3.2)
+fb = KB/ Sl = 396.444
+Ibo = KBo / Slo = 556.923
+
+Dsop =[4'FSB/ (n"¢'lb*Nb)] 12 4 C5 = 15.699
+Dsbu = [4°FS0 / (x"¢"ibo"Nb)] 12 = 14.776
+
+Flange check
+
+FSBm = Max( FSB flange 1, FSB flange 2 ) = 1506371.
+
+aR={C-(B+Ss)|/2=525
+aD=(C-G)/2=475
+V=05
+
+From diagram in B8 Fig. 3
+
+ 
+
+F80m = Max( FS0 llange 1, FSO flange 2 ) = 2865164.
+aF = (2°C-B-G)/4 =525
+
+al =[C - (Di+2°g1)}/2 =-
+
+db=V'dl=13.5
+
+Sl = FR/[r"(B + Ss)*K] = 1.459
+
+FDBm = FSBm - FA - FFB = 28011.08
+
+Section A-A
+
+MRB = FR * aR = 75584870.
+
+M1 = MRB + MFB + MDB = 78944430.
+
+MFB = FFB * aF = 2029034. MDB = FDBm * aD = 1330526,
+MO = FSOm * aD = 136095300,
+
+W = 0.9°n"[(A - DIf - 2°d'L)*HI2 + (B + Ss)*(Ss2- SI2)] / 4 = 692554.8
+
+aAAop =M1 /W = 113,99
+
+st aAAbu = MO /W = 196.512 <flo
+
+  
+
+ 
+
+et e e s ey e et AR g st sne e o
+
+T
+
+ 
+
+ 
+
+g
+
+omrm s g g e i e
+   
+ 
+
+  
+ 
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+
+ASME materlals archive: ASME II-Part D - METRIC - E2007A08
+Calcul.Datasheet : Flange - Element No. 2/ 3
+
+ 
+ 
+
+STUDIO TECNICO
+VMAURO ZUCCHELLI
+
+    
+     
+ 
+   
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+- Flange: NF EN 10222-2 - P265 GH
+Bolts: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasket: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolts series: UNI/ I1SO
+
+ 
+
+(Flange 1)
+
+HYDRAULIC TEST CONDITIONS
+P - Pressure 1.159 MPa De - Flange outside diam. 1680.
+Pe - External pressure - MPa c - Bolts circle diam. 1615.
+T - Temperalure 20. Cent Go - Gasket outside diam. 1530.
+Ci - Intemal corrosion - mm T - Flange thickness 80.
+Ce - External corrosion - mm g0 - Hub lower thickness -
+Pli - Internal lining - mm a1 - Hub higher thickness -
+DI - Shell inside diam. 1500. mm h - Hub length =
+Ts - Shell thickness 10. mm Cfg - Flange corr. (gask.face) -
+KV - Shell yield 260. N/mm2 Plg - Weld deposit (gask.face) =
+KVo - Shell yield (amb) 260. N/mm2 KF - Flange yleld 215,
+Tb - Bolts temperature 20. Cent KFo - Flange yield (amb.) 215.
+Nb - Balts number 40 Ng - Gasket widlh 10.
+Ds - Bolts root diameler 20.32 mm w - Gasket grooves pilch -
+Db - Bolls nom.diameter 24. mm Ko - Gasket factor KO 1.5
+dL - Bolts hole diameter 27. mm Kt - Gasket factor K1 6.
+b - Auxillary tactor 0.75 KOKD - Gasket factor KO'KD 600.007
+KB - Bolts yield 724, N/mm2 KD - Gesket factor KD 400.004
+KBo - Bolts yield (amb.) 724. N/mm2 e - Neutral axis dlistance -
+PRz - Operaling axial force - N Rt - Riser thickness 0.001
+PRx - Sealing axlal force - N 8 - Clearance shell/flange 15
+Hri - Gasket ring height (int.) - mm Hre - Gaskel ring height (ext.) -
+
+A=Ds-2°Co = 1680,
+
+B = Di + 2'Cl + 2°Pil = 1500.
+
+G = Go - 2'Hre - Ng = 1520.
+Forces
+
+FAB = n*P1w*B2/ 4 = 2047610.
+
+FFB = *P1w*(G2- B2) / 4 = 54966.96
+FSB = FR + FFB + FOB = 2142415,
+FDV = n*G*KOKD = 2865164.
+
+FDVas = FDV = 2865164.
+
+Ss=Ts-Ci-Ce-Pli=10,
+Dif = Di + 2'Ts + 2°5 = 1523,
+
+R=.5%C-B)-glca-
+SD=1.2
+
+Plw=P=1.159
+
+FR = FAB + PAz = 2047610.
+FDB = x°"P1w'G*SD*K1 = 39838.3
+
+Csaf = 1.1
+
+FS0 = Max[ (FDVas+PRx), Csal*FSB ] = 2865164,
+Gasket overloading
+KD@ = 420.005 From B7 Table 2
+
+FDO = 1"G'KO'KD@ - 3008422, >FSB
+
+This document s the property of STUDIO ZUCCHELLI who wi sstequard is 13his according 1o the cavl and penal provisions of Inc law
+
+ 
+
+e e e e [ et g s
+
+ 
+
+[ ety .
+
+Sh. 9
+
+MT-VESS Rov.3.4.1
+Dale: 17-01-2011
+
+ 
+
+ol 56
+
+ 
+
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+N/mm2
+N/mm2
+mm
+mm
+mm
+mm
+N/mm
+N/mm2
+mm
+mm
+mm
+
+mm
+
+HI =Tt - Ce - MAX( RI, Clg+Plg ) = 79.pag
+
+Thrs Gocument is tha proparty of STUDIO ZUGCHELLI wha will s3laguard &3 1ights accordng to (ha el and penal Provisons of tne law
+
+MT-VESS Rev.3.4.1
+Project: M44-MECC-110  ltem: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheet : Flange - Element No. 2/ 3 Sh. 10 of 56
+
+STUDIO TECNICO
+MAURQO ZUCCHELLI
+
+Material
+Shell: EN 10028-7-X2CrNIMo17122
+Flange: NF EN 10222-2 - P265 GH
+Bolts: A 193 B7-A194 2H-G41400
+Lining;
+
+Gaskel: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolts series: UNI/1SO
+
+ 
+
+(Flange 1)
+
+HYDRAULIC TEST CONDITIONS
+
+Flange allowable stress Bolts allowable stress
+
+(B7 Table 3.2)
+
+Sf=1.05 I « KF / sf = 204.762 St=1.3 Ib = KB/ Sl = §56.923
+Sfo = 1.05 ffo = KFo / Sfo = 204.762 Sfo=1.3 fbo = KBo / Sfo = 556.923
+Sf=1.05 fv=KV/Sl=247.619
+
+Sfo = 1.05 fvo = KVo / Sfo = 247.619
+
+Bolts check
+
+C5=-
+
+Dsop =[4'FSB/ (n"9*Ib°Nb)] 172 4 C5 = 12.778 <Ds
+
+Dsbu = [4'FS0/ (x*¢*fbo*Nb)| 172 = 14.776 <Ds
+
+Flange check
+
+FSBm = Max( FSB llange 1, FSB flange 2 ) = 2142415,
+aR=[C-(B+Ss)]/2=525
+
+aD=(C-G)/2=475
+
+V=05 From diagram in B8 Fig. 3
+
+FSOm = Max( FSO0 llange 1, FS0 flange 2 ) = 2865164.
+aF=(2'C-B-G)/4 =525
+
+al =[C- (Di+2'q1)]/2 =~
+
+dl=V'dL=13.5
+
+Sl=FR/[n*(B + S5)*K] = 2.008
+
+FDBm = FSBm - FR - FFB = 39838.2
+
+Section A-A
+
+MRB = FR * aR = 107499500, MFB = FFB * aF = 2885765. MDB = FDBm * aD = 1892314.
+M1 = MRB + MFB + MDB = 112277600. M0 = FSOm * aD = 136095300.
+
+W =0.9°z"((A - Dif - 2'd'L)*Hf2 + (B + Ss)"(Ss2- SI2)]/ 4 = 6905251
+
+cAAop =M1 /W = 162.597 <ff oAAbU = MO /W = 197.09 sfifo
+
+e s b b s
+
+ 
+
+e e e b et e e e
+
+e ] s
+ 
+
+ 
+  
+   
+ 
+
+MT-VESS Rov.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheet : Flange - Element No. 2/ 3 Sh. 11 of 56
+
+   
+     
+  
+  
+  
+ 
+ 
+ 
+
+ 
+
+   
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+   
+ 
+
+  
+      
+
+ 
+
+  
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+= Flange: NF EN 10222-2 - P265 GH
+
+Bolts: A 193 B7-A194 2H-G41400
+
+e Lining:
+DT] - Gasket:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+     
+ 
+
+Flange facing: FLAT-FLAT
+Bolls series: UNI / 1ISO
+
+    
+  
+
+e A (Flange 2)
+
+DESIGN CONDITIONS
+
+ 
+    
+  
+
+       
+          
+       
+    
+      
+         
+     
+       
+      
+        
+     
+       
+   
+        
+      
+ 
+
+     
+  
+     
+          
+ 
+        
+      
+        
+        
+     
+        
+   
+    
+  
+
+P - Pressure 0.815 MPa De - Flange oulside diam. 1680. mm
+Pe - External pressure 0.1 MPa Cc - Bolts circle diam. 1615, mm
+
+T - Temperalure 50. Cent Go - Gasket outslde diam, 1530. mm
+
+Ci - Intemal corrosion - mm Tt - Flange thickness 80. mm
+Ce - External corrosion - mm g0 - Hub lower thickness - mm
+
+Pli - Internal lining - mm gt - Hub higher thickness - mm
+
+DI - Shell inside diam. 1500. mm h - Hub langth - mm
+
+Ts - Shell thickness 10. mm Cfg - Flange corr. (gask.face) - mm
+KV - Shell yleld 237.125 N/mm2 Plg - Weld deposit (gask.face) - mm
+KVo - Shell yield (amb) 260. N/mm2 KF - Flange yield 208. N/mm2
+Tb - Bolls tomperature 50. GCent KFo - Flange yield (amb.) 215. N/mm2
+Nb - Bolts number 40 Ng - Gasket width 10. mm
+
+Ds - Bolts root diameter 20.32 mm w - Gasket grooves pitch - mm
+
+Db - Bolts nom.diameter 24. mm KO - Gasket factor Ko 1.5 mm
+
+dL  -- Balts hole diameter 27. mm K1 - Gasket factor K1 6. mm
+
+¢ - Auxiliary faclor 0.75 KOKD - Gasket faclor KO*KD 600.007 N/mm
+KB - Bolts yield 713.8 N/mm2 KD - Gasket lactor KD 400.004 N/mm2
+KBo - Bolls yield (amb.) 724. N/mm2 e - Neutral axis distance - mm
+PRz - Operaling axial force - N Ri - Riser thickness 0.001 mm
+PRx - Seating axial force - N 8 - Clsarance shell/llange 15 mm
+
+     
+
+Hil - Gasket ring height (int.) - mm Hre - Gasket ring height {ext.) - mm
+
+   
+    
+         
+   
+   
+     
+      
+ 
+
+FDVas = FDV = 2865164.
+
+ 
+   
+ 
+
+Csaf = 1.1
+
+FS0 = Max[ (FDVas+PRx), Csal*FSB ) = 2865164.
+
+Gasket overioading
+
+KD@ = 405.004 From B7 Table 2
+
+FDe = x*G*K0*KD@ = 2900979, 2FSB
+
+ 
+     
+     
+ 
+
+This document is tha propenty of STUDIO ZUCCHELU who whl saiequard ks rights aceord'ng to tha civil and penal provisions of the law
+
+ 
+
+ 
+
+e S S
+
+A =De-2'Ce = 1680. Ss=Ts-Cl-Cs-Pli=10, Hf = Tf - Ce - MAX( RI, Clg+PIg ) = 79.p89
+B = Di+2°Ci + 2°Pli = 1500, Dif = Di+ 2'Ts + 25 = 1523, R=.5%C-B)-glc=-
+
+G =Go - 2'Hre - Ng = 1520. SD=12 Plw=P =0.815
+
+Forces
+
+FRB = n*P1w*B2/4 = 1439712, FR =FAB 1+ PAz = 1439712,
+
+FFB = n*P1w*(G2- B2) / 4 = 38648,27 FDB = x"P1w'G*SD*K1 = 28011.04
+
+FSB = FR + FFB + FDB = 1506371.
+
+FDV = 1*G*KOKD = 2865164.
+
+ 
+  
+ 
+
+  
+    
+       
+   
+  
+  
+   
+ 
+    
+  
+   
+ 
+  
+      
+ 
+
+Ths document is the oroperty of STUDIO ZUGCHELLI who will s2teguard 1S rights acsordna ta tha eivil and venal provisions of the law
+
+MAURO ZUCCHELLI
+
+    
+ 
+
+STUDIO TECNICO
+
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+ASME materials archive: ASME [I-Part D - METRIC - E2007A09
+Calcul.Datasheet : Flange - Element No. 2/ 3
+
+MT-VESS Aev.3.4.1
+
+Date: 17-01-2011
+
+Sh. 12 of 56
+
+ 
+
+Material
+
+Shell: EN 10028-7-X2CrNiMo17122
+
+ 
+
+Flange facing: FLAT-FLAT
+Bolts series: UNI /1SO
+
+{Flange 2)
+
+ 
+
+Flange allowable stress
+
+DESIGN CONDITIONS
+
+s Flange: NF EN 10222-2 - P265 GH
+Bolts: A 193 B7-A194 2H-G41400
+
+Lining:
+U‘I éis Qaslet:
+
+Balts allowable stress (B7 Table 3.2)
+Sf=15 ff = KF / sf = 138.667 St=1.8 Ib = KB/ Sf = 396.444
+Sto = 1.05 ffo = KFo / Sfo = 204.762 Sto=1.3 Ibo = KBo / Sfo = 556.923
+Sf=1.5 fv =KV /Sf=158.083
+Sto = 1.05 fvo = KVo / Sfo = 247.619
+Bolts check
+C5=3,
+Dsop = [4*'FSB/ (n"y"(b*Nb)) 12 + C5 = 15.699 <Ds
+
+Dsbu = [4*FS0/ (x°4*lbo*Nb)] 172 = 14.776
+
+Flange check
+
+FSBm = Max( FSB flange 1, FSB flange 2 ) = 1506371.
+
+aR=[C-(B +Ss)]/2=525
+aD=(C-G)/2=475
+
+<Ds
+
+aF = (2'C-B-G)/4 =525
+al =[C-(Di+27g1)]/2 = -
+
+V=05 From diagram In B8 Fig. 3 d'L=V*dL =13.5
+
+FDBm = FSBm - FR - FFB = 28011.08
+Section A-A
+
+MRB = FR * aR = 75584870,
+M1 = MRB + MFB + MDB = 78944430,
+
+Sl=FR/[n*(B + Ss)*K] = 1.459
+
+MFB = FFB * aF = 2023034. MDB = FDBm * aD = 1330526.
+
+MO = FSOm * aD = 136095300.
+
+W = 0.9"%'({A - DIl - 2°d'L)*H{2 + (B + Ss)*(Ss2- SI2)] / 4 = 692554.8
+
+oAAop = M1 /W = 113.99
+
+sfif cAAbU = MO /W = 196.512
+
+FSOm = Max( FSO flangs 1, FSO flange 2 ) = 2865164,
+
+sifo
+
+ 
+
+ 
+   
+  
+  
+ 
+
+ 
+
+      
+    
+   
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+
+MAURO ZUCCHELLI | ASME materials archive: ASME II-Part D - METRIG - E2007A09
+Calcul.Dalasheet : Flange - Element Na. 2/3
+
+STUDIO TECNICO
+
+ 
+
+ 
+
+b~ 7
+
+  
+     
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+= Flange: NF EN 10222-2 - P265 GH
+Bolls: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasket:
+
+Flange facing: FLAT-FLAT
+
+Bolls series: UNI/ ISO
+
+    
+
+(Flange 2)
+
+HYDRAULIC TEST CONDITIONS
+P - Pressura 1.159 MPa De - Flange outside diam. 1680.
+Pe - External pressure - MPa C - Bolts circle diam. 1615,
+T - Temperature 20. Cent Go - Gaskel outside diam. 1530.
+Ci - Internal corrosion - mm T - Flange thickness 80.
+Ce - External corrosion - mm a0 - Hub lower thickness -
+Pli - Internal lining - mm 91 - Hub higher thickness -
+Di - Shell inside diam. 1500. mm h - Hub length -
+Ts - Shell thickness 10. mm Clg - Flange corr. (gask.face) -
+KV - Shell yield 260. N/mm2 Plg - Weld deposlt (gask.face) -
+KVo - Shell yield (amb) 260, N/mm2 KF - Flange yield 215,
+Tb - Bolts temperalure 20. Cent KFo - Flange yield (amb.) 215,
+Nb - Bolls number 40 Ng - Gaskel width 10.
+Ds - Bolts root dlameler 20.32 mm w - Gaskel grooves pltch -
+Db - Bolls nom.diameler 24, mm KO - Gasket faclor KO 1.5
+dL - Bolls hole dlameter 27. mm K1 - Gasket factor K{ 6.
+b - Auxiliary factor 0.75 KOKD - Gasket factor K0*KD 600.007
+KB -Bolls yield 724. N/mm2 KD - Gasket factor KD 400.004
+KBo - Bolls ylald (amb.) 724. N/mm2 e - Neutral axls disfance -
+PRz - Operaling axial force - N Rt - Riser thickness 0.001
+PRx - Sealing axial force - N 5 - Clearance shell/lange 1.5
+Hri - Gaskel ring height (int.) - mm Hre - Gasket ring height (ext.) -
+
+A =De-2°Ce = 1680, Ss=Ts-Ci-Ce -Pli=10,
+B = DI +2°Ci + 2'Pli = 1500. Dil = Di + 2'Ts + 25 = 1523,
+G = Go - 2*Hre - Ng = 1520. SD=1.2
+Forces
+
+FRAB = x*P1w"B2/4 = 2047610.
+
+FFB = n*P1w*(G2- B2) / 4 = 54966.96
+
+FSB = FR + FFB + FDB = 2142415,
+
+FDV = 1"G'KOKD = 2865164,
+
+FDVas = FDV = 2865164.
+
+R=.5%C-B)-glc=-
+Plw=P=1.159
+
+FR =FRB + PAz = 2047610.
+FDB = n"P1w*G"SD’K1 = 39838.3
+
+Csaf = 1.1
+
+FS0 = Max[ (FDVas+PRx), Csal*FSB ] = 2865164,
+
+Gasket overloading
+
+KD@ = 420.005 From B7 Table 2
+
+FDe = x"G*K0*KD@ = 3008422, >FSB
+
+This Gocument s Ihs propenty of STUDIO ZUCCHELL! wha wil e3laguard fis rights aceorng fo Ina civi 2nd penaf provisions of the faw
+
+Sh. 13 of 56
+
+MY.VESS Rev.3.4.1
+Date: 17-01-2011
+
+mm
+mm
+mm
+mm
+mm
+
+mm
+mm
+mm
+mm
+N/mm2
+N/mm2
+mm
+mm
+mm
+mm
+N/mm
+N/mm2
+mm
+mm
+mm
+
+mm
+
+Ht = Tt - Ce - MAX( R, Clg+Plg ) = 79.539
+
+ 
+
+e et Lo ey e 120t e et e e e e
+
+ 
+
+MT-VESS Rov.3.4.1
+Projecl: M44-MECC-110  ltem: S.N. 3268 Dale: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: B7-B8-DIN 2505
+
+ASME materlals archive: ASME |I-Part D - METRIC - E2007A09
+Calcul.Datasheet : Flange - Element No. 2/3 Sh. 14 ol 56
+
+   
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+  
+ 
+
+  
+ 
+
+ 
+   
+   
+
+  
+
+ 
+
+    
+ 
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+% Flange: NF EN 10222-2 - P265 GH
+Bolts: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasket:
+
+Flange facing: FLAT-FLAT
+
+Bolts serles: UNI /ISO
+
+ 
+    
+ 
+    
+ 
+     
+  
+
+(Flange 2)
+
+HYDRAULIC TEST CONDITIONS
+
+Flange allowable stress Bolts allowable stress
+Sf=1.05 1t = KF / sf = 204.762 sf=1.3
+
+Sfo =1.05 flo = KFo / Sta = 204,762 Sfo=1.3
+Sl=1.05 fv=KV/SI=247619
+
+Sfo = 1,05 fvo = KVo / Sfo = 247.619
+
+Bolts check
+
+C5=-
+
+Dsop = [4°FSB/ (x*$*b*Nb)] 12 + C5 = 12,778 < Ds
+Dsbu = [4*FS0 / (n*s'(bo*Nb)}1/2 = 14.776 s Ds
+
+ 
+    
+     
+
+(B7 Table 3.2)
+fb = KB/ St = 556.923
+fbo = KBo / Sfo = 556.923
+
+               
+     
+ 
+     
+   
+ 
+
+Flange check
+
+FSBm = Max( FSB flange 1, FSB flange 2 ) = 2142415,
+aR=[C-(B+Ss)]/2=526
+
+aD=(C-G)/2=475 ¢
+
+V=05 From diagram In B8 Fig. 3
+
+FSOm = Max( FSO flange 1, FSO flange 2 ) = 2865164,
+aF=(2'C-B-G)/4=525
+
+al=[C-(Dl+291)]/2 =-
+
+dL=VdlL=135
+
+Sl = FR/[x"(B + Ss)°K] = 2.008
+
+    
+     
+   
+    
+ 
+
+FDBm = FSBm - FR - FFB = 39838,2
+Sectlion A-A
+
+    
+    
+
+MRB = FR * aR = 107499500. MFB = FFB * aF = 2885765. MOB = FDBm ~ aD = 1892314.
+M1 = MRB + MFB + MDB = 112277600. MO = FSOm * aD = 136095300.
+
+W = 0.9'%'[(A - Dil - 2'0'L)*HI2 + (B + Ss)*(Ss2- S12)}/ 4 = 630525.1
+
+oAAOp = M1 /W = 162.597 <t oAAbY = M0 / W = 197.09 <o
+
+       
+   
+   
+
+        
+
+Trés documant is the property of STIXND 2UCCHELL wha wil safaguard its nghls acoorcing 10 the oivi and penal provisians of the law
+
+ 
+  
+
+MT-VESS Rov.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B1-B10
+
+ASME materials archive: ASME Il-Part D - METRIC - E2007A00
+Calcul.Datashest : Cylinder - Element No. 4 Sh. 15 af 56
+
+ 
+
+ 
+
+   
+
+  
+  
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+  
+       
+     
+ 
+ 
+ 
+
+ 
+
+ 
+
+  
+
+Material
+Base: EN 10028-7-X2CrNiMo17122
+{nt.Lining:
+
+ 
+   
+
+   
+  
+ 
+  
+ 
+
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updales March 2009
+Paragraph: B1-B10
+
+ASME materials archive: ASME I(-Part D - METRIC - E2007A09
+Calcul.Datasheet : Cylinder - Element No. 4
+
+Material
+
+MT-VESS Rev.3.4.1
+
+Date: 17-01-2011
+
+Sh. 16 of 56
+
+Base: EN 10028-7-X2CrNiMa 17122
+
+    
+
+   
+
+ 
+        
+                     
+       
+ 
+ 
+ 
+
+Int.Lining:
+INTERNAL PRESSURE TEST PRESSURE
+P - Pressure 0.815 MPa Cl  -Inlernal corrosion . mm P - Pressure 1.159 MPa Ci - Internal corrosion - mm
+T - Temperature 50. Cent Ce - External corroslon - mm T - Temperature 20. Cent Ce - Exlernal corroslon - mm
+Di - Inside diameler 1500. mm Pli - Internal lining - mm Di - Inside diameter 1500. mm Pli - Internal lining - mm
+K - Yield strength 237.125 N/mm2 Ple - External lining - mm K - Yield strength 260. N/mm2  Ple - External lining - mm
+St - Salety factor 1.5 t - Tolerance 0.25 mm Sf - Safety factor 1.05 t - Tolerance 0.25 mm
+z - Joint efticlency 0.85 St - Total thickness 10. mm z - Joint efficiency 0.85 St - Total thickness 10. mm
+
+    
+
+Da = Di + 25t - 2Ple - 2Ce = 1520,
+
+   
+
+{=K/Sf=158.083
+
+Da = Di + 2St - 2Ple - 2Ce = 1520. f=K/Sf=247.619
+
+   
+  
+
+P‘Da
+2*'z+ P
+
+ 
+
+P*Da
+2'('z+ P
+
+S0 =
+
+ 
+ 
+
++Cl+Ce +Pli+Ple +1=4.814 S0 =
+
+ 
+
+ 
+ 
+
++Ci+Ce +Pli + Ple +1=4.395
+
+  
+
+0331 21 Hights 3¢cording To the ¢l and penal provisions of the law
+
+Installed thickness = 10,
+
+   
+
+Installed thickness = 10,
+
+Thes document ks the property of STUDIC ZUCCHELLY who will sal
+Ths dociament 11 the property of STUDKD ZUCCHELLI whe wi eafequara Is rights aceceing fo tha civil and panal provisons ot e law
+
+ 
+
+et o e oty s e 4 4105
+
+   
+
+e AN S ot e e
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+MT-VESS Rev.d.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragreph: B6
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Caleul.Datasheet : Cylinder - Element No, 4 Sh. 17 of 56
+
+ 
+
+Material
+Base: EN 10028-7-X2CrNiMo17122
+Int.Lining:
+
+ 
+
+- Pressure
+
+- Temperature
+
+- Inslde dlameter
+- Yleld strength
+
+- Satety factor
+
+- Elasticity modulus
+- Out of roundness 1. St
+- Poisson coefficient 0.3
+
+n= 5§ >Z=
+
+Sk = Max( 2.25 + 0.5°U
+
+P1 = Per/ Sk = 0.365
+2°'s K
+Da C3'Kc
+
+This documend it the propearly of STUDIO 2UCCHELLS who wil safeguard fs rights acoording 1o the Givil and penal prosisions of the law
+
+ 
+
+Da = Di + 25t - 2Ple - 2Ce = 1520.
+§=81-Ci-Ce-Pli-Ple-t=9.75
+
+Da Da
+Kem 1400150 (1-0.2 U) — = 3.051
+. B
+
+,3)=8.
+
+EXTERNAL PRESSURE
+
+0.1 MPa Ci
+50. Cent Ce
+1500. mm Pli
+237.125 N/mm2 Ple
+1.5 1
+192952, N/mm2 Lj
+
+- Internal corroslan
+- External corrosion
+- Internal lining
+
+- External lining
+
+- Tolerance
+
+- Stiffening length
+
+- Total thickness
+
+  
+
+f=K/Sf=158.083
+
+n'Da
+
+= 0.967
+
+2
+
+s ga 2. 1.
+PerwE {—m ————= .8 #lnh“ 2'n2-1-v
+
+M2 [+ (3R
+
+YT -v2)Dae
+Oa 3*(1 - v2)*Da’ |+(~;—)z
+
+Da < 5°Ll = 12345,
+
+C3=1.6
+
+P2 = =0.623
+
+Maximum External Pressure = 0.365
+
+ 
+
+L S s b i i 00 e
+
+ 
+
+Tres cocument 13 the property of STUDIC ZUCCHELLI who wi safeousra &3 rights acoorsing to the avil and penal provisions of tae krw
+
+P e s
+
+Project: M44-MECC-110  ltem: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+Paragraph: B9
+
+MT-VESS Rev.3.4.1
+Dale: 17-01-2011
+
+ 
+
+ASME materials archive: ASME |I-Part D - METRIC - E2007A09
+Calcul.Datasheet : Nozzle N1-N2
+
+Sh. 18 of 56
+
+ 
+
+ 
+
+ 
+
+Construction: SET IN
+
+Reinforce: RING
+
+Wall: CYLINDER
+
+Material
+Wall: EN 10028-7-X2CrNiMo17122
+Ring: EN 10028-7-X2CrNiMo17122
+Reinf.pad:
+Int.Lining:
+Ext.Lining:
+
+Condition: INTERNAL PRESSURE
+
+OPENING CHECK
+Nozzle: N1-N2
+
+e - Pressure 0.815 MPa
+T - Temperafure 50. Cent
+Dw - Wallinternal diam, 1500. mm
+Sw - Wall thickness 10. mm
+- Wall yield 237.125 N/mm2
+- Wall tolerance 0.25 mm
+- Wall Inl.corros. mm
+- Wall ext.corros. mm
+- Wall int.lining mm
+Plew - Wall ext.lining mm
+db - Distance from border R mm
+lip - Internal projection mm
+o - Angle with normal °
+wil - Weld leg (outward nozzle) mm
+wi3 - Weld leg (inward nozzle) mm
+
+ 
+
+Sf=1.5 fw = KW / Sf = 158.083
+Swe = Sw - Giw - Cew - Pliw - Plew - tw = 9.75
+Ri=.5"Dw + Ciw + Pliw = 750.
+
+L = [(2*Ri + Src)*Src]V2 = 172.134
+
+Lm=-
+
+B=al=-
+
+Wall
+
+APM = Ri*[Lm + a] = 151875.
+AFM =Lm* Swec =-
+
+Opening check
+fto = Min( fw, ft ) = 158.083
+
+Dt - Ring int.diamel. 275.
+
+ft - Ring allow.slress 158.083
+ft - Ring tolerance 0.3
+
+Cit - Ring int.corras.
+
+Cet - Ring ext.corros,
+
+Plit - Ring int.lining
+
+Plet - Ring ext.lining
+
+Sr - Ring height
+Lr - Ring thickness
+
+w2 -Wsld leg (outer pad)
+Lo - Reinl. limit on the wall
+lo - Reinl. limit on the nozzle
+
+Lrc =Lr-Cit- Plit- tt = 64.7
+Dic = Dt + 2°Cit + 2*Plit = 275,
+Src = Min[ (Sr-Cit-Plit-t), 2°Swe, 10>0] = 19.5
+
+a=05(Dt +2°Lr) / cos § = 202.5
+Nozzle
+
+APT = 0.5"Dtc * (Src - lip) = 2681.25
+AFT = Lrc * Src = 1261.65
+Additfonal
+
+APA = 0.5°Dte2* Ig 3 »-
+
+AFS = .5°(WI12 + wl22 4+ wi32) = -
+
+Al = (AFM + AFS)*(Iw - 5'P) + AFT*(fto - .5*P) = 198931.9
+
+A2 = P*(APM + APT + 0.5'APA) = 125922.4
+
+  
+
+ 
+
+S0 18 e meimg o ety sre e S g e
+
+<A1l
+
+i 1 A8 g e e oy g o e bham gt
+e ot [ g b g e
+
+ 
+ 
+
+  
+    
+
+STUDIO TECNICO
+MAURQ ZUCCHELLI
+
+  
+    
+
+   
+
+4 - Pressure 1.159
+
+T - Temperature 20.
+Dw - Wallinternal diam. 1500.
+Sw - Wall thickness 10.
+KW - Wall yleld 260.
+w - Wall tolerance 0.25
+
+Ciw - Wallinl.corros. -
+Cew - Wall ext.corros. -
+Pliw - Wall intlinlng -
+Plew - Wall ext.lining -
+
+  
+
+db - Distance from border 8986,
+lip - Internal projection -
+ol - Angle with normal -
+
+wit - Weld leg (outward noz2le) -
+wi3 - Weld leg (inward nozzle) -
+
+Sf=1.05
+
+Rl = 5"Dw + Ciw + Pliw = 750.
+L = [(2*Ri + Src)*Sre|v2 = 172,134
+
+Lm=-
+
+p=al=-
+
+Wall
+
+APM = RI*[lLm + a} = 151875.
+AFM =Lm " Swe = -
+
+Opening check
+fto = Min( fw, ft) = 247.619
+
+This cocument is the property ot STUDIO ZUCCHELLI who will safeguard ks rights according to tha ovil 2nd penal provisions of e law
+
+Project: M44-MECC-110  ltem: S.N, 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B9
+ASME materials archive: ASME 1I-Part D - METRIC - E2007A09
+Calcul.Datasheet ; Nozzle N1-N2
+
+OPENING CHECK
+Nozzle: N1-N2
+
+MPa
+Cenl
+mm
+mm
+N/mm2
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+°
+mm
+mm
+
+Iw =KW /Sf=247619
+Swe = Sw - Ciw - Cew - Pliw - Plow - lw = 9.75
+
+A1 = (AFM + AFS)*(fw - .5*P) + AFT"(fto - 5"P) =311677.6
+A2 = P*(APM + APT + 0.5*APA) = 179091.4
+
+ 
+
+ 
+
+MT-VESS Rev.3.4.1
+Date: 17-01-2011
+
+ 
+ 
+   
+  
+  
+
+Sh. 18 of 56
+
+    
+
+    
+ 
+
+Construction: SET IN
+
+Reinforce: RING
+
+Wall: GYLINDER
+
+Material
+Wall: EN 10028-7-X2CrNIMo17122
+Ring: EN 10028-7-X2CrNiMo17122
+Relnf.pad:
+Int.Uning:
+Ext.Lining:
+
+Condition: TEST PRESSURE
+
+ 
+    
+ 
+   
+   
+   
+   
+   
+    
+    
+         
+              
+           
+       
+    
+         
+       
+
+Dt - Ring inl.diamel. 275. mm
+it - Ring allow.stress 247.619 N/mm2
+t - Ring tolerance 0.3 mm
+Clt - Ringint.corros. - mm
+Cel - Ring ext.corros. - mm
+Plit - Ring int.lining - mm
+Plet - Ring ext.lining - mm
+Sr - Ring helght 38, mm
+Lr - Ring thickness 65. mm
+wi2 - Weld leg (ouler pad) - mm
+Lo - Relnt. limit on the wall = mm
+lo - Relinl. limit on the nozzle - mm
+
+  
+  
+    
+     
+
+Lrc=Lr- Cit- Plit- it = 64.7
+Dic = Dt + 2°Cit + 2"Plit = 275.
+Src = Min[ (Sr-Cit-Plit-tt), 2*Swe, lo>0] = 18.5
+
+      
+        
+
+a=0,5"(Dt +2°Lr) / cos B = 202.5
+Nozzle
+
+APT = 0.5*Dlc * (Src - lip) = 2681.25
+AFT = Lrc " Src = 1261.65
+Additional
+
+APA =0.5"Dtc2* tg j =-
+
+AFS = 5"(Wl12 4 w22 + wl32) = -
+
+          
+     
+     
+   
+   
+    
+ 
+
+<Al
+
+     
+
+e e e g 8 s b
+
+ 
+
+This aocument is the propeny of STUDIC ZUCCHELLI who will safeguerd ks nghls aocotdng 10 the Givil and penal provisians of the law
+
+ 
+
+Project: M44-MECC-110  ftem: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+STUDIO TECNICO
+
+Paragraph: B9
+MAURO ZUCCHELLI
+
+ 
+
+ 
+
+MT-VESS Rev.3.4.1
+Date: 17-01-2011
+
+ 
+
+ASME malerials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheet : Nozzle N3
+
+Sh. 20 of 56
+
+Construction: SET IN
+Reinforce: RING
+Wall: CYLINDER
+Material
+Wall: EN 10028-7-X2CrNiMo17122
+Ring: EN 10028-7-X2CrNiMo17122
+Reinf.pad:
+Inl.Lining:
+Ext.Lining:
+Condition: INTERNAL PRESSURE
+
+OPENING CHECK
+Nozzle: N3
+
+P - Pressure 0.815 MPa
+
+T - Temperature 50. Cent
+Dw - Wallinternal diam. 1500. mm
+Sw - Wall thickness 10. mm
+KW - Wall yield 237.125  N/mm2
+tw - Wall tolerance 0.25 mm
+Ciw - Wallint.corros, - mm
+Cew - Wall ext.comos. - mm
+Pliw - Wallintlining - mm
+Plew - Wall ext.lining - mm
+db - Dislance from border 310.5
+
+lip - Internal projection - mm
+of - Angle wilh normal - L
+wil - Weld leg (outward nozzls) mm
+wi3 - Weld leg (inward nozzle) mm
+
+ 
+
+Sf=15 fw = KW/ Sf = 158.083
+Swc = Sw - Ciw - Cew - Pliw - Plew - tw = 9.75
+Rl =.5*Dw + Ciw + Pliw = 750.
+
+L = [(2*Ri + Src)*Src)1/2 = 172,134
+
+Lm=-
+
+B=al=-
+
+Wall
+
+APM = Ri*[Lm + a] = 75000.
+AFM =Lm * Swe = -
+
+Opening check
+flo = Min( fw, ft ) = 158.083
+
+Ot - Ring int.diamel. 90.
+
+ft - Ring allow.stress 158.083
+1t - Ring tolerance 0.3
+
+Cit  -Ringint.corros. -
+
+Cet - Ring ext.corros, -
+
+Plit - Ring int.lining -
+
+Plet - Ring ext.lining -
+
+Sr - Ring helght 42,
+Lr - Ring thickness 55.
+
+wli2 - Weld leg (outer pad)
+Lo -Reinf. limit on the wall
+lo - Relnt. limit on the nozzle
+
+Lrc=Lr- Cit- Plit - tt = 54.7
+Dtc = Dt + 2*Clt + 2°Plit = 90.
+Sr¢ = Min[ (Sr-Cit-Plit-1t), 2*Swe, 1050} = 19.5
+
+a=0.5"(Dt + 2°Lr) / cos [} = 100.
+Nozzle
+
+APT = 0.5*Dic * (Src - lip) = 877.5
+AFT = Lrc * Src = 1066.65
+Addifional
+
+APA =0.5™Dtc2" Ig B =-
+
+AFS = .5%(wl12 + w22 4 wi32) = -
+
+Al = (AFM + AFS)*(fw - .5P) + AFT*(fto - .5°P} = 168185.1
+
+A2 = P*(APM + APT + 0.5"APA) = 61820.07
+
+<A1
+
+ 
+
+ 
+
+ 
+
+ot e b peres T e A [ e
+MT-VESS Rev.3.4.1
+Projecl: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO | calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B9
+MAURO ZUCCHELLI | ASME materials archive: ASME II-Part D - METRIC - E2007A03
+Calcul.Datasheet : Nozzle N3 Sh. 21 of 56
+
+MT-VESS Rev.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: B1-B10
+
+ASME materlals archive: ASME il-Part D - METRIC - E2007A09
+Calcul.Datasheet : Nozzle N4 Sh. 22 of 56
+
+  
+ 
+ 
+
+    
+   
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+      
+   
+ 
+  
+  
+    
+  
+  
+  
+  
+
+ 
+
+ 
+
+Construction: SET IN
+Reinforce: RING
+
+ 
+
+ 
+
+ 
+
+  
+
+Material
+Wall: CYLINDER Base: EN 10028-7-X2CrNiMo17122
+Material Int.Lining:
+Wall: EN 10028-7-X2CrNiMo17122 :
+Ring: EN 10028-7-X2CrNiMo17122
+Reinf.pad:
+Int.Lining:
+Edlinlng: 4 e
+Condition: TEST PRESSURE
+OPENING CHECK INTERNAL PRESSURE
+Nozzle: N3 Nozzle: N4
+P -Pressure 1.159 MPa Dt -Ring Int.diamet, 90. P - Pressure 0.815 MPa Ci - Internal corrosion ® mm
+B -'xnlﬁn;'alunlad_ ?goo Cent i Ring allowsl 40,65 T - Temperature 50, Cent Ce - External corrosion < mm
+w - Wallintemal diam. 3 mm - Ring allow.slress N . . T _
+Sw - Wall thickness 10. mm it - Ring tolerance 0.3 Di " In.slde diameter 280 mm Pl Internal Ilr.ung 1
+KW - Wall yiold 260, N/mm2  Cit - Ring Int.corros. 5 K - Yield strength 237125 N/mm2  Ple - Externallining - mm
+tw - Wall tolerance 0.25 mm Cet  -Ring ext.coros. - Sf - Safety faclor 1.5 t - Tolerance 0.25 mm
+Ciw - Wallint.corros. mm Plit - Ring int.lining - z - Joint efficiency 0.85 St - Total thickness 12. mm
+Cew - Wall ext.corros. mm Plet - Ring ext.lining -
+Pliw - Wall int.lining mm
+Plew - Wall ext.lining mm Sr - Ring helght 42,
+db - Distance Irom border mm Lr - Ring thickness 55.
+lip - Internal projection mm
+al - Angle with normal ® .
+vill - Wold leg (outward nozzle) mm w2 -Weld leg (ouler pad) Da = Di + 25t - 2Ple - 2Ce = 610. t=K/St=158.083
+wi3 - Waeld leg (inward nozzle) mm Lo - Relnt. limit on the wall PD
+2 a
+la <Relnk, limil o0 the Azl S0 =—————— 4 Cl+Ce + Pll + Ple + 1 =2.033
+2'I'z+P
+
+Sf=1.05 fw =KW /SI=247.619
+
+Swe = Sw - Ciw - Cew - Pliw - Plew - tw = 9.75 Lre=Lr-Cit-Plit- tt = 54.7
+
+Ri = .5"Dw + Ciw + Pliw = 750. Dic =Dt + 2°Clt + 2*Plit = 90.
+
+L = [(2"RI + Src)"Src) 12 = 172.134 Sre = Minf (Sr-Git-Plit-tt), 2"Swe, lo>0] = 19.5
+
+Lm=-
+
+B=ol=- a=0.5"(Dt +2°Lr)/cos § = 100.
+Wall Nozzle
+APM = Ri*{Lm + a] = 75000. APT = 0.5"Dtc * (Src - lip) = 877.5
+AFM =Lm * Swc =- AFT = Lrc * Src = 1066.65
+Additional
+APA = 0.5°DIc2 " tg § =
+AFS = 5" (Wi12+ wi22 + wi32) = -
+
+ 
+
+Installed thickness = 12,
+
+Opening check
+
+flo = Min( Iw, it ) = 247.619
+
+Al = (AFM + AFS)*(iw - .5'P) + AFT*(lto - .5°P) = 263504.9
+A2 =P*(APM + APT +0.5°APA) = 87922.73 <A1
+
+This gacument Is the propenty 6! STUDIO ZUCCHELLI who will saleguard ks rights according fo the civil and penal provisions of the faw
+This cocumert Is the property of STUDIO ZUCCHELLI who will sateguerd &3 tights accontng ta the avil and penal provisions of ihe law
+
+ 
+
+ 
+
+e et g e e 4 et st ot st bt g e e L L S g
+
+ 
+ 
+
+i e i
+
+B e e o e e s
+e el e e o
+
+MT-VESS Aov.3.4.1
+Project: M44-MECC-110  ltlem: S.N. 3268 Date: 17-01-2011
+
+Calculation Code; AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B9
+
+ASME malerials archive: ASME il-Part D - METRIC - E2007A09
+Calcul.Datasheel : Nozzle N4 Sh. 23 of 56
+
+   
+   
+  
+
+  
+
+    
+ 
+
+MT-VESS Rov.3.4.1
+Project: M44-MECC-110  ltem: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO | calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: B1-B10
+MAURQ ZUCCHELLI | ASME malerials archive: ASME [l-Part D - METRIG - E2007A09
+Calcul.Datasheet : Nozzle N4 Sh. 24 of 56
+
+ 
+
+ 
+
+       
+
+      
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+   
+ 
+
+ 
+ 
+
+  
+ 
+
+    
+   
+ 
+
+  
+       
+ 
+ 
+ 
+
+    
+ 
+ 
+ 
+
+ 
+
+  
+
+Construction: SET IN
+Reinforce: REINF.THICKNESS
+Wall: CYLINDER
+Material
+Wall: EN 10028-7-X2CrNIMo17122
+
+Nozzle: EN 10028-7-X2CrNiMo17122
+Reinf.pad:
+
+Int.Lining:
+Ext.Lining:
+
+    
+ 
+
+Materlal
+Base: EN 10028-7-X2CrNiMo17122
+Int.Lining:
+
+    
+    
+   
+ 
+
+ 
+    
+   
+    
+ 
+ 
+
+ 
+
+ 
+ 
+
+OPENING CHECK TEST PRESSURE
+
+ 
+ 
+                 
+
+ 
+ 
+
+         
+ 
+
+          
+
+ 
+
+ 
+
+ 
+
+  
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+ 
+  
+     
+
+  
+  
+
+ 
+ 
+
+    
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+    
+    
+
+      
+ 
+ 
+
+    
+          
+         
+        
+     
+   
+
+   
+ 
+   
+
+        
+   
+
+  
+  
+ 
+
+ 
+
+Nozzle: N4 Nozzle: N4
+
+P - Pressure 0.815 MPa Dt -Nozzle int.diamet. 586. mm P - Pressure 1.159 MPa Gi  -lInternal corrosion - mm
+:’ - 1‘;’”‘99’3‘”9 50. Cent St -Nozzle thickness 12. ;‘"‘ T - Temperature 20. Cent Ce - External corrosion - mm
+
+w - Wallinternal diam. 1500. mm ft - Nozzle allow.slress 158.083 /mm2 0 : i " o
+Sw - Wall thickness 10. mm 1t ~ Nozz2le tolerance 0.25 mm Do In'SIde diamatar 580. mm Pli - Internal lining ) mm
+KW - Wallyleld 237125  N/mm2  Cit - Nozzle int.corros. = mm K - Yield strength 260. N/mm2  Ple - External lining - mm
+tw - Wall tolerance 0.25 mm Cet - Nozzle ext.corros. - mm Si - Safely faclor 1.05 t - Tolerance 0.25 mm
+Ciw - Wall Int.corcos. : mm Plit - Nozzle int.lining - mm z - Joint efficiency 0.85 St - Total thickness 12. mm
+Cew - Wall ext.corros. - mm Plet - Nozzle ext.lining - mm
+Pliw - Wall intlining - mm It - Pipa height 37.45 mm
+Plew - Wall ext.lining - mm la - Reinf.thickness helght 50. mm
+db - Distance (rom border 396.5 mm Sa - Reinforcing thickness 12. mm
+lip - Internal profection - mm
+ol - Angle with normal - . n
+wil - Weld leg (outward nozzle) - mm wi2 - Weld leg (outer pad) - mm Da = Di + 251 - 2Ple - 2Ce = 610. f=K/Sf=247.619
+wi3 - Weld leg (inward noxzle) - mm Lo - Relnf, limit on the wall - mm PD.
+
+- Rei = a
+lo Reinl. limit on the nozzle mm S0 = - +GCi+Ce+Pli+Ple+!=1.87
+2'f'z+ P
+
+  
+  
+
+  
+   
+       
+      
+
+Sf=1.5 fw = KW / Sf = 158.083
+
+Swe = Sw - Ciw - Cew - Pliw - Plew - tw = 9.75 Stc = Sa - Cit- Cet - Plit- Plet - tt = 11.75
+
+Ri = .5°Dw + Ciw + Pliw = 750. Dtc = Dt + 2*Cit + 2*Plit = 586.
+
+B=ol=- a=0.5"(Dl + 2"Sa)/ cos f = 305.
+
+L = [(2°Ri + Swc)"Swc]1/2 =121.326 Im = Min{ 1.25"[(Dtc+Stc)*Stc)172, 1a, lo>0} =37.45
+
+  
+  
+
+Ibm = .26°L = 31.545 li=-
+Lm = Min(L, db, Lo>0) = 121.326
+
+       
+         
+    
+ 
+
+Wall Nozzle
+
+APM = RI'[Lm + .5*(DL + 2°Sa)] = 319744.7 APT =.5°DIc * (Im + Swo/cos ) = 13829.6
+
+AFM =Lm * Swc = 1182.931 AFT = Slc * (Im + Swc/cos B +1i) =554.6 Installed thickness = 12.
+Additional
+
+    
+ 
+
+APA = 0.5°Dlc2* tg p =
+AFS = .5*(Wl12 + wI22 4 wi32) = -
+
+ 
+   
+ 
+
+Opening check
+
+fto = Min( fw, it ) = 158.083
+
+A1 = (AFM + AFS)*(fw - .5°P) + AFT*{fto - .5'P) = 273966.9
+A2 = P*(APM + APT + 0.5°APA) = 271774.7 <Al
+
+ 
+ 
+    
+  
+ 
+ 
+
+   
+
+This document i3 the propeny of STUDIO ZUCCHELLI who wil sataguard kS rights 3cconding 10 the civil and penal provisions of ine law
+
+Ths documanl is Ihc property of STUDIO ZUCCHELLI who wi saf=guard Ris rights nceoreing 1o the civd and panat provisiona of fic law
+
+ 
+
+e e e
+
+T g et ettt e L
+
+ 
+    
+    
+  
+  
+   
+ 
+   
+  
+  
+  
+  
+  
+   
+    
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+  
+
+MT.VESS Rov.3.4.1
+Projecl: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO | calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B9
+MAURO ZUCCHELLI | ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheet : Nozzle N4 Sh. 25 of 56
+
+Conslruction; SET IN
+
+Reinforce: REINF.THICKNESS
+
+Wall: CYLINDER
+
+Materlal
+Wall: EN 10028-7-X2CrNiMo17122
+Nozzle: EN 10028-7-X2CrNiMo17122
+
+Reinf.pad:
+
+Int.Lining:
+
+Ext.Lining:
+
+OPENING CHECK
+Nozzle: N4
+P - Pressuro 1.159 MPa Dt - Nozzle int.diamel. 586. mm
+T - Temperature 20. Cent St - Nozzle thickness 12. mm
+Dw - Wallinternal diam. 1500. mm ft - Nozzle allow.stress 247,619 N/mm2
+Sw - Wall thickness 10. mm u - Nozzls lolerance 0.25 mm
+KW - Wallyield 260. N/mm2 Cit - Nozzle int.corros, - mm
+w - Wall talerance 0.25 mm Cet - Nozzle ext.corros. - mm
+Clw - Wall Int.corros. - mm Plit - Nozzle int.lining - mm
+Cew - Wall ext.corros. - mm Plel - Nozzle ext.lining - mm
+Pliw - Wall int.lining - mm It - Pipe helght 37.45 mm
+Plew - Wall extlining - mm la - Reinf.thickness height 50. mm
+db - Distance from border 396.5 mm Sa - Reinforcing thickness 12, mm
+lip - Internal projection - mm
+o - Angle with normat - .
+wil - Weld leg (outward noz2le) - mm wi2 - Weld leg (outer pad) - mm
+wi3 - Weld leg (inward nozzle) - mm Lo - Reinf. limit on the wall - mm
+lo - Relnl. limit on the nozzle - mm
+
+Sf=1.05 fw = KW / Sf = 247 619
+
+Swc = Sw - Giw - Cew - Pliw - Plew - tw = 9,75 Stc=Sa- Cit- Cet- Plit- Plel - tt = 11.75
+Ri = .5"Dw + Ciw + Pliw = 750. Dtc = Dt + 2°Cil + 2*Plit = 586.
+
+B=al=- a=0.5%(Dt +2"Sa) / cos B = 305.
+
+L = [(2°Ri + Swc)*Swc]1/2 =121.326 Im = Min{ 1.25[(Dlc+SIc)*Stc}'’2, la, lo>0 } = 37.45
+lbm = .26°L = 31.545 fi=-
+
+Lm = Min( L, db, Lo>0 ) = 121.326
+Wall Nozzle
+APM = RI"[Lm + .5°(Dt + 2°Sa)) = 319744.7 APT = 5"Dtc * (Im + Swc/cos p) = 13829.6
+AFM =Lm * Swc = 1182.931 AFT = Stc * (Im + Swo/cos B + li) = 554.6
+Additional
+APA =0.5"Dic2* tg B =
+AFS = 5" (W12 + wi22 + wi32) = -
+Opening check
+fto = Min( fw, it ) = 247.619
+Al = (AFM + AFS)*(fw - .5P) + AFT*(ito - .5'P) = 429239, 1
+A2 = P*(APM + APT + 0.5"APA) = 386527.8 <A1
+
+s document it the property of STUDIC ZUCCHELL! wha wil safeguerd fs rights according 1o the &ivl and penal provisions of the law
+
+Th:
+
+ 
+
+T e [ e s e g
+
+ 
+
+R e e e e gt
+
+MT-VESS Aovada
+Project: M44-MECC-110  ltem; S.N. 3268 Date: 17-01-2011
+
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B6
+ASME materials archlve: ASME lI-Parl D - METRIC - E2007A09
+
+ 
+
+ 
+      
+  
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+     
+     
+  
+ 
+ 
+ 
+  
+  
+      
+ 
+  
+    
+   
+  
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2's K
+P2 = Do Gk ™ 43.767
+P3 = ZK e (—S-)2= 43.767
+c3 Li
+
+Maximum External Pressure = 43.767
+
+Calcul.Datashest : Nozzle N4 Sh. 26 of 56
+Material
+Base: EN 10028-7-X2CrNiMo17122
+Int.Lining:
+EXTERNAL PRESSURE
+Nozzle: N4
+P - Pressure 0.1 MPa Cl - Internal corrosion - mm
+T - Temperature 50. Cent Ce - External corrosion - mm
+Di - Inside diameter 586. mm Pii - Internal lining - mm
+K - Yield strength 237.125 N/mm2 Ple - External lining - mm
+E - Elasticlly modulus 182952, N/mm2 t - Tolerance 0.25 mm
+U - Out of roundness 1, Li - Stiffening length 37.45 mm
+v - Poisson coellicient 0.3 St - Total thickness 12, mm
+.S’!
+£
+g De = Di + 2St- 2Ple - 2Ce = 610.
+§| s=St-Ci-Ce-Pli-Ple-t=11.75
+§ 26 PP P
+5l "= TER T T
+3
+3 2 s 253 2'n2-1-v
+g| Por=E '(*-—-—-——-————~—‘——+-—Ta—[n2- 14 ———————|} = 1355.933
+5 (n-"-l)(l+(%)2]1 De 3*(1 - v2)* De! “_(__;_)z
+2
+3| Ke=t. Da > 5'Li = 187.25
+#| Sk=Max(2.25+0.5U,3 )=3. C3=1.6
+z
+£
+§| P1=Por/sk=451.978
+g
+o
+8
+8
+e|
+£
+:
+£
+
+ 
+
+A s s i T A S g e
+
+At L TR A 30 5o
+
+ 
+ 
+  
+  
+ 
+
+  
+ 
+
+Project: M44-MECG-110  ltem: S.N. 3268
+
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: B9
+
+ASME malerials archive: ASME II-Part D - METRIC - E2007A09
+Caleul.Datasheet : Nozzle N4
+
+  
+ 
+
+STUDIO TECNICO
+
+   
+
+MAURO ZUCCHELLI
+
+  
+ 
+
+Canstruction: SET IN
+
+Reinforce: REINF.THICKNESS
+
+Wall: CYLINDER
+
+Material
+Wall: EN 10028-7-X2CrNiMo17122
+Nozzle: EN 10028-7-X2CtNiMo17122
+Reinf.pad:
+Int Lining:
+
+-— Ext.Lining:
+
+ 
+
+ 
+
+OPENING CHECK
+
+Nozzle: N4
+
+P - Pressure 0.1 MPa Dt - Nozzle int.diamet. 586.
+T - Temperalurs 50, Cent St - Nozzle \hickness 12
+Dw - Wallinternal diam. 1500. mm it - Nozzle allow.slress 158.083
+Sw - Wall thickness 10. mm 1t - Nozzle tolerance 0.25
+KW - Wall yield 237.125 N/mm2 Cit - Nozzle inl.corros. -
+tw - Wail tolerance 0.25 mm Cet - Nozzle ext.corros. =
+Ciw - Wall int.corros. - mm Plit - Nozzle int.lining -
+Cew - Wall ext.corros. - mm Plet - Nozzle ext.lining -
+Pliw - Wall ntlining - mm It - Pipe height 37.45
+Plew - Wall ext.lining - mm la - Relnf.thickness height 50.
+db - Distance from border 386.5 mm Sa - Reinforcing thickness 12,
+lip - Internal projecilon - mm
+o - Angle with normal - e
+wil - Weld leg (outward nozzle) - mm w2 - Waeld leg (outer pad) -
+wi3 - Weld leg (inward nozzle) - mm Lo - Reinf, limit on the wall -
+
+lo - Reinf. limit on the nozzle -
+Sf=15 fw = KW/ Sf = 158,083
+
+Swc = Sw - Ciw - Cew - Pliw - Plew - tw = 9.75
+Ri =.5'Dw + Clw + Pliw = 750.
+B=ol=-
+
+Slc = Sa - Cit - Cet - Plit - Plet - tt = 11.75
+Dtc = Dt + 2*Cit + 2°Plit = 586.
+a=0.5(Dt+ 2"Sa)/ cos B =305.
+
+U0 25 Hi3hts according 13 the vl 2nd penal provisions of e lam
+
+L =[(2*Ri + Swc)"Swc)/2 =121.326
+Ibm = 26°L = 31,545 li=-
+Lm = Min( L, db, Lo>0 } = 121.326
+Wall Nozzle
+APM = Ri*[Lm + .5"(Dt + 2°Sa)] = 3197447 APT =.5*Dlc * (Im + Swc/cos j) = 13829.6
+AFM =Lm * Swc = 1182.931 AFT = Stc * (Im + Swc/cos B +li)=554.6
+Additional
+APA = 0.5"Dtc2" Ig B=
+AFS = 5"(wl12 + wi22 + wi32) = -
+Opening check
+flo = Min( fw, ft ) = 158.083
+Al = (AFM + AFS)*(Iw - 5*P) + AFT*(fto - .5'P) = 274587.8
+A2 =P*(APM + APT + 0.5"APA) = 33358.46 <At
+
+ 
+
+This document I the pcpedy of STUDIO ZUCCHELLI who wl sefe;
+
+(
+
+e s ey o e e i et
+
+ 
+
+MT-VESS Rav.3.4.1
+Date: 17-01-2011
+
+Sh. 27 of 56
+—_— ]
+
+mm
+mm
+N/mm2
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+
+mm
+mm
+mm
+
+Im = Min{ 1.25"((Dtc+Stc)*SIc] 12, la, lo>0 } = 37.45
+
+ 
+
+   
+  
+  
+  
+  
+
+True document is the propanty of STUDID 2UCCHELLI who wil sataguard hs fghts aceorang 10 the civil and penal provisions of 1ag lam
+
+(
+
+  
+ 
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B9
+
+ASME materials archive; ASME lI-Part D - METRIC - E2007A09
+Calcul.Datasheet : Nozzle N5-N6
+
+  
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+  
+ 
+
+ 
+
+ 
+
+Construction: SET IN
+Reinforce: RING
+Wall: TORISPHER.HEAD
+Material
+Wall: EN 10028-7-X2CrNiMo17122
+Ring: EN 10028-7-X2CNiMa17122
+Reinl.pad:
+Int.Lining:
+Ext.Lining:
+Condition: INTERNAL PRESSURE
+
+OPENING CHECK
+
+ 
+ 
+ 
+  
+
+ 
+
+Nozzle: N5-N6
+
+P - Pressure 0.815 MPa Dt - Ring inl.diamet. 275.
+T - Temperature 50, Cent
+Dw - Wallintemal diam. 1500. mm It - Ring allow.slress 158.083
+Sw - Wall thickness 10. mm n - Ring talerance 0.3
+KW - Wall yield 237,125  N/mm2 Cit - Ring inl.corros, -
+w - Wall tolerance 1.5 mm Cet - Ring exl.corros. -
+Ciw - Wallinl.corros. - mm Plit - Ring int.lining -
+Cew - Wali exl.corros. - mm Plel - Ring ext.lining -
+Pliw - Wall inLlining - mm
+Plew - Wall exl.lining - mm Sr - Ring height 44,
+db - Distance from border 570. mm Lr - Ring thickness 52.5
+
+lip - Internal projection -
+ac - Angle with normal - L4
+wil - Weld leg (outward nozzle) - mm w2 -Weld lag (outer pad) -
+wi3 - Weld leg (inward nozzle) - mm Lo - Relnt. limit on the wall -
+
+lo - Reint. limit on the nozzls -
+5t=15 Iw = KW / Sf = 158,083
+
+SWe = Sw - Ciw - Cew - Pliw - Plew - tw = 8.5
+Ri = .5°Dw + Ciw + Pliw = 1520,
+L =((2*Rl + Src)*Src)i2 = 227.967
+
+Lrc=Lr-Cit-Plit- lt = 52,2
+Dic = Ot + 2°Cit + 2*Plit = 275,
+DIo = Dt + 2°Lr = 380,
+Sre = Min[ (Sr-Cit-Plit-1t), 2°Swe, 1050 ] = 17.
+Lme-
+f=ac=- 8= 0.5"(Dt +2'Lr) / cos [3 = 190.
+Wall Nozzle
+APM = 5'Ri*(Lm + a) * RI/(.5"Swc + Ri) =143997.4 APT = 0.5'Dlc * (Src - lip) = 2337.5
+AFM=Lm " Swc=- AFT = Lic * Src = 887.4
+Additionat
+APA =0.5°DIc2* 1g 3 =-
+AFS = 5°(Wl12 + Wi22 + vA32) = -
+Opening check
+fto = Min( Iw, It ) = 156.083
+Al = (AFM + AFS)*(tw - .5'P) + AFT*(Ito - 5°P) = 138921.7
+A2 = P*(APM + APT + 0.5*APA) = 119224.2 SAl
+
+ 
+
+MT-VESS Rov.3.4.4
+Date: 17-01-2011
+
+Sh. 28 of 56
+
+  
+   
+ 
+
+mm
+
+N/mm2
+mm
+mm
+mm
+mm
+mm
+
+mm
+mm
+mm
+
+mm
+mm
+mm
+
+ 
+
+ 
+
+e S s ey s e 1 e e e st
+
+ 
+
+B s s s a1
+
+g p——
+This document ks the property of STUDIO ZUCCHELLI wha wal sateguard ks Tights acesrdng to the cvd and peral provisions of the law
+
+e s e g e e
+
+ 
+
+STUDIO TECNICO
+
+MAURO ZUCCHELLY
+
+Dt
+W .
+Lr I
+e
+H
+g Sr
+Sw
+P - Pressure 1.159
+T - Temperature 20.
+Dw - Wall internal diam, 1500.
+Sw - Wall thickness 10.
+KW - Wall yield 260.
+w - Wall lolerance 1.5
+Ciw - Wall int.corros. -
+Cew - Wall ext.corros, -
+Pliw - Wall Int.lining *
+Plew - Wall ex.lining -
+db - Distance from border 570.
+
+«C - Angle with normal -
+wil - Weld leg (outward nozzle) -
+wi3 - Weld leg (inward nozzle) -
+
+St=1.05
+Swe = Sw - Ciw - Cew - Pliw - Plew - tw = 8.5
+Ri = .5'Dw + Ciw + Pliw = 1520.
+
+L = [(2'Ri + Sre)*Src]¥2 = 227.967
+
+tma-
+
+B=ac=-
+Wall
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: 89
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datashest : Nozzle N5-N6
+
+MT-VESS Rev.3.4.1
+Date: 17-01-2011
+
+Construction: SET IN
+
+Reinforce: RING
+
+Wall: TORISPHER.HEAD
+
+Materlal
+Wall: EN 10028-7-X2CrNiMo17122
+Ring: EN 10028-7-X2CrNiMo17122
+Reinf.pad:
+Int.LIning:
+Ext.Lining:
+
+Condition: TEST PRESSURE
+
+OPENING CHECK
+Nozzle: N5-N6
+
+MPa
+Cenl
+mm
+mm
+N/mm2
+mm
+mm
+mm
+mm
+mm
+mm
+
+mm
+mm
+
+fw=KW/St= 247619
+
+APM = 5"Ri*(Lm + a) * Ri/(.5"Swc + Ri) =143997.4
+
+AFM=Lm * Swc = -
+
+Opening check
+flo = Min( fw, ft ) = 247.619
+
+A1 = (AFM + AFS)*(1w - 5°P) + AFT*(flo - .5'P) = 219223,
+
+A2 = P*(APM + APT + 0.5°APA) = 169564.9
+
+ 
+
+[ e e
+
+Ot - Ring int.diamet. 275.
+
+fl - Ring allow.slress 247.618
+1t - Ring tolerance 0.3
+
+Cit - Ring int.corros. -
+
+Cet - Ring ext.corros. -
+Plit - Ringint.lining -
+Plet - Ring ext.lining -
+
+Sr - Ring height 44,
+Lr -~ Ring thickness 52,5
+lip - Internal projection -
+
+w2 - Weld leg (outer pad) -
+Lo - Reinl. fimit on the wall -
+lo - Reinl. limit on the nozzle -
+
+Lre=Lr-Clt-Plit-1t = 52.2
+
+DIc = Dt + 2°Cit + 2*Plit = 275.
+
+Dto = Dt + 2°Lr = 380.
+
+Sre = Min[ (Sr-Clt-Plit-tt), 2*Swc, 1050 | = 17.
+
+a=0.5"(Dt+2°Lr) /cos §§=190.
+Nozxzle
+
+APT =0.5'Dtc * (Src - lip) = 2337.5
+AFT = Lrc * Src = 887.4
+Additionaf
+
+APA = 0.5°Dic2" Ig s =
+
+AFS = 5°(v112 4 wi22 + wi32) = -
+
+sA1
+
+ 
+
+Sh. 29 of 56
+
+mm
+
+N/mm2
+mm
+mm
+mm
+mm
+mm
+
+mm
+mm
+mm
+
+mm
+mm
+mm
+
+ 
+
+Ths cocument s tha propenty of STULIO 2UCCHELL who will sateguera & tighls 2ecording to the ol and penal provisions of ihe law
+
+STUDIO TECNICO
+MAURO ZUCCHELL/
+
+Hazzle
+
+Nl
+
+Logunda
+Condic.
+
+Lc
+Ll
+L1,
+ar
+aw
+
+L2
+
+Project: M44-MECC-110
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+ltem: S.N. 3268
+
+Calcul.Datasheet : Adjacent nozzles summary
+
+* AUJACENT HOLLLES SUMMARY
+
+t Nozzle 2 Comdit. Le
+
+an
+
+HL : 1476.258
+1976.258
+1975.250
+793,452z
+93,4532
+793.4531
+HES 5431
+85,9431
+§85.9431
+2469,
+248y,
+2469,
+2016,
+2016,
+2016,
+1157.5
+2157,
+BN
+
+1 -ntornsdl preusure (girsc)
+
+2 - luternsl prevsure {secands
+
+3 - lost prowmnra
+
+9 - External pressure
++ dlutance bacwdon nozzlen
+
+Limit distance (Le > Lel for fsolsted mozzles)
+
+Puxicun reinforetng limfe to avold overlspping
+- MeTAl Tomisting arca
+
+- Preccure aroa (AP zhould be <- AF)
+
+ 
+
+S o b e
+
+Sh. 30 of 56
+
+MT-VESS Rov.3.4.1
+Dale: 18-01-2011
+
+ 
+
+Tequlzad
+zequized
+Teqadred
+soguized
+ragqelirad
+roguired
+roquired
+required
+requires
+required
+reguired
+requiced
+cequired
+
+zequized
+
+rogqalzed
+rogzired
+reqzirod
+
+  
+
+ 
+
+ 
+
+sy
+  
+    
+    
+ 
+
+MAURO ZUCGCHELLI!
+
+   
+ 
+
+STUDIO TECNICO
+
+  
+
+Paragraph: Ed. 2002
+
+Fl
+Mec
+A
+Fc 0 Fil
+L M M
+B
+do I i
+
+dp
+Di
+
+|
+
+ 
+
+ 
+
+INTERNAL PRESSURE
+
+Project: M44-MECC-110
+Calculation Code: WRC 107
+
+ASME materlals archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheet : Local loads - Nozzle N1-N2
+
+  
+
+MT-VESS Rov.3.4.1
+Date: 17-01-2011
+
+    
+     
+ 
+
+ltem: S.N. 3268
+
+  
+
+  
+  
+
+Sh. 31 of 56
+
+     
+
+  
+   
+
+ 
+  
+  
+ 
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+Analysis at: Load edge
+Wall: Cylindrical shell
+Attachment type: Nozzle
+
+    
+ 
+   
+
+ 
+
+propeny of STUDIO ZUCCHELLI who wil szteguard s rights according 1o the v and peral pravisions of the law
+
+2
+:
+&
+&
+3
+8
+E
+
+L
+
+ 
+
+P - Pressure 0.815 MPa
+T - Temperature 50. Cent
+do - Area diameter 405. mm
+dp - Pad diameter - mm
+H - Center of area from W.L. 1020. mm
+Fr - Radial load 10400. N
+
+Fi - Longitudinal force 7400. N
+
+Fc - Clrcumferential force 7400. N
+
+Mt - Torsion moment 6600000. N.mm
+Ml - Longltudinal moment 4700000, N.mm
+Mc - Circumferential moment  4700000. N.mm
+fw - Additional slresses - N/mm2
+
+Smv - Shell allow.factor (memb) 1.5
+
+Sme = Sm - Cmi - Cme - Pml - tm + Sp=9.75
+Rm=D/2=754.875 ro=do/2=2025
+
+Shell tension due to pressure
+fpc = P*D [ (2'Smc) = 63.077
+
+t=8Smc=9.75
+
+Stresses due to radial load
+W = Fr = 10400.
+
+y=Rm/t=77.423
+
+A-B Figure C-D Figure
+Ngw 8.2432 4C 3.8407 3C
+Mow 0.0158  2C-1 0.0384 1C
+Nxw 3.8407 3C 8.2432 4C
+Mxw 0.0384 1C-1 0.0158 2C
+
+Stresses due to longitudinal force
+ =2'FI/ (x*do*l) = 1.193
+
+Stresses due to circumferential forco
+¢ = 2'Fc/ (x*do’t) = 1,193
+
+Di - Inside diameter 1500. mm
+
+L - Length between T.L. 2200. mm
+Sm - Shell thickness 10. mm
+Cmi - Shell int.corrosion - mm
+Cme - Shell ext.carrosion - mm
+Pmi - Shell intlining - mm
+
+tm - Shell tolerance 0.25 mm
+
+fm - Shell allow.stress 158.083 N/mm2
+Ym - Shell yield strength 199,75 N/mm2)
+Sp - Pad thickness - mm
+Sbv - Shell allow.factor (m+b) 3,
+
+D = Di + 2'Cmi + 2'Pmi + Smc = 1508.75
+
+fpl = P'D / (4*Smc) = 31.539
+
+p=0.875"ro/Rm = 0.235
+
+ 
+
+ 
+
+W A-B C-D
+Now = Ngw *———= 11.648 5.427
+ol i Amt
+6'W
+aMgw = Maw ‘—‘2— = 10.469 25.18
+alNxw = Nxw * = 5.427 11.648
+Rm*t
+&8'W
+oMxw = Mxw * = 25.18 10.469
+
+t2
+
+ 
+
+   
+ 
+
+ 
+  
+  
+
+This document is the propeny o1 STUDIO ZUTCHELL! who wil saleguare ks nghts aceoraing 1a the ozt and panat prodsions of the law
+
+ 
+
+MAURO ZUCCHELLI
+
+ 
+ 
+
+Project: M44-MECC-110  ttem: S.N. 3268
+Calculation Code: WRC 107
+Paragraph: Ed. 2002
+
+ 
+ 
+
+STUDIO TECNICO
+
+ 
+  
+    
+ 
+
+Calcul.Datasheet : Lacal loads - Nozzle N1-N2
+
+ 
+
+ 
+
+Date: 17-01-2011
+
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+
+MT-VESS Rov.3.4.1
+
+ 
+
+Sh. 32 of 56
+
+ 
+
+Material
+
+Analysis at: Load edge
+Wall: Cylindrical shell
+Altachment type: Nozzle
+
+INTERNAL PRESSURE
+
+t=Sme=9.75 =0.875"ro/Am = 0.235
+
+ 
+
+ 
+
+ 
+
+Stresses due to circumferential moment
+A-B Figure C-D Figure
+Ngpe - 25862 3A alNge = Nge ‘szh,ﬁ%
+6'Mc
+Maoc - 0.0608 1A oMgc = Mgc W
+& Mc
+Nxc - 71275  4A oNxc = Nxe Aot =
+6'Mc
+Mxc - 0.0253 2A oMxc = Mxc * R—mw =
+Slresses due to Jongitudinal moment
+A-B Figure Cc-D Figure
+Nl 55209 3B - oNgl = Ne! ‘ﬁ- =
+6 Ml
+Mgl 0.0124 1B - oMl = Mol P
+. M
+Nxi 2.83 48 - oNxl = Nxl = T
+. &M
+Mxl 0.0154 2B - oMxl = Mxi Am- e} ~=
+
+Stresses due to torsional moment
+T = 2°Mt/ (n*do2*1) =2.627
+
+Stress inlensity factors
+
+Au Al Bu Bl Cu Cl Du DI
+Circumlerential - Ici 1. 1. 1 1. 1. 1. 1. 1.
+
+Longitudinal - ii 1. 1. 1. 1 1. 1.
+
+ 
+
+B o e et
+
+Shell: EN 10028-7-X2CriNIMo17122
+
+A-B
+
+A-B
+19.897
+
+20,742
+
+10.199
+
+25.807
+
+ 
+
+C-D
+9.321
+
+101.943
+
+25.688
+
+42.326
+
+C-D
+
+ 
+   
+  
+   
+ 
+
+MT-VESS Rev.3.4.1
+Project: M44-MECC-110  ltem: S.N. 3268 Date: 17-01-2011
+Calculation Code: WRC 107
+
+Paragraph: Ed. 2002
+
+ASME malerials archive: ASME Ii-Part D - METRIC - E2007A09
+Calcul.Datashest : Local loads - Nozzle N1-N2 Sh. 33 of 56
+
+ 
+   
+  
+
+  
+
+MT-VESS Rov.3.4.1
+Project: M44-MECG-110  Item: S.N. 3268 Date: 17-01-2011
+STUDIO TECNICO | caiculation Code: WRC 107
+Paragraph: Ed. 2002
+MAURO ZUCCHELLI! | ASME malerials archive: ASME lI-Part D - METRIC - E2007A09
+
+Calcul.Datasheet : Local loads - Nozzle N3 Sh. 34 of 56
+
+  
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELL/
+
+    
+   
+  
+  
+     
+  
+  
+   
+    
+      
+     
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+    
+
+    
+
+     
+
+   
+
+ 
+
+    
+     
+       
+  
+
+       
+
+     
+
+          
+         
+
+         
+    
+
+          
+  
+
+ 
+
+  
+     
+     
+
+      
+
+     
+  
+
+   
+   
+  
+  
+
+        
+  
+  
+
+    
+  
+   
+
+ 
+  
+    
+
+  
+
+     
+     
+   
+  
+
+ 
+
+  
+     
+   
+
+       
+  
+      
+      
+
+          
+
+    
+
+    
+  
+
+      
+   
+  
+ 
+   
+
+    
+     
+
+    
+    
+
+ 
+
+        
+   
+ 
+
+   
+            
+  
+  
+ 
+   
+     
+ 
+
+      
+
+     
+
+         
+       
+    
+
+       
+
+               
+   
+  
+
+      
+     
+
+     
+ 
+  
+
+     
+  
+ 
+ 
+    
+     
+  
+
+ 
+
+      
+     
+  
+
+       
+       
+  
+
+     
+     
+            
+   
+ 
+ 
+     
+ 
+
+  
+    
+   
+ 
+
+ 
+
+ 
+
+  
+  
+   
+
+ 
+
+         
+      
+
+     
+     
+       
+
+    
+     
+       
+
+                 
+
+S
+Material T Material
+Shell: EN 10028-7-X2CrNiMo17122 Sp Shell: EN 10028-7-X2CrNiMo 17122
+Au Bu Cul Du Fi
+Analysis at: Load edge L Mt Analysis at: Load edge
+Al Bl & o Wall: Cylindrical shell Wall: Cylindrical shell
+Attachment type: Nozzle Altachment type: Nozzle
+i longHiudinat clrcumrerentlal
+INTERNAL PRESSURE INTERNAL PRESSURE
+o T i i
+e P - Pressure 0.815 MPa Di - Inside diameter 1500. mm
+Surface Au Bu Cu Du DI
+Clrcumerontial stressos = T - Temperature 50. Cent L - Length between T.L. 2200. mm
+1 fpe*id 63.077 63.077  83.077 | 63.077  63.077 | 63077  63.077 do - Area diameter 200. mm Sm - Shell thickness 10. mm
+2 oNpw <11.648  -11.648 | -11,648  -11648 | -5.427  -5427 | 5427  -5.427 dp - Pad diameter - mm Cmi - Shell int.corrosion N mm
+S oMgw “10469 -10469 10469 | -25.46 2548 | 2518 2518 H - Centerof area from W.L. 1708. mm Cme - Shell ext.corrosion - mm
+4 oNge . - . . 9321 -9.321 0321 9.321 |
+5 gMgc o 3 . . 1101943 101943 | 101.843 -101.943 Fr - Radial load 2100. N Pmi - Shellint.lining - mm
+6 oyl -19.897  -19.897 | 19.897 19,897 - - - 5 Fl - Langitudinal force 1500. N tm - Shell tolerance 0.25 mm
+7 oMyl 20742 20742 | 20742 -20.742 & g - - Fc - Circumferential force 1500. N fm - Shell allow.stress 158.083 N/mm2
+oo o memro e et o\t nar| em | e e M Tokonmamant SO0 Nmm Ve ol e Nome
+g § . ' ' . i ' ' gl M -Longitudinal moment 320000. N.mm Sp - Pad thickness - mm
+3| Longltudinal stressas 3l Mc - Circumferential moment 320000. N.mm
+£[ 10 1prem 31539  31.539 31539 31539 | 31538 31539 5 ! :
+E| 11 oNsw 5427 5427 11648 -11.648 | -11.648  -11.548 §| fw - Additional stresses - N/mm2
+g 12 oMxw -25.18 -10469 10469 | -10463  10.469 ?: Smv - Shell allow.factor (memb) 1.5 Sbv - Shell allow.factor (m+b) 3
+g 13 adixe - -25.688  -25,688 | 25.688 25688 5
+H BN - - 2326 42006 | 42326 42326 §|  Smc=Sm-Cmi-Gme - Pmi-im + Sp = 9.75 D = Di + 2°Crmi + 2'Pmi + Smc = 1509.75
+2| 13 o Tamor  svany : ¢ : : 5| Rm=Dr2=754875 r0=do/2 = 100.
+g o .25 ! s . . s £ g
+2| 17 Total membrane (xm) 15912 15912 6797 5797 | 45578 45578 g ggslé‘rgll'l(szlgr;gg%;%%ressure fpl = P*D/ (4°Smc) = 31,539
+§ 18 Total longitudinal (fx) 35075 669 58502  46.998 | 77.436  13.721 g . - oo
+2| Shearstresses duo to: T 2| t=Smc=975 y=Rm/1=77.423 [=0.875*r0/Rm=0.116
+Efe 2627 2627 | 2627 2627 | 2627 2627 | 2627 2627 £| Stresses due to radial load
+el 20 1¢ 1.193 1.183 -1.183 -1.193 - - - - § W = Fr=2100.
+% 21 d . . “ 5 41,193 41,193 1.192 1.193 3 A-B Figure C-D Figure w A-B Cc-D
+E o
+: 22 Total shear (1) 3.82 L 3.52~ i 1.434 1.434 1.434 1.434 382 3.82 2 now 12,0219 4C 89599 3G oNgw = Nows = = 3.43 2556
+g| Total stress Intensity (membrane+bending) 7 2 nm\l\;
+S| 23 11 =ity + 1%« [(1 - 12)2 + 4¢2)2)2 0.720 69.17 | B1.646  61.134 143.954  14.326 5 . _ O
+E‘: 24 12= {1 + X - [t - 12 + 4c2]'p2 35483 60472 | 36892  35.603 77216 -10.397 g Mow 0.0545 21 00896 1€ g 2 - 7824 11.862
+é’ 25 (2-11 +36.212  -8.698 | -44.754  .25,531 -66.737  .24.723 E
+R _ . _
+8| Maximum total intansity = maximum absolula value i7 Tows 23, 24, 25 = 175.469 2 N 8.9598  3C 120219 4¢ hbov= iy Rmt 2558 3.43
+5| AMowablo siress = Shv*fm « 474,25 2 &W
+© 5 _ -
+| Totar stress ntonsity fmambrans) 'té Mxw 0.08%6 1C-1 0.0545 2C oMaxw = Mxw e = 11.882 7.224
+g] 26 1 =lfom+ tam+ [(pm - txm)2 + 4:22)/2| 32416 32416 | 71385 79.385 48368  48.368 | 67.633  67.633 g
+£ 27 12= (I@m +fxm - [(lgm -Ixm)24 4¢2]12)12 15.028 15.028 36.252 36.252 -5.835 -5.835 44916 44.816 2 o
+£l t2-n -17.389  -17.389 | -35.133  -35133 | -54.202 -54.202 | -22.716 22716 2 firg‘s‘:fleagg?) iaoac)gngltudlnal force
+S Maximum total Intensity = maximum absolute vaiue in rows 28, 27, 28 = 71,365 B g Stresses due to circumferential force
+2 Alowable stress = Smy*im = 237,125 E 1€ = 2'Fc/ (n*do’t) = 0.49
+
+ 
+
+ 
+
+ 
+
+      
+
+TP e
+THs document is Iha propany of STUDIO ZUCCHELL! who wi safeguand ks rights according to the civd 3nd penal provisions of the faw
+
+MT-VESS Rov.3.4.1
+
+ 
+
+    
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: WRC 107
+
+Paragraph: Ed. 2002
+
+MAURQ ZUCCHELLI | ASME materials archive: ASME [I-Part D - METRIG - E2007A09
+
+Calcul.Datasheet : Local loads - Nozzle N3 Sh. 35 of 56
+
+Date: 17-01-2011
+
+STUDIO TECNICO
+
+£ Material
+Se Shell: EN 10028-7-X2CrNiMo17122
+; F
+Mt Analysis at: Load edge
+H Wall: Cylindrical shell
+
+Attachment type: Nozzle
+
+ 
+
+ 
+
+INTERNAL PRESSURE
+
+t=Smc=9.75 }=0.875"r0o/Rm=0.116
+Stresses due to circumferential moment
+A-B Figure C-D Figure e A-B c-D
+Ngc - 29993 3A olNge = Ngc Amz* p o1 B 1.49
+6"Mc
+Mac - 0.0851 1A oMo = Myc * s — el 19.643
+Mc
+Nxe - 5.0337 4A olNxc = Nx¢ * ——————= . 2501
+Amz* 1
+. 6‘Me
+Mxc - 0.0483 2A aMxc = Mxc m = - 11.16
+Stresses due to longitudinal monient
+A-B Figure C-D Figure A-B C-D
+Ngl 87994 3B - oNot = Ngi 'W':AL'T‘ = 4372 =
+Mol 0.0349 1B - oMyl = Mgl oo .. 8.047 -
+Am*12*
+Nxl 2.9588 48 - oNXl = Nxl * Lz 1.47 -
+. Rm2*p*t !
+. 6*MI
+MxI 0.0502 2B - aMxl = Mx| m: 11.576 -
+
+Stresses due to torslonal moment
+m = 2*ML/ (n°do2"1) =0.816
+
+Stress intensity factors
+
+Au Al Bu Bl Cu Cl Du DI
+Gircumlerential - lei = 1. 1. 1. 15 1. 1. 1. 1.
+
+Longlludinat - Ni 1. 1. 1. 1 T 1. 1. 1.
+
+ 
+
+ 
+
+ 
+
+P bt s e i g
+
+ 
+
+Ths dosument Is the properiy of STUDIO JUCCHELU who will safeguard fts righls accordng ta the civ] 2nd panal provisons of Ing law
+
+Total stiess. intensity (membrano+bending)
+
+MT-VESS Rev.3.4.1
+Project: M44-MECC-110  ltem: S.N. 3268 Date: 17-01-2011
+Calculation Code: WRC 107
+Paragraph: Ed. 2002
+MAURQ ZUCCHELLI | ASME malerials archive: ASME II-Part D - METRIC - E2007A09
+
+Calcul.Datasheet : Local loads - Nozzle N3 Sh. 36 of 56
+
+STUDIO TECNICO
+
+ 
+
+ 
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+Au Bu Cy Du
+Analysis at: Load edge
+Y B & 5 Wall: Cylindrical shell
+Attachment type: Nozzle
+longltudinal clrcumferentlal
+
+ 
+
+INTERNAL PRESSURE
+
+Quadrant
+
+   
+ 
+  
+   
+ 
+  
+  
+  
+   
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+   
+ 
+
+Cu Cl Du Di
+
+Surface
+
+Circumferential stresses
+
+ 
+
+ 
+
+1 tpe*la 63.077 63.077 63.077 63.077 83.077
+2 oNpw -3.43 -2.556 -2.556 -2.556 -2.556
+3 ogw 7.224 -11.882 11.882 -11.882 11.882
+4 gNgeo - -1.49 -1.49 1.49 1.49
+5 oMyc . -19.643 19,643 19.643 -19.643
+6 oN¢! 4.372 - - - -
+
+7 oMyl -8.047 - - . .
+
+8 Total membrane (fym) 64.02 59.031 59.031 62.011 62,011
+9 Total circumferenlial (1¢) 63.196 27.505 90.556 69.772 54.25
+o Longitudinal slresses
+
+10 tpi=in 31.539 31.539 31.539 31.539 31.539
+11 oNxw -2.556 -3.43 -3.43 -3.43 -3.43
+12 aMxw 11.882 -7.224 7.224 -7.224 7.224
+13 alNxe - -2.501 -2.501 2.501 2.501
+14 gMxc - -11.16 11.16 11.18 -11.16
+15 oNxl 1.47 - - -
+
+16 oMxi -11.576 h -
+
+30.452 25.607 25.607 30.61 30.61
+30.759 7.224 43.991 34.546 26.673
+
+17 Total membrane (fxm)
+18 Total longitudinal (fx)
+
+ 
+
+Shear stresses dus fo:
+
+19 m 0816 | 0816 0816 | 0816 0816
+20 -0.49 5 : - -
+21 o -0.48 -0.49 0.48 0.49
+
+22 Total shear (1) 0.326 0.326 0.326 1.306 1.308
+
+ 
+
+23 11 = {fp + X + [(lg - 1x)2 + 4e2P2)12
+24 12 = [fy + Ix- [(fa - 6)2 + 4c2)'2)12
+25 1211
+
+64.846 63.183
+30.143 30.755
+-34.703  -32.444
+
+68.821 54.312
+34.498 26.612
+-35.323 -27.7
+
+ 
+
+Maximum total Intensity = maximum absolule value In raws 23, 24, 25 = 90,550
+Allowabla stress = Sbv*im = 474.25
+
+Tolal stress inlenslty (membrane)
+26 11 = (fpm + fxm + ((fgm - txm)2 + 4c2]2)r2| 55,336 55.336 64.023 64.023 59,034 50.034 62.065 62.065
+27 12 = (lgm + {Xm - [(fom - Ixm)2+ 422)12)/2 |  27.451 27.451 30.443 30.449 25.604 25.604 30.556 30.556
+28 f2-11 -27.885 -27.885 -33.574 +33.574 -33.43 -33.43 -31.51 -31.51
+
+Maximum total Intensity = maximum abaolute value in rows 26, 27, 28 = 64.023 T
+Allowable stress » Smv*im = 237.125
+
+ 
+
+e ey e Ao et {1 Py e e
+
+ 
+Project: M44-MECC-110  ltem: S.N. 3268
+Calculation Code: WRC 107
+Paragraph: Ed. 2002
+
+STUDIO TECNICO
+
+MT-VESS Rev.3.4.1
+Dale: 17-01-2011
+
+MAUROQO ZUCCHELLI | ASME malerials archive: ASME |I-Part D - METRIC - E2007A09
+
+Calcul.Datasheet : Local loads - Nozzle N5-N6&
+
+ 
+
+RI
+
+ 
+
+ 
+
+Sh. 37 of 56
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+Analysis at: Load edge
+Wall: Spherical shell
+Altachment type: Nozzle
+
+INTERNAL PRESSURE
+
+P - Pressure 0.815 MPa
+T - Temperature 50. Cent
+do - Area diameter 380. mm
+dp - Pad diameter - mm
+
+H - Center of area from W.L. - mm
+Fr - Radial load 10000. N
+
+FI - Longitudinal force 10000. N
+
+Fc - Circumferential force 37000. N
+
+Mt - Torsion moment 16230000. N.mm
+
+Ml - Longitudinal moment 10000000. N.mm
+Mc - Circumferential moment  10000000. N.mm
+fw - Additional stresses - N/mm2
+Sn - Nozzle thickness 52.5 mm
+
+Smv - Shell allow.factor (memb) 1.5
+
+Sme = Sm - Cmi - Cme - Pmi - tm + Sp = 8.5
+Rm = A + Sme/2 = 1524.25 ro=do/2=190,
+
+Shell lension due to pressure
+fpc = P'R/ (2'Smc) = 72.845
+
+{=Smc=85 U=ro/(Rm")12 = 1.669
+Stresses due to radial load
+
+W = Fr = 10000,
+
+Nx = 1,24E-07 From Figures SP 1-10
+
+Mx = 3.55E-07 From Figures SP 1-10
+
+Ny = 4.47E-07 From Figures SP 1-10
+
+My = 4.90E-08 From Figures SP 1-10
+
+Stresses due to longitudinal force
+o = 2*Fl/ (n*do*t) = 1.971
+
+Stresses due to circumferential force
+= 2'Fc/ (n'do™) = 7.293
+
+This document s the property o STUDIO ZUCCHELL! who wil saleguerd RS nghts according fe the cvil and penal provsions of the law
+
+Ri - Inslde radius 1520. mm
+
+L - Length between T.L. - mm
+Sm - Shell thickness 10, mm
+Cmi - Shellinl.corrosion = mm
+Cme - Shell ext.corroslon - mm
+Pmi - Shell int.lining - mm
+
+Im - Shell tolerance 1.5 mm
+
+fm - Shell allow.slress 158.083 N/mm2
+Ym - Shellyield strength 199.75 N/mm2
+Sp - Pad thickness - mm
+Sbv - Shell allow.factor (m+b) 8:
+
+R =Rl + Cml + Pmi = 1520.
+rme=ro - Sn/2 = 163.75
+fpl = P‘R/ (2*Smc) = 72.845 (Bednar 2nd Ed. Pag.133)
+
+y=Im/Sn=5, p=1/Sn=0.162
+
+ 
+
+olNxw = Nx * = 1.72E-05
+
+12
+
+w
+aMxw = Mx * i 2.95E-04
+w
+alNyw = Ny * = 6.19E-05
+
+aMyw = My * - 4.07E-05
+
+1) Valua of y at range limit,
+
+ 
+
+ 
+       
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELL]
+
+   
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Project: M44-MECC-110  Item: S.N. 3268
+Calculation Code: WRC 107
+
+Paragraph: Ed. 2002
+
+ASME materials archive: ASME Il-Part D - METRIC - E2007A09
+Calcul.Datasheet : Local loads - Nozzle N5-N6
+
+  
+
+ 
+
+  
+   
+   
+   
+    
+      
+ 
+   
+ 
+
+Stresses due to lorsional moment
+M = 2°Mt/ (n*do2'l) =8.418
+
+Stress intensity factors
+Au
+
+Circumferential - Ici 1.
+
+Longltudinal - IIl 1.
+
+This document s the propery of STUDID ZUGCH:
+
+ 
+
+N L T s e "
+
+MT-VESS Rev.3.4.1
+Date: 17-01-2011
+
+Sh. 38 of 56
+
+  
+
+Material
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+t :
+M Shell: EN 10028-7-X2CrNiMo17122
+Sn
+Sy Analysis at: Load edge
+Wall: Spherical shell
+Altachment type: Nozzle
+Ai
+INTERNAL PRESSURE
+t=S8Smc=8.5 U=ro/(Rm*)12 = 1.669 y=tm/Sn=5, p=1/Sn=0.162
+Stresses due to circumferential moment
+M1 = Mc = 10000000. i
+Nx = 1.47E-07 From Flgures SM 1-10 olNxc = Nx _12—'(Rm‘t)‘2 =1.78E-04
+. 6°M1
+Mx = 3.82E-07 From Figures SM 1-10 aiMxc = Mx & Am 2 =0.003
+N 40E-07 F Fit SM 1-10 N Ny * My 2.92E-04
+y = 2.40E-0 rom Figures # alNyc = Ny EEmy R = 2.92E-
+z M E Fi i SM 1-10 M My * i) 6.74E-04
+é y = 9.24E.08 rom Figures -1 oMye = My B RmIR = 6.74E-
+{
+2
+;
+é Stresses due 1o longltudinal moment
+g M2 = Ml = 10000000. M2
+§ Nx = 1.47E-07 From Figures SM 1-10 oNxl = Nx * m—;—-— = 1.78E-04
+3 . 6"M2
+§ Mx = 3.82E-07 From Figures SM 1-10 oMxl = Mx Wa 0.003
+2 i o , M2
+E‘ y = 2.40E-07 rom Figures SM 1-10 olNyl = Ny mﬁ = 2.92E-04
+: My = 9.24E-08 F Fi SM 1-10 Myl = My * e ~= = 6.74E-04
+é y =9, rom Figures = oMyl = My @ (Rm)i2 =6. -
+g
+
+    
+    
+ 
+e e et ame e
+
+MT-VESS Rov.3.4.1
+
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+
+STUDIO TECNICQ | calculation Code: WRC 107
+Paragraph: Ed. 2002
+MAURO ZUCCHELLI | ASME materials archive: ASME [-Part D - METRIG - E2007A09
+
+ 
+
+Calcut.Datasheet : Local loads - Nozzle N5-N6 Sh. 39 of 56
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+Au Bu Cu| Du
+—
+Analysis at: Load edge
+= S i o Wall: Spherical shelt
+
+Attachment type: Nozzle
+
+Jongiudinal clreumfereatial
+
+INTERNAL PRESSURE
+
+  
+
+Quadrant
+
+ 
+    
+ 
+
+   
+
+  
+
+Au
+
+ 
+
+Al
+
+ 
+
+Bu Bi
+
+   
+
+   
+ 
+
+Clrcumferentlal stresses
+
+       
+   
+    
+
+            
+      
+  
+   
+  
+
+        
+       
+ 
+
+      
+     
+      
+     
+      
+
+   
+
+     
+ 
+   
+    
+
+  
+    
+      
+
+     
+ 
+
+     
+
+1 fpc*ic 72.845 72.845 72,845 72.845 72.845 72.845 72.845 72.845
+2 gNxw -1.72E-05 -1.72E-05 | -1.72E-05 -1,72E-05 | -1,72E-05 -1 \72E-05 | -1.72E-05 -1.72E-05
+3 aMxw -2.95E-04 2.95E-04 | -2.95E-04 2.95E-04 |-2.95E-04 2.95E-04 -2.95E-04 2.95E-04
+4 oNxe - - - - -1.78E-04 -1.78E-04 | 1.78E-04 1.78E-04
+5 aMxc . - - - -0.003 0.003 0.003 -0.003
+6  aNxi -1.78E-04 -1.78E-04 | 1.78E-04 1.78E-04 - - - -
+
+7 oMxi -0.003 0.003 0.003 -0.003 . . . .
+
+8  Total membrans (fym) 72.844 72,844 72.845 72,845 72.844 72.844 72,845 72.845
+9 Total clroumerential (1) 72.841 72.848
+
+   
+   
+
+72.847 72.842 72.841 72.848 72.847 72.842
+
+   
+ 
+
+           
+ 
+
+ 
+
+ 
+
+Longitudinal stresses
+10 fpl=
+11" oMyw
+12 oMyw
+13 aNyc
+14 oMyc
+15 oNyl
+16 oMyl
+17 Total membrana (fxm)
+18 Total longludinal (fx)
+
+            
+
+   
+
+72.845 72.845 72.845 72.845 72.845 72.845 72.845 72.845
+*6.19E-05 -6.19E-05 | -6.19E-05 -6.19E-05 -6.19E-05 -6.19E-05 | -6.19E-05 -6.19E-05
+-4.07E-05 4.07E-05 | -4.07E-05 4.07E-05 |-4.07E-05 4.07€-05 | -4.07E-05 4.07E-05
+-2.92E-04 -2.92E-04 | 2.92E-04 2.92E-04
+-6.74E-04 6.74E-04 | 6.74E-04 -6.74E-04
+
+    
+
+        
+ 
+ 
+
+  
+        
+    
+
+   
+      
+
+2.926-04 -2.92E-04 | 2.926-04 2.92E-04
+8.74E-04 B.74E-04 | 6.74E-04 -6.74E-04
+72,844 72.844 72.845 72.845
+72,844 72.845 72.846 72.844
+
+            
+   
+
+ 
+ 
+  
+
+   
+   
+
+ 
+ 
+
+72.844 72,844
+72.844 72.845
+—
+
+   
+
+   
+
+72.845 72.845
+72.846 72.844
+
+       
+
+ 
+       
+    
+
+ 
+ 
+
+         
+    
+
+ 
+
+ 
+
+  
+  
+
+ 
+ 
+
+Shear slresses due to:
+19 wm
+20 ¢c
+21 «
+22 Total shear (z)
+
+   
+
+  
+
+   
+
+8.418 8.418 8.418 8.418
+7.293 7.283 -7.283 -7.293
+
+15.7211
+
+    
+
+8.418 8.418
+
+-1.971 -1.971
+6.447 6.447
+
+8418 8.418
+
+1.971 1.971
+10.389 10.369
+
+          
+
+  
+
+         
+  
+
+   
+   
+ 
+
+15.711 1.126 1.126
+
+   
+
+    
+    
+
+ 
+       
+  
+
+     
+ 
+
+ 
+
+Total stress Infensily (membrane+bending)
+23 11 =l + TX + {(19 - x)3 + 42]'12)/2
+
+24 2= (Ig + 1x- (1§ - 1X)2 + 4e2]i2}2
+
+25 2-11
+
+88.553 8B.557 73.872 73.869
+57.132 57.136 7721 .78
+-31.42) -31.421 -2.251 -2.251
+
+Maximum total intonsily ~ maximum absolule value in rows 23, 24, 25 » 88,557
+Allowable siress = Sbv*im = 474.25
+
+Tola! stress Intensity (membrane)
+26 11 = {fgm 4 fxm + [{fpm - fxm)2 4. 4r2)ir)2| 88.555 88.555 73.87 7397 79.292 79.292 83.234 83.234
+27 12 = (lym + Ixm - {(lom - fxm)2 + 4c212)/2 | 57,134 57.134 71.719 7.719 66.397 66.397 62,456 62.456
+28 12-n -31.421 -31.421 -2.251 -2.251 -12.894 -12.894 -20.778 -20.778
+
+Maximum tolal intonsity = maximum absolule value in tows 26, 27, 28 = 88,555
+Allowable siress « Smv*im » 237.125
+
+83.235 83.232
+62.457 62.454
+-20.778  -20.778
+
+       
+  
+ 
+  
+ 
+ 
+
+ 
+
+ 
+
+Ties document Is Ine propenty of STUDIO ZUCCHELL wio wil szleguard s nghls accorcing 10 the civil and peral pravisions of 1ha law
+
+T
+
+ 
+
+A g e e e+
+
+MT-COMP ev.3.4.1
+Project: M44-MECC-110  ltem: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+
+Paragraph: B7-B8-DIN 2505
+
+ASME materials archive: ASME Il-Part D - METRIC - E2007A09
+Calcul.Datasheet : Flange N4 Sh. 40 of 56
+
+   
+  
+  
+  
+ 
+
+ 
+   
+ 
+
+    
+
+   
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+   
+ 
+
+  
+    
+   
+ 
+ 
+ 
+
+  
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+¥ Flange: EN 10028-3 - P355 NH
+Bolts: A 193 B7-A194 2H-G41400
+Lining:
+
+- Gaskel: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolls serles: UNI/ ISO
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+    
+ 
+
+ 
+
+ 
+ 
+  
+ 
+
+(Flange 1)
+
+DESIGN CONDITIONS
+
+ 
+
+       
+         
+    
+          
+     
+           
+     
+ 
+
+  
+  
+
+      
+       
+       
+       
+     
+     
+      
+ 
+   
+ 
+
+     
+            
+         
+ 
+            
+         
+         
+  
+
+P - Pressure 0.8 MPa De - Flangs outside diam. 710. mm
+Pe - External pressure 0.1 MPa G - Bolts clrcle diam. 670. mm
+
+T - Temperalure 50. Cent Go - Gasket oulside diam. 620, mm
+
+Ci - Internal corrosion - mm Tf - Flange thickness 43, mm
+Ce - External corrosion - mm g0 - Hub lower thickness - mm
+
+Pli - Internal lining - mm gl - Hub higher thickness - mm
+
+DI - Shell inside diam. 586. mm h - Hub length - mm
+
+Ts - Shell thickness 12, mm Clg - Flange corr. (gask.face) - mm
+KV - Shell yield 237.125 N/mm2 Plg - Weld deposil (gast.lace) - mm
+KVo - Shell yield (amb) 260. N/mm2 KF  -Flange yield 324, N/mm2
+Tb - Bolls lemperature 50. Cent KFo - Flange yield (amb.) 335. N/mm2
+Nb - Bolls number 24 Ng - Gasket width 10. mm
+
+Ds - Bolls rool diameter 13.54 mm w - Gaskel grooves pitch = mm
+Db - Balls nom.diameter 16. mm KO - Gaskel factor KO 1.2 mm
+
+dL - Bolls hole diameter 19. mm K1 - Gaskel factor K1 6. mm
+
+¢ - Auxillary factor 1. KOKD - Gasket faclor K0*KD 480.005  N/mm
+KB - Bolts yleld 713.8 N/mm2 KD - Gasket factor KD 400.004  N/mm2
+KBo - Bolls yield (amb.) 724. N/mm2 e - Neutral axis distance - mm
+PRz - Operating axial force - N Ri - Riser thickness 1.00E-04 mm
+PRx - Sealing axlal force - N § - Clearance shell/flanga 1.5 mm
+
+  
+     
+ 
+ 
+ 
+ 
+
+    
+
+Hii - Gasket ring height (int.) - mm Hre - Gasket ring height (ext.) - mm
+
+    
+
+A =De-2'Ce =710. Ss=Ts-Ci-Ce-Pli=12.
+B = Di + 2°Ci + 2°Pli = 586. Ol = DI + 2*Ts +2'5 = 613.
+G =Go-2'Hre - Ng = 610. SD=1.2
+Faorces
+
+FRB =1"P1w'B2/ 4 = 2157621
+
+FFB = n*P1w"(G2- B2) /4 = 18035.26
+
+FSB = FR + FFB + FDB = 244835.7
+
+FDV = x*G*KOKD = 919868.4
+
+FDVas = FDV = 919868.4
+
+Ht = Tt - Ce - MAX( RI, Clg+Plgq ) = 43|
+R=.5'(C-B)-gic=-
+Plw=P =08
+
+   
+ 
+       
+   
+    
+ 
+
+FR =FRB + PRz = 215762.1
+FDB = n°P1w'G*SD'K1 = 11030.3
+
+     
+   
+ 
+     
+ 
+ 
+
+TLIDIO ZUCCHELLI who will sai=guard s tights accarding 1o the ovil and penal provisions of na law
+
+ 
+ 
+
+Csal = 1.1
+
+FS0 = Max( (FDVas+PRx), Csal'FSB | = 919868 4
+
+Gaskel overloading
+
+KD@ = 405.004 From B7 Table 2
+
+FD@ = n*G"K0'KD@® = 931366.8 2FSB
+
+       
+     
+
+Thrs document Is the propary of S
+
+ 
+
+T AT Ay e e st e et
+
+b e gty e
+ 
+  
+   
+ 
+
+MT-COMP Rov.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+
+ASME materials archive: ASME II-Part D - METRIC - E2007A09
+Calcul.Datasheel : Flange N4 Sh. 41 of 56
+
+ 
+    
+ 
+  
+
+  
+ 
+
+    
+  
+  
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELL!
+
+  
+       
+ 
+ 
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+Material
+Shell: EN 10028-7-X2CNiMo17122
+
+r Flange: EN 10028-3 - P355 NH
+Bolls: A 193 B7-A194 2H-G41400
+Lining:
+
+Gaskel: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolts series: UNI /(SO
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+    
+ 
+
+ 
+
+    
+   
+ 
+
+(Flange 1)
+
+DESIGN CONDITIONS
+
+ 
+   
+
+ 
+
+  
+         
+       
+      
+       
+ 
+
+Flange allowable stress Bolts allowable stress (B7 Table 3.2)
+Sf=15 Il = KF /sl = 216. Si=18 b= KB/ Sf = 396,444
+Sfo=1.05 flo = KFo / Sfo = 319.048 Slo=1.3 fbo = KBo / Slo = 556.923
+St=1.5 Iv=KV/SI=158.083
+
+Sfo = 1.05 fvo = KVo / Sfo = 247,619
+
+Bolts check
+
+C5=3.
+
+Dsop = [4'FSB / (z*4*1b*Nb)| 172 + G5 = 8.724 <Ds
+
+ 
+ 
+
+Dsbu = [4'FS0/ (x°¢*(bo*Nb)] 112 = 0,361
+
+ 
+  
+
+Flange check
+
+     
+      
+  
+
+FSBm = Max( FSB flange 1, FSB flange 2 ) = 244835.7 FS0m = Max( FSO flange 1, FS0 flange 2 ) = 919868.4
+aR=[C-(B+Ss)}/2=36. aF=(2'C-B-G)/4=36.
+
+abD=(C-G)/2=30. al = [C - (Dl +2°g1)]/2 = -
+
+V=05 From diagram in B8 Fig. 3 dl=V'dL=9.5
+
+   
+  
+ 
+
+Sl= FR/[z*(B + S5)°K] « 0.354
+
+ 
+
+FDBm = FSBm - FR - FFB = 11038.31
+Section A-A
+
+    
+      
+      
+
+MRB = FR * aR = 7767436. MFB = FFB * aF = 649269.3 MDB = FDBm * aD = 331149.2
+M1 = MRB + MFB + MDB = 8747854, MO = FSOm * aD = 27596060,
+
+W =0.9"n"((A - OIf - 2°d'L)*HI2 (B + 8s)*(Ss2- SI2)] / 4 = 162759.9
+
+oAAop = M1/ W = 53.747 <t oAAbu = MO /W = 168,551 sftlo
+
+ 
+
+Thes documant is the property of STUDIO ZUCCHELLE who il safeguard ks rights ascordna to the civi and penal pravisions of he law
+
+  
+
+e i s e s s s e
+
+ 
+
+STUDIO TECNICQO | calculation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+MAURO ZUCCHELLI | ASME materials archive: ASME [I-Part D - METRIC - E2007A09
+
+ 
+
+ 
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+- Flange: EN 10028-3 - P355 NH
+Bolls: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasket: sezione o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolts series: UNI /1SO
+
+(Flange 1)
+
+HYDRAULIC TEST CONDITIONS
+
+ 
+
+ 
+
+FSB = FR + FFB + FDB = 350115,
+FDV = 2"G"KOKD = 919868.4
+FDVas = FDV = 919868.4
+
+Csal=1.1
+
+FS0 = Max( (FDVas+PRx), Csal*FSB ] =919868.4
+
+Gasket overioading
+
+KD@ = 420.005 From B7 Table 2
+
+FD@ = a°G"K0*KD@ = 965861.8 >FSB
+
+pefy o STUDIC ZUCCHELLI who will sateguard ds ngtis accorang 13 the vl and penal povisions of the (am
+
+Ths document Is e pro;
+
+SR e b gt ey s e e A et et ot e s
+
+MT-COMP Rev.34.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+
+Calcul.Datasheet : Flange N4 Sh. 42 ol 56
+
+  
+
+   
+
+B - Pressure 1,144 MPa De - Flange outside dlam. 710. mm
+
+Pe - Extemal pressurs - MPa C - Bolts circle diam. 670. mm
+
+T - Temperalure 20. Cent Go - Gasket oulside diam. 620. mm
+
+Cl - Intarnal corrosion - mm T - Flange thickness 43, mm
+Ce - Extermnal corosion - mm g0 - Hub lower thickness - mm
+
+Pli - Intarnal lining - mm gt - Hub higher thickness - mm
+
+Di - Shellinside diam. 586. mm h - Hub length - mm
+
+Ts - Shall thickness 12. mm Clg - Flange corr. (gask.face) - mm
+KV - Shell yield 260. N/mm2 Plg - Weld deposit (gask.face) - mm
+KVo - Shell yleld (amb) 260. N/mm2 KF - Flange yleld 335. N/mm2
+Tb - Bolts temperature 20. Cent KFa - Flange yleld (amb.) 335. N/mm2
+Nb - Bolts number 24 Ng - Gasket width 10. mm
+Ds - Bolls root diameler 13.54 mm w - Gaskel grooves pitch - mm
+Db - Bolls nom.diameter 16. mm KO - Gasket factor KO 1.2 mm
+
+dL - Bolls hole diameter 19, mm K1 - QGaskel factor K1 6. mm
+
+o - Auxiiary faclor dl KOKD - Gasket factor KO*KD 480.005 N/mm
+KB - Bolls yield 724, N/mm2 KD - Gasket factor KD 400.004 N/mm2
+KBo - Bolls yleld (amb.) 724. N/mm2 e - Neutral axis distance - mm
+PRz - Operaling axial force - N Rt - Riser thickness 1.00E-04 mm
+PRx - Seating axial farce - N 5 - Clearance shell/ilange 1.5 mm
+
+Hii - Gasket ring height (int.) - mm Hre - Gasket ring height (ext.) - mm
+
+A =De-2'Ce=710. Ss=Ts-Cl-Ce-Pll=12. Hf =T/ - Ge - MAX( Rt, Clg+Plg ) = 43
+B = O + 2*Ci + 2'Pli = 586. Dif = Di + 2'Ts + 2°5 = 613. R=.5%C-B)-glc=-
+
+G = Go - 2°'Hre - Ng = 610. SD=1.2 Plw=P=1.144
+
+Forces
+
+FRB = n"P1w*B2/ 4 = 308539.8 FR = FRB + PRz = 308539.8
+
+FFB = 5*P1w*(G2- B2) / 4 = 25700.42 FDB = n*P1w*G*SD*K1 = 15784.77
+
+ 
+  
+       
+    
+     
+  
+
+  
+   
+    
+   
+   
+   
+    
+ 
+ 
+       
+        
+         
+        
+         
+              
+          
+      
+         
+         
+          
+           
+         
+      
+   
+ 
+
+ 
+
+  
+    
+    
+     
+        
+       
+     
+     
+     
+
+g gy s ey i
+ 
+
+    
+ 
+
+      
+  
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+  
+    
+    
+ 
+ 
+
+Flange allowable stress
+
+Sf=1.05 Il = KF /sl = 319.048
+Sfo=1.05 llo = KFo / Sfo = 319,048
+Sf=1.05 fv=KV/Sf = 247,619
+Sfo = 1.05 fvo = KVo/ Sfo = 247.619
+
+Bolts check
+C5=-
+
+Dsop = [4°FSB / (1°¢*1b*Nb)| 172 + C5 = 5.775
+Dsbu = [4*FS0 / (n**Mbo*Nb)) 172 = 9,361
+
+Flange check
+
+FSBm = Max( FSB llange 1, FSB flange 2 ) = 350115,
+aR=[C-(B+Ss)]/2= 36.
+
+aD=(C-G)/2 = 30.
+
+V=05 From diagram In 88 Fig. 3
+
+FDBm = FSBm - FA - FFB = 15784.82
+Section A-A
+
+MRB = FR " aR = 11107430.
+M1 = MRB + MFB + MDB = 12509430,
+
+aAAop = M1 /W = 76.881 <ft
+
+This document is e praparty of STUDIO ZUCCHELL! who wil s2leguard s rights according 1 the Svil and penal provisions of ths taw
+
+Project: M44-MECC-110  Item: S.N. 3268
+Caleulation Code: AD 2000-MERKBLATT - Updates March 2009
+Paragraph: B7-B8-DIN 2505
+
+ASME materlals archive: ASME II-Part D - METRIC - E2007A09 .
+Calcul.Datasheet : Flange N4
+
+HYDRAULIC TEST CONDITIONS
+
+MFB = FFB * aF = 928455,
+
+MT-COMP Aev.3.4.1
+Date: 17-01-2011
+
+    
+
+Sh. 43 of 56
+
+   
+
+ 
+
+ 
+ 
+   
+ 
+ 
+   
+  
+ 
+  
+   
+    
+ 
+   
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+Flange: EN 10028-3 - P355 NH
+Bolls: A 193 B7-A194 2H-G41400
+Lining:
+
+Gasket: seziane o-ring
+
+Flange facing: FLAT-FLAT
+
+Bolls series: UNI/1SO
+
+(Flange 1)
+
+Bolts allowable stress (B7 Table 3.2)
+
+Sft=1.3 b = KB/ Sf = 556,923
+Slo=1.3 Ibo = KBo / Sfo = 556.923
+<Ds
+
+sDs
+
+ 
+
+FS0m = Max( FS0 flange 1, FS0 flange 2 ) = 919868.4
+aF =(2°C-B-G)/4 =36,
+
+al =[C-(Di+2'g1)]/2=-
+
+dL=V'dL=95
+
+Sl=FR/[n*(B + Ss)*K) = 0.49
+
+MDB = FDBm * aD = 473544.5
+MO = FSOm * aD = 27596060.
+
+W = 0.9°7°[(A - DIl - 2*d'L)*H12 + (B + Ss)*(Ss2- S12)) / 4 » 162711.5
+
+oAAbu = MO /W = 169.601 <ffo
+
+ 
+
+R S
+
+ 
+
+  
+
+   
+
+STUDIO TECNICO
+
+  
+
+Paragraph:
+
+ 
+   
+
+MAURO ZUCCHELL!
+
+  
+
+Calcul.Datasheet:
+
+  
+ 
+
+Design dates
+
+Internal designe pressure
+
+External design pressure
+
+Test pressure
+
+Design temperature
+
+Radius of curvature
+
+Wall thickness
+
+Head material design sltrength value at design temperalure
+Head material design strength value al 20°C
+
+Head modulus of elaslicity at design temperature
+
+Flange material design strength value at deslgn temperalure
+Flange material design strength value at 20°C
+
+Bolls material design strength value at design temperalure
+Bolls materal design strength value at 20°C
+
+Safety factor at deslgn pressure
+
+#|Sately factor al test pressure
+
+: Factor
+
+Allowance for minus thicknass tolerance
+
+£ | Carroslon thickness
+
+2 Design factor
+
+¥|Leak safety factor
+
+External diameter of flange
+
+Helght of flange
+
+Internal diameler of flange
+
+Average gasket diameler
+
+Selling characlerislic of gasket
+
+Service characleristic of gasket
+
+Dimensional stabilily of sealant at room temperalure
+
+Pitch diameter
+
+Diameter of screw hole
+
+   
+
+ 
+  
+  
+  
+ 
+
+006040 1o tne £ 2
+
+:
+
+£
+
+2
+
+This document ia the property of STUDIC ZUSCHELLS wha will ¢
+
+ 
+
+Project: M44-MECC-110 Mem: S.N. 3268
+Caleulation Code: ~ AD 2000-MERKBLATT
+B4
+Archivio maleriall ASME:  ASME [l-Part D
+
+Dished heads
+
+Material
+Dished head:
+Flange:
+Bolts:
+Gaskel:
+
+- METRIC - E2007A09
+
+   
+   
+
+  
+
+P S R S bt st s
+
+Date: 17-01-2011
+
+  
+
+EN 10028-7 - X2CrNiMo17122
+
+EN 10028-3 - P355 NH
+ASTM A 193 B7
+O-RING - FEP
+
+Pi = bar
+Pas T oar
+pi= bar
+t=|___ 50 ¢
+
+= mm
+Sp = mm
+K= MPa
+K= 260 upa
+E= MPa
+K =mz- MPa
+
+ 
+
+Ky = 713,6 MPa
+Ky, = MPa
+ss 15 |
+Si=| 105 |
+vel 1]
+c, =-:m mm
+G 0 om
+ouel 12 |
+So=| 12 |
+dy = n]:- mm
+Pe= 43 |mm
+d=| 596 |mm
+b= 615 |mm
+lo=| 12 |mm
+=l 6 |mm
+Ko = 400,004 _[MPa
+dr={ 670 |mm
+=l 20 Jmm
+
+Sh. 44 of 56
+
+    
+
+ 
+  
+  
+
+    
+  
+
+     
+    
+     
+       
+  
+ 
+  
+
+   
+ 
+       
+   
+   
+   
+   
+   
+   
+  
+  
+
+    
+
+o et e s
+ 
+
+  
+     
+     
+
+  
+
+  
+   
+  
+
+ 
+
+  
+
+Salely facl
+
+    
+    
+
+Test condit
+
+       
+ 
+
+b} Flange
+
+ 
+
+F =
+
+  
+ 
+
+This dacument ks the property of STUD!O ZUSCHELLI who wil saleguard 18 righls asconding lo the civl and panl pravisions of the law
+
+s,
+
+ 
+
+Aukxillary factor
+
+Design factor
+
+]
+
+ 
+
+STUDIO TECNICO
+
+MAURO ZUCCHELLI
+
+a) Spherical-disc portion calculations
+X =£L:-§;—_-‘J Jd, (s, =6 =€)
+£=2.18-0.593bog v+ (.381 - (og 1} - 0.12- (og ) +0.4- (fog x)' B=
+
+Design condition
+
+Minimum thickness al Internal deslgn pressure
+
+or
+
+Maximum external pressure
+
+ion
+
+Minimum thickness at lest pressure
+
+calculation
+
+Qperaling state
+
+pdtx
+
+ 
+
+40
+
+My =Foy a4 6ty Ftty=
+
+ 
+
+‘un” tyy
+
+Calculation Code:
+Paragraph:
+
+Archivio materiali ASME:
+Calcul.Datasheet;
+
+ 
+
+Minimum thickness in decay-lenght zone x
+
+ 
+
+Minimum thickness in decay-lenght zone x
+
+R e i e g b
+
+ 
+ 
+
+8y =
+
+5 RGP
+
+Sy
+
+B4
+
+Dished heads
+
+ 
+
+2R
+
+:’.()-54y
+s
+
+ 
+
++oy +ey S,
+
+   
+
+o K
+
+20
+12
+op m3s 002
+S, =€ =&y
+R
+E (s-c-¢ )
+1 S366— | L 2
+Sy R
+So = .J,’i.'__.’i.- ve Sx,
+20. 50,
+
+‘
+
+D R-Cyf
+
+R e e
+
++¢ ey S,
+
+ 
+
+Project: M44-MECC-110 ltem: S.N. 3268
+AD 2000-MERKBLATT
+
+ASME Il-Part D - METRIC - E2007A09
+
+  
+
+ 
+
+ 
+  
+
+. So=
+
+ 
+
+  
+ 
+   
+  
+
+Fﬂ8=
+
+ 
+ 
+
+Fep =
+
+ 
+ 
+
+Fop =
+
+ 
+ 
+
+Fip =
+
+ 
+  
+ 
+
+ay=
+
+  
+
+Mg =
+
+  
+
+Date: 17-01-2011
+
+Sh. 45 of 56
+
+13,61
+
+2231888
+
+14457,0
+
+11128,8
+
+3%0029,8
+
+ 
+
+     
+    
+
+   
+
+Project: M44-MECC-110 ltem: S.N. 3268 Date: 17-01-2011
+Calculation Code:  AD 2000-MERKBLATT
+Paragraph: B4
+
+Archivio maleriali ASME:  ASME II-Part D - METRIG - E2007A09
+Calcul.Datasheet: Dished heads
+
+STUDIO TECNICO
+
+       
+    
+
+  
+ 
+
+   
+
+MAURO ZUCCHELLLI
+
+   
+
+Sh. 46 ol 56
+
+      
+ 
+ 
+   
+
+ 
+ 
+
+  
+
+- Do
+Flange cross section Ap= [MJ"': As=  1591,00 2
+
+     
+
+    
+ 
+ 
+
+2
+Proportion of disc cross-section 4, =(s —¢ ~,)- _l"_lR]A(_,;_L.,_C:).ﬁ Ac= 15617  mm?
+
+ 
+
+A=
+
+  
+
+174717
+
+  
+  
+
+    
+
+355289 s 222,67 MPa
+
+  
+  
+
+  
+
+b: 57
+
+      
+     
+
+(According to AD 2000-Merkblall 88, Figure 3) v=[050] d= 10 mm
+
+  
+
+   
+
+b'= 47 mm
+
+   
+
+b= b=,
+
+“’-2-().u-Jr~[ln'--’-’4’~,+-é~d,((.r,-—q byt _q)')] W= 1323485
+
+   
+
+Wal 1 VRl &, 62,5019 < 22267 MPa OK
+W 254"
+
+  
+ 
+
+  
+
+Assembled slate
+
+ 
+ 
+   
+
+   
+
+Foe =7dy, -k, K, Foy= 92740743 N
+
+      
+
+ 
+
+M
+
+ 
+
+o= Fye vay Mo = 25503704,20 Nmm
+
+Il
+
+w
+
+  
+  
+
+  
+ 
+  
+ 
+
+ 
+  
+ 
+
+<X 192,7012 s 222,67 MPa  OK
+s
+
+ 
+
+Tesling state
+
+   
+
+Fop= 32083388 N
+
+ 
+
+Fep= 2078191 N
+
+ 
+   
+ 
+ 
+
+Fops l.l‘.x.dn 8k Fpp= 1599762 N
+
+» 47 Fie= 560667,80 N
+I",,,.=2—{’J-Jr-¢l,~ R'—-—;—
+
+M= Ftiy 4 Pt + By =yt Mp= 513185591 Nmm
+
+  
+  
+      
+
+     
+
+opzriy of STUDIS ZUCCHELLI who w sateguard K3 rights 8coasdng 10 ihe tivil 3nd penal provisions of the Law
+
+This docuient i3 the pr
+
+ 
+
+s TR 5. P78 e ¥ o a0 et s v e
+
+I et e
+         
+
+Project: M44-MECC-110 Ilem: S.N. 3268
+Calculation Code:  AD 2000-MERKBLATT
+Paragraph: B7
+
+Archivio materiali ASME:  ASME II-Parl D - METRIC - E2007A09
+
+Calcul. Datasheet: Bolts N1-N2 Sh. 47 of 56
+
+ 
+
+STUDIO TECNICO Date: 17-01-2011
+
+  
+
+         
+    
+
+  
+  
+
+ 
+  
+
+MAURO ZUCCHELL/
+
+      
+ 
+
+Design data
+
+ 
+ 
+
+@sket malerial:
+Bolts material;
+Design pressure
+Teslt pressure
+
+Design temperature
+Flange internal diameter
+
+Average gaskel diameter
+Number of bolts
+
+Root diameter of bolt
+Tlckness of gasket
+
+Whh of gasket
+
+ 
+ 
+     
+    
+ 
+      
+ 
+    
+   
+ 
+
+Effective width of gasket
+
+ 
+ 
+  
+
+Service condition
+
+   
+
+Leak salety factor S
+Auxlliary value Zz
+Design strength value at design temperaturs K
+
+it
+—_
+n
+
+(]
+
+  
+  
+
+st |
+Nimm®
+
+312 mm
+
+    
+
+Coefficient k1 k =13-b, ke
+
+n
+
+     
+ 
+
+p-red} Fpa= 4751659 N
+
+   
+
+F.
+
+wy =
+
+ 
+
+  
+ 
+ 
+ 
+
+Frp = 865572 N
+
+    
+
+   
+
+y Fos= 2813500 N
+an=‘l%'”'dp'su'kl oo D
+
+Foy=Fy+ Fpy+ Fy, Fsp = 8430730 N
+
+=2 .&. Zgg= 1203 mm
+’ Kn
+
+     
+
+Minimum required bolt load
+
+      
+
+Coefficient
+
+      
+ 
+
+Design allowance
+
+   
+
+Minimum required root diameter of bolt dy =z, +¢q dy = 1503 mm < QK
+
+Thix documere is ihe proparty of STUDIO ZUCCHELL who vl sefeguard its rights accaiding 22 the chvil and penal provisions ol the law
+
+ 
+
+STUDIO TECNICO
+
+MAURO ZUCCHELLI
+
+Test condition
+
+Leak safety factor
+
+Auxiliary valug
+Design strength value at 206
+
+Coelficient k,
+
+Minimum required bolt load
+
+Minimum required root diameter of bolt
+
+Bolting-up condition
+
+Auxiliary value
+Design strength value at 20¢
+
+Coefficient ky"Kp
+Minimum required bolt load
+
+If Fpy F sp
+
+Tnis document is the propery of STUDIO ZUCCHELL who wil! ralequard lis rights 2ccording fo Ihe civil and penal provisions of the law
+
+Project: M44-MECC-110
+Calculation Code:
+Paragraph: 87
+
+Archivio materiali ASME:
+Calcul.Datashsat: Bolls N1-N2
+
+Minimum required root diameter of bolt
+
+ 
+
+ky =4,
+
+pr-d}
+
+4()
+i (df, —d,’)
+
+Fop=
+o 40
+P
+1o 7Tody - S,k
+
+Fou =
+
+.
+Fon =
+
+Fop = Fg + Fpy + Fppy
+
+T
+
+. =z [
+* Kyn
+
+by Ky =200. [P
+
+h,
+
+Fpv =2-(e+f)-k,,-K,,
+
+Ful;= 0.2: f7,, +0. Fn- Fyy
+
+T
+
+d,
+Y &yn
+
+&
+
+=z
+
+ltem: S.N. 3268
+AD 2000-MERKBLATT
+
+e 1 e Tt s o i e
+
+Date: 17-01-2011
+
+ASME II-Part D - METRIC - E2007A09
+
+Sh. 48 of 56
+
+So=
+z=
+Ko = —1 502 N/mm*
+
+ky = 24 mm
+Frg= 6794872 N
+Fea= 1237767 N
+Fps= 3094850
+Fsg= 11127489
+
+di =
+
+  
+
+zsf 129 |
+Kpo=| 1592  |N/mm*
+
+ko'Kp = 56569
+Fov= 53136880 N
+F'oy= 27559858 N
+
+Oy = 1549 mm < QK
+
+Ty
+ 
+
+STUDIO TECNICO
+
+MAURO ZUCCHELLI
+
+Design data
+
+Gaskel material:
+Bolts material:
+Design pressure
+Tesl pressure
+
+Deslgn temperature
+Flange Internal diameter
+
+Average gaskel diameter
+Number of bolts
+
+Root diameter of bolt
+Tickness of gasket
+
+Width of gasket
+
+Effective width of gaskel
+
+Service condition
+
+Leak salety factor
+3 Auxiliary value
+
+ 
+
+Project: M44-MECC-110 Item: S.N. 3268
+Calculation Code:  AD 2000-MERKBLATT
+Paragraph: B7
+Archivio materlali ASME:
+Calcul.Datasheet: Bolts N3
+
+Date: 17-01-2011
+
+ASME II-Part D - METRIC - E2007A09
+Sh. 49 of 56
+
+ASBESTOS FREE
+ASTM A 153 B8 OL.1
+p=|__ 8 Toar
+
+£|Deslgn strength value at design temperature
+
+Coeflicient k1
+
+Minimum required bolt load
+Coelficient
+
+Design allowance
+
+This document is she properly of STUDXO ZUCCHELLI who will £a%aguard is righss nccorting fo tha civil and pendl provislons of
+
+  
+
+Fre= 5089,38
+Fea=  3076,25
+Fos= 10727,06
+Fsg= 18892,68
+
+Zgp= 6,97
+
+Minimum required root diameter of bolt
+
+  
+
+STUDIO TECNICO
+Paragraph:
+
+MAURO ZUCCHELLI
+
+Test condition
+
+Leak salely faclor
+
+Auxillary value
+Design strength value at 20°C
+
+Coefficlent k,
+
+Minimum required bolt load
+
+Minimum required root diameter of bolt
+
+Bolting-up condition
+
+Auxiliary value
+Design strength value at 20°C
+
+Coefficient ky*Kp
+
+Minimum required bolt load Fou
+
+If Foy > Fsg
+
+Minimum required root diameter of bolt
+
+This decument is the propedy of STUDIC ZUCCHELLI wha will safequard ifs rights accarding i the civil 2nd penal provisions o Iha Law
+
+© A e i b o st
+
+i
+
+Project: M44-MECC-110
+Calculation Code:
+
+Archivio materiali ASME:
+Calcul.Datasheet:
+
+B7
+
+Bolts N3
+
+k,- K,y =200. JL’M
+
+I,
+
+=2-fer f) by K,
+
+Fm;:o-z'F;w +08y Fy, - Iy
+
+Foy
+Kyn
+
+dy=z-
+
+ 
+
+llem: S.N. 3268
+AD 2000-MERKBLATT
+
+ 
+
+Date: 17-01-2011
+
+ASME lI-Part D - METRIC - E2007A09
+
+Sh. 50 of 56
+
+Faa=  7277,81
+Fra=  4399,03
+Fos= 11799,76
+Fsa= 23476,61
+
+O = 5,54
+
+Z=
+
+Ky =| 1592 |mm*
+
+K'Kp= 565,69
+Fov= 20259546 N
+Foy= 8001299 N
+
+G = 10,84 mm < 0K
+
+T e e s,
+ 
+
+   
+
+        
+
+Projecl: M44-MECC-110 Item: S.N. 3268
+Caleulation Code:  AD 2000-MERKBLATT
+Paragraph: B7
+
+Archivio materiali ASME:  ASME HI-Part D - METRIC - E2007A09
+Calcul.Datashest: Bolts N5-N6 Sh. 51 of 56
+
+    
+
+STUDIO TECNICO Dale: 17-01-2011
+
+     
+   
+  
+
+  
+
+  
+
+MAURO ZUCCHELLI
+
+            
+  
+
+Design data
+
+ 
+  
+ 
+
+  
+
+Bsket material:
+Bolls material:
+Design pressure
+Tesl pressure
+
+Design temperalure
+Flange internal diameter
+
+Average gaskel diameter
+Number of bolts
+
+Root diameter of balt
+Tickness of gasket
+
+With of gasket
+
+ 
+   
+   
+ 
+      
+ 
+      
+   
+    
+ 
+
+Effective width of gasket
+
+Service condition
+
+ 
+  
+ 
+
+  
+ 
+
+Leak safety factor
+
+o= 12 ]
+: Auxlliary value Z=
+Design strength value at design temperature K= 1107 N/mm?
+
+ 
+   
+ 
+  
+  
+
+Coelficient ki
+
+"
+
+k=13-b, Iy 2925  mm
+
+ 
+ 
+
+   
+
+ 
+
+      
+     
+
+             
+   
+  
+
+  
+
+pm-d? Fre= 4751659 N
+Fpy =
+4‘2
+F BT (a2 -a?) Fra= 809353 N
+40
+) Fos= 2624424 N
+F,,,,=‘I—0-7z<du-S,,-k, o8 ?
+Minimum required bolt load Fon= P+ Fpy+Fyy Fsa= 8185435 N
+Coefficient =2 'i Zgp= 1185 mm
+Kn
+
+Design allowance
+
+    
+
+   
+
+dye =zg,+eg
+
+  
+
+Minimum required root diameter of bolt
+
+This document is the propcry of STUDIO ZUCCHELL who wil safequard its rights according to the cv2 and penal provisions of the 1
+
+ 
+
+e
+
+This cocument is the property of STURIO 2UCCHELLE wno wili safeguard Its rights according 1o the civd and penal provisions of the law
+
+STUDIO TECNICO
+
+Project: M44-MECC-110
+Calculation Code:
+
+Paragraph: B7
+
+MAURO ZUCCHELL! |Archivio materiali ASME:
+Calcul.Datasheet:
+
+Test condition
+
+Leak safely factor
+Auxlliary value
+Design strength value at 20€
+
+Coefticlent k,
+
+Minimum required bolt load
+
+Minimum required roat diameter of bolt
+
+Bolting-up condition
+
+Auxiliary value
+Design strength value at 20
+
+Coetficient ko*Kp
+
+Minimum required bolt load
+It Foy sF gg
+
+Minimum required root diameter of bolt
+
+Bolts N5-N6
+
+k, =6,
+
+Pl
+40
+- P (d,z, —(I,’)
+i 20
+r
+Tn =m'”’llp “Spky
+
+Py =
+
+Foy= Fy+Fpyt Fyy
+
+ky- K, =200 %2
+
+I,
+Fov =2‘('-'+f]'kn' K,
+FI);:O"?"F;JV +08y Fiyy - Fyy
+
+Fiw
+
+dp =1z
+
+Item: S.N. 3268
+AD 2000-MERKBLATT
+
+ 
+
+Dale: 17-01-2011
+
+ASME li-Part D - METRIC - E2007A09
+
+Sh. 52 of 56
+
+6794872
+Fra= 1157375
+Fos= 2886866 N
+
+Fsa= 10839133 N
+
+Oy = mm < QK
+
+  
+
+ze[ 123 ]
+
+Kao = N/mm*
+ko'Kp= 54772
+
+Foy= 51191455 N
+F'ov= 26614358 N
+
+d = 1523 mm < OK
+
+e e
+ 
+
+   
+  
+ 
+ 
+
+MT-COMP Rev.3.4.1
+Project: M44-MECC-110  Item: S.N. 3268 Date: 17-01-2011
+Calculation Code: AD-MERKBLATT
+
+Paragraph: S 3/4
+
+      
+
+ 
+
+    
+ 
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+ 
+  
+
+ 
+ 
+   
+
+Calcul.Datasheet : Sh. 53 of 56
+
+  
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Material
+Shell: EN 10028-7-X2CrNiMo17122
+
+   
+
+ 
+
+  
+  
+
+INTERNAL PRESSURE
+
+              
+      
+      
+         
+         
+       
+    
+    
+     
+      
+     
+   
+
+      
+     
+
+P - Pressure 0.8 MPa DI - Inslde diameter 1500. mm
+
+T - Temperature 50, Cent L - Length between T.L. 2193, mm
+
+h - Plate height 330. mm Sm - Shell thickness 10. mm
+
+b - Plate width 430. mm Cmi - Shell int.corrosion = mm
+
+y - Reagction arm 240, mm Cme - Shell ext.corrosion - mm
+
+H - Bracket center from T.L. 295, mm Pmi - Shell int.lining - mm
+Fw - Total weight 6820. N tm - Shell tolerance 0.25 mm
+
+Mt - Total moment 16230000. N.mm St - Safety factor 1.5
+
+Fs - Total shear 37000. N Ym - Shell yisld strength 237.125 N/mm2
+Nm - Brackels number 1
+
+     
+
+Smc = Sm - Cmi - Cme - Pmi - tm = 9.75 D =Di + 2°Cml + 2'Pmi + Smc = 1509.75
+
+     
+ 
+
+ 
+
+ 
+
+ 
+   
+ 
+
+r=D/2=754.875 fm = Ym/ St = 158.083
+Support reaction
+R g e 39280
+T —=39 .
+Nm Nm*(Di + 2'Sm + 2'y)
+External moments
+
+ 
+ 
+
+Mi = R*y = 9427200.
+
+  
+
+Shell tension due to weight and pressure
+Ipc = P*D/ (2'Smc) = 61.938
+{pl = P*D / (4*Smc) = 30.969 !
+
+     
+     
+
+Dimenslonless forces and moments
+
+   
+      
+    
+    
+ 
+ 
+
+B=(b*h2) 1R/ (2% ¢ =0.238 y=r/Sme=77.423 hib = 0.767
+
+ClLy=0.928 CLx=0.788 KLg=1.042 KLx = 1,035 From Table 1
+
+pmg = B * KLo = 0.249 pmx = * KLx = 0.247
+
+Nod = Ng *r2* /Ml = 5.4441  From diagram in Fig. 2 Nxd=Nx"r2* g/ M =28145 From diagram in Fig. 3
+M¢d = Mg * 1 * gm¢ / MI = 0.0133 From diagram in Fig. 4 Mxd = Mx *r* pmx/Mi = 0.019 From diagram In Fig. 5
+
+  
+ 
+ 
+
+Stresses due lo longitudinal moment
+
+ 
+    
+  
+   
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Mi* CLg MI* CLx
+ompov = N¢d W =35.946 omxov = Nxd * T2 Sme =15.768
+6 ‘Ml 6°M
+abg = Mad m = 42.006 obx = Mxd * g Smer 60.67
+
+This ocument i the propenty of STUDID ZUCCHELLI wha will saleguard 1s rights according 1o Ihe civi and penel provisions of the law
+
+ 
+
+o s s
+
+i
+
+Thes aocumerd s the propenty of STUDIC ZUCCHELLE wha wl sateguerd ds nonts azecicing 1o the ovil end penal provisians of fe law
+
+O NGO DB WN -
+
+9
+
+10 gbx
+
+11 ap = omg + abg
+
+12 gx = gmx + gbx
+
+13 6@V = [042 + ax2 - g4°ax]172
+
+14 q=gmv/Ym
+15Z2=1.5-0.5'q2
+
+16 agval = 1.5*Z*(m
+
+{
+
+STUDIO TECNICO
+MAURO ZUCCHELLI
+
+  
+
+ 
+
+Quadrant
+Surface
+
+amgov
+omxav
+
+Mg = fpc + gmyov
+amx = {pl + gmxov
+amv = [nmd‘;? +gmx2 - omg*gmx]1”2
+omval = 1,5'Im
+
+237.125
+42.006
+60.67
+67.998
+75.87
+72.256
+0.095
+1.495
+354.609
+
+2omv
+
+2o0gv
+
+Project: M44-MECC-110
+Calculation Code: AD-MERKBLATT
+Paragraph: S 3/4
+
+Calcul.Datasheet :
+
+ 
+
+61.938
+30,969
+-35.946
+-15.769
+25.992
+15.2
+22.618
+237.125
+-42.006
+-60.67
+-16.014
+-45.47
+39.947
+0.095
+1.485
+
+ 
+
+Inside
+
+61.938
+30.969
+35.946
+15.769
+97.885
+46.738
+84.799
+237.125
+-42.006
+-60.67
+55.879
+-13.931
+63.992
+0.358
+1.436
+354.608 | 340.525
+
+Item: S.N. 3268
+
+MT-COMP Rov.3.4.1
+Date: 17-01-2011
+
+Sh. 54 of 56
+
+ 
+
+Materlal
+Shell: EN 10028-7-X2CrNiMo17122
+
+  
+
+Oulside
+
+61.938
+30.969
+35.946
+15,769
+97.885
+46.738
+84,799
+237.125
+42.006
+60.67
+139.891
+107.408
+126.809
+0.358
+1.436
+340.525
+
+bonnin s ey
+
+  
+
+T T s e ey
+STUDIO TECNICO Project:  M44-MECC-110  Item: S.N.3268
+
+Caleulation Code:
+Paragraph:
+
+MAURO ZUCCHELL] |Archivio materiali ASME:
+
+Calcul.Dalasheet:
+
+Datl - Data
+
+numero di mensole
+number of brackels
+
+Spessore della plastra di supporto
+Thickness of support plate
+
+Larghezza della piastra di supporto
+Width of support plate
+
+Profondita della mensola
+Depth of bracket
+
+Distanza tra le piastre di rinforzo
+Spacing of web plates
+
+Momento totale
+Total moment
+
+Diametro di riferimento delle mensole
+Reference diameter of support brackets
+
+Peso totale in esercizio
+Total welght in service
+
+Peso a vuoto
+Empty weight
+
+Coelfliciente dimensionale
+Plate dimensioning value
+
+Carico di snervamento 0,2% ASTM A516 Gr.70
+Allowsable stress 0.2% ASTM A516 Gr.70
+
+This document is the property of STUDID ZUCCHELL) wha wil saleguard £3 rghts 20cordng 1o the civit and penal provisions of the lew
+
+T TR
+
+ 
+
+AD 2000-MERKBLATT
+S3/4
+
+SUPPORT BRACKETS
+
+=
+it
+
+o
+o
+n
+
+s
+n
+
+=
+u
+
+&
+I I 3
+3
+
+a
+I
+
+Date: 17-01-2011
+
+ASME II-Part D - METRIC - E2007A09
+
+Sh. 55 of 56
+
+3
+3
+
+ 
+
+3
+3
+
+z
+3
+3
+
+3
+3
+
+Cp=
+
+fy=
+
+   
+
+b s s e e e g
+
+0.5
+
+170 N/mm
+
+2
+
+  
+
+ 
+
+         
+
+   
+
+Project: ~ M44-MECC-110  llem: S.N.3268 Date: 17-01-2011
+Calculation Code: AD 2000-MERKBLATT
+
+Paragraph: S3/4
+
+Archivio materiall ASME: ASME |I-Part D - METRIC - E2007A09
+Calcul.Datasheet: SUPPORT BRACKETS
+
+Verifica Plastra di supporlo - Verification of support plate
+
+   
+
+STUDIO TECNICO
+
+     
+   
+  
+ 
+
+    
+
+ 
+  
+
+MAURO ZUCCHELLI
+
+    
+
+Sh. 56 of 56|
+
+         
+
+  
+
+ 
+
+    
+  
+
+  
+  
+
+Forza di compressione sulle mensole N, = l(“'“ +G, ) Nrg = 37042,7105 N
+Compressive force on brackels n\ d,
+
+. 3:N, 2
+Carico massimo o, = ——H" og= 1,27  Nmm
+Maximum unit soil load b, -t
+
+    
+ 
+ 
+
+/a’
+Spessore minimo della plastra di supporto e, 2 ¢ Py —i = 8,21 mm OK
+Minimum thickness of support plate
+
+Vetifica bullanl dl ancoraqgio - Verification of anchor bolts
+
+L'ancoraggio contro il sollevamento & necessario se: M
+An anchorage against lifting is necessary where:
+
+ 
+ 
+  
+
+ 
+
+>0.7-G,
+
+ 
+  
+  
+
+Ancoraggio non & necessario
+Anchorage is not necessary
+
+ 
+  
+
+Veriflca plastra di rinforzo - Verification of web
+
+Eccentricita del carlco sul rinforzo ag = 67,1 mm
+Eccentricily of load application Into web plate
+
+ 
+      
+   
+ 
+
+Angolo di Inclinazione
+Inclination angle
+
+ 
+       
+ 
+ 
+ 
+
+Eccentricita della forza perpedicotare a4, =, -sin@p= 43,13 mm
+Eccentricity of perpendicular force in web plate
+
+Numera dl rinforzi per mensola n, =
+
+Number of webs for support bracket
+
+  
+    
+ 
+   
+        
+  
+
+Forza perpendicolare N, = — G - N;= 28780,89 N
+Pemendicular force in web plate nen, csine
+
+ 
+ 
+  
+
+      
+  
+
+Spessore del rinforzo €= 14,75 mm
+Thickness of web plate
+
+  
+    
+  
+
+  
+
+Larghezza del rinforzo teorico b = 213 mm
+Width of substitute web plate
+
+   
+     
+ 
+
+Sforzo massimo a,. =._N._,(,+6_ﬂL) s POy | EB® R
+Maximum foad e, b, b,
+
+     
+
+Th Gocumen: is 1he propely of STUDIO ZUCCHELL who wil Salequard its fighs accoroing 10 the ovi erd prmal provisions of the tar
+
+ 
+
+rtop ey st ST
+
+TR A P iy e
+

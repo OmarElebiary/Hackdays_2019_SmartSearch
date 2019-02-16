@@ -1,0 +1,143 @@
+Schaltbild / Circuit diagram / Schema de branchement
+Belegungsplan / Terminal assignment diagram / Affectation des bornes
+
+TF
+
+66 111 03 10 ML
+EM 26.10.2010
+
+ 
+
+e,
+
+~t
+
+BK
+BN
+BU
+GN
+GY
+oG
+PK
+RD
+VT
+WH
+YE
+
+Motorklemmbrett / motor terminal
+board / plaque a bornes du motor
+
+ 
+
+(siehe Motorschaltbild / see motor
+
+circuit diagramm / cf. schema de
+branchement de moteur)
+
+2-polige Klemme / two pole
+connection terminal / connecteur
+bipolaire
+
+ 
+
+: schwarz / black / noir
+
+: braun / brown / brun
+
+: blau / blue / bleu
+
+: grin / green / vert-jaune
+: grau / grey / gris
+
+: orange / orange / orange
+: rosa/ pink / rose
+
+: rot / red / rouge
+
+: violett / violet / violet
+
+: weild / white / blanc
+
+: gelb / yellow / jaune
+
+ 
+
+TF
+
+:100°C -RD
+
+~130°C -BU
+
+150°C - BK
+170°C — WH/GN
+
+Motoroptionen / motor options /
+options de moteur
+
+1.TF  :PTC - Widerstand (1.Satz)
+PTC resistance (1.block)
+résistance PTC (1.bloc)
+
+Fir diese technischen Unterlagen behalten wir uns alle Rechte vor / Copyright reserved / Tous droits de modification réservés
+SEW-EURODRIVE GmbH & Co KG Postfach 3023 - D-76642 Bruchsal Tel. ( 07251 ) 75-0 - Fax ( 07251 ) 75-1970 - http://www.sew.de
+Schaltbild/Circuit diagram/Schéma de branchement 68 184 00 08 EURODRIVE
+
+Drehstrommotor / AC Motor / Moteur triphasé DEENFR  Seite/Page 111
+
+ 
+
+Eine Drehzahl / Single-speed / Une vitesse EMS 13.11.08
+Cc13
+Fir alle Motoren mit einer Drehzahl, For all single-speed motors, direct Pour tous les moteurs mono vitesse,
+direkte Einschaltung oder YA-Anlauf on-line starting or star delta starting démarrage direct ou démarrage YA
+Niedere Spannung, A Schaltung Low voltage, delta-connection Basse tension, branchement A
+
+gl
+
+U1 W2 v1 U2 W1 v2
+
+  
+ 
+
+.
+
+TR ST
+LI N AL N ILE
+
+POOEIGO
+
+3] PEL1 L2
+
+ 
+
+ur vi wi
+
+ 
+
+68184 XX 08 01 00
+
+Hohe Spannung, Y-Schaltung High voltage, star-connection Haute tension, branchement Y
+
+1 U1 W2 V1 U2 W1 V2
+
+U1 Vi w1
+
+ 
+
+68184 XX 08 02 00
+
+[11  Motorwicklung " []  Motor winding : 1 Bobinage moteur
+
+[2] Kafigzugfederklemme [2] Cage clamp terminal block [2] Bornes cage clamp
+
+[3] Zuleitungen [3] Supply leads 3] Alimentation
+Drehrichtungsumkehr: Vertauschen  To reverse: Interchange 2 supply Changement du sens de rotation:
+von 2 Zuleitungen (L1-L2) leads (L1-L2) Inverser deux conducteurs
+
+d’alimentation (L1-L2)
+
+Fir diese technischen Unterlagen behalten wir uns alle Rechte vor / Copyright reserved / Tous drolts de modification réservés
+SEW-EURODRIVE GmbH & Co KG Postfach 3023 - D-76642 Bruchsal Tel. ( 07251) 75-0 Fax { 07251 ) 75-1970 - http://www.sew.de
+
+ 
+

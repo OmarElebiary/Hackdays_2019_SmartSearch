@@ -1,0 +1,1829 @@
+Betriebsanleitung
+Vibrationsgrenzschalter für
+pulverförmige Schüttgüter
+
+VEGAWAVE 61
+Kontaktloser Schalter
+
+Document ID: 32246
+
+Inhaltsverzeichnis
+
+Inhaltsverzeichnis
+Zu diesem Dokument
+1.1 Funktion............................................................................................................................ 4
+1.2 Zielgruppe......................................................................................................................... 4
+1.3 Verwendete Symbolik........................................................................................................ 4
+
+2
+
+Zu Ihrer Sicherheit
+2.1 Autorisiertes Personal....................................................................................................... 5
+2.2 Bestimmungsgemäße Verwendung.................................................................................. 5
+2.3 Warnung vor Fehlgebrauch............................................................................................... 5
+2.4 Allgemeine Sicherheitshinweise........................................................................................ 5
+2.5 Sicherheitskennzeichen am Gerät..................................................................................... 6
+2.6 EU-Konformität.................................................................................................................. 6
+2.7 SIL-Konformität................................................................................................................. 6
+2.8 Sicherheitshinweise für Ex-Bereiche................................................................................. 6
+2.9 Umwelthinweise................................................................................................................ 6
+
+3
+
+Produktbeschreibung
+3.1 Aufbau............................................................................................................................... 7
+3.2 Arbeitsweise...................................................................................................................... 7
+3.3 Bedienung......................................................................................................................... 8
+3.4 Lagerung und Transport.................................................................................................... 9
+
+4
+
+Montieren
+4.1 Allgemeine Hinweise....................................................................................................... 10
+4.2 Montagehinweise............................................................................................................ 11
+
+5
+
+An die Spannungsversorgung anschließen
+5.1 Anschluss vorbereiten..................................................................................................... 15
+5.2 Anschlussschritte............................................................................................................ 16
+5.3 Anschlussplan Einkammergehäuse................................................................................ 16
+
+6
+
+In Betrieb nehmen
+6.1 Allgemein........................................................................................................................ 19
+6.2 Bedienelemente.............................................................................................................. 19
+6.3 Funktionstabelle.............................................................................................................. 20
+
+7
+
+Instandhalten und Störungen beseitigen
+7.1 Wartung.......................................................................................................................... 22
+7.2 Störungen beseitigen...................................................................................................... 22
+7.3 Elektronikeinsatz tauschen.............................................................................................. 23
+7.4 Vorgehen im Reparaturfall............................................................................................... 24
+
+8
+
+Ausbauen
+8.1 Ausbauschritte................................................................................................................ 26
+8.2 Entsorgen........................................................................................................................ 26
+
+9
+
+Anhang
+9.1 Technische Daten............................................................................................................ 27
+9.2 Maße............................................................................................................................... 30
+9.3 Gewerbliche Schutzrechte.............................................................................................. 33
+9.4 Warenzeichen................................................................................................................. 33
+
+2
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+1
+
+32246-DE-170314
+
+Inhaltsverzeichnis
+
+Sicherheitshinweise für Ex-Bereiche
+Beachten Sie bei Ex-Anwendungen die Ex-spezifischen Sicherheitshinweise. Diese liegen jedem Gerät mit Ex-Zulassung als Dokument
+bei und sind Bestandteil der Betriebsanleitung.
+Redaktionsstand: 2017-03-06
+VEGAWAVE 61 • Kontaktloser Schalter
+
+3
+
+1 Zu diesem Dokument
+
+1
+
+Zu diesem Dokument
+
+1.1
+
+Funktion
+
+1.2
+
+Zielgruppe
+
+1.3
+
+Verwendete Symbolik
+
+Die vorliegende Betriebsanleitung liefert Ihnen die erforderlichen
+Informationen für Montage, Anschluss und Inbetriebnahme sowie
+wichtige Hinweise für Wartung und Störungsbeseitigung. Lesen
+Sie diese deshalb vor der Inbetriebnahme und bewahren Sie sie
+als Produktbestandteil in unmittelbarer Nähe des Gerätes jederzeit
+zugänglich auf.
+
+Diese Betriebsanleitung richtet sich an ausgebildetes Fachpersonal.
+Der Inhalt dieser Anleitung muss dem Fachpersonal zugänglich
+gemacht und umgesetzt werden.
+
+Information, Tipp, Hinweis
+Dieses Symbol kennzeichnet hilfreiche Zusatzinformationen.
+
+Vorsicht: Bei Nichtbeachten dieses Warnhinweises können Störungen oder Fehlfunktionen die Folge sein.
+
+Warnung: Bei Nichtbeachten dieses Warnhinweises kann ein Personenschaden und/oder ein schwerer Geräteschaden die Folge sein.
+
+Gefahr: Bei Nichtbeachten dieses Warnhinweises kann eine ernsthafte Verletzung von Personen und/oder eine Zerstörung des Gerätes
+die Folge sein.
+Ex-Anwendungen
+Dieses Symbol kennzeichnet besondere Hinweise für Ex-Anwendungen.
+
+•
+→
+1
+
+SIL-Anwendungen
+Dieses Symbol kennzeichnet Hinweise zur Funktionalen Sicherheit,
+die bei sicherheitsrelevanten Anwendungen besonders zu beachten
+sind.
+Liste
+Der vorangestellte Punkt kennzeichnet eine Liste ohne zwingende
+Reihenfolge.
+Handlungsschritt
+Dieser Pfeil kennzeichnet einen einzelnen Handlungsschritt.
+
+Handlungsfolge
+Vorangestellte Zahlen kennzeichnen aufeinander folgende Handlungsschritte.
+
+4
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+Batterieentsorgung
+Dieses Symbol kennzeichnet besondere Hinweise zur Entsorgung
+von Batterien und Akkus.
+
+2 Zu Ihrer Sicherheit
+
+2
+2.1
+
+Zu Ihrer Sicherheit
+Autorisiertes Personal
+
+Sämtliche in dieser Betriebsanleitung beschriebenen Handhabungen
+dürfen nur durch ausgebildetes und vom Anlagenbetreiber autorisiertes Fachpersonal durchgeführt werden.
+Bei Arbeiten am und mit dem Gerät ist immer die erforderliche persönliche Schutzausrüstung zu tragen.
+
+2.2
+
+Bestimmungsgemäße Verwendung
+
+Der VEGAWAVE 61 ist ein Sensor zur Grenzstanderfassung.
+
+Detaillierte Angaben zum Anwendungsbereich finden Sie in Kapitel
+"Produktbeschreibung".
+
+Die Betriebssicherheit des Gerätes ist nur bei bestimmungsgemäßer
+Verwendung entsprechend den Angaben in der Betriebsanleitung
+sowie in den evtl. ergänzenden Anleitungen gegeben.
+
+Eingriffe über die in der Betriebsanleitung beschriebenen Handhabungen hinaus dürfen aus Sicherheits- und Gewährleistungsgründen
+nur durch vom Hersteller autorisiertes Personal vorgenommen werden. Eigenmächtige Umbauten oder Veränderungen sind ausdrücklich untersagt.
+
+2.3
+
+Warnung vor Fehlgebrauch
+
+2.4
+
+Allgemeine Sicherheitshinweise
+
+Bei nicht sachgerechter oder nicht bestimmungsgemäßer Verwendung können von diesem Gerät anwendungsspezifische Gefahren
+ausgehen, so z. B. ein Überlauf des Behälters oder Schäden an
+Anlagenteilen durch falsche Montage oder Einstellung.
+
+Das Gerät entspricht dem Stand der Technik unter Beachtung
+der üblichen Vorschriften und Richtlinien. Es darf nur in technisch
+einwandfreiem und betriebssicherem Zustand betrieben werden. Der
+Betreiber ist für den störungsfreien Betrieb des Gerätes verantwortlich.
+Der Betreiber ist ferner verpflichtet, während der gesamten Einsatzdauer die Übereinstimmung der erforderlichen Arbeitssicherheitsmaßnahmen mit dem aktuellen Stand der jeweils geltenden Regelwerke festzustellen und neue Vorschriften zu beachten.
+
+32246-DE-170314
+
+Durch den Anwender sind die Sicherheitshinweise in dieser Betriebsanleitung, die landesspezifischen Installationsstandards sowie die
+geltenden Sicherheitsbestimmungen und Unfallverhütungsvorschriften zu beachten.
+Eingriffe über die in der Betriebsanleitung beschriebenen Handhabungen hinaus dürfen aus Sicherheits- und Gewährleistungsgründen
+nur durch vom Hersteller autorisiertes Personal vorgenommen werden. Eigenmächtige Umbauten oder Veränderungen sind ausdrücklich untersagt.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+5
+
+2 Zu Ihrer Sicherheit
+
+Weiterhin sind die auf dem Gerät angebrachten Sicherheitskennzeichen und -hinweise zu beachten.
+
+2.5
+
+Sicherheitskennzeichen am Gerät
+
+2.6
+
+EU-Konformität
+
+Die auf dem Gerät angebrachten Sicherheitskennzeichen und -hinweise sind zu beachten.
+
+Das Gerät erfüllt die gesetzlichen Anforderungen der zutreffenden
+EU-Richtlinien. Mit dem CE-Zeichen bestätigen wir die erfolgreiche
+Prüfung.
+
+Die EU-Konformitätserklärung finden Sie auf unserer Hompage unter
+www.vega.com/downloads.
+
+2.7
+
+SIL-Konformität
+
+2.8
+
+Sicherheitshinweise für Ex-Bereiche
+
+2.9
+
+Umwelthinweise
+
+Der VEGAWAVE 61 erfüllt die Anforderungen an die funktionale Sicherheit nach IEC 61508. Weitere Informationen finden Sie im Safety
+Manual "VEGAWAVE Serie 60".
+
+Beachten Sie bei Ex-Anwendungen die Ex-spezifischen Sicherheitshinweise. Diese sind Bestandteil der Betriebsanleitung und liegen
+jedem Gerät mit Ex-Zulassung bei.
+
+Der Schutz der natürlichen Lebensgrundlagen ist eine der vordringlichsten Aufgaben. Deshalb haben wir ein Umweltmanagementsystem eingeführt mit dem Ziel, den betrieblichen Umweltschutz
+kontinuierlich zu verbessern. Das Umweltmanagementsystem ist
+nach DIN EN ISO 14001 zertifiziert.
+
+Helfen Sie uns, diesen Anforderungen zu entsprechen und beachten
+Sie die Umwelthinweise in dieser Betriebsanleitung:
+
+•
+•
+
+Kapitel "Verpackung, Transport und Lagerung"
+Kapitel "Entsorgen"
+
+32246-DE-170314
+
+6
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+3 Produktbeschreibung
+
+3
+Lieferumfang
+
+Komponenten
+
+Produktbeschreibung
+
+3.1
+
+Aufbau
+
+Der Lieferumfang besteht aus:
+
+•
+•
+
+Grenzstandsensor VEGAWAVE 61
+Dokumentation
+–– Dieser Betriebsanleitung
+–– Safety Manual "Funktionale Sicherheit (SIL)" (optional)
+–– Zusatzanleitung "Steckverbinder für Grenzstandsensoren"
+(optional)
+–– Ex-spezifischen "Sicherheitshinweisen" (bei Ex-Ausführungen)
+–– Ggf. weiteren Bescheinigungen
+
+Der VEGAWAVE 61 besteht aus den Komponenten:
+
+•
+•
+•
+
+Gehäusedeckel
+Gehäuse mit Elektronik
+Prozessanschluss mit Schwinggabel
+
+1
+2
+3
+
+Abb. 1: VEGAWAVE 61 mit Kunststoffgehäuse
+1
+2
+3
+
+Typschild
+
+Das Typschild enthält die wichtigsten Daten zur Identifikation und zum
+Einsatz des Gerätes:
+
+•
+•
+•
+•
+•
+
+32246-DE-170314
+
+Gehäusedeckel
+Gehäuse mit Elektronik
+Prozessanschluss
+
+Artikelnummer
+Seriennummer
+Technische Daten
+Artikelnummern Dokumentation
+SIL-Kennzeichnung (bei SIL-Qualifikation werkseitig)
+
+Die Seriennummer ermöglicht es Ihnen, über "www.vega.com",
+"VEGA Tools" und "Gerätesuche" die Lieferdaten des Gerätes
+anzuzeigen. Zusätzlich zum Typschild außen am Gerät finden Sie die
+Seriennummer auch im Inneren des Gerätes.
+
+Anwendungsbereich
+
+3.2
+
+Arbeitsweise
+
+Der VEGAWAVE 61 ist ein Grenzstandsensor mit Schwinggabel zur
+Grenzstanderfassung.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+7
+
+3 Produktbeschreibung
+
+Er ist konzipiert für industrielle Einsätze in allen Bereichen der Verfahrenstechnik und wird vorzugsweise in Schüttgütern eingesetzt.
+Typische Anwendungen sind Überlauf- und Trockenlaufschutz. Durch
+sein einfaches und robustes Messsystem lässt sich der VEGAWAVE
+61 nahezu unabhängig von den chemischen und physikalischen
+Eigenschaften des Schüttgutes einsetzen.
+Er arbeitet auch unter starken Fremdvibrationen oder bei wechselndem Medium.
+
+Feststoffdetektion in Wasser
+Wenn Sie den VEGAWAVE 61 als Gerät zur Feststoffdetektion in
+Wasser bestellt haben, ist die Schwinggabel auf die Dichte des Wassers abgeglichen. In Luft oder bei Bedeckung mit Wasser (Dichte: 1 g/
+cm³/0.036 lbs/in) meldet der VEGAWAVE 61 unbedeckt. Erst wenn
+das Schwingelement zusätzlich mit Feststoffen (z. B. Sand, Schlamm,
+Kies etc.) bedeckt wird, meldet der Sensor eine Bedeckung.
+Funktionsüberwachung
+Der Elektronikeinsatz des VEGAWAVE 61 überwacht kontinuierlich
+folgende Kriterien:
+
+•
+•
+
+Korrekte Schwingfrequenz
+Leitungsbruch zum Piezoantrieb
+
+Wird eine der genannten Funktionsstörungen erkannt oder fällt die
+Spannungsversorgung aus, so nimmt die Elektronik einen definierten Schaltzustand an, d. h. der kontaktlose Schalter öffnet (sicherer
+Zustand).
+Funktionsprinzip
+
+Die Schwinggabel wird piezoelektrisch angetrieben und schwingt
+auf ihrer mechanischen Resonanzfrequenz von ca. 150 Hz. Wird die
+Schwinggabel mit Medium bedeckt, ändert sich die Schwingamplitude. Diese Änderung wird vom eingebauten Elektronikeinsatz erfasst
+und in einen Schaltbefehl umgewandelt.
+
+Spannungsversorgung
+
+Der VEGAWAVE 61 ist ein Kompaktgerät, d. h. er kann ohne externe
+Auswertung betrieben werden. Die integrierte Elektronik wertet das
+Füllstandsignal aus und stellt ein Schaltsignal zur Verfügung. Mit
+diesem Schaltsignal können Sie ein nachgeschaltetes Gerät direkt
+betätigen (z. B. eine Warneinrichtung, eine Pumpe etc.).
+Die Daten für die Spannungsversorgung finden Sie in Kapitel "Technische Daten".
+
+3.3
+
+Bedienung
+
+Auf dem Elektronikeinsatz finden Sie folgende Anzeige- und Bedienelemente:
+
+•
+•
+8
+
+Kontrollleuchte zur Anzeige des Schaltzustandes (grün/rot)
+Potentiometer zur Anpassung an die Füllgutdichte
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+In der Werkseinstellung können Füllgüter mit einer Dichte > 0,02 g/
+cm³ (0.0008 lbs/in³) gemessen werden. Bei Füllgütern mit niedriger
+Dichte > 0,008 g/cm³ (0.0003 lbs/in³) kann das Gerät angepasst
+werden.
+
+3 Produktbeschreibung
+
+•
+Verpackung
+
+Betriebsartenumschaltung zur Wahl des Schaltzustandes (min./
+max.)
+
+3.4
+
+Lagerung und Transport
+
+Ihr Gerät wurde auf dem Weg zum Einsatzort durch eine Verpackung
+geschützt. Dabei sind die üblichen Transportbeanspruchungen durch
+eine Prüfung in Anlehnung an ISO 4180 abgesichert.
+
+Bei Standardgeräten besteht die Verpackung aus Karton, ist umweltverträglich und wieder verwertbar. Der Messfühler ist zusätzlich mit
+einer Schutzkappe aus Pappe versehen. Bei Sonderausführungen
+wird zusätzlich PE-Schaum oder PE-Folie verwendet. Entsorgen Sie
+das anfallende Verpackungsmaterial über spezialisierte Recyclingbetriebe.
+Transport
+
+Der Transport muss unter Berücksichtigung der Hinweise auf der
+Transportverpackung erfolgen. Nichtbeachtung kann Schäden am
+Gerät zur Folge haben.
+
+Transportinspektion
+
+Die Lieferung ist bei Erhalt unverzüglich auf Vollständigkeit und eventuelle Transportschäden zu untersuchen. Festgestellte Transportschäden oder verdeckte Mängel sind entsprechend zu behandeln.
+
+Lagerung
+
+Die Packstücke sind bis zur Montage verschlossen und unter Beachtung der außen angebrachten Aufstell- und Lagermarkierungen
+aufzubewahren.
+Packstücke, sofern nicht anders angegeben, nur unter folgenden
+Bedingungen lagern:
+
+•
+
+Nicht im Freien aufbewahren
+Trocken und staubfrei lagern
+Keinen aggressiven Medien aussetzen
+Vor Sonneneinstrahlung schützen
+Mechanische Erschütterungen vermeiden
+
+Lager- und Transporttemperatur siehe Kapitel "Anhang - Technische Daten - Umgebungsbedingungen"
+Relative Luftfeuchte 20 … 85 %
+
+32246-DE-170314
+
+Lager- und Transporttemperatur
+
+•
+•
+•
+•
+•
+•
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+9
+
+4 Montieren
+
+4
+Eignung für die Prozessbedingungen
+
+4.1
+
+Montieren
+Allgemeine Hinweise
+
+Stellen Sie sicher, dass sämtliche, im Prozess befindlichen Teile
+des Gerätes, insbesondere Sensorelement, Prozessdichtung und
+Prozessanschluss für die auftretenden Prozessbedingungen geeignet
+sind. Dazu zählen insbesondere Prozessdruck, Prozesstemperatur
+sowie die chemischen Eigenschaften der Medien.
+Die Angaben dazu finden Sie in Kapitel "Technische Daten" und auf
+dem Typschild.
+
+Schaltpunkt
+
+Grundsätzlich kann der VEGAWAVE 61 in jeder beliebigen Lage eingebaut werden. Das Gerät muss lediglich so montiert werden, dass
+sich das Schwingelement auf Höhe des gewünschten Schaltpunktes
+befindet.
+
+Feuchtigkeit
+
+Verwenden Sie die empfohlenen Kabel (siehe Kapitel "An die Spannungsversorgung anschließen") und ziehen Sie die Kabelverschraubung fest an.
+
+Sie schützen Ihr Gerät zusätzlich gegen das Eindringen von Feuchtigkeit, indem Sie das Anschlusskabel vor der Kabelverschraubung
+nach unten führen. Regen- und Kondenswasser können so abtropfen.
+Dies gilt vor allem bei Montage im Freien, in Räumen, in denen mit
+Feuchtigkeit zu rechnen ist (z. B. durch Reinigungsprozesse) oder an
+gekühlten bzw. beheizten Behältern.
+
+Abb. 2: Maßnahmen gegen das Eindringen von Feuchtigkeit
+
+Transport
+
+Halten Sie den VEGAWAVE 61 nicht am Schwingelement. Insbesondere bei Flansch- oder Rohrversionen kann der Sensor durch das
+Gerätegewicht beschädigt werden.
+Entfernen Sie die Schutzkappe erst unmittelbar vor der Montage.
+
+Druck/Vakuum
+
+Den maximal zulässigen Druck können Sie dem Kapitel "Technische
+Daten" oder dem Typschild des Sensors entnehmen.
+10
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+Bei Über- oder Unterdruck im Behälter müssen Sie den Prozessanschluss abdichten. Prüfen Sie vor dem Einsatz, ob das Dichtungsmaterial gegenüber dem Medium und der Prozesstemperatur beständig
+ist.
+
+4 Montieren
+
+Handhabung
+
+Der Vibrationsgrenzschalter ist ein Messgerät und muss entsprechend behandelt werden. Ein Verbiegen des Schwingelements führt
+zur Zerstörung des Gerätes.
+Warnung:
+Das Gehäuse darf nicht zum Einschrauben verwendet werden! Das
+Festziehen kann Schäden an der Drehmechanik des Gehäuses
+verursachen.
+Verwenden Sie zum Einschrauben den Sechskant oberhalb des
+Gewindes.
+
+Kabeleinführungen - NPT- Metrische Gewinde
+Gewinde
+Bei Gerätegehäusen mit metrischen Gewinden sind die KabelKabelverschraubungen
+verschraubungen werkseitig eingeschraubt. Sie sind durch Kunststoffstopfen als Transportschutz verschlossen.
+
+Sie müssen diese Stopfen vor dem elektrischen Anschluss entfernen.
+NPT-Gewinde
+Bei Gerätegehäusen mit selbstdichtenden NPT-Gewinden können die
+Kabelverschraubungen nicht werkseitig eingeschraubt werden. Die
+freien Öffnungen der Kabeleinführungen sind deshalb als Transportschutz mit roten Staubschutzkappen verschlossen.
+Sie müssen diese Schutzkappen vor der Inbetriebnahme durch
+zugelassene Kabelverschraubungen ersetzen oder mit geeigneten
+Blindstopfen verschließen.
+
+Stutzen
+
+Montagehinweise
+
+Das Schwingelement sollte möglichst frei in den Behälter ragen, um
+Ablagerungen zu verhindern. Vermeiden Sie deshalb Stutzen für
+Flansche und Einschraubstutzen. Dies gilt vor allem für Füllgüter, die
+zu Anhaftungen neigen.
+Bauen Sie das Gerät so ein, dass die Schwinggabel nicht direkt in
+den Befüllstrom ragt.
+
+32246-DE-170314
+
+Befüllöffnung
+
+4.2
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+11
+
+4 Montieren
+
+a.
+
+b.
+
+20°
+
+Abb. 3: Waagerechter Einbau
+a
+b
+
+Schutzblech
+Konkaves Schutzblech für abrasive Schüttgüter
+
+Sollte ein solcher Einbauort erforderlich sein, montieren Sie ein
+geeignetes Schutzblech über bzw. vor dem Schwingelement, siehe
+Darstellung "a").
+
+Bei abrasiven Schüttgütern hat sich die Montage nach Darstellung "b"
+bewährt. Im konkaven Schutzblech bildet sich eine Schüttgutwächte,
+die einen Verschleiß des Schutzblechs verhindert.
+Waagerechte Montage
+
+Um einen möglichst genauen Schaltpunkt zu erreichen, können Sie
+den VEGAWAVE 61 waagerecht einbauen. Wenn sich der Schaltpunkt jedoch in einer Toleranz von einigen Zentimetern bewegen darf,
+empfehlen wir, den VEGAWAVE 61 ca. 20° schräg nach unten geneigt
+einzubauen, damit sich keine Ablagerungen bilden können.
+
+20°
+
+32246-DE-170314
+
+Abb. 4: Waagerechte Montage
+
+12
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+4 Montieren
+
+Einströmendes Medium
+
+Wenn der VEGAWAVE 61 im Befüllstrom eingebaut ist, kann dies zu
+unerwünschten Fehlmessungen führen. Montieren Sie den VEGAWAVE 61 deshalb an einer Stelle im Behälter, wo keine störenden
+Einflüsse, wie z. B. von Befüllöffnungen, Rührwerken etc. auftreten
+können.
+
+Strömungen
+
+Damit die Schwinggabel des VEGAWAVE 61 bei Füllgutbewegungen
+möglichst wenig Widerstand bietet, sollten die Flächen der Schwinggabel parallel zur Füllgutbewegung stehen.
+
+1
+
+2
+
+Abb. 5: Strömungsausrichtung der Schwinggabel
+1
+2
+
+Anhaftende Füllgüter
+
+Markierung bei Gewindeausführung
+Strömungsrichtung
+
+Bei horizontaler Montage in anhaftenden Füllgütern sollten die
+Flächen der Schwinggabel möglichst senkrecht stehen, um Ablagerungen auf der Schwinggabel möglichst gering zu halten. Bei der
+Gewindeausführung ist eine Markierung auf dem Sechskant. Damit
+können Sie die Stellung der Schwinggabel beim Einschrauben
+kontrollieren. Wenn der Sechskant auf der Flachdichtung aufsitzt,
+kann das Gewinde noch ca. um eine halbe Umdrehung weitergedreht
+werden. Das genügt, um die empfohlene Einbaulage zu erreichen.
+Bei Flanschausführungen ist die Gabel auf die Flanschbohrungen
+ausgerichtet.
+
+32246-DE-170314
+
+1
+
+Abb. 6: Waagerechte Montage - Markierung
+1
+
+Markierung bei Gewindeausführung oben
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+13
+
+4 Montieren
+
+Prallschutz gegen Steinschlag
+
+Bei Anwendungen z. B. in Sandfängen oder in Absetzbecken für
+Grobsedimente ist das Schwingelement mit einem geeigneten Prallblech vor Beschädigungen zu schützen.
+
+> 120 mm
+(> 4.7")
+
+Dieses Prallblech müssen Sie selbst anfertigen.
+
+> 125 mm
+(> 5")
+
+Abb. 7: Prallblech zum Schutz vor Beschädigungen
+
+32246-DE-170314
+
+14
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+5 An die Spannungsversorgung anschließen
+
+5
+Sicherheitshinweise
+beachten
+
+An die Spannungsversorgung anschließen
+
+5.1
+
+Anschluss vorbereiten
+
+Beachten Sie grundsätzlich folgende Sicherheitshinweise:
+Warnung:
+Nur in spannungslosem Zustand anschließen.
+
+•
+•
+
+Der elektrische Anschluss darf nur durch ausgebildetes und vom
+Anlagenbetreiber autorisiertes Fachpersonal durchgeführt werden.
+Schließen Sie das Gerät grundsätzlich so an, dass spannungsloses An- und Abklemmen möglich ist.
+
+Hinweis:
+Installieren Sie eine gut zugängliche Trennvorrichtung für das Gerät.
+Die Trennvorrichtung muss für das Gerät gekennzeichnet sein (IEC/
+EN 61010).
+Sicherheitshinweise
+für Ex-Anwendungen beachten
+
+In explosionsgefährdeten Bereichen müssen die entsprechenden
+Vorschriften, Konformitäts- und Baumusterprüfbescheinigungen der
+Sensoren und der Versorgungsgeräte beachtet werden.
+
+Spannungsversorgung
+
+Schließen Sie die Spannungsversorgung gemäß den nachfolgenden
+Anschlussbildern an. Der Elektronikeinsatz mit kontaktlosem Schalter
+ist in Schutzklasse I ausgeführt. Zur Einhaltung dieser Schutzklasse
+ist es zwingend erforderlich, dass der Schutzleiter an der inneren
+Schutzleiteranschlussklemme angeschlossen wird. Beachten Sie
+dazu die allgemeinen Installationsvorschriften. Bei Ex-Anwendungen
+müssen Sie übergeordnet die Errichtungsvorschriften für explosionsgefährdete Bereiche beachten.
+Die Daten für die Spannungsversorgung finden Sie in Kapitel "Technische Daten".
+
+Anschlusskabel
+
+Das Gerät wird mit handelsüblichem dreiadrigem Kabel ohne Schirm
+angeschlossen. Falls elektromagnetische Einstreuungen zu erwarten
+sind, die über den Prüfwerten der EN 61326 für industrielle Bereiche
+liegen, sollte abgeschirmtes Kabel verwendet werden.
+
+Verwenden Sie Kabel mit rundem Querschnitt. Ein Kabelaußendurchmesser von 5 … 9 mm (0.2 … 0.35 in) stellt die Dichtwirkung der
+Kabelverschraubung sicher. Wenn Sie Kabel mit anderem Durchmesser oder Querschnitt einsetzen, wechseln Sie die Dichtung oder
+verwenden Sie eine geeignete Kabelverschraubung.
+
+32246-DE-170314
+
+Verwenden Sie für VEGAWAVE 61 in explosionsgeschützten Bereichen nur zugelassene Kabelverschraubungen.
+Anschlusskabel für
+Ex-Anwendungen
+
+Bei Ex-Anwendungen sind die entsprechenden Errichtungsvorschriften zu beachten.
+Verschließen Sie alle Gehäuseöffnungen normgerecht nach
+EN 60079-1.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+15
+
+5 An die Spannungsversorgung anschließen
+
+5.2
+
+Anschlussschritte
+
+Bei Ex-Geräten darf der Gehäusedeckel nur dann geöffnet werden,
+wenn keine explosionsfähige Atmosphäre vorhanden ist.
+Gehen Sie wie folgt vor:
+
+1. Gehäusedeckel abschrauben
+
+2. Überwurfmutter der Kabelverschraubung lösen und Verschlussstopfen herausnehmen
+
+3. Anschlusskabel ca. 10 cm (4 in) abmanteln, Aderenden ca. 1 cm
+(0.4 in) abisolieren
+4. Kabel durch die Kabelverschraubung in den Sensor schieben
+
+5. Öffnungshebel der Klemmen mit einem Schraubendreher anheben (siehe nachfolgende Abbildung)
+
+Abb. 8: Anschlussschritte 5 und 6
+
+6. Aderenden nach Anschlussplan in die offenen Klemmen stecken
+7. Öffnungshebel der Klemmen nach unten drücken, die Klemmenfeder schließt hörbar
+8. Korrekten Sitz der Leitungen in den Klemmen durch leichtes
+Ziehen prüfen
+9. Überwurfmutter der Kabelverschraubung fest anziehen. Der
+Dichtring muss das Kabel komplett umschließen
+10. Eventuell neuen Abgleich durchführen
+11. Gehäusedeckel verschrauben
+
+Der elektrische Anschluss ist somit fertig gestellt.
+
+Anschlussplan Einkammergehäuse
+
+Die nachfolgenden Abbildungen gelten sowohl für die Nicht-Ex-, als
+auch für die Ex-d-Ausführung.
+
+16
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+5.3
+
+5 An die Spannungsversorgung anschließen
+
+Gehäuseübersicht
+
+5
+
+5
+
+1
+
+5
+
+5
+
+2
+
+3
+
+4
+
+Abb. 9: Werkstoffvarianten Einkammergehäuse
+1
+2
+3
+4
+5
+
+Anschlussplan
+
+Kunststoff (nicht bei Ex d)
+Aluminium
+Edelstahl (nicht bei Ex d)
+Edelstahl, elektropoliert (nicht bei Ex d)
+Filterelement für Luftdruckausgleich (nicht bei Ex d)
+
+Wir empfehlen den VEGAWAVE 61 so anzuschließen, dass der
+Schaltstromkreis bei Grenzstandmeldung, Leitungsbruch oder Störung geöffnet ist (sicherer Zustand).
+Der kontaktlose Schalter ist immer im Ruhezustand dargestellt.
+
+Warnung:
+Das Gerät darf nicht ohne zwischengeschaltete Last betrieben
+werden, da der Elektronikeinsatz bei direktem Anschluss an das
+Netz zerstört wird. Nicht zum Anschluss an Niederspannungs-SPSEingänge geeignet.
+Beispiele für typische Anwendungen:
+
+•
+•
+•
+
+Lastwiderstand bei 24 V DC: 88 … 1800 Ω
+Bemessungsleistung, Relais 253 V AC: > 2,5 VA
+Bemessungsleistung, Relais 24 V AC: > 0,5 VA
+
+Zum direkten Ansteuern von Relais, Schützen, Magnetventilen,
+Leuchtmeldern, Hupen etc.
+
+32246-DE-170314
+
+Der Eigenstrom wird nach Abschalten der Last kurzzeitig unter 1 mA
+abgesenkt, so dass Schütze, deren Haltestrom geringer ist als der
+dauernd fließende Eigenstrom der Elektronik, dennoch sicher abgeschaltet werden.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+17
+
+5 An die Spannungsversorgung anschließen
+
+1
+Abb. 10: Anschlussplan
+1
+
+Abschirmung
+
+32246-DE-170314
+
+18
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+6 In Betrieb nehmen
+
+6
+
+In Betrieb nehmen
+
+6.1
+
+Allgemein
+
+Die Zahlenangaben in Klammern beziehen sich auf die nachfolgenden Abbildungen.
+Funktion/Aufbau
+
+Auf dem Elektronikeinsatz finden Sie folgende Anzeige- und Bedienelemente:
+
+•
+•
+•
+
+Potentiometer zur Einstellung des Dichtebereiches (1)
+DIL-Schalter zur Betriebsartenumschaltung - min./max. (2)
+Kontrollleuchte (5)
+
+Hinweis:
+Stellen Sie generell vor der Inbetriebnahme des VEGAWAVE 61 mit
+dem Betriebsartenschalter (2) die Betriebsart ein. Wenn Sie den
+Betriebsartenschalter (2) nachträglich umschalten, ändert sich der
+Schaltausgang. Das heißt, nachgeschaltete Geräte werden evtl.
+betätigt.
+
+Elektronik- und Anschlussraum
+
+6.2
+
+Bedienelemente
+1
+5
+2
+4
+
+3
+
+Abb. 11: Elektronik- und Anschlussraum - kontaktloser Schalter
+
+32246-DE-170314
+
+1
+2
+3
+4
+5
+
+Potentiometer zur Einstellung des Dichtebereiches
+DIL-Schalter zur Betriebsartenumschaltung
+Erdungsklemme
+Anschlussklemmen
+Kontrollleuchte
+
+Einstellung des Dichtebe- Mit dem Potentiometer können Sie den Schaltpunkt an das Schüttgut
+reiches (1)
+anpassen. Es ist werkseitig voreingestellt und muss nur in Grenzfällen
+verändert werden.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+19
+
+6 In Betrieb nehmen
+
+Das Potentiometer des VEGAWAVE 61 steht werkseitig auf Rechtsanschlag (> 0,02 g/cm³ bzw. 0.0008 lbs/in³). Bei besonders leichten
+Schüttgütern drehen Sie das Potentiometer auf Linksanschlag
+(> 0,008 g/cm³ bzw. 0.0003 lbs/in³). Damit wird der VEGAWAVE 61
+empfindlicher und kann leichte Schüttgüter sicherer detektieren.
+
+Bei Geräten zur Feststoffdetektion in Wasser gelten diese Einstellungen nicht. Der Dichtebereich ist werkseitig eingestellt und darf nicht
+verändert werden.
+Betriebsartenumschaltung (2)
+
+Mit der Betriebsartenumschaltung (min./max.) können Sie den
+Schaltzustand des Ausganges ändern. Sie können damit die
+gewünschte Betriebsart gemäß "Funktionstabelle" einstellen (max.
+- Maximalstanderfassung bzw. Überlaufschutz, min. - Minimalstanderfassung bzw. Trockenlaufschutz).
+Wir empfehlen, den Anschluss im Ruhestromprinzip (kontaktloser
+Schalter bei Erreichen des Schaltpunktes offen), da der kontaktlose
+Schalter bei erkannter Störung den gleichen (sicheren) Zustand
+annimmt.
+
+Kontrollleuchte (5)
+
+Kontrollleuchte zur Anzeige des Schaltzustandes
+
+•
+•
+•
+
+Grün = Schalter geschlossen
+Rot = Schalter offen
+Rot (blinkt) = Störung
+
+6.3
+
+Funktionstabelle
+
+Die folgende Tabelle gibt eine Übersicht über die Schaltzustände in
+Abhängigkeit von der eingestellten Betriebsart und dem Füllstand.
+Füllstand
+
+Schaltzustand
+
+Kontrollleuchte
+
+Betriebsart max.
+Überlaufschutz
+
+1
+
+2
+
+Schalter geschlossen
+
+Grün
+
+Betriebsart max.
+Überlaufschutz
+
+1
+
+2
+
+Schalter offen
+
+Rot
+
+Betriebsart min.
+
+Trockenlaufschutz
+
+1
+
+2
+
+Schalter geschlossen
+
+Grün
+
+Trockenlaufschutz
+
+1
+
+2
+
+Schalter offen
+
+20
+
+Rot
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+Betriebsart min.
+
+6 In Betrieb nehmen
+Füllstand
+
+Schaltzustand
+
+Kontrollleuchte
+
+Ausfall der Spannungsver- beliebig
+sorgung
+(Betriebsart min./max.)
+
+1
+
+2
+
+Schalter offen
+Störung
+
+beliebig
+1
+
+2
+
+blinkt rot
+
+32246-DE-170314
+
+Schalter offen
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+21
+
+7 Instandhalten und Störungen beseitigen
+
+7
+
+Instandhalten und Störungen beseitigen
+
+7.1
+
+Wartung
+
+7.2
+
+Störungen beseitigen
+
+Bei bestimmungsgemäßer Verwendung ist im Normalbetrieb keine
+besondere Wartung erforderlich.
+
+Verhalten bei Störungen
+Störungsursachen
+
+Es liegt in der Verantwortung des Anlagenbetreibers, geeignete Maßnahmen zur Beseitigung aufgetretener Störungen zu ergreifen.
+Der VEGAWAVE 61 bietet Ihnen ein Höchstmaß an Funktionssicherheit. Dennoch können während des Betriebes Störungen auftreten.
+Diese können z. B. folgende Ursachen haben:
+
+•
+•
+•
+•
+
+Sensor
+Prozess
+Spannungsversorgung
+Signalauswertung
+
+Störungsbeseitigung
+
+Die erste Maßnahme ist die Überprüfung des Ausgangssignals. In
+vielen Fällen lassen sich die Ursachen auf diesem Wege feststellen
+und die Störungen so beseitigen.
+
+24 Stunden ServiceHotline
+
+Sollten diese Maßnahmen dennoch zu keinem Ergebnis führen,
+rufen Sie in dringenden Fällen die VEGA Service-Hotline an unter Tel.
++49 1805 858550.
+Die Hotline steht Ihnen auch außerhalb der üblichen Geschäftszeiten
+an 7 Tagen in der Woche rund um die Uhr zur Verfügung. Da wir diesen Service weltweit anbieten, erfolgt die Unterstützung in englischer
+Sprache. Der Service ist kostenfrei, es fallen lediglich die üblichen
+Telefongebühren an.
+
+32246-DE-170314
+
+22
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+7 Instandhalten und Störungen beseitigen
+
+Schaltsignal überprüfen
+Fehler
+
+Ursache
+
+Beseitigung
+
+Der VEGAWAVE 61 meldet Betriebsspannung zu
+bedeckt ohne Füllgutbede- niedrig
+ckung (Überfüllsicherung)
+Elektronik defekt
+Der VEGAWAVE 61
+meldet unbedeckt mit
+Füllgutbedeckung (Trockenlaufschutz)
+
+Betriebsspannung prüfen
+Betriebsartenschalter betätigen. Wenn das Gerät daraufhin umschaltet, kann das Schwingelement mit
+Anhaftungen bedeckt oder mechanisch beschädigt
+sein. Sollte die Schaltfunktion auf der korrekten Betriebsart wieder fehlerhaft sein, senden Sie das Gerät
+zur Reparatur ein.
+Betriebsartenschalter betätigen. Wenn das Gerät daraufhin nicht umschaltet, ist der Elektronikeinsatz defekt.
+Elektronikeinsatz tauschen.
+
+Kontrollleuchte blinkt rot
+
+Einbauort ungünstig
+
+Gerät an einer Stelle einbauen, an der sich keine Toträume oder Wächten im Behälter bilden können.
+
+Anhaftungen am Schwingelement
+
+Kontrollieren Sie das Schwingelement und den Stutzen
+auf eventuelle Anhaftungen und entfernen Sie diese.
+
+Falsche Betriebsart gewählt
+
+Korrekte Betriebsart am Betriebsartenschalter einstellen (Überlaufschutz, Trockenlaufschutz). Die
+Verkabelung sollte nach dem Ruhestromprinzip ausgeführt werden.
+
+Fehler am Schwingelement
+
+Kontrollieren Sie, ob das Schwingelement beschädigt
+oder stark korrodiert ist.
+
+Störung an der Elektronik
+
+Elektronikeinsatz tauschen
+
+Gerät defekt
+
+Gerät austauschen bzw. zur Reparatur einsenden
+
+Verhalten nach Störungs- Je nach Störungsursache und getroffenen Maßnahmen sind ggf.
+beseitigung
+die in Kapitel "In Betrieb nehmen" beschriebenen Handlungsschritte
+erneut zu durchlaufen.
+
+7.3
+
+Elektronikeinsatz tauschen
+
+Generell können alle Elektronikeinsätze der Typenreihe WE60
+untereinander getauscht werden. Falls Sie einen Elektronikeinsatz
+mit einem anderen Signalausgang verwenden wollen, können Sie
+die dazu passende Betriebsanleitung auf unserer Homepage unter
+Downloads herunterladen.
+
+Bei Ex-d-Geräten darf der Gehäusedeckel nur dann geöffnet werden,
+wenn keine explosionsfähige Atmosphäre vorhanden ist.
+Gehen Sie wie folgt vor:
+
+1. Spannungsversorgung abschalten
+
+32246-DE-170314
+
+2. Gehäusedeckel abschrauben
+
+3. Öffnungshebel der Klemmen mit einem Schraubendreher anheben
+4. Anschlussleitungen aus den Klemmen herausziehen
+
+5. Die beiden Halteschrauben mit einem Schraubendreher (Torx
+Größe T10 oder Schlitz 4) lösen
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+23
+
+7 Instandhalten und Störungen beseitigen
+
+1
+
+2
+Abb. 28: Halteschrauben lösen
+1
+2
+
+Elektronikeinsatz
+Halteschrauben (2 Stück)
+
+6. Den alten Elektronikeinsatz herausziehen
+
+7. Neuen Elektronikeinsatz mit dem Alten vergleichen. Das Typschild auf dem Elektronikeinsatz muss dem Typschild des alten
+Elektronikeinsatzes entsprechen. Dies gilt vor allem für Geräte in
+explosionsgeschützten Bereichen.
+8. Einstellungen der beiden Elektronikeinsätze vergleichen. Die
+Bedienelemente des neuen Elektronikeinsatzes auf dieselbe
+Einstellung des alten Elektronikeinsatzes stellen.
+
+Information:
+Achten Sie darauf, dass das Gehäuse während des Elektroniktausches nicht verdreht wird. Der Stecker kann dadurch in einer anderen
+Stellung stehen.
+9. Elektronikeinsatz vorsichtig einstecken. Darauf achten, dass der
+Stecker in korrekter Position steht.
+10. Die beiden Halteschrauben mit einem Schraubendreher (Torx
+Größe T10 oder Schlitz 4) einschrauben und festziehen
+
+11. Aderenden nach Anschlussplan in die offenen Klemmen stecken
+12. Öffnungshebel der Klemmen nach unten drücken, die Klemmenfeder schließt hörbar
+13. Korrekten Sitz der Leitungen in den Klemmen durch leichtes
+Ziehen prüfen
+
+14. Kabelverschraubung auf Dichtigkeit überprüfen. Der Dichtring
+muss das Kabel komplett umschließen.
+15. Gehäusedeckel verschrauben
+
+Der Elektroniktausch ist somit abgeschlossen.
+
+Vorgehen im Reparaturfall
+
+Ein Geräterücksendeblatt sowie detallierte Informationen zur Vorgehensweise finden Sie im Downloadbereich auf www.vega.com
+Sie helfen uns damit, die Reparatur schnell und ohne Rückfragen
+durchzuführen.
+24
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+7.4
+
+7 Instandhalten und Störungen beseitigen
+
+Sollte eine Reparatur erforderlich sein, gehen Sie folgendermaßen
+vor:
+
+•
+•
+•
+
+32246-DE-170314
+
+•
+
+Für jedes Gerät ein Formular ausdrucken und ausfüllen
+Das Gerät reinigen und bruchsicher verpacken
+Das ausgefüllte Formular und eventuell ein Sicherheitsdatenblatt
+außen auf der Verpackung anbringen
+Bitte erfragen Sie die Adresse für die Rücksendung bei der für Sie
+zuständigen Vertretung. Sie finden diese auf unserer Homepage
+www.vega.com.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+25
+
+8 Ausbauen
+
+8
+8.1
+
+Ausbauen
+Ausbauschritte
+
+Warnung:
+Achten Sie vor dem Ausbauen auf gefährliche Prozessbedingungen
+wie z. B. Druck im Behälter, hohe Temperaturen, aggressive oder
+toxische Medien etc.
+Beachten Sie die Kapitel "Montieren" und "An die Spannungsversorgung anschließen" und führen Sie die dort angegebenen Schritte
+sinngemäß umgekehrt durch.
+Bei Ex-Geräten darf der Gehäusedeckel nur dann geöffnet werden,
+wenn keine explosionsfähige Atmosphäre vorhanden ist.
+
+8.2
+
+Entsorgen
+
+Das Gerät besteht aus Werkstoffen, die von darauf spezialisierten Recyclingbetrieben wieder verwertet werden können. Wir haben hierzu
+die Elektronik leicht trennbar gestaltet und verwenden recyclebare
+Werkstoffe.
+WEEE-Richtlinie 2002/96/EG
+Das vorliegende Gerät unterliegt nicht der WEEE-Richtlinie 2002/96/
+EG und den entsprechenden nationalen Gesetzen. Führen Sie das
+Gerät direkt einem spezialisierten Recyclingbetrieb zu und nutzen
+Sie dafür nicht die kommunalen Sammelstellen. Diese dürfen nur für
+privat genutzte Produkte gemäß WEEE-Richtlinie genutzt werden.
+
+Eine fachgerechte Entsorgung vermeidet negative Auswirkungen auf
+Mensch und Umwelt und ermöglicht eine Wiederverwendung von
+wertvollen Rohstoffen.
+Werkstoffe: siehe Kapitel "Technische Daten"
+
+Sollten Sie keine Möglichkeit haben, das Altgerät fachgerecht zu entsorgen, so sprechen Sie mit uns über Rücknahme und Entsorgung.
+
+32246-DE-170314
+
+26
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+9 Anhang
+
+9
+9.1
+
+Anhang
+Technische Daten
+
+Hinweis für zugelassene Geräte
+Für zugelassene Geräte (z. B. mit Ex-Zulassung) gelten die technischen Daten in den entsprechenden Sicherheitshinweisen. Diese können, z. B. bei den Prozessbedingungen oder der Spannungsversorgung, von den hier aufgeführten Daten abweichen.
+Allgemeine Daten
+Werkstoff 316L entspricht 1.4404 oder 1.4435
+Werkstoffe, medienberührt
+
+ƲƲ Prozessanschluss - Gewinde
+
+316L
+
+ƲƲ Prozessdichtung
+
+Klingersil C-4400
+
+ƲƲ Prozessanschluss - Flansch
+ƲƲ Schwinggabel
+
+316L
+316L
+
+ƲƲ Verlängerungsrohr ø 43 mm (1.7 in)
+
+316L
+
+ƲƲ Kunststoffgehäuse
+
+Kunststoff PBT (Polyester)
+
+ƲƲ Edelstahlgehäuse (Feinguss)
+
+316L
+
+Werkstoffe, nicht medienberührt
+
+ƲƲ Aluminium-Druckgussgehäuse
+
+ƲƲ Edelstahlgehäuse (elektropoliert)
+ƲƲ Dichtung zwischen Gehäuse und
+Gehäusedeckel
+
+Aluminium-Druckguss AlSi10Mg, pulverbeschichtet Basis: Polyester
+316L
+
+Silikon
+
+ƲƲ Lichtleiter im Gehäusedeckel (Kunststoff)
+
+PMMA (Makrolon)
+
+ƲƲ Kabelverschraubung
+
+PA, Edelstahl, Messing
+
+ƲƲ Erdungsklemme
+
+316L
+
+ƲƲ Dichtung Kabelverschraubung
+
+NBR
+
+ƲƲ Verschlussstopfen Kabelverschraubung
+
+Prozessanschlüsse
+
+ƲƲ Rohrgewinde, zylindrisch (DIN 3852A)
+ƲƲ Rohrgewinde, konisch (ASME B1.20.1)
+
+Gerätegewicht (je nach Prozessanschluss)
+
+G1½
+1½ NPT
+0,8 … 4 kg (0.18 … 8.82 lbs)
+600 N (135 lbf)
+
+32246-DE-170314
+
+Max. seitliche Belastung
+
+PA
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+27
+
+9 Anhang
+
+Abb. 29: Maximale seitliche Belastung längs zur Gabelseite (schmale Gabelseite)
+
+Anzugsmoment für NPT-Kabelverschraubungen und Conduit-Rohre
+ƲƲ Kunststoffgehäuse
+
+ƲƲ Aluminium-/Edelstahlgehäuse
+Ausgangsgröße
+Ausgang
+
+Betriebsarten (umschaltbar)
+Schaltverzögerung
+ƲƲ Bei Bedeckung
+ƲƲ Bei Freiwerden
+
+max. 10 Nm (7.376 lbf ft)
+max. 50 Nm (36.88 lbf ft)
+
+Kontaktloser Schalter
+min./max.
+0,5 s
+1s
+
+Umgebungsbedingungen
+Umgebungstemperatur am Gehäuse
+
+-40 … +80 °C (-40 … +176 °F)
+
+Prozessbedingungen
+Messgröße
+
+Grenzstand von Schüttgütern
+
+VEGAWAVE 61 aus 316L
+
+-50 … +150 °C (-58 … +302 °F)
+
+Lager- und Transporttemperatur
+
+Prozessdruck
+
+Prozesstemperatur (Gewinde- bzw.
+Flanschtemperatur) mit Temperaturzwischenstück (optional)
+
+-40 … +80 °C (-40 … +176 °F)
+
+-1 … 25 bar/-100 … 2500 kPa (-14.5 … 363 psig)
+-50 … +250 °C (-58 … +482 °F)
+
+32246-DE-170314
+
+28
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+9 Anhang
+
+2
+
+3
+
+80°C
+(176°F)
+40°C
+(104°F)
+
+-50°C
+(-58°F)
+
+0°C
+(32°F)
+-40°C
+(-40°F)
+
+1
+100°C
+(212°F)
+
+50°C
+(122°F)
+
+150°C
+(302°F)
+
+200°C
+(392°F)
+
+250°C
+(482°F)
+
+Abb. 30: Umgebungstemperatur - Prozesstemperatur
+1
+2
+3
+
+Prozesstemperatur
+Umgebungstemperatur
+Temperaturbereich mit Temperaturzwischenstück
+
+Füllgutdichte
+
+ƲƲ Standardempfindlichkeit
+ƲƲ Hohe Empfindlichkeit
+
+Korngröße
+
+> 0,02 g/cm³ (0.0007 lbs/in³)
+
+> 0,008 g/cm³ (0.0003 lbs/in³)
+max. 10 mm (0.4 in)
+
+Elektromechanische Daten
+Kabeleinführung/Stecker (je nach Ausführung)
+ƲƲ Einkammergehäuse
+
+–– 1 x Kabelverschraubung M20 x 1,5 (Kabel:
+ø 5 … 9 mm), 1 x Blindstopfen M20 x 1,5; beiliegend
+1 x Kabelverschraubung M20 x 1,5
+oder:
+–– 1 x Kabelverschraubung ½ NPT, 1 x Blindstopfen
+½ NPT, 1 x Kabelverschraubung ½ NPT
+oder:
+
+Federkraftklemmen
+Bedienelemente
+Betriebsartenschalter
+
+32246-DE-170314
+
+ƲƲ Min.
+
+ƲƲ Max.
+Spannungsversorgung
+Betriebsspannung
+
+Eigenstrombedarf
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+–– 1 x Stecker M12 x 1; 1 x Blindstopfen M20 x 1,5
+für Aderquerschnitt bis 1,5 mm² (AWG 16)
+
+Minimalstanderfassung bzw. Trockenlaufschutz
+Maximalstanderfassung bzw. Überlaufschutz
+20 … 253 V AC, 50/60 Hz, 20 … 253 V DC
+< 5 mA (über Lastkreis)
+
+29
+
+9 Anhang
+
+Laststrom
+ƲƲ Min.
+
+10 mA
+
+ƲƲ Max.
+
+400 mA (bei I > 300 mA darf die Umgebungstemperatur
+max. 60 °C/140 °F betragen) max. 4 A bis 40 ms
+
+Elektrische Schutzmaßnahmen
+Schutzart
+
+IP 66/IP 67 (NEMA Type 4X)
+
+Überspannungskategorie
+
+III
+
+Schutzklasse
+
+I
+
+Zulassungen
+Geräte mit Zulassungen können je nach Ausführung abweichende technische Daten haben.
+
+Bei diesen Geräten sind deshalb die zugehörigen Zulassungsdokumente zu beachten. Diese sind
+im Gerätelieferumfang enthalten oder können auf www.vega.com über "VEGA Tools" und "Gerätesuche" sowie über den allgemeinen Downloadbereich heruntergeladen werden.
+
+9.2
+
+Maße
+
+VEGAWAVE 61, Gehäuse
+
+1
+
+M20x1,5/
+½ NPT
+
+2
+
+~ 116 mm (4.57")
+
+116 mm (4.57")
+
+ø 86 mm (3.39")
+
+117 mm (4.61")
+
+112 mm (4.41")
+
+112 mm (4.41")
+M20x1,5/
+½ NPT
+
+~ 69 mm
+(2.72")
+ø 79 mm
+(3.11")
+
+~ 59 mm
+(2.32")
+ø 80 mm
+(3.15")
+
+~ 69 mm
+(2.72")
+ø 79 mm
+(3.03")
+
+M20x1,5
+
+M20x1,5/
+½ NPT
+
+M20x1,5/
+½ NPT
+
+3
+
+4
+
+Abb. 31: Gehäuseausführungen
+1
+2
+3
+4
+
+Kunststoff-Einkammer
+Edelstahl-Einkammer (elektropoliert)
+Edelstahl-Einkammer (Feinguss)
+Aluminium-Einkammer
+
+32246-DE-170314
+
+30
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+22 mm
+(0.87")
+
+33 mm
+(1.30")
+
+9 Anhang
+
+G1½
+
+150 mm
+(5.91")
+
+220 mm
+(8.66")
+
+ø 43 mm
+(1.69")
+
+32246-DE-170314
+
+Abb. 32: VEGAWAVE 61, Gewindeausführung G1½ (DIN ISO 228/1)
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+31
+
+178 mm
+(7.01")
+
+9 Anhang
+
+ø 34 mm
+(1.34")
+
+Abb. 33: Temperaturzwischenstück
+
+32246-DE-170314
+
+32
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+9 Anhang
+
+9.3
+
+Gewerbliche Schutzrechte
+
+VEGA product lines are global protected by industrial property rights. Further information see
+www.vega.com.
+VEGA Produktfamilien sind weltweit geschützt durch gewerbliche Schutzrechte.
+Nähere Informationen unter www.vega.com.
+Les lignes de produits VEGA sont globalement protégées par des droits de propriété intellectuelle. Pour plus d'informations, on pourra se référer au site www.vega.com.
+VEGA lineas de productos están protegidas por los derechos en el campo de la propiedad industrial. Para mayor información revise la pagina web www.vega.com.
+Линии продукции фирмы ВЕГА защищаются по всему миру правами на интеллектуальную
+собственность. Дальнейшую информацию смотрите на сайте www.vega.com.
+VEGA系列产品在全球享有知识产权保护。
+进一步信息请参见网站<www.vega.com。
+
+9.4
+
+Warenzeichen
+
+32246-DE-170314
+
+Alle verwendeten Marken sowie Handels- und Firmennamen sind Eigentum ihrer rechtmäßigen
+Eigentümer/Urheber.
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+33
+
+Notizen
+
+32246-DE-170314
+
+34
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+32246-DE-170314
+
+Notizen
+
+VEGAWAVE 61 • Kontaktloser Schalter
+
+35
+
+Die Angaben über Lieferumfang, Anwendung, Einsatz und Betriebsbedingungen der
+Sensoren und Auswertsysteme entsprechen den zum Zeitpunkt der Drucklegung
+vorhandenen Kenntnissen.
+Änderungen vorbehalten
+© VEGA Grieshaber KG, Schiltach/Germany 2017
+
+VEGA Grieshaber KG
+Am Hohenstein 113
+77761 Schiltach
+Deutschland
+
+Telefon +49 7836 50-0
+Fax +49 7836 50-201
+E-Mail: info.de@vega.com
+www.vega.com
+
+32246-DE-170314
+
+Druckdatum:
+
+ 
+ 
+

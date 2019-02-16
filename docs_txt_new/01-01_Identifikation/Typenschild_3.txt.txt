@@ -1,0 +1,5 @@
+Hersteller: Artech
+Typ: C32-HP1-Atex
+Art-No.: 40331
+Ser. No.: 00994A
+Date: 02/2012

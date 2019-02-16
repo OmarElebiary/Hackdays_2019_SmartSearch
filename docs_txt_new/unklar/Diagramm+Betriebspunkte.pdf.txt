@@ -1,0 +1,29 @@
+4% assonic
+
+MECHATRONICS GMEBH
+
+Diagramm _Linearklopfer K15
+
+Schiagzahl  Frequenz  masse  Mlittelmanschette Siebkorb
+(Kg)
+
+14
+
+ 
+
+12
+
+====== Resonanzmasse
+=== Frequenz
+
+=====Schlagzahl
+
+ 
+
+Arbeitsdruck in (bar)
+
+05.03.2012, A.Oswald
+
+ 
+ 
+
