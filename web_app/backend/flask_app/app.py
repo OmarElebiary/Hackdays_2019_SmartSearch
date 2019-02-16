@@ -31,7 +31,7 @@ def search():
     inds = [results[i] for i in range(len(results))]
 
     fileNames = [element[element.rfind('/')+1:] for element in paths]
-        
+
     print(fileNames)
 
     return jsonify(fileNames)
@@ -45,7 +45,7 @@ def static_file(name):
 
 if __name__ == '__main__':
 
-    rootDir = "../../../../docs_txt"
+    rootDir = "../../../docs_txt_new"
     realFileDir = "../../../classified documents"
 
 
