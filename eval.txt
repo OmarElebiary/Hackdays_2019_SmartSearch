@@ -726,7 +726,7 @@ score: 3.4468654300502114e-05, path: 15, explanation: (material, 0.00003)
 
 TESTCASE 15
 Error: 1.0
-Query: Glasdeckel Werkstoff
+Query: Glasdeckel Werkstoffe
 --------------------------------------------------
 score: 0.19860159723267556, path: 223, explanation: (glasdeckel, 0.19860)
 (target) score: 0.025050099298017724, path: 94, explanation: (glasdeckel, 0.01354) + (werkstoff, 0.01151)
@@ -766,7 +766,7 @@ score: 0.00014731624070247364, path: 130, explanation: (werkstoff, 0.00015)
 
 TESTCASE 16
 Error: 0.0
-Query: Glasdeckel Werkstoff
+Query: Glasdeckel Werkstoffe
 --------------------------------------------------
 (target) score: 0.19860159723267556, path: 223, explanation: (glasdeckel, 0.19860)
 score: 0.025050099298017724, path: 94, explanation: (glasdeckel, 0.01354) + (werkstoff, 0.01151)
