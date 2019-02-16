@@ -2,6 +2,7 @@ from flask import Flask
 from flask import request
 from flask_cors import CORS, cross_origin
 from flask import jsonify
+from flask import send_file
 from fileFinder import search_files
 
 from collections import defaultdict
