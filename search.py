@@ -4,18 +4,8 @@ import metrics
 from files import get_filtered_data
 from preprocessing import preprocess
 
-rootDir = '../docs_txt'
-(data, fileDirs) = get_filtered_data(rootDir)
-tokens_filtered = preprocess(data)
 
-token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
-filentoken2tfidf = metrics.get_tfidf(tokens_filtered, token2files, filentoken2occ)
-
-print('Loading done.')
-
-
-
-def search(query, filentoken2tfidf, debug=False):
+def search_query(query, filentoken2tfidf, token2files, debug=False):
     """
 
     :param query: Whole query (can be composed of multiple tokens)
@@ -53,7 +43,6 @@ def search(query, filentoken2tfidf, debug=False):
     return scorefile
 
 
-
 def search_token(token, filentoken2tfidf, token2files):
     """
 
@@ -72,9 +61,3 @@ def search_token(token, filentoken2tfidf, token2files):
     return file_scores
 
 
-results = search('Artech c32-hp1 atex', filentoken2tfidf, debug=True)
-resultsDirs = [(score, fileDirs[idx], debug) for score, idx, debug in results]
-
-print(resultsDirs)
-
-print('Done.')
