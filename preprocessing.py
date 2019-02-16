@@ -1,10 +1,9 @@
-import nltk
+import re
 
 
 def _remove_stopwords(tokens):
     '''Remove stop words from an array of tokens'''
 
-    from nltk.corpus import stopwords
     # nltk.download('stopwords')
     # stopWords = set(stopwords.words('english'))
     stopWords = ['the', 'to', '-', 'pr', 'der', 'is', 'of', 'die', 'in', 'and', 'und', '–', '•', '✔', '●', 'a']
@@ -21,7 +20,11 @@ def _tokenize(data):
     and extract ONE single token array for all files (>>globalTokens)'''
     tokens = []
     for d in data:
-        tokens.append(nltk.word_tokenize(d.lower()))
+        d = d.lower()
+        tokenized = re.split(r'\W', d)
+        # remove empty strings
+        tokenized = list(filter(None, tokenized))
+        tokens.append(tokenized)
     return tokens
 
 def preprocess(data):
