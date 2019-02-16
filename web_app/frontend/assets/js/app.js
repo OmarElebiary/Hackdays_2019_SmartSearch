@@ -40,8 +40,10 @@ let insertResultRow = ((data) => {
 });
 
 function clearResults() {
-    let node = document.getElementById('resultsContainer');
-    node.innerHTML = '';
+    let resultsContainer = document.getElementById('resultsContainer');
+    resultsContainer.innerHTML = '';
+    let resultPreview = document.getElementById('resultPreview');
+    resultPreview.innerHTML = '';
 }
 
 function showResult(data) {
