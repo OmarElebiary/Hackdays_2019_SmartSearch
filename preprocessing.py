@@ -1,8 +1,21 @@
 import re
+import preprocess_files
 from nltk.stem.snowball import GermanStemmer
+
+
 gs = GermanStemmer()
 punctuations = '''!()-[]{};:'"\,<>/?@#$%^&*_~'''
 
+
+
+def match_synms(tokens):
+    syn_dict = preprocess_files.read_synms_list()
+    for t in tokens:
+        for (idx, val) in enumerate(t):
+            if val in syn_dict:
+                t[idx] = syn_dict[val]
+
+    return tokens
 
 def _remove_punctuation(tokens):
     tokens_filt = []
@@ -48,4 +61,5 @@ def preprocess(data):
     for t in tokens:
         tokens_filtered.append(_remove_stopwords(t))
 
-    return tokens_filtered
+    tokens_filtered_syn = match_synms(tokens_filtered)
+    return tokens_filtered_syn
