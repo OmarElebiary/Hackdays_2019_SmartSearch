@@ -1,0 +1,32 @@
+[
+    {
+        "fileName": "Typenschild_3.txt",
+        "filePath": "file url",
+        "thumbnail": "Thumbnail path",
+        "fileType": "file type"
+    },
+    {
+        "fileName": "Schauglas.txt",
+        "filePath": "file url",
+        "thumbnail": "Thumbnail path",
+        "fileType": "file type"
+    },
+    {
+        "fileName": "Wartung der Absackmaschine.pdf",
+        "filePath": "file url",
+        "thumbnail": "Thumbnail path",
+        "fileType": "file type"
+    },
+    {
+        "fileName": "Ex Zertifikat.pdf",
+        "filePath": "file url",
+        "thumbnail": "Thumbnail path",
+        "fileType": "file type"
+    },
+    {
+        "fileName": "Technische Zeichnung Bodenablassventil Granulat Ausführung.pdf",
+        "filePath": "file url",
+        "thumbnail": "Thumbnail path",
+        "fileType": "file type"
+    }
+]
