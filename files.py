@@ -1,7 +1,9 @@
 import os
 import string
-
+from nltk.corpus import words
 import nltk
+
+import preprocessing
 
 
 def get_filtered_data(rootDir):
@@ -48,6 +50,10 @@ def get_real_filepath(rootDir, realFileDir, file_dirs, fileIndex):
     return fileName[:-4]
 
 
-def get_dictionary():
+def get_german_dictionary():
     with open('wordlist_german_prepr.txt') as f:
         return set(f.read().split('\n'))
+
+def get_english_dictionary():
+    w = words.words()
+    return preprocessing._remove_stopwords(w)

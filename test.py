@@ -65,7 +65,12 @@ def unit_test(rootDir, testcase_path, out_file):
     ''''''
 
     (file_data, file_dirs) = get_filtered_data(rootDir)
-    dictionary = files.get_dictionary()
+    german_dictionary = files.get_german_dictionary()
+    english_dictionary = files.get_english_dictionary()
+    all_dictionary = set()
+    all_dictionary.update(german_dictionary)
+    all_dictionary.update(english_dictionary)
+
 
     tokens_filtered = preprocess(file_data)
     token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
@@ -73,7 +78,7 @@ def unit_test(rootDir, testcase_path, out_file):
 
     files_rare = []
     for file_tokens in tokens_filtered:
-        rare_words = preprocessing.extract_rare(file_tokens, dictionary)
+        rare_words = preprocessing.extract_rare(file_tokens, all_dictionary)
         files_rare.append(rare_words)
         for rw in rare_words:
             print('{} -> {}'.format(rw, token2occ[rw]))
