@@ -1,0 +1,180 @@
+ 
+
+Steuerkarte MORASTC Original
+06.04.2011 Seite 1 / 1
+
+Auftrag 1 06531 4
+
+Pulveranlage, Sackentleerung
+
+ 
+
+Kundenbestelinr. Hr. Lob
+Starttermin 06.04.2011 Endtermin 31.05.2011
+Prioritat
+Status FREI KKMP VOKL
+Technischer Platz 07024650 P20_R235_Pulveranlage
+Equipment
+Baugruppe
+Standort
+IH-Planergruppe HM1 HN Mechanik IH-Werk HI70
+V.Arbeitsplatz 773-51 HI70 Industriemechaniker
+Wartungsplan Wart.planPos
+Auftraggeber 44653 Minzing Chemie GmbH
+Salzstr.
+74076 Heilbronn
+V.Gruppe Krawczyk
+Abnahmeerklarung
+
+Nach erfolgreich durchgefiihrter Priifung, die ergeben hat, dass die/das von der
+BIS Maintenance Siidwest GmbH erstellte Maschine/Maschinenteil bzw. die erbrachte Leistung in allen wesentlichen Punkten die
+vertraglich vorgesehenen Anforderungen erfiillt, erklart der Auftraggeber,
+
+a) dass die BIS Maintenance Siidwest GmbH mit Ausnahme der nachfolgend unter d) genannten, noch vorzunehmenden
+Arbeiten, sédmtliche geschuldeten Leistungen ordnungsgeman erbracht hat,
+
+dass der Auftraggeber diese ordnungsgemaf erbrachten Leistungen abnimmt und
+
+dass das auf der Grundlage des o. g. Vertrags von der BIS Maintenance Stidwest GmbH zu erstellende Werk hiermit, bis
+auf die nachfolgend unter d) genannten Arbeiten, abgeschlossen ist.
+
+ 
+
+ 
+
+ 
+
+Bei der Abnahme wurden ,%(eine umseitig aufgefiihrte Mangel festgestellt.
+
+ 
+
+Beginn der Gewabhrleistung ist der Tag der Abnahme.
+
+ 
+
+ 
+
+ 
+
+Auftrag erledigt: “Nja nein
+Anlage libergeben: ja nein
+
+&\
+
+Datum ame, Unterkchrift BIS Mitarbeiter erschrift Kunde
+
+ 
+
+ 
+
+Vorgang 0010 Pulveranlage, Sackentleerung
+Status FREI KKMP VOKL
+
+Arbeitsplatz 773-51 HI70 Industriemechaniker
+Arbeit 0,0 H
+
+Ausfuhrungsfaktor 1
+Letzter Anderer: MORASTC
+
+Dieses Dokument ist als Anlage zum Auftrag zu archivieren!
+
+ 
+  
+
+%\ Maintenance
+i/ Slidwest
+
+Auftrag anlegen
+
+Datum: 15.03.2011 Erfasser: Peter Krawczyk
+
+Notwendige Daten:
+
+      
+
+      
+
+Miinzing Chemie GmbH
+
+Chr. Lob, BL
+
+(] Auf Sammelauftrag Bestell-Nr.:
+
+Name des Bestellers
+
+        
+
+      
+
+Art der Bestellung
+] Einzelauftrag kommt
+
+ 
+
+      
+
+Art des Auftrags
+(810; 001 (Summe angeben); 610)
+
+Beschreibung
+(Art der Arbeit)
+
+          
+           
+
+Lieferung und Montage
+
+> der Verkabelung zwischen Sackentleerung der Pulvermaschine
+und Steuerschrank
+
+> Montage der Notentschalter, Kabelverbindung der Sackpresse
+
+und des Férderbandes
+
+Kostenstelle Kunde
+Schéatzpreis (EUR)
+
+ 
+
+   
+
+Festo e S d C DO ~
+r )
+
+07024650 " Lo
+7070
+
+31.05.2011
+
+      
+
+Technischer Platz
+
+   
+
+Verantw. Arb.pl. / Planergrp.
+
+    
+
+Geschéaftsbereich
+
+   
+
+vereinbarter Liefertermin
+(vorraussichtliche Fertigstellung)
+
+          
+ 
+
+Unterschrift
+Besteller
+
+Unterschrift
+BIS KST.-Verantwortlicher
+
+Angebot
+
+Original zuriick an Vertriebsinnendienst
+
+C:\Dokumente und Einstellungen\krawczyk.RUM\Desktop\Auftrag anlegen miindliche Kundenbestellung.xlsx
+

@@ -1,0 +1,2085 @@
+ 
+
+E— C—
+
+ 
+
+Anlagen - Deckblatt
+
+ 
+
+- Schaltschrank
+
+ 
+
+ 
+
+Abmessung g 760 x 760 x 300
+BxHxT
+Kabelabgang Unten
+Verdrahtungart
+o
+#Z e
+#Yy 2*
+& =
+A ."
+
+MECHATRONICS GMEH
+
+ 
+
+Dieser Plan ist auf
+P8 erstelit worden. Anderungen missen Nordson
+mitgeteilt werden.
+
+em CAD-System Eplan Version
+
+ 
+
+Installationsvorschriften
+
+VG
+
+ 
+
+Ortliche Vorschriften der EVU"s beachten.
+
+Vor Inbetriebnahme alle Klemmen-und Schraubverbindungen tberpriifen.
+Motorschutzschalter und Bi-Metallrelais auf Nennstrom einstellen.
+Querschnittsangaben nach VDE 0100 GR.2.
+
+Leiterlange und Umgebungstemperatur >20°C nicht beriicksichtigt.
+
+  
+
+ 
+
+ 
+
+Verdrahtungsfarben
+
+Leistungskreis 3 schwarz
+Neutralleiter : hell-blau
+Steuerstromkreis 230VAC 2 rot
+Steuerstromkreis QVAC : rot
+Steuerstromkreis 24VAC 2 rot
+Steuerstromkreis 24VDC : dunkel-blau
+Steuerstromkreis 0VDC dunkel-blau
+Messleitungen % weiss
+Schutzleiter % griin -gelb
+Fremdspannung z orange
+Kenndaten
+
+Leistungsaufnahme 2
+Bemessungsspannung : 400 V AC
+Steuerspannung 5 24V
+
+Maximale Vorsicherung :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I Datum 28.06.2012 < Deckblatt 02-269-010
+= ++ assonic
+Arcering [ Datum ome o AH211631
+° [ 1 [ 2 | 2 < i « 7 | s .
+Inhaltsverzeichnis
+Seite Seitenbeschreibung Seitenzusatzfeld Datum Bearbeiter X
++A0/1 Deckblatt 10.01.2012 Zlmmermann X
++A0/2 Inhaltsverzeichnis 03.02.2012 Z:mmermann
++A0/2.a Inhaltsverzeichnis 03.02.2012 Zimmermann
++A0/3 Anlagenube ht 10.01. 2012 Zimmermann
++A0/4 Schaltschranktiir 10 Ol 2012 Zimmermann
++A0/5 Schaltschrankaufbau innen 10.01.2012 Zimmen—nann
++CP/1 Elnspelsung 03 02 20]2 Zlmmermann
+_ +CP/2 Steuerspannung 03.0242012 Zlmmermann
++CP/3 Not-Aus 03.02.2012 Zimmermann
++CP/4 Not-Halt 03.02. 2012 Zimmermann
++CP/S Not-Halt 03.02. 2012 Zimmermann
++CP/6 Hauptantrieb Trommel 03 02 2012 Zlmmermann
++CP/7 Hauptantneb Zufuhmng 03 02 2012 Zlmmermann
++CP/8 Vibration 03 02.. 2012 Zimmermann
++CP/9 SPS 03402,2012 Zimmermann
++CP/10 SPS EINGANGE 03.02.2012 Zimmermann
++CP/11 SPS ElNGANGE 03.02.2012 Zimmermann
++CP/12 SPS AUSGANGE 03.02.2012 Zimmermann
++CP/13 SPS AUSGANGE 03.02.2012 Zimmermann
++CP/14 SPS Analogmgnale 03.02.2012 Zimmermann
++CP/15 03 02 2012 Zimmermann
++CP/16 03 02 2012 Zimmermann
++TP/1 3 03.02.2012 Zimmermann
++TP/2 03.02.2012 Zimmermann
++TP/3 03.02.2012 Zimmermann
++TP/4 03.02.2012 Zimmermann
++TP/5 =+CP-24X0 03.02.2012 Zimmermann
++TP/6 =+CP-24X1 03.02.2012 Zimmermann
++TP/7 =+CP-XN 03.02.2012 Zimmermann
++TP/8 =+KL-X3.1 03.02.2012 Zimmermann
++TP/9 =+KL-X4.1 03.02.2012 Zimmermann
++TP/10 =+KL-6X1.1 \ 03.02.2012 Zimmermann
++TP/11 =+KL-7X1.1 03.02.2012 Zimmermann
+1 2.3
+P Zfﬁ;z:i Inhaltsverzeichnis | 02-269-010 |5
+Getestet SSOﬂIc | Blatt Ort 2
+[Arzereng Datum 1 AH211631 Letate Sete
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 L, ! 2 2 I + | 5 « | 5 3
+Inhaltsverzeichnis
+
+Seite l Seitenbeschreibung Seitenzusatzfeld Datum Bearbeiter
+
+Steckerplan =+CP-4X1 03.02.2012 Zimmermann
+
+e “Steckerplan —+CP-6X1 o ColT T 220z | zimmermann
+
+Steckerplan =+CP-7X1. ) 03.02.2012 Zimmermann
+
+Steckerplan =+CP-11X1 03.02.2012 Zimmermann
+
+7 Vkébeluberslaig T - - o - ”“03.0242012 Z]m;nennann
+
+Kabelplan 03.02.2012 Zimmermann
+
+Kabelplan o . - 03.022012 | Zimmermann
+
+T [ kabeplan e R T 022012 | zimmermann
+
+Kabelplan 03.02.2012 Zimmermann
+
+Kabelplan 03.02.2012 Zimmermann
+
+Kabelplan - - - 03.02.2012 Zimmermann
+
+Kabelplan - 03.02.2012 Zimmermann
+
+  
+
+ 
+
+ 
+
+Artikelstiickliste
+
+ 
+
+10.01.2012
+
+ 
+
+10.01.2012
+
+  
+
+Zimmermann
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+* Artikelstiickliste Zimmermann
+2 3
+Datum_| 28.06.2012] T = X = —
+Evsleler1 Tirmermann | i assonic Inhaltsverzeichnis | 02-269-010 = .
+Getestet % o .a
+o (e | AH211631
+° I i 2 > : I 5 . 7 T T
++CP:— ____________
+1
+! X0 =
+1
+|
+: -X3=
+l XN =
+| -X4 = |
+( : +KL \ :
+| = =
+| ' X3.1 |
+1 W4 i 1
+| A= = |
+| 4X1 | ] X4.1 |
+| 1 -W6 | 1
+! 4 -6Xl1= 1
+| ou= 1 | :
+I 2ax0= IXLL= \
+| -2ax1= ! e !
+I |
+I |
+| 1
+| |
+| |
+| |
+! boawt
+! 7X1= 7M1
+1 I -11w1
+| axrt+__
+| |
+| I
+| e i i e e .}
+22 4
+Datum 28.06.2012 I = i G =
+Erisier Trmermann ; assonic Anlageniibersicht 02-269-010
+Getestet b Ll et
+Frderng [ Dotum Hame AH211631
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1: -8D0 KTP 600
+
+2% <355 Not-Halt quittieren
+3: -450 Not-Halt
+
+4: -1Q1 Hauptschalter
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 5
+| Datum 28.06.2012 - Schaltschranktiir 02-269-010 = T
+B assonic e
+o Jowm __lu_m - AH211631 | [ieser 5]
+Il o ' 2 __L 2 z 6 7 | s o
+F18_005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typrummer
+
+ 
+
+ 
+
+FFR-C5-080-20A-RF1
+
+ 
+
+FFR-CS-080-20A-RFL
+FR-E720S-050-EC
+
+6EST2141AE300450
+| 6Es723240830-0%80
+
+ 
+
+ 
+
+ 
+
+   
+
+33V1011-08A10
+
+PNOZS3 24VDC
+
+3RT1017-18841
+3RT1017-18841
+
+3RTI016-10812
+38 81.7.024.9024
+
+ 
+
+ 
+
+M16 M16 M25 M25M25
+
+ 
+
+ 
+
+o -
+» x X
+3 %y # ST3/SN
+0 K35
+~
+s 5 r S5Y6106-7
+& 55Y6104-7
+K 50
+o
+0
+6o [l o» » «
+K 50
+- 6X1 7X1
+~N
+i X3 x4 * X £ 4x1 11X1
+E
+R
+K 50 L
+
+ 
+
+ 
+
+ 
+
+ 
+
+120 mm
+140 mm
+
+140 mm|-—
+50 mm
+50 mm
+50 mm
+50 mm*—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28.05.2012
+Zmmermann
+
+ 
+
+ 
+
+Arderung Datur
+
+hame
+
+< assonic
+
+Schaltschrankaufbau innen
+
+[02-269-010 [
+
+ 
+
+| AH211631
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+o 1 2 2 + . l 2 s _I o
+29/24L1 > > 2411763
+-24X104 -24X105
+40 55 a1 58
+S11 512 -S21 .5
+3
+-355€--
+BL 4
+Steuerung En
+3ut| 4 & 5
+Al S S12 s21 S22 13 23 i
+:
+! ! -3k3 [
+PILZ PNOZ 53 3 \ IN2- 3 e
+A2 14 24 s34
+51
+-3K4
+3 /cz
+21
+[/
+22
+AL Al
+-3K3 -3K4
+a2
+-24X0 956
+2.9/ -24L0 - [ > -24L0/63
+297-24L0.K >~ > -24L0.K /12,0
+lo~2 117 te~2 17
+Jo—4 /17 3g.~4 /L7
+So—6 /L7 So—6 /17
+13-~ 14 13- ~14
+Not-Aus :i < Z; 'fsm Zi < :: 'fsm'l Not-Aus
+Schaltgerat n~n n+~7n quittieren
+83—~ 84 83—~ 84
+2 4
+I ZB062012 o . Not-Aus 02-269-010 |=
+I Zimmermarn ‘.,'l‘;' assonlc I-:CP Biatt Ot
+Angerung Datum [Hame | o AH211631 Letzte Scte 16|
+| 7 3 : o z 5 >
+32
+-S21
+21
+22
+-X491 2
+kL o - - - - T !
+o = - e 51 5o
+| 3 ’ i
+I e S12.1/5.0 |
+| i
+I !
+| PE -Xd.195 \
+| !
+| i
+o
+n 4527~ 0T -0 -455 | j
+-450.1 ¢~ - Schmersal | | :
+: ' ' |
+t ' ' i
+! 21 ! ‘ '
+' ' 1
+Vo] : ,
+: 22 ' '
+V ' '
+: ' 1
+t ' '
+1 L 1 '
+: ' '
+: i ' '
++ Schmersal | + Schmersal '
+t EX-BNS-250-12Z-2187-3G/D ! i EX-BNS-250-122-2187-3G/D '
+| EX-BPS-250-3G/D ! | EX-BPS-250-3G/D :
+| 1131223 i | 1131223 :
+Not-Halt Sicherheitsschalter Frontklappe Sicherheitsschalter Schmutzaustrag
+5
+Do 26.06.2012 X
+Esteler Tvmermann 4% assonic Not-Halt 02-269-010
+Getestet £ e
+ooy [bar AH211631 o sere
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
++KL!
+
+32
+
+. 32
+-512
+
+-522
+
+ 
+
+ 
+
+&7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+: 48/-511.1 B
+
+!ass-512.1-
+
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+          
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sl T T T T ! —
+1 :
+| i
+:
+| .
+1 1
+| @-- '
+i '
+1 '
+i
+( i ,
+1 '
+' '
+' '
++ Schmersal i
+' EX-BNS-250-12Z-2187-3G/D '
+: EX-BPS-250-3G/D :
+11131223 i
+Sicherheitsschalter Auffangtrichter Reserve Reserve
+- I
+Datum 28.06.2012 = =
+Etler|  Zimmermann 4% assonic Not-Halt 02-269-010 ITG’—
+| Getester | {7 eevane
+Arderung | patum Hame AH211631
+: I : [ : : - s c ; I s T :
+19/-12.1 -L2.1/80 39/24L1 > r r > 2411773
+22/-N -N/7.0 39/-24L0 > > -24L0/7.3
+-XN ¢4 -24X097 -24X196 -24X0¢8 -24X197
+1 \,23
+z 4 122 106 145
+= STF1 FUL SOLL1
+‘ PE > sH
+o
+PE so STF c A 2 5
+Mitsubischi Start STORUNG
+FR-E720S-080-EC
+1,5kW
+Motorlauf
+u v Vi PE e RUN AM
+o
+qrIfZicipde b s
+-6X1 2 3 PE
++AD/3.3
+RUN1 1ST1
+SH 10.7 141
+-6W1 GNYE
+Siflex-N(O)Y
+41,5 mm? R
++KL g
+i -6Xl.10t |
+i |
+o - e - 4 SH |
+Lo A
+GNYE
+Silflex-H(C)Y
+4x1,5 mm?
+85 A
+230 V/a
+s 0,77
+Antriebsmotor Frequenzumrichter  Frequenzumrichter Geschwindigkeit
+Start Stérung
+7
+Datum 28.06.2012 Hauptanuieb 02'269'010 |
+e Zma e 1 ’—‘cp——‘
+} | Ersteler mmermann £y assonic Trommel +
+Getestet s T AH211631 Blart ont 6
+| Datum Mame Letzte Sete 6]
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o J 1 [ 2 3 . [ 5 I . 7 s T s ]
+19/-13.1 b ———>-13.1/80 68/24L1 > r 1 »24L1/90
+6.8/-24L0 > > -2410/85
+-24X0 99 -24X108 -24X0 910 -24X199
+123 114 146
+STF2 Fu2 -SOLL2
+u
+-7V1 o
+v PE
+i < :—é s
+o
+u N PE sD STF C A 2 5
+Mitsubischi Start STORUNG
+FR-E720S-050-EC
+0,75 kW
+Motorlauf
+u ¥ v PE SE RUN AM
+)
+JIIpIdiipde Jr—dw
+-7X1g 2 3 B 1
++A0/33
+RUN2 IsT2
+~ -z 3—&’ SH 15 142
+-7W1 GHYE
+Siflex-NIC)Y
+x5 mm?
+-7M1
+Schneckenmotor Frequenzumrichter ~ Frequenzumrichter Geschwindigkeit
+Start Stérung
+6
+» - Hauptantrieb 02-269-010
+> assonic Zufiihrung
+i ot o AH211631 |
+o | 2 2 < 5 % > s |
+18/-L1.1
+SR L2 TPy 72/ -Npb—mMmMm————
+7.2/-13.1 > -XN o6
+78-24L0 By == 2410790
+-24X0011 12
+1 f3 s 11 1
+mh
+-8Q1+ NN - - -8F5
+0,11..0.16A Lt:l \‘14 C10A y?
+O > TI> (1> &
+2 4 6 =
+58 . 2
+o = Z e
+2 = >
+dr 4 45 jt__JrE |2 v = =z 2
+-12K1 >8X5[t 3‘} Ee oo
+nat 2 14 e —4-4; o
+8X5.1 (1 TPE 2 52 g\ Q
+S & 2O 5
+us; LT LTS T T T T J[[Iili‘
+s TR TYYYUYOY
++A0/3.3 ' 16 7 10 14 23 25 12 '
+-8W1 ' Main Plug SUB D Plug |
+' 1
+Sitflex-N 1 1
+7
+4x1,5 nrr": : :
+KL T ! )
+' Converter v
+! A
+I -7X1.1 |~ Y
+b
+-8WI1.1
+SilflexN
+4x1,0 mm?
+-8M1 & vl
+-8US.1, .
+1 i
+!
+i
+
+ 
+
+Vibrationsmotor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¥ assonic
+
+ 
+
+Datum 28.06.2012
+| Ersteler Zimmermann
+Getestet
+Angerung Datum Name
+
+ 
+
+ 
+
+ 
+
+   
+
+Vibration
+
+ 
+
+02-269-010 |=
+
+AH211631
+
+  
+ 
+
+ 
+
+l__(c _v| 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+7.8/24L1 > 24117100
+-24X1010 -24X1011 -24X1¢12 -24X1013
+PE PE
+-9D7
+-900 144
+ouTPUT
+Siemens
+S7-1200
+CPU 1214C
+6ES7 214-1AE30-0XB0
+INPUT ouTPUT |
+M M 3M L M
+i ? | 9
+-24X0014  -24X09Q15 -24X0 Q16 -24X0917
+8.8/ -24L0 > - -24L0/ 140
+/
+\
+[ I Datum 28.06.2012 % = SPS
+| { Erstel f: Zimmermann :'?; assonic
+Arderung __imlum [ Hame { o
+o I 1 2 3 + s « ?
+2.9/24L1 2411110
+-24X1914 -24X1 015
+53 13 1
+| -3K3 -6F1 -8Q1
+£33 |54 %1 14 31 14
+86 55 65 8.7
+US_ACTIVE_OUT FU1 RUN1 ERROR_OUT
+5 ¥ Y 7 i
+-3K4
+£33 54
+-9D2 0.9 0.1 6 02 (L 0.3 04 0.5 L ce 07
+92 0 o o, )
+€00 £0.1 E02 €03 E04 E0.5 €05 0.7
+DI 8 x 24V DC
+Not-Aus Ultraschall Reserve Sicherung Motorschutz Frequenzumrichter Antriebsmotor Storung
+eingeschaltet Frequenzumrichter Vibrationsmotor Antriebsmotor lauft DGS-Generator
+Antriebsmotor Stérung
+9 | 11
+Datum 28.06.2012 A =
+Ersteller Zimmermann | £ assonic SPS EINGANGE 02-269-010 x i
+et 1 ¢4 dODUN AH211631 B Ot 0
+rderung Datum Hame | Letzte Sete 16
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+|
+
+ 
+
+ 
+
+ 
+
+109/ 24L1 >~ v » 24L1 7150
+-24X1016 -24X1£7
+-X301 2
+-11X19' -2
+o3l ,
+-1wl e 2
+Sifiex-t
+8x1,0 mm?
+O T T T T T T T T 1
+1
+|
+| 75 75
+1 13 FU2 RUN2
+bR Y
+! 71 s
+i
+t
+1 I
+
+B S E R C
+
+Silfiex-
+
+‘8 3
+
++A0/2.3 [3 4
+-X303 o4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-902 1.0 l 11 12 (L 13
+n211
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+E10 EL1 E12 EL3 ELS
+DI 6 x 24v DC
+Klappe geoffnet Klappe Sicherung Frequenzumrichter Schneckenmotor Reserve
+geschlossen Frequenzumrichter Schneckenmotor lauft
+Schneckenmotor Storung
+10
+Datum 28.06.2012] A
+il | Feveomane| 4 assonic SPS EINGANGE 02-269-010
+I Gerostet | ¢ e gt
+{Ancering Datum Name | AH211631
+; i . : 5 - | T . : : I :
+-9D2
+92 DO 8 x 24V DC
+ACO ADL AD.2 A3 A0S A0S A6 N7
+o o S
+09 T 0.1 T 02 0.3 04 Qs 06 0.7
+STF1 STR2 REMOTE_IN US_ON_IN
+6.4 74 86 87
+L A1 Al
+A -12K4 -12K7 -128 [ ]
+-12K1 A2 A2
+A2
+39/-24L0.K >
+Vibrationsmotor Frequenzumrichter Frequenzumrichter Abreinigung Ultraschall Ultraschall Klappe offnen KLappe schliessen
+Trommel Start Zufiihrung Start
+1o ~2 /81 14~ 11/154 14 14
+3,,;4 I - usznsn n-"\uus.z
+So.~6
+a+—2245
+11 13
+28063052] i A SPS AUSGANGE 02-269-010
+2y %% assonic
+Aerung [ Hame | | - AH211631 eizte Sete
+
+ 
+
+ 
+ 
+
+ 
+—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+-9D2
+n
+Reserve Reserve
+12 14
+2B ZWI X SPS AUSGANGE 02-269-010
+' ::;1:; Zimmermann asson 'c
+T | | - AH211631 [tese—— 16]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-9D7
+ry SM 1232
+AO 2
+
+e e — o
+
+| AQOM A [
+
+| 7. e
+
+TP b
+-24X0019 -24X09020
+9.97-24L0 > & »-24L0/159
+-24X0¢18 X
+d |
+o o
+u 9
+66 76
+IST1 1s12
+b s
+-9D2 L 3
+92
+™M ALO
+Istwert Istwert Sollwert Sollwert
+Antriebsmotor Schneckenmotor Antriebsmotor Schnackenmotor
+13
+oI . . SPS Analogsignale 02-269-010
+Zimmemmann S assonlc
+Fnderung | Daum Tame - AH211631
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+’___i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+° [ ' 2
+11.9/24L1 > »24L1/ 160
+-24X1018 -24X1919
+12 12
+-12K7 _ -12K8 1
+127 i s /128 ' |14 -12K4
+124 s
+-X305 6
+-X398
+T T T
+L3 !
+Lo
+x _
+a5va X %
+2
++A033 |7 +AD3.3 |PE
+X307 PE -X398 PE
+PE e
+-24X0 021 -24X0 922
+14.87-24L0 > »-24L0/16.0
+Klappe gedffnet Ventil KLappe Reinigungsventil
+schliessen
+14 16
+25.06.2012 . Ventil 02-269-010
+Zimmermarn %% assonic
+e AH211631
+Angcrung Datum Hame | 1
+o T 1 2 3 £ 5 € 5 o
+1591-24L1’—r—r—l
+-24X1020 021 o2
+IHI-MLOW
+-24X0023 024 025 0%
+15 +TP/1
+Darn 20105720 2 - Reserveklemmen 02-269-010 =
+Ersteler Zmenmar assonic — =
+e - AH211631 T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+0 e s o s i st
+= 2 v
+
+ 
+
+v
+7t
+
+oo
+
+Ea@ 4 assonic
+i
+
+SCHNITT A-A
+
+B BBW O &
+
+OTCOS
+
+0
+
+PEEBBOOE
+
+OO®®®
+
+QA OO ® G
+]
+ERA
+
+el
+
+ 
+
+Vi
+/ ik
+
+2
+X
+P
+
+LTy
+Y
+8
+0
+
+ 
+
+A\ B
+
+S0 NG
+
+[\
+€
+=50
+
+ 
+
+RS e N
+
+N
+
+T 70 AL SZ 27 77 IR 2D O
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

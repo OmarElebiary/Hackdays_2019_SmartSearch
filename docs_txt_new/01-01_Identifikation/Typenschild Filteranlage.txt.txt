@@ -1,0 +1,9 @@
+Hersteller: Schubeis GmbH
+Hersteller Nr.: # 9506
+Zeichnung: 1-29426-D/Infastaub
+BJ: 2011	Material: S235 JR
+zul.Temperatur: -10 bis +80°C
+Explosionsdruck: 10bar
+Prüfdruck: 8,1bar
+Inhalt: 630 l
+Leergewicht: 215kg

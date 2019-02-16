@@ -1,0 +1,327 @@
+BOX MICRO
+INTERNATIONAL S.P.A.
+
+LIMIT SWITCH BOX
+
+18
+
+SERIE MBX
+MBX SERIES
+
+SERIE MBX
+MBX SERIES
+
+BOX MICRO
+LIMIT SWITCH BOX
+
+INTERNATIONAL S.P.A.
+
+MODELLI - MODELS
+
+Modello box:
+Box model:
+
+MBX20EX2
+
+Modello box:
+Box model:
+
+MBX10EM2
+
+Tipo di micro:
+Switch type:
+
+meccanico antideflagrante EExd
+mechanical explosion-Broof EExd
+
+Tipo micro:
+Switch type:
+
+meccanico
+mechanical
+
+Codice micro:
+Switch code:
+
+BARTEC 07-2501-6330/63 SPDT
+
+Codice micro:
+Switch code:
+
+MATSUSHITA
+AM51615C53NAT-SPDT
+
+Parametri elettrici:
+250 V AC - 5 A / 250 V DC 0,25 A
+Contact arrangement:
+MARCATURA IN ACCORDO ALLA DIRETTIVA ATEX 94/9/CE:
+BOX MARKING IN ACCORDANCE TO 94/9/EC ATEX DIRETTIVE:
+
+Parametri elettrici:
+250 V AC / 3 ÷ 16 A
+Contact arrangement:
+
+II 2 GD T85°C
+
+NO marcatura ATEX - NO ATEX marking
+
++ certificati antideflagranti dei micro
++ explosionproof switches certificate
+MODELLO BOX
+BOX MODEL
+
+CODICE INTERRUTTORE
+
+Tipo rettangolare a 3 fili
+PNP - 3 wire rectangular type
+
+SWITCH CODE
+
+MBX30PN2
+
+P+F NJ2-V3-
+
+rectangular type
+
+MBX31PN2
+
+P+F SJ 3,5-N
+
+"U" type
+
+MBX32PN2
+
+P+F NCB2-12GM35-N0 cylindrical type
+
+MBX33PN2
+
+P+F NJ2-12GK-N
+
+cylindrical type
+
+MBX3_PN_
+
+MBX34PN2
+
+P+F NJ5-11-N-G
+
+cylindrical type
+
+SPECIFICHE - SPECIFICATIONS
+
+MBX35PN2
+
+P+F NCN4-12GM35-N0 cylindrical type
+
+MBX36PN2
+
+P+F SJ 3,5-S
+
+MBX37PN2
+
+P+F NJ2-11-SN-G
+
+cylindrical type
+
+MBX38PN2
+
+P+F NJ2-12GK-SN
+
+cylindrical type
+cylindrical type
+
+MBX39PN2
+
+P+F NJ2-11-SN
+
+MBX3APN2
+
+P+F NCB2-12GK35-N0 cylindrical type
+
+MBX3BPN2
+
+P+F NJ4-12GKN-S
+
+MBX3CPN2
+
+P+F NJ4-12GK-N
+
+MBX3DPN2
+
+P+F NJ5-11-
+
+MBX3EPN2
+
+P+F SJ3,5-S1N
+
+MBX3FPN2
+
+P+F NJ2-11-N-
+
+MBX3GPN2
+
+P+F NCN4-12GK35-N0 cylindrical type
+
+MBX3HPN2
+
+P+F NJ2-12GM-
+
+di prossimità a sicurezza intrinseca
+intrinsecally safety proximity switch
+
+Parametri elettrici:
+Contact arrangement:
+
+tensione nominale 8 V DC
+rated voltage 8 V DC
+
+Tipo rettangolare a 2 fili
+2 wire rectangular type
+
+MARCATURA IN ACCORDO ALLA DIRETTIVA ATEX 94/9/CE:
+BOX MARKING IN ACCORDANCE TO 94/9/EC ATEX DIRETTIVE:
+
+II 2GD EEX ia IIC T6 IP 67 T85°C
+II 2D Ex iaD 21 IP 67 T85°C
+
+cylindrical type
+
+"U" type
+
+MODELLO BOX
+
+CODICE INTERRUTTORE
+
+BOX MODEL
+
+SWITCH CODE
+
+MBX40PA2
+
+Tipo micro:
+Switch type:
+
+Tipo ad “U”
+“U ” type
+
+TENSIONE NOMINALE
+RATED VOLTAGE
+
+MBX4_PA_
+
+- 10 ÷ 30 V DC
+
+SPECIFICHE - SPECIFICATIONS
+
+cylindrical type - PNP 3 wire
+
+- 10 ÷ 60 V DC
+
+P+F NBB2-12GM-50-E2 cylindrical type - PNP 3 wire
+
+- 5 ÷ 60 V DC
+
+Tipo micro:
+Switch type:
+
+rectangular type - 2 wire
+
+- 5 ÷ 60 V DC
+
+NO marcatura ATEX - NO ATEX marking
+
+P+F NBN4-12GM40-Z0 cylindrical type - 2 wire
+
+- 5 ÷ 60 V DC
+
+P+F NBB2-V3
+
+rectangular type
+
+MBX41PA2
+
+P+F NJ4-12GM40-E2
+
+MBX42PA2
+MBX43PA2
+
+P+F NBB3-V3-Z
+
+MBX44PA2
+MBX45PA2
+
+P+F NBB2-12GM40-Z0 cylindrical type - 2 wire
+
+- 5 ÷ 60 V DC
+
+MBX46PA2
+
+P+F NCB2-12GM40-Z0 cylindrical type - 2 wire
+
+- 5 ÷ 60 V DC
+
+MBX37PA2
+
+P+F NCN4-12GM40-Z0 cylindrical type
+
+- 2 wire
+
+- 5 ÷ 60 V DC
+
+MBX48PA2
+
+P+F NBB2-V3-E0
+
+rectangular type - 2 wire
+
+- 10 ÷ 30 V DC
+
+MBX49PA2
+
+P+F NBB4-12GM30-E2 cylindrical type - 2 wire
+
+- 10 ÷ 30 V DC
+
+Modello box:
+Box model:
+Tipo micro:
+Switch type:
+Codice micro:
+Switch code:
+Pressione d’esercizio:
+Operating pressure:
+
+di prossimità amplificati
+amplifier proximity switches
+Tipo cilindrico
+Cilindrical type
+
+MANUTENZIONE - MAINTENANCE
+MBX50MP2
+pneumatico
+pneumatic
+SMC type VM1000-4N-01
+max. 7 bar
+
+MARCATURA IN ACCORDO ALLA DIRETTIVA ATEX 94/9/CE:
+BOX MARKING IN ACCORDANCE TO 94/9/EC ATEX DIRETTIVE:
+
+II 2 GD T85°C
+
+19
+
+Il box micro serie MBX non necessita di alcuna manutenzione preventiva, se non
+l’eventuale sostituzione del finecorsa in caso di mal funzionamento. Prima di eseguire
+comunque questa operazione, accertarsi di aver tolto tensione all’apparecchiatura.
+Si consiglia in ogni caso di sostituire ogni due anni gli o-ring del coperchio e dello stelo in
+modo da garantire il grado di protezione IP 67.
+Practically no preventive maintenance is necessary on the limit switch box series MBX,
+with the exception of any possible substitution of the limit switch, in case of malfunctining
+of the same box.
+Before executing this operation, please ensure thet the electrical supply in
+disconnected.
+In order to ensure the efficiency of the protection degree IP 67, we advice you to replace
+the stem’s and cover’s o-ring every two years.
+
+ 
+

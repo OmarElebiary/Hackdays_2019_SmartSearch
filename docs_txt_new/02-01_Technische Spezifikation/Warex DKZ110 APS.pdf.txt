@@ -1,0 +1,762 @@
+ZENTRISCHE APS®-KLAPPE
+CENTRIC APS®-VALVE
+
+DKZ 110 APS® DZ
+
+DKZ 110 APS® DZ Zentrische APS®-Klappe / Centric APS®-Valve
+Absperrklappe mit pneumatisch beaufschlagter
+Dichtmanschette hier mit pneumatischem Drehantrieb.
+
+Butterfly Valve with pneumatically charged sealing
+here with pneumatic actuator.
+
+▲ Nennweitenbereich: DN 50 - DN 450
+▲ Betriebstemperatur: - 40°C bis + 200°C *
+▲ Differenzdruck: bis 6 bar *
+▲	Manschette austauschbar
+
+▲ Range of Nominal Widths: DN 50 - DN 450
+▲ Operating Temperature: - 40°C to + 200°C *
+▲ Differential Pressure: up to 6 bar *
+▲	Sleeve: replaceable
+
+* Einsatzgrenzen sind immer abhängig von Nennweite,
+Temperatur, Werkstoffkombination. Entscheidend sind
+die im Auftrag festgelegten Parameter.
+
+* Operational limitations depend on nominal width, temperature and composite materials. Crucial are the parameters
+set in the confirmation.
+
+Katalog:
+
+WAREX VALVE GmbH I Stauverbrink 2 I D-48308 Senden
+
+Typ DKZ 110 APS® WV 153
+Rev. 20 / 01.02.16
+
+Tel. +49 (0) 25 36 - 99 58-0 I Fax +49 (0) 25 36 - 99 58-29 I www.warex-valve.com I sales@warex-valve.com
+
+DKZ 110 APS DZ
+®
+
+ZENTRISCHE APS®-KLAPPE
+CENTRIC APS®-VALVE
+
+A
+
+B
+
+(R)
+
+BL
+
+Antrieb
+
+Dl
+
+Dv
+
+Db
+
+H
+
+actuator
+
+DN
+50
+
+110
+
+70
+
+98
+
+39
+
+DR 30
+
+154
+
+49
+
+98
+
+65
+
+118
+
+78
+
+118
+
+39
+
+DR 30
+
+154
+
+49
+
+98
+
+408
+423
+
+80
+
+125
+
+85
+
+134
+
+39
+
+DR 30
+
+154
+
+49
+
+98
+
+438
+
+80
+
+125
+
+85
+
+134
+
+39
+
+DR 60
+
+204
+
+51
+
+107
+
+455
+
+100
+
+135
+
+95
+
+154
+
+39
+
+DR 30
+
+154
+
+49
+
+98
+
+458
+
+100
+
+135
+
+95
+
+154
+
+39
+
+DR 60
+
+204
+
+51
+
+107
+
+475
+
+125
+
+163
+
+125
+
+182
+
+56
+
+DR 60
+
+204
+
+51
+
+107
+
+533
+
+150
+
+175
+
+135
+
+218
+
+56
+
+DR 60
+
+204
+
+51
+
+107
+
+555
+
+150
+
+175
+
+135
+
+218
+
+56
+
+DR 100
+
+241
+
+57
+
+119
+
+583
+
+200
+
+200
+
+160
+
+273
+
+54
+
+DR 100
+
+241
+
+57
+
+119
+
+633
+
+200
+
+200
+
+160
+
+273
+
+54
+
+DR 150
+
+259
+
+63
+
+139
+
+645
+
+250
+
+249
+
+207
+
+314
+
+68
+
+DR 220
+
+304
+
+72
+
+158
+
+731
+
+300
+
+274
+
+232
+
+370
+
+78
+
+DR 220
+
+304
+
+72
+
+158
+
+781
+
+300
+
+274
+
+232
+
+370
+
+78
+
+DR 300
+
+333
+
+77
+
+168
+
+793
+
+350
+
+305
+
+258
+
+423
+
+78
+
+DR 300
+
+333
+
+77
+
+168
+
+850
+
+350
+
+305
+
+258
+
+423
+
+78
+
+DR 450
+
+395
+
+86
+
+188
+
+870
+
+400
+
+329
+
+303
+
+473
+
+102
+
+DR 450
+
+395
+
+86
+
+188
+
+939
+
+400
+
+329
+
+303
+
+473
+
+102
+
+DR 600
+
+423
+
+93
+
+199
+
+958
+
+450
+
+400
+
+338
+
+537
+
+102
+
+DR 600
+
+423
+
+93
+
+199
+
+1064
+
+Hinweis: F
+ lanschmaße finden sie in den Technischen Daten /
+For flange dimensions please see technical data
+() = Abweichungen möglich / May vary
+
+Antriebsauslegung je nach Einsatzbedinungen abweichend /
+Driving selection according to different operating conditions
+
+Katalog:
+
+WAREX VALVE GmbH I Stauverbrink 2 I D-48308 Senden
+
+Typ DKZ 110 APS® WV 154
+Rev. 20 / 01.02.16
+
+Tel. +49 (0) 25 36 - 99 58-0 I Fax +49 (0) 25 36 - 99 58-29 I www.warex-valve.com I sales@warex-valve.com
+
+We reserve all rights and changes
+Technische und maßliche Änderungen vorbehalten
+
+DKZ 110 APS® DZ Zentrische APS®-Klappe / Centric APS®-Valve
+
+ 
+ 
+ 
+ 
+DI
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+option
+
+Signalgeber im Geh&use
+
+signal devices in the housing
+Boitier de transmetteur de signal
+
+option
+
+Konsole fiir
+elektro.-pneum.
+-Ansteuerung gem.
+Schaltplan-Variante
+mounting bracket for
+<APS>"-confrol
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in accordance with
+circuit diagram....
+
+ 
+ 
+  
+
+Magnetventil
+solenoid valve
+Electrovanne
+
+ 
+
+ 
+     
+  
+
+) ,'
+
+ 
+
+sealing element pneumatically
+pressed tight <APS=®
+Manschette pneumatisch gegen
+Klappenscheibe spannbar <APS®
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+DI
+
+option
+
+Signalgeber im Gehause
+
+signal devices in the housing
+Boitier de transmetteur de signal
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+option
+
+Konsole fir
+elektro.-pneum.
+-Ansteuerung gem.
+Schaltplan-Variante
+mounting bracket for
+LU LY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v FavreY in accordance with
+s:lg:a:i)i;evnal‘ve circuit diagram....
+Electrovanne ey
+iR
+)
+Ve
+LN
+v) ‘\v
+sealing element pneumatically | m
+pressed tight <APS® .
+Manschette pneumatisch gegen
+Klappenscheibe spannbar <APS®
+BL
+

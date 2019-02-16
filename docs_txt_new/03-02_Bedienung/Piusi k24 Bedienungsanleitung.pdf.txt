@@ -1,0 +1,1325 @@
+2 DEUTSCH
+
+_INHALTSVERZEICHNIS =~~~
+
+A KENNTNIS DES K24
+A1 Mess-System
+A2 Displayorientierung
+A3 Betriebsart
+A4 Display LCD
+A5 Anwenderdruckkndpfe
+A6 Sitz der Batterie
+INSTALLATION
+TAGLICHER EINSATZ
+C1 Abgabe im Normalmodus ﬂnormal mode)
+C11 Nullen der Teilmenge
+C1.2 Nullen der nullbaren Gesamtmenge (Reset Total)
+c.2 Abégabe mit Anzeige des Momentdurchflusses%Flow Rate Mode)
+C.2.1 Nullen der Teilmenge
+D KALIBRIEREN
+D1 DEFINITIONEN
+D2 WARUM KALIBRIEREN
+D3 Kalibriermodus:
+D3.1 Anzeige des aktuellen “K factor” und
+Wiederherstellung des “factory k factor”.
+D3.2 Kalibrierung beim Betrieb
+D3.2.1 Verfahren zur Durchfiihrung der
+) Kalibrierung beim Betrieb
+D3.3 Direkte Veranderung des K factors
+KONFIGURATION DER LITERZAHLER
+WARTUNG
+BETRIEBSSTORUNGEN
+TECHNISCHE DATEN
+ENTSORGUNG
+EXPLOSIONSZEICHNUNGEN UND RAUMBEDARF
+
+Qw
+
+=G
+
+_A  KENNTNISDESK24 ===
+
+Elektronischer, digitaler Literzahler mit Turbinen-Messsystem, der zur exakten
+Messung von Fluids mit geringer Viskositét konzipiert ist.
+Aufteilung in zwei groBe Anwendungsfamilien:
+
+1 Mit Gehause aus hellem, nicht leitfahigem Kunststoff, der zum Gebrauch
+mit Wasser-/Harnstoffldsung geeignet ist.
+
+2 Mit Geh&use aus dunklem, leitfahigem Kunststoff (erprobter
+elektrischer Widerstand: 50 Ohm), der zum Gebrauch mit DIESEL, WASSER und
+Windschutzscheibenreiniger geeignet ist.
+
+Die Platine kann ihrem Sitz gegentiber verdreht werden. Somit ist eine leichte
+
+Displayablesung in allen Positionen mdglich. Der leicht ZLé?éninche Platinensitz ist
+
+durch einen Kunststoffdeckel verschlossen, dessen Dichtheit durch einen Gummischutz
+
+gewéihneistet ist, der auch als Dichtung dient. Alles ist durch Abschrauben der 4
+chrauben, die den Deckel und die Platine befestigen, leicht abmontierbar.
+
+A1 'Mess:Systépn. .. _ . . .
+Turbinenmesssystem. Die Turbine befindet sich in einem Loch, das durch den
+Kérper des k 24 geht, und sie ist mit Gewindeeingang und —ausgang versehen.
+Der Kunststoff, aus dem der Kérper des k24 besteht, ist fiir viele Gewinde und
+die bezliglichen, zahlreichen Kombinationen geeignet.
+
+K24 verfligt tiber 2 Schutzelemente aus Gummi, die so konzipiert sind, dass sie
+auch als Dichtungen dienen, um so die Anzahl der Bauteile zu verringern.
+
+Die mit k24 vertraglichen Flissigkeiten mlssen von geringer Viskositét, und
+genauer gesagt Folgende sein:
+
+- Dieseltreibstoff
+
+- Wasser
+
+- Wasser-/Harnstofflésung
+
+- Kerosin
+
+- Windschutzscheiben-Reinigungsfliissigkeit
+
+- Benzin
+
+Hauptbestandteile:
+
+Display LCD
+
+Reset Taste
+
+    
+ 
+
+  
+
+ 
+
+Cal Taste
+
+ 
+
+Die viereckige Kdrperform des k24 erlaubt es, die Platine in ihrem Sitz zu drehen,
+somit ist groBe Freiheit bei der Orientierung gewahrleistet.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AA CHTUNG
+
+Beim Befestigen der Platine des K24 ist es wichtig darauf zu achten, dass
+s:}ch das Kabel des Batteriekontakts nicht iiber dem runden Relaissitz
+platziert. :
+
+ 
+
+Der Benutzer kann zwischen zwei verschiedenen Benutzungsmodalitaten auswahlen:
+- Normalmodus (Normal mode): Betrieb mit Anzeige der abgegebenen Teil- und
+Gesamtmengen.
+
+- Momentdurchfluss (Flow-rate mode):BetriebsartmitAnzeigedes Momenidurchflusses
+(flow-rate), sowie der abgegebenen Teilmenge.
+
+K24 ist mit einem nicht fllichtigen Speicher versehen, so dass archivierte Abgabe-Daten
+auch ohne Stromversorgung Uber einen langen Zeitraum gespeichert bleiben.
+
+Die Messelekironik und das LCD-Display sind im oberen Teil des k24 installiert.
+Auf diese Weise ist sie isoliert von der durch das Fluid benéssten Messkammer
+und durch einen Deckel nach auBen versiegelt.
+
+A4~ Displaylcp - .
+Das Flussigkristalldisplay von K24 ist mit zwei numerischen Registern und
+verschiedenen Anzeigen ausgestattet, die dem Benutzer nur dann angezeigt
+
+' HEGH:-
+
+Funktion dies erfordert.
+FLOW RATE st &
+
+al #BB[?BB,ET"?"E'E“_7
+
+Legende: .
+
+1: Register der
+
+Teilmenge (5 Ziffern mit 2
+
+Gleitkomma), das die Menge
+
+angibt, die seit der letzten 3
+
+Betatigung der Reset-Taste
+
+abgegeben wurde;
+
+2. Anzeige des 4 5 6
+
+Ladezustands der Batterie;
+
+3: Anzeige der Kalibriermodalitét;
+
+4, Register der Gesamtmengen (6 Ziffern mit Gleitkomma von 0,0 bis
+
+999999), das zwei Arten von Gesamtmengen darstellen kann:
+
+41, nicht nullbare Gesamtmenge (Total);
+
+4.2, nullbare Gesamtmenge (reset total);
+
+Anzeige des Multiplikationsfaktors der Gesamtmengen (x10/x100);
+
+Anzeige des Gesamtmengentyps (total / reset total);
+
+Anzeige der Gesamtmengen-MaBeinheit:  I=Liter
+
+Anzeige der momentanen Fordermenge (Flow Rate)
+
+Anzeige der Teilmengen-MaBeinheit: gts=Viertel;
+
+ts=Pints;
+
+=Liter;
+gal=Gallonen
+
+ 
+
+)
+
+gal=Gallonen
+
+©oONOO
+
+AS A jerdruckknépf
+K24 ist mit zwei Drucktasten (reset und cal) ausgestattet, die — jede fir sich —zwei
+Hauptiunktionen ausfiihren und in Kombination andere Nebenfunktionen ibernehmen.
+Hauptfunktionen:
+
+- Reset-Taste: das Nullen des Teilmengen-Registers und des nullbaren
+Gesamtmengen-Registers (reset total).
+
+- Cal-Taste: Aufrufen des Kalibriermodus des Gerétes.
+
+Werden sie gemeinsam verwendet, l&sst sich mit den beiden Tasten der
+Konfigurationsmodus (Configuration Mode) aufrufen, der fiir Anderungen der
+MaBeinheit und des Kalibrierfaktors niitzlich ist.
+
+DEUTSCH
+
+K24 wird durch zwei 1,5-V-Standardbatierien (GroBe AAA? gespeist.
+
+ 
+
+Derleicht zu%angliche BatteriesitzistdurcheinenMetaldeckelverschlossen,
+dessen Dichtheit durch einen Gummischutz gewahrleistet ist, der auch als
+Dichtung dient. Alles ist durch Abschrauben der 4 Schrauben, die den Deckel
+und den Schutz am Korper befestigen, leicht abmontierbar.
+
+ 
+
+K24 verfugt Uber geraden gewindeeingang und -ausgang (1” gas oder npt,
+mannlich und weiblich, miteinander kombinierbar). Lasst sich leicht in jeder
+osition anbringen: station&r an einer leitung oder beweglich an einer zapfpistole.
+tets daflir sorgen, dass stromauf der anlage eine filterscheibe vorhanden ist,
+um eine langere lebensdauer der turbine zu gewahrleisten.
+
+AA CHTUNG :
+
+Die Verbindungsanschliisse an den weiblichen Eingdngen mit einem
+maximalen Moment von 55N/m anziehen.
+
+AA CHTUNG :
+
+BEI DEN WEIBLICHEN GAS-EINGANGEN KEINESFALLS
+VERBINDUNGSSTUCKE MIT KEGELIGEM GEWINDE VERWENDEN.
+
+ 
+
+Die einzigen Operationen, die beim taglichen Gebrauch vorzunehmen sind,
+ist die Nullung der Register von Teil- und/oder nullbarer Gesamtmenge.
+Der Benutzer muss sich deshalb auf den Gebrauch des Abgabesystems
+beschranken, mit dem k24 verbunden wurde.
+
+Gelegentlich kann es vorkommen, dass der Literzahler konfiguriert oder kalibriert
+werden muss. Diesbeziglich auf die jeweiligen Kapitel Bezug nehmen. -,
+Daraufhin werden die beiden Anzeigen des Normalbetriebs aufgerufer 4t
+
+Die eine Anzeige beinhaliet die Teilmenge und die nullbare Gesarni...enge
+Reset Total). Die andere Anzeige zeigt die Teilmenge und die absolute
+Sesamimenge. Der Ubergang von der nullbaren Gesamtmenge auf die absolute
+Gesamtmenge erfolgt automatisch und ist einer Zeitspanne unterworfen, die
+bei der Herstellung festgelegt wurde und nicht verandert werden kann.
+
+i ‘,E|3L_IS Qs TEILMENGEN-REGISTER ]E'BL{S Qe
+
+12.3 TOTAL GAL
+
+    
+
+ 
+  
+ 
+
+   
+ 
+ 
+  
+
+REGISTERDER  REGISTER DER
+NULLBAREN ABSOLUTEN
+GESAMTMENGE ~ GESAMTMENGE
+(Reset Total) (Total)
+
+Anm.:
+
+Fiir die Gesamtmengen stehen 6 Ziffern zur Verfiigung, zuziiglich zwei lkonen
+x10/x100. Die Erhéhung erfolgt mit folgender Sequenz: 90.0 — 99999.9 —
+999999 — 700000 x 10 — 999999 x 10 — 100000 x 100 — 999999 x 100
+
+_C1  Abgabe im Normalmodus (normalmode)
+Normal mode ist die Standardabgabe. Wahrend des
+
+Zéhlenswerden gleichzeitig die“abgegebeneTeiImenge"
+und die “nullbare Gesamtmenge” (reset total) angezeigt. Qs |
+
+Eine unvorhergesehene Tastenbetatigung wahrend 123 o Ga
+der Abgabe hat keine Auswirkungen. Einige Sekunden i
+nach erfolgter Flﬁssigkeitsabgabe geht die Anzeige des
+unteren Registers von ,nullbarer Gesamtmenge® auf
+
+“absolute Gesamtmenge" Uiber: Die Schrift RESET Ulber
+dem Wort TOTAL erlischt und der Wert der ,,nullbaren
+Gesamtmenge“ wird durch die ,absolute Gesamtmenge*
+ersetzt. Diese Zustand wird Pause (oder STAND-BY)
+genannt und bleibt bestehen, solange der Benuizer
+keine weitere Operationen am K24 vornimmt.
+
+ 
+
+ 
+
+Das Register der Teilmenge kann durch Dricken der
+RESET-Taste genullt werden, wenn sich der Literzahler
+in Standby-Status befindet, d.h. wenn das Display die
+Schrift «TOTAL» anzeigt.
+
+Nach dem Driicken der RESET-Taste zeigt das Display
+
+wahrend der Nullstellung nacheinander zun&chst alle
+
+gi%geschalteten Ziffern und dann alle ausgeschalteten
+iffern an.
+
+Ca sBBAAA A
+
+mn Qr
+
+nn
+Nach dem Vorgang wird zunéchst die genullte Teilmenge U
+und Reset Total angezeigt, . 234123 ™™ G
+
+und nach wenigen Sekunden wird Reset Total durch die
+NICHT nullbare Gesamtmenge (Total) ersetzt.
+
+ 
+
+Die nullbare Gesamtmenge kann nur dann genulit
+werden, wenn zuvor die Nullung des Teilmengen-
+Registers erfolgt ist. Die Nulllung der Gesamimenge
+erfolgt durch ein l&ngeres Driicken der RESET-Taste,
+wahrend auf dem Display die Schrift RESET TOTAL
+angezeigt wird, wie in der folgenden Anzeige:
+
+ 
+
+Es sind schematisch die
+durchzuflihren:
+
+1. Abwarten, bis das Display seine normale Standby-
+Anzeige aufweist (nur die Gesamtmenge (Total) wird
+angezeigt).
+
+2. Kurz die RESET-Taste driicken.
+
+3. Der Literzahler beginnt die Nullungsprozedur der o
+Teilmenge. MG 51 BaL
+4. Wahrend das Display das Reset Total anzeigt,
+
+erneut die RESET-Taste flr mindestens eine Sekunde
+driicken.
+
+5. Das Display zeigt erneut alle seine Segmente, danach
+folgt die Phase, in der alle Segmente ausgeschaltet sind,
+um schlieBlich zur Anzeige Uberzugehen, auf der die
+genullte Gesamtmenge (Reset Total) angegeben wird.
+
+folgenden  Schritte
+
+{2303 ™ B
+
+ 
+
+   
+ 
+      
+
+ 
+
+gabe mi i rchflusses (Flo
+Es ist maglich, Abgaben vorzunehmen, bei der gleichzeitig folgende Anzei
+v abgegebene Teilmenge
+
+. Momentdurchfluss (Flow Rate) in [MaBeinheit der Teilmenge /Minute]
+wie auf folgender Bildschirmseite angegeben ist:
+
+        
+
+erscheinen:
+
+2345
+
+ rowRATE™,
+{ v
+
+ 
+
+Vorgehensweise, um in diesen Modus zu gelangen:
+
+- Abwarten, bis sich das Ferndisplay in Standby-Zustand befindet, d.h. bis das
+Display nur die Gesamtmenge anzeigt.
+
+« Kurz die CAL-Taste driicken.
+
+- Mit der Abgabe beginnen.
+
+Die momentane Durchflussmenge wird alle 0,7 Sekunden aktualisiert. Deshalb kann
+bei den niedrigeren Durchflussmengen eine relativ instabile Anzeige aufireten. Je
+groBer die Durchflussmenge ist, desto héher ist die Stabilitat des gelesenen Wertes.
+
+&A CHTUNG :
+
+Die Durchflussmenge wird in der MaReinheit der Teilmenge gem: n.
+Haben Teilmenge und Gesamtmenge eine unterschiedliche aBerSjt,
+wie im nachfolgend angefiihrten Beispiel angezeigt wird, ist somit
+darauf zu achten, dass die angezeigte Durchflussmenge in der
+MaReinheit der Teilmenge anﬁegeben wird. Im angefiihrten Beispiel ist
+
+die Durchflussmenge in Qts./Min. angegeben
+
+B35 ™
+
+S RLOWRATE
+
+ 
+
+D)V RRoed
+
+Die Schrift “Gal” neben der Flow Rate bezieht sich auf das Register der
+(nulibaren oder NICHT nullbaren) Gesamtmengen, die erneut angezeigt
+werden, wenn der Anzeigemodus der Durchflussmenge wieder verlassen
+wird.
+
+Um zum “Normalmodus” zuriickzukehren, erneut die CAL-Taste driicken. Das
+ungewollte Dricken der RESET- oder CAL-Taste wahrend der Z&hlung hat
+keinerlei Auswirkungen.
+
+AACHTUNG 2
+
+Auch wenn in diesem Modus die nullbare (Reset Total) und die absolute
+Gesamtmenge (Total) nicht angezeigt werden, erhoht sich ihr Wert
+dennoch. Dieser kann nach erfolgter Abgabe liberpriift werden, wenn im *
+»,Normalmodus*“ kurz die CAL-Taste gedriickt wird.
+
+ 
+
+Zum Nullen des Teilmengen-Registers die Abgabe beenden, abwarten, bis das
+Ferndisplay eine Flow Rate von 0.0 anzeigt (siehe Abb.) und dann kurz die
+RESET-Taste driicken.
+
+ 
+
+KALIBRIERFAKTOR ODER “K FACTOR”:
+Multi “ationsfaktor, den das System den_ empfangenen Elekiroimpulsen
+zuw. um sie in Einheiten der gemessenen Flissigkeit zu verwandeln.
+
+FACTORY K FACTOR:
+Bei der Herstellung eingestellier, vorbeseizter (default) Kalibrierfakior. Gleich
+1,000. Dieser Kalibrierfaktor garantiert maximale Genauigkeit bei folgenden
+Gebrauchsbedingungen:
+
+Fluid DIESEL
+
+Temperatur: 20°C
+
+Durchiaufmenge:  10-120 Liter/Min.
+Auch nach eventuell vom Benutzer durchgefiihrten Anderungen kann mit einer
+einfachen Prozedur der vorbesetzte Kalibrierfaktor wiederhergestellt werden.
+
+USER K FACTOR:
+Kalibrierfaktor, der vom Benutzer an seine Bedlrfnisse angepasst, d.h. durch
+eine Kalibrierung verandert wurde.
+
+_D2  Warum Kalibrieren
+Bei extremen Gebrauchsbedingungen wie zum Beispiel Flissigkeiten mit
+einer Viskositat, die nahe den Grenzwerten des zulassigen Bereichs liegt (wie
+Diesel bei niedrigen Temperaturen oder bei exiremen Durchlaufmengen (die
+nahe bei den Mindest- und Hochsiwerten des zugelassigen Bereichs liegen),
+kann eine Kalibrierung am Aufstellungsort angebracht sein, die unter den
+wirklichen Bedingungen, bei denen k24 arbeiten muss, durchgefiihrt wird.
+
+D3 Kalibri i
+K24 ermaéglicht die Durchfiihrung einer schnellen und genauen elektronischen
+Kalibrierung durch die Anderung des Kalibrierfaktors (k factor).
+
+Es q{ibt 2 verschiedene Kalibriermethoden:
+
+1. “hrierung bei Betriebssimulation, bei der eine Fliissigkeitsabgabe
+durc  Uhrt wird. .
+
+2. Direkte Kalibrierung, die durch eine direkte Anderung des k factors erfolgt.
+
+Zum Aufrufen der Kalibrierphase, lang auf die Taste “cal” driicken.
+
+Warum die Kalibrierphasen aufrufen?
+
+. Anzeiae des momentan verwendeten Kalibrierfaktors
+
+» Rickkehr zum Kalibrierfaktor des Herstellers (factory k factor) nach einer
+
+vorherigen Kalibrierung mit user k factor.
+
+i/Angerung des Kalibrierfaktors mittels einer der beiden zuvor genannten
+organge.
+
+Bei der Betriebsart Eichung haben die Anzeigen der abgegebenen Teilmenge
+
+und der Gesamtmenge je nach Phase des Eichungsverfahrens verschiedene
+
+Bedeutun%en. Wahrend der Kalibrierung kann k24 keine normalen Abgaben
+
+mﬁchhen. ei der Betriebsart Kalibrierung werden die Gesamtmengen nicht
+
+erhoht.
+
+&A CHTUNG
+
+K24 verfiigt iiber einen nicht fliichtigen Speicher.
+
+Somit bleiben die Kalibrier- und Abgabendaten auch nach dem
+Austausch der Batterien oder ldngeren Zeitrdumen der Nichtverwendung
+gespeichert.
+
+D3.1 ANZEIGE DES AKTUELLEN “K FACTOR” UND
+
+ 
+
+Durch langes Driicken der CAL-Taste im Standby-Status
+wird der derzeit verwendete Kalibrierfaktor angezeigt.
+Wird k24 mit dem “factory k factor” verwendet, erscheint
+die im Schema dargestellte Bildschirmseite mit dem
+Schriftzug “fact”.
+
+ 
+
+Wurde hingegen ein “user k factor” eingegeben, wird der
+vom Benutizer eingegebene Kalibrierfaktor (in unserem
+Beispiel 0.998) angezeigt. Die Schrift ,user” weist darauf
+hin, dass der verwendete Kalibrierfaktor vom Benutzer
+eingegeben wurde.
+
+ 
+
+LEGEND.
+
+E‘as 5 . nebenstehenéje R+R long RESET
+ussdiagramm  zeigt ie
+zusammenhangende Logik der ~ ® shorRESET
+verschiedenen Anzeigen auf. c+¢  long GAL
+In diesem Zustand kann mit der
+Reset-Taste vom User- zum €  shedCAL
+Factory-Faktor libergegangen (%)
+werden. Zur Bestatigung der
+Kalibrierfaktor-Wah! kurz die
+Cal-Taste driicken, wahrend
+Luser‘ oder fact* angezeigt ist.
+
+Nach dem Neustart verwendet
+
+der Literzahler den soeben
+bestéatigten Kalibrierfaktor.
+
+AACH TUNG :
+
+In dem Moment, in dem
+der Faktor des Herstellers
+bestétigt wird, wird der alte
+Faktor des Benutzers aus
+dem Speicher geléscht.
+
+  
+  
+  
+ 
+
+ 
+
+Dieser Vorgang sieht die Abgabe der Fliissigkeit in einen Messbehalter unter
+realen Betriebsbedingungen vor (Durchflussmenge, Viskositat usw.), die
+genauestens einzuhalten sind.
+
+AA CHTUNG :
+
+Fiir eine korrekte Kalibrierung von K24 sind die folgenden Punkte zu
+beachten: .
+
+» Die Anlage vollstdndig entliiften, bevor die Kalibrierung durchgefiihrt wird;
+e Einen FEichbehélter von mindestens 5 Liter Fassungsvermdégen
+verwenden, der eine genaue Messmarkierung aufweist;
+
+« Die Abgabe zur Kalibrierung bei konstanter Durchflussmenge
+dult;chfiihren, wie sie dem normalen Betrieb entspricht, bis der Behélter
+voll ist;
+
+°Di  rchflussmenge nichtverringern, wenn die Mass-Skala des Behélters
+in GeEndphase der Abgabe beinahe erreicht ist (die richtige Technik in
+der Endphase der Behiélterfiillung besteht darin, kurze Nachfiillschiibe bei
+normaler Betriebsdurchflussmenge vorzunehmen);
+
+» Nach erfoigter Abgabe einige Minuten warten um sicherzustellen, dass
+eventuell entstandene Luftblasen aus dem Behéliter entfernt wurden.
+Den richtigen Wert erst nach Abschiuss dieser Phase ablesen, denn
+wéhrenddessen kann der Stand im Behélter noch absinken.
+
+. Gelqebenenfalls sorgféltig das nachstehend angefiihrie Verfahren
+verfolgen.
+OPERATION
+
+KEINE
+K24 im Standby-Status
+
+    
+      
+   
+
+LANGES DRUCKEN DER CAL-TASTE
+K24 tritt in Kalibriermodus, zeigt die Schrift ,CAL* und zeigt anstelle der
+Gesamtmenge den verwendeten Kalibrierfaktor an. Die Schriftziige
+“Fact” und “USER” weisen darauf hin, welcher der beiden Faktoren
+derzeit verwendet wird.
+
+LANGES DRUCKEN DER RESET-TASTE
+K24 zeigt die Angabe “CAL” und Teilmenge auf Null an. K24
+steht zur Ausfihrung der Kalibrierung am aufgestellten Gerat
+bereit.
+
+     
+  
+   
+   
+    
+   
+     
+ 
+ 
+
+ABGABE IN DEN EICHBEHALTER
+Ohne irgendeine TASTE zu betéatigen,
+mit der Abgabe in den Eichbehalter &
+beginnen. M
+Die Abgabe kann beliebig unterbrochen und wiedelrautgenommen
+werden. Die Abgabe durchfiihren, bis die Fliissigkeit die Mass-Skala
+des Eichbehélters erreicht. Es ist nicht notwendig, eine bestimmte
+Menge zu erreichen.
+»|foss
+
+ 
+ 
+   
+    
+ 
+
+ 
+      
+ 
+       
+ 
+ 
+  
+
+9800 ¢
+
+o
+
+Richtwert
+
+    
+  
+  
+
+ 
+  
+   
+ 
+
+KURZES DRUCKEN DER RESET-TASTE
+K24 wird informiert, dass die Kalibrier-Abgabe beendet ist.
+Achtgeben, dass die Abgabe vollsténdig abgeschiossen ist, bevor dies
+geschieht. Zur Kalibrierung von K24 muss der vom Zzhlwerk der Teilmenge
+angegebene Wert (Beispiel 9,800) auf den Istwert gebracht werden, der
+vom Eichbehalter angezeigt wird. Unten links auf dem Display erscheint
+ein Pfeil (der nach oben oder unten zeigt) und die Richtung angibt, in die der
+Wert vom USER K FACTOR veréndert wird (Erhéhen oder Vermindem),
+wenn die Operationen 6 oder 7 durchgefiihrt werden.
+KURZES DRUCKEN DER RESET-TASTE
+Richtungswechsel des Pfeils. Der Vorgang lasst sich BEI BEDARF
+wiederholen.
+
+ 
+   
+
+9800 o
+
+Cal* FIELD
+
+    
+
+  
+
+    
+    
+   
+   
+ 
+
+ 
+     
+  
+  
+
+KURZES/LANGES DRUCKEN DER CAL-TASTE
+Der angegebene Wert &ndert sich in die vom Pfeil definierte Richtung.
+
+- eine Einhetit fir jeden kurzen Druck der CAL-Taste
+
+- kontinuierlich, wenn die CAL-Taste gedriickt gehalten wird.
+
+(die ersten 5 Einheiten langsam, danach schnell). st der gewiinschte
+Wert tiberschritten, die Operation ab Punkt 6 wiederholen (6}
+LANGES DRUCKEN DER RESET-TASTE
+
+K24 wird somit informiert, dass das Kalibrierverfahren beendet ist.
+Bevor diese Operation durchgefiihrt wird achtgeben, dass der
+RICHTWERT mit dem ISTWERT (ibereinstimmt. »TTos86
+
+   
+ 
+ 
+
+     
+ 
+  
+
+ 
+     
+    
+
+ 
+    
+      
+ 
+  
+
+   
+
+Richtwert Istwert
+K24 berechnet den neuen USER K FACTOR. Diese Berechnung kann je
+nach vorzunehmender Berichtigung ein paar Minuten dauem. Waihrend
+dieses Vorgangs erlischt der Pfeil aber die Anzeige CAL bleibt
+bestehen. Wird diese Operation nach Punkt 5 durchgeflihrt, ohne den
+angegebenen Wert zu andern, ist der USER K FACTOR gleich dem
+FACTORY K FAKTOR und wird somit ignoriert.
+KEINE OPERATION
+
+Nach erfolgter Berechnung wird der neue USER K FACTOR fiir einige
+Sekunden angezeigt, dann wird der Neustartvorgang wiederholt, um
+schlieBlich den Standby-Status zu erlangen.
+
+ACHTUNG : Ab diesem Moment wird der angezeigte Wert der
+neue Kalibrierfaktor, der vom K24 verwendet wird, und bleibt
+dies auch nach einem Batteriewechsel.
+KEINE OPERATION
+K24 speichert den neuen Betriebs-Kalibrierfaktor und steht zur Abgabe
+mit Gebrauch des soeben berechneten USER K FACTOR bereit.
+
+ 
+     
+    
+ 
+
+ 
+    
+ 
+    
+   
+ 
+     
+    
+
+     
+
+10
+
+  
+  
+
+D3 _Direkte Vasking e
+
+ieser Vorgang ist besonders hilfreich, um einen ,Durchschnitisfehler” zu
+orrigieren, der aufgrund vieler durchgefiihrter Abgaben erhalten werden
+ann. Wenn der normale K24-Betrieb einen durchschnittlichen Prozentfehler
+ufweist, kann dieser korrigiert werden, indem der momentan verwendete
+alibrierfaktor um denselben Prozentwert berichtigt wird. In diesem Fall ist die
+rozentuale Korrektur des USER K FACTOR vom Bediener auf die folgende
+irt zu berechnen:
+
+100 - E%
+
+Neuer Kalibrierfaktor = Alter Kalibrierfaktor * 100
+
+leispiel:
+wigetretener Prozentfehler E% - 0.9 %
+iktueller Kalibrierfaktor
+
+1,000
+leuer USER K FACTOR
+
+1,000 * [(100 — ( - 0,9))/100]=
+1,000 * [(100 + 0,9)/100] = 1.009
+
+Venn der Literzéhler weniger als den reale Abgabewert anzeigt (Negativfehler), muss
+
+er neue Kalibrierfaktor groBer als der alte sein, wie das Beispiel zeigt. Umgekehrt,
+'enn der Literzéhler mehr als den realen Abgabewert angibt (Positiviehler).
+
+DISPLAY
+
+12345 o
+
+1238 G
+
+JPERATION
+
+KEINE
+Femdisplay im Normalzustand, nicht beim Zzhlen
+
+LANGES DRUCKEN DER CAL-TASTE
+
+Das Femdisplay tritt in Kalibriermodus, und es wird anstelle der Teilmenge
+der verwendete Kalibrierfaktor angezeigt. Die Anzeigen ,Fact oder ,USER®
+geben an, welcher der beiden Faktoren (Benutzer oder Hersteller) derzeit
+verwendet wird.
+
+LANGES DRUCKEN DER RESET-TASTE
+
+Das Femdisplay zeigt die ,CAL“ —Anzeige und die nullbare Gesamtmenge ]a 3\.{5 Qn
+steht auf Null. ‘
+
+Das Ferndisplay ist bereit die Kalibrierung mittels Abgabe durchzufiihren. ca FELD
+
+100
+
+FACT
+' ser)
+
+LANGES DRUCKEN DER RESET-TASTE
+
+Direkte Anderung des Kalibrierfaktors: Es erscheint die Schrift
+.Direct” und der derzeit verwendete Kalibrierfaktor. Links unten auf
+dem Display erscheint ein Pfeil (der nach oben oder unten zeigt)
+und die Richtung angibt, in die der angezeigte Wert verandert
+wird (Erhdhen oder Vermindern), wenn die Operationen 5 oder 6
+durchgefiihrt werden.
+
+KURZES DRUCKEN DER RESET-TASTE
+
+Richtungswechsel des Pfeils. Die Operation kann wiederholt
+werden, um die Pfeilrichtung zu wechseln.
+
+g o
+
+Cal* DIRECT
+
+1000
+
+Catv DIRECT
+
+KURZES/LANGES DRUCKEN DER CAL-TASTE
+
+Der angegebene Wert andert sich in die vom Pfeil definierte Richtung.
+- eine Einheit fir jeden kurzen Druck der CAL-Taste
+
+- kontinuierlich, wenn die CAL-Taste gedriickt gehalten
+wird. Die Geschwindigkeit, mit der der Wert erhoht wird, erhoht sich,
+wenn die Taste gedriickt gehalten wird.
+
+Wenn der gewtinschte Wert {iberschritten wird, den Vorgang ab Punkt
+5 wiederholen (5).
+
+LANGES DRUCKEN DER RESET-TASTE
+
+Das Ferndisplay wird informiert, dass der Kalibriervorgang beendet ist.
+Vor Durchfiihrung dieser Operation sicherstellen, dass der
+angezeigte Wert dem gewiinschten Wert entspricht.
+
+1003
+
+Cat* QIRECT
+
+KEINE OPERATION
+
+Nach erfolgter Berechnung wird der neue USER K FACTOR
+fur einige Sekunden angezeigt, dann wird der Neustartvorgang
+wiederholt, um schlieBlich den Standby-Status zu erlangen.
+ACHTUNG : Ab diesem Moment wird der angezeigte Wert der neue
+Kalibrierfaktor, der vom Ferndisplay verwendet wird, und bleibt dies
+auch nach einem Batteriewechsel.
+
+KEINE OPERATION
+
+Das Ferndisplay speichert den neuen Betriebs-Kalibrierfaktor und
+
+steht zur Abgabe mittels Anwendung des soeben berechneten
+USER K FACTOR bereit.
+
+ 
+
+Einige K24-Modelle sind mit einem Meni ausgestattet, mit dem der Benutzer
+die HauptmaBeinheit, Viertel (qts), Pints E?pts), Liter (1), Gallonen (gal)
+einstellen kann.
+
+Die Kombination der MaBeinheiten von Teilmengen- und Gesamtmengen-
+Register ist nach der folgenden Tabelle festgelegt:
+
+MaReinheit
+Teilmengen-Register
+
+Liter (L)
+Gallons (Gal)
+
+Viertel (Qts)
+
+Pints (Pts)
+
+Zur Wahl einer der vier vorgeschlagenen Kombinationen:
+
++ Warten bis sich K24 im Standby-Status befindet.
+
++ Gleichzeitig die Tasten cal und reset betatigen und so lange gedrlickt halten,
+bis der Schrlftzug “unit” und die in diesem Moment eingestellte MaBeinheit (bei
+diesem Beispiel Liter/Liter) erscheinen.
+
+* Zeichnung Display mit Anzeige der MaBeinheit Liter/Liter eingeben.
+
+* Zur Wahl der gewtiinschten MaBeinheit unter den nachstehend angefiihrien,
+auf die Taste reset driicken.
+
+* Durch lange Betatigung der Taste cal die neue Kombination speichern. K24
+wird den Einschalizyklus durchlaufen und zur Abgabe in den eingestellten
+MaBeinheiten bereit sein.
+
+  
+
+ 
+
+MaReinheit
+Gesamtmengen-Register
+Liter (L)
+Gallonen (Gal)
+Gallonen (Gal)
+Gallonen (Gal)
+
+   
+
+Combination no.
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AACH TUNG
+
+Die Register der nullbaren und absoluten Gesamtmenge werden
+automatisch in die neuen MaReinheiten umgestellt. Durch die Verédnderung
+der MaBeinheit muss KEINE neue Kalibrierung vorgenommen werden.
+
+_F_____ WARTUNG
+
+Konzeption von K24 sieht nur eine minimale Wartung vor.
+
+ 
+
+Die einzig notwendigen wartungsarbeiten sind:
+
+1. Auswechslung der batterien, wenn diese entladen sind;
+
+2. Turbinenreinigung anhand spiilung mit fliissigkeit oder mechanischem
+vorgang, der eventuell zwecks leichterem drehen erforderlich ist.
+
+1 Batterieaustausch )
+K24 wird mit zwei alkalischen Batterien GroBe AAA 1,5 Volt geliefert.
+K24 hat zwei Alarmstufen fiir erschopfie Batterie:
+
+1) Wenn die Batterieladung unter die 1 Stufe absinkt,
+erscheint auf dem LDC die stationdre Anzeige des
+Batteriezeichens.
+
+Unter dieser Bedingung funktioniert K24 weiterhin o
+korrekt, aber die stationdre Ikone weist den Benutzer izl  Ga
+darauf hin, dass es sich EMPFIEHLT, die Batterien
+auszutauschen.
+
+_EE.S’HS Qn
+
+ 
+
+2) W' \K24 weiterhin ohne Austausch der Batterien
+verw.__net, tritt die zweite Stufe des Batteriealarms ein
+und der Betrieb ist untersagt. In diesem Zustand und es
+ist nichts anderes auf dem Display sichtbar.
+
+&A CHTUNG
+
+Die entiadenen Batterien nicht einfach wegwerfen. Es sind die értlichen
+Bestimmungen zu ihrer Entsorgung zu beachten.
+
+Zum Austausch der Batterien unter Bezugnahme auf die Positionen der
+Explosionszeichnung wie folgt vorgehen:
+
++ RESET driicken, um die Gesamtmengen auf den neuen Stand zu bringen.
+- Die 4 Befestigungsschrauben des unteren Deckels abschrauben.
+
+* Die entladenen Batterien entfernen.
+
+- Die neuen Baiterien anstelle der vorherigen einsetzen.
+
+* Den Deckel wieder schlieBen und den als Dichtung dienenden Gummischutz
+wieder anbringen.
+
+» K24 wird sich automatisch einschalten und es kann der normale Gebrauch
+fortgesetzt werden.
+
+K24 wird dieselbe riickstellbare Gesamtmenge, dieselbe Gesamtmenge
+und dieselbe Teilmenge anzeigen, die vor dem Batterieaustausch angezeigt
+
+wurden. Nach dem Batterieaustausch ist keine erneute Kalibrierung des
+Literzahlers erforderlich.
+
+2. Reinigung
+
+Die reinigung von k24 ist auf einen einzigen vorgang begrenzt.
+
+Nachdem man k24 von der betreffenden anlage losgeldst hat, mit flissigkeit
+oder einem mechanischen vorgang die etwaigen riickstande beseitigen.
+
+Dreht sich die turbine nach dieser reinigung immer noch nicht leicht, ist sie zu
+ersetzen.
+
+&A CHTUNG:
+
+Keine pressluft an der turbine anwenden, um deren beschéddigung durch
+eine zu schnelle drehung zu vermeiden.
+
+ 
+
+ 
+
+       
+
+MaRnahme
+
+| Stérung | Mégliche Ursache
+LCD: Keine Wackelkontakt der Batteriekontakte
+Anzeige Batterien Uberpriifen
+
+K FACTOR (iberpriifen,
+Unkorrekter K FACTOR siehe Paragraph H.
+
+Der Literzahler lauft Durchlaufmenge erhéhen,
+unterhalb der minimal bis eine akzeptable
+zuldssigen Durchlaufmenge | Durchlaufmenge erreicht ist
+
+  
+     
+
+  
+
+Ungeniigende
+Messgenauigkeit
+
+   
+
+ 
+  
+ 
+
+  
+
+  
+ 
+    
+   
+   
+
+  
+     
+
+Verminderte
+oder gar keine
+Durchlaufmenge
+
+Der Literzéhler
+misst nicht
+aber die
+Durchflussmenge
+ist normal
+
+    
+     
+   
+
+   
+    
+   
+
+Festsitzende TURBINE TURBINE reinigen
+
+Falsche Installation von | Die Schritie zum Einbauen
+K24 nach der Reinigung wiederholen
+
+Mdgliche Probleme bei der
+elektronischen Karte
+
+    
+ 
+ 
+ 
+
+  
+  
+
+ 
+ 
+
+Handler kontaktieren
+
+ 
+
+ 
+
+ 
+
+  
+
+Auflosung Hohe 0.010 Liter/Impuls
+Durchfliisse
+Geringe 0.005 Liter/Impuls
+Durchfliisse
+
+Forderleistung | K24 FARBE 5 + 120 FUR DIESEL, WASSER,
+(Bereic) SCHWARZ KEROSIN, WINDSCHUTZSCHEIBEN-
+Durchfliisse REINIGUNGSFLUSSIGKEIT,
+
+K24 FARBE 5+ 100 (Liter/minute) FUR WASSER-
+BEIGE /HARNSTOFFLOSUNG.
+Durchflisse
+
+Betriebsdruck (max.) 10 (Bar)
+Berstdruck (min.) 40 (Bar)
+Lagertemperatur (Bereich) -20 + + 70 (°C)
+
+(Max.) Lager-feuchte 95 (% RU)
+Betriebstemperatur (Bereich) -10 ++ 50 (°C)
+
+| Stomungsverlust 1030 Bar bei 100 UMin.
+Viskositat (am aufgestellien Gerét)
+
+Genauigkeit (zwischen 10 und 90 | +1 des angegebenen Werts nach der
+1/Min.) Kalibrierung (%)
+
+Wiederholbarkeit +0,3 (%)
+(Beispiel)
+
+ 
+ 
+         
+ 
+
+       
+    
+   
+ 
+    
+
+  
+ 
+   
+  
+    
+ 
+ 
+
+    
+
+   
+
+ 
+   
+  
+
+    
+    
+ 
+
+ 
+   
+    
+
+    
+ 
+ 
+    
+ 
+
+  
+  
+  
+
+(
+\.
+
+ 
+    
+     
+      
+  
+
+Display Mit Flussigkristallen LCD Ausgestattet mit:
+x10/x100
+
+-5—ste||igeTeilmenge
+-6-stellige,nullbareGesamtmengeplusxw
+/x100
+- 6-stellige nicht nullbare Gesamtmenge plus
+Stromversorgung Alkalischen Batterien 2x1,5V GroBe AAA
+Batieriedaver |18+ 36 Monate
+m_ 0.25Kg(einschlie3|ichBatterien)
+Lecksicherheit
+
+     
+ 
+ 
+
+1L ENTSORGUNG
+
+Im Falle der Entsorgung des Gerats miissen seine Bauteile einer auf
+
+Entsorgung und Recycling von Industriemiill spezialisierten Firma zugefihrt
+werden, und insbesondere:
+
+ENTSORGUNG DER VERPACKUNG:
+Die Verpackung besteht aus biologisch abbaubarem Karton; sie kann
+
+Facgbetrieben zur normalen Wiedergewinnung von Zellulose zugefiihrt
+werden.
+
+ENTSORGUNG DER METALLTEILE:
+
+Die Metallteile der Verkleidung und Struktur wie auch die |  srten
+Teile und die Edelstahlteile kénnen normalerweise Fachbetrieberi itir die
+Verschrottung von Metallen zugefiihrt werden.
+
+ENTSORGUNG DER ELEKTRISCHEN UND ELEKTRONISCHEN
+BAUTEILE:
+
+Sie mussen obligatorisch von Unternehmen entsorgt werden, die auf die
+Entsorgung von "Elekironikbauteilen gemaB den Anwelsun%en der EG-
+Richtlinle002/96/CE(siehefolgenderRlchtlinlentext) spe2|ai3|ertsmd.
+
+UMWELTINFORMATIONEN FUR DIE IN DER EUROPAISCHEN UNION
+ANSASSIGEN KUNDEN ) !
+Die EG-Richtlinie 2002/96/CE schreibt vor, dass Geréte, die
+am Produkt und/oder an der Verpackung mit diesem Zeichen
+gekennzelchnet sind, nicht gemeinsam mit ungetrenntem
+tadtmill entsorgt werden dtirfen. Das Zeichen weist darauf hin,
+dass dieses Produkt nicht gemeinsam mit normalem Hausmiill
+entsorgt werden darf. Es’unterliegt der Verantwortung des
+B EigentUmers, diese Produkte sowie die anderen elektrischen
+o und elektronischen Gerate durch die von der Regierung oder den
+ortlichen &ffentlichen Einrichtungen angegebenen besonderen Strukiuren
+zu entsorgen.
+
+ENTSORGUNG WEITERER BAUTEILE:
+Weitere Bestandteile wie Schiguche, Gummidichtungen, Kunststoffteile
+
+und Verkabelungen sind Uniernehmen zuzufiihren, die auf die Entsorgung
+von Industriemdll spezialisiert sind.
+
+ 
+
+HERSTELLERERKLARUNG
+Der unterzeichnende Rechtsverireter des Herstellers
+Piusi S.p.A.
+46029 — Suzzara (Mantova) - Italien
+ERKLART
+
+dass das wie folgt beschriebene Gerat:
+K24
+
+den folgenden Richtlinien entspricht:
+
+2004/108/EG (Rechtvorschriften zur elektromagnetischen Vertraglichkeit EMC)
+und nachfolgende Anderungen
+
+ﬁ/{& Z/;I\llm
+
+Suzzara, den 01.07.2009 Der Vorsitzende
+
