@@ -23,6 +23,7 @@ cors = CORS(app)
 @cross_origin()
 def search():
     searchTerm = request.data
+    print(searchTerm)
     # Perform the search query
     # Execute the searching script
 
@@ -30,13 +31,14 @@ def search():
 
     n_results = 5
     paths = [get_real_filepath(rootDir, realFileDir, file_dirs, i) for i in range(n_results)]
-    print(paths)
+    fileNames = [element[element.rfind('/')+1:] for element in paths]
+    print(fileNames)
 
-    return jsonify(paths)
+    return jsonify(fileNames)
 
 @app.route('/file/<name>')
 def static_file(name):
-    filePath, fileExtension = search_files('Marking Map & Mill Test Report SN 3268.pdf')
+    filePath, fileExtension = search_files(name)
     print(filePath)
     return send_file(filePath)
 

@@ -4,18 +4,24 @@ $("#searchForm").submit((e) => {
 
 function search() {
     console.log('Searching the database');
+    clearResults();
     document.getElementById('loading').style.display = 'block';
     let searchTerm = document.querySelector("#searchTerm").value;
     console.log(searchTerm);
     let xhr = new XMLHttpRequest();
     xhr.onreadystatechange = () => {
-        if (xhr.readyState == XMLHttpRequest.DONE) console.log(xhr.responseText);
-        document.getElementById('loading').style.display = 'none';
+        if (xhr.readyState == XMLHttpRequest.DONE) 
+        {
+            console.log(xhr.responseText);
+            document.getElementById('loading').style.display = 'none';
+            let result = JSON.parse(xhr.response);
+            console.log(xhr.responseText.length);
+            for(var i = 0;i < result.length;i++)
+                insertResultRow(result[i]);                
+        }
     };
     xhr.open('POST', 'http://localhost:5000/', true);
     xhr.send(searchTerm);
-    for(var i = 0;i < 4;i++)
-        insertResultRow('result_' + i);
 }
 
 let insertResultRow = ((data) => {
@@ -24,8 +30,7 @@ let insertResultRow = ((data) => {
         <div style="margin-top: 20px">
         <div class="card" onclick="showResult('${data}')">
             <div class="card-body">
-            <h5 class="card-title"><a href="">filename</a></h5>
-            ${data}
+            <h5 class="card-title"><a href="http://localhost:5000/file/${data}">${data}</a></h5>
             <p>File description</p>
             <p>File category</p>
             </div>
@@ -47,7 +52,7 @@ function showResult(data) {
         <div style="margin-top: 20px;">
         <div class="card">
         
-        <embed src="http://localhost:5000/file/Typenschild_3.jpg#toolbar=0" type="application/pdf" class="card-img-top" width="100%" height="600px" />
+        <embed src="http://localhost:5000/file/${data}#toolbar=0" type="application/pdf" class="card-img-top" width="100%" height="600px" />
         <div class="card-body">
             
             <h5 class="card-title">Filename</h5>
