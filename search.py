@@ -3,7 +3,7 @@ from collections import defaultdict
 import metrics
 from files import get_filtered_data
 from preprocessing import preprocess
-from fuzzywuzzy import process
+
 
 def search_query(query, filentoken2tfidf, token2files, debug=False):
     """
