@@ -31,12 +31,10 @@ def search():
     inds = [results[i] for i in range(len(results))]
 
     fileNames = [element[element.rfind('/')+1:] for element in paths]
+        
     print(fileNames)
 
     return jsonify(fileNames)
-
-
-
 
 
 @app.route('/file/<name>')
