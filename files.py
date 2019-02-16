@@ -35,3 +35,9 @@ def get_filtered_data(rootDir):
             filesFiltered.append(allFiles[ind])
 
     return (dataFiltered, filesFiltered)
+
+
+def get_filename(query_results, file_dirs, N=5):
+    '''
+    '''
+    return [file_dirs[query_results[i][1]] for i in range(N)]

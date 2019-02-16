@@ -2,7 +2,7 @@ from collections import defaultdict
 
 folder_labelmap = {'01-01_Identifikation' : ['allgemein', 'identifikation'],
                    '02-01_Technische Spezifikation' : ['technische spezifikation'],
-                   '02-02_Zeichnungen  Pl\udce4ne' : ['bauteile','technische zeichnung', 'zeichnung', 'abbildung'],
+                   '02-02_Zeichnungen  Pläne' : ['bauteile','technische zeichnung', 'zeichnung', 'abbildung'],
                    '02-03_Bauteile' : ['bauteil', 'komponente'],
                    '02-04_Zeugnisse, Zertifikate, Bescheinigungen': ['zeugnisse', 'zertifikate', 'bescheinigungen'],
                    '03-01_Montage, Demontage' : ['montage', 'demontage'], 
