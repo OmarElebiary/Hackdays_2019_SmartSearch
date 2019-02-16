@@ -26,7 +26,8 @@ def get_filtered_data(rootDir):
     for aF in allFiles:
         # with open(aF, 'r', encoding = "ISO-8859-1") as newFile:
         with open(aF, 'r', encoding="utf-8", errors='replace') as newFile:
-            data.append(newFile.read())
+            # also append filename since it could be helpful for the search
+            data.append(aF + ' ' + newFile.read())
 
     for ind, fileData in enumerate(data):
         filt = [d == '\x0c' for d in fileData]
