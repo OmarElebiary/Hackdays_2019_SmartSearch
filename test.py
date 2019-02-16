@@ -86,7 +86,7 @@ def unit_test(rootDir, testcase_path, out_file):
         else:
             # not found
             testcase_pos.append(-1)
-            testcase_pos_scored.append(-1)
+            testcase_pos_scored.append(100)
 
     # if not found, partial error 100
     error = sum(testcase_pos_scored)
