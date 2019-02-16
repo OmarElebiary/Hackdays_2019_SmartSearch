@@ -12,12 +12,15 @@ function search() {
     xhr.onreadystatechange = () => {
         if (xhr.readyState == XMLHttpRequest.DONE) 
         {
-            console.log(xhr.responseText);
             document.getElementById('loading').style.display = 'none';
             let result = JSON.parse(xhr.response);
-            console.log(xhr.responseText.length);
-            for(var i = 0;i < result.length;i++)
-                insertResultRow(result[i]);                
+            if (result.length > 0) {
+                for(var i = 0;i < result.length;i++)
+                    insertResultRow(result[i]);
+                showResult(result[0]);
+            } else {
+                showNoResults();
+            }
         }
     };
     xhr.open('POST', 'http://localhost:5000/', true);
@@ -32,7 +35,8 @@ let insertResultRow = ((data) => {
             <div class="card-body">
             <h5 class="card-title"><a href="http://localhost:5000/file/${data}">${data}</a></h5>
             <p>File description</p>
-            <p>File category</p>
+            <button class="btn btn-success card-link" onclick="showResult(${data})"><i class="fas fa-file"></i> Show file</button>
+            <a class="btn btn-primary card-link" href="http://localhost:5000/file/${data}"><i class="fas fa-file-download"></i> Download file</a>
             </div>
         </div>
     </div>`;
@@ -79,4 +83,8 @@ function fileViewGenerator(filename) {
         return `<img class="card-img-top" src="http://localhost:5000/file/${filename}" alt="image search result">`;
     }
     return htmlEle;
+}
+
+function showNoResults() {
+
 }
