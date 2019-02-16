@@ -63,3 +63,23 @@ def preprocess(data):
 
     tokens_filtered_syn = match_synms(tokens_filtered)
     return tokens_filtered_syn
+
+
+def extract_rare(tokens, dictionary):
+    def should_extract(word):
+        if token in dictionary:
+            return False
+
+        if word.isnumeric():
+            return len(word) >= 5
+        else:
+            return len(word) >= 3
+
+    rare = []
+    for token in tokens:
+        if should_extract(token):
+            rare.append(token)
+
+    return rare
+
+

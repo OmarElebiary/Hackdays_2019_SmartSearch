@@ -1,5 +1,7 @@
 # Loading the data files
+import files
 import metrics
+import preprocessing
 from files import get_filtered_data
 from preprocessing import preprocess
 from search import search_query
@@ -63,9 +65,19 @@ def unit_test(rootDir, testcase_path, out_file):
     ''''''
 
     (file_data, file_dirs) = get_filtered_data(rootDir)
+    dictionary = files.get_dictionary()
+
     tokens_filtered = preprocess(file_data)
     token2files, filentoken2occ, token2occ = metrics.get_counts(tokens_filtered)
     filentoken2tfidf = metrics.get_tfidf(tokens_filtered, token2files, filentoken2occ)
+
+    files_rare = []
+    for file_tokens in tokens_filtered:
+        rare_words = preprocessing.extract_rare(file_tokens, dictionary)
+        files_rare.append(rare_words)
+        for rw in rare_words:
+            print('{} -> {}'.format(rw, token2occ[rw]))
+
     print('Loading done.')
 
     testcases = read_testcases(testcase_path, file_dirs)
