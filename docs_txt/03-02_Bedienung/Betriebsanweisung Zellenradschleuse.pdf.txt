@@ -1,0 +1,2265 @@
+220 V 'V X3'y8LdoL
+
+RV-RVR-RVC/S
+
+m Rotary Valves
+m Zéllenradschleusen
+
+m Vannes alvéolaires
+
+ 
+
+ 
+
+ 
+
+ 
+
+®
+
+A
+
+ 
+
+TOREX®
+All the products described in this
+catalogue are manufactured ac-
+cording to TOREX S.p.A. Quality
+System procedures.
+
+The company's Quality Sys-
+tem, certified according to ISO
+9001:2008 guarantees that the
+entire production process, from
+the customer’s order to the after
+sales service, can fulfil the prod-
+uct quality standard.
+
+Alle in diesem Katalog be-
+schriebenen Erzeugnisse wer-
+den in Konformitat mit dem
+Qualitatssystem der TOREX
+S.p.A.hergestelit.
+
+Das gemaR 1SO 9001:2008 zer-
+tifizierte Qualitatssystem des
+Unternehmens gewéhrleistet,
+dass der komplette Fertigungs-
+prozess, von der Bestellung des
+Kunden bis zum Kundendienst
+dem Produkt-Qualitatsstandard
+entspricht.
+
+Tous les produits décrits dansce
+catalogue ont été réalisé selon
+les modalités opérationnelles
+définies Systéme de Qualité de
+TOREX S.p.A.
+
+Le systéme de qualité, confor-
+mément a la réglementation
+internationale 1SO 9001:2008
+est est en mesure d'assurer que
+I'ensemble du processus de pro-
+duction, a partir de la formulation
+de lacommande au service aprés
+vente, soit effectué de maniére
+contrélée a s'assurer la qualité
+du produit.
+
+Tutti i prodotti descritti in que-
+stocatalogo sono stati realizzati
+secondo modalita operative
+definite Sistema Qualita di TO-
+REX S.p.A.
+
+Il Sistema Qualita aziendale,
+in conformita con le normative
+internazionali ISO 9001:2008 &
+ingrado di assicurare che linte-
+roprocesso produttivo, dalla for-
+mulazione dell’ordine fino all'as-
+sistenza tecnica successivaalla
+consegna, venga effettuato in
+modo controllato ed adeguato a
+garantire lo standard qualitativo
+del prodotto.
+
+ 
+
+CERTIFICAT
+
+3
+=
+=
+=4
+=
+=
+—
+o=
+v}
+=]
+»
+-
+ot
+4
+=
+e
+-~
+-
+a
+w
+(&
+L 4
+
+CERTIFICATE
+
+ 
+
+ 
+
+CERTIFICATO
+
+Nr 50 100 6083 - Rev. 02
+
+St atvesta che / This 15 o certly that
+
+Il SISTEMA QUALITA Ot
+THE QUALITY SYSTEM OF
+
+TOREX S.p.A.
+SEDE LEGALE E OPERATIVA:
+VIA CANALETTO 139/A
+
+1-41030 SAN PROSPERO SULLA SECCHIA (MO}
+
+€ CONFORME A REQUIBITI DELLA NORMA
+HAS BEEN FOUND T0 COMPLY WITH THE REQUIREMENTS OF
+
+UN! EN 1SO 9001:2008
+
+Riforrs sl manusse defla qualith per eventual dettagh delio eschuson
+
+o requisit delis nama IS0 90012008
+
+Rafar to quity manusl for possiie detads of exciusions of eguraments
+
+of the narm SO 9001 2008
+
+Questo certicato @ valdo per § saguents cameao di applicasane
+This cartficate i valkd for e BOW (WOJUC! OF SBRICE FINge
+
+Progettazione e fabbricazione di componenti per il dosaggio o
+controllo di materiall solidi in polvere e granulati £ 1)
+
+Design and manufscture of components for the batching and checking
+
+of solid bulk products Ea 1
+
+For e Carfcaton Sody
+TUV tatla S.r)
+
+Rinnovo dal certificato smeaso per la rima volta n dets 2006-07-28
+
+Per [ngacamo & Codficanere Dot (3 erusaions / tssue date
+
+Dt & scadenea / Expey date
+
+2
+
+e
+
+2010-08-08
+
+2013-00-04
+
+INDEX 02.12
+INHALTSVERZEICHNIS
+
+INDEX
+INDICE TOR.184.EX.A.4L INDEX
+
+ 
+
+RV-RVR-RVC/S prex
+) 9 1OREX"
+
+ 
+
+Un B ) prvsatie CaARCal 4 BUBOIIPS & NTvIIES rCEE 3 1T % § 8 "W3ame TS A
+AN 6 gestnne dIeCaN (i (ACUOCAS TannaE
+
+The vasity o (v fresent Corvicate CagandE O fiw stiel Lavasierce every |3 marihe s ot e Comgede
+ Of Oy 3 maTagmTAt Ty e Sher thene pears
+
+ZERTIFIKAT
+
+ 
+
+10V 1k » Gruppe 10V SUD + Vie Candiees 125, Pat 23 » 20090 Sawte San Simans (M0« it
+
+ 
+
+ 
+
+ 
+
+ 
+
+Possible deviations due to modi- | Abweichungen infolge Ande-
+
+fications and/or manufacturing
+tolerances are reserved.
+
+rungen und/oder aufgrund von-
+Fertigungstoleranzen sind vor-
+behalten.
+
+Nous nous réservons des écar-
+tements éventuels diis des modi-
+fications et/ou des tolérances
+d'usinage.
+
+Ci riserviamo eventuali scosta-
+menti dovuti a modifiche e/o
+tolleranze di lavorazione.
+
+INTRODUCTION.
+USAGE LIMITS...
+MACHINE IDENTIFICATIO
+IMPORTANT INDICATIONS FOR SAFE USE OF THE MACHINE.
+ADDITIONAL MAINTENANCE INDICATIONS FOR ATEX ROTARY VALVI
+SPARE PARTS...
+
+DECLARATION OF CONFORMITY.
+
+-EINFUHRUNG............
+
+-AUSLASTUNGSGRENZEN
+IDENTIFIKATION DER MASCHINE
+WICHTIGE HINWEISE FUR DIE SICHERE VERWENDUNG DER MASCHINE.
+ZUSATZLICHE WARTUNGSANWEISUNGEN FUR ATEX ZELLENRADSCHLEUSE.
+ERSATZTEILE.
+-KONFORMITA
+
+ 
+
+ 
+ 
+
+ 
+  
+ 
+  
+ 
+
+ 
+
+ 
+ 
+ 
+
+mNonwn
+
+@ o
+
+INTRODUCTION.
+LIMITES D'EMPLO]
+DONNEES D'IDENTIFICATION MACHINE.
+INSTRUCTIONS IMPORTANTES CONCERNANT L'UTILISATION DE LAMACHINE EN TOUTE SECURITE
+INDICATIONS SUPPLEMENTAIRES POUR LENTRETIEN DES VANNES ALVEOLAIRES AT
+PIECES DETACHEES...
+DECLARATION DE CONFORMITE.
+
+-INTRODUZIONE
+LIMITI DI UTILIZZO.
+-DATI IDENTIFICAZIONE MACCHINA..
+ISTRUZIONI IMPORTANTI PER L'USO SICURO DELLA MACCHINA.
+ISTRUZIONI SUPPLEMMENTERI DI MANUTENZIONE PER ROTOVALVOLE CERTIFICATE AT
+-RICAMBI.....
+
+-DICHIARAZIONE DI CONFORMIT
+
+ 
+
+ 
+
+ 
+   
+ 
+ 
+
+  
+  
+ 
+   
+
+PN aRN S
+
+ 
+
+ 
+O
+
+TOREX®
+
+RV-RVR-RVC/S ,7ex
+
+EINFUHRUNG
+
+INTRODUCTION
+
+INTRODUCTION
+INTRODUZIONE
+
+02.12
+
+TOR.184.EX.A4L 1
+
+ 
+
+This document contains specific
+indications for “RV-RVR-RVC/S
+- X" series certified according
+to ATEX directive 94/9/EC and
+suitables for gr.ll Cat.1D/3D ¢
+T135°C.
+
+It does not contain all the in-
+formation for correct use of the
+machine. It is necessary to read
+the Operation and Maintenance
+manual for the “RV-RVR” or
+“RVS/C" rotary valves , delivered
+with the machine and available
+on our website “WAMGROUP”.
+If you did not receive it and
+you cannot access the website,
+please contact the TOREX Sales
+Department or your reference
+WAM® branch.
+
+“RV-RVR and RVS/C - X" series
+MUST NOT be considered as
+flameproof or explosion pro-
+tection devices.
+
+ORDER CODE
+
+The machine is available in
+the same configurations as the
+RV,RV,RVR, RVS/C Standard
+except for:
+
+© RVS/C size 80
+
+e RVS/C with External Supports
+
+The serial number of the machine
+is created according to the modu-
+lar key of the standard machine
+plus an “X" at the end of it.
+
+Exemple
+
+Standard Rotary Valve serial
+number: RV101010000
+
+ATEX Standard Rotary Valve
+serial number: RV101010000X
+
+Dieses Dokument enthélt spe-
+zifische Hinweise fir die Serien
+“RV-RVR-RVC/S - X" zertifiziert
+gemiR der ATEX-Richtlinie
+94/9/EC und geeignet fiir Gr.ll
+Kat.1D/3D c T135°C.
+
+Es enthalt nicht alle Informatio-
+nen beziiglich der angemesse-
+nen Verwendung der Maschine.
+Es ist notwendig das Bedie-
+nungshandbuch und Wartungs-
+handbuch fur die “RV-RVR" oder
+“RVS/C"-Zellenradschleusen,
+das mit der Maschine geliefert
+wird und auf unserer Webseite
+“WAMGROUP” verfugbar ist,
+zu lesen. Sollten Sie das Hand-
+buch nicht erhalten oder keinen
+Zugang zu der Webseite haben,
+wenden Sie sich bitte an die
+TOREX-Verkaufsabteilung oder
+an lhre WAM®-Filiale.
+
+“RV-RVR" und “RVS/C - X" Seri-
+en MUSSEN NICHT als flamm-
+sichere Gerdte oder Explosi-
+onsschutzgerite betrachtet
+werden.
+
+BESTELLKODE
+
+Die Maschine ist in denselben
+
+Configurationen wie der Standard
+
+RV,RV,RVR,RVS/C verfugbar,
+
+auler:
+
+e RVS/C Gréle 80
+
+e RVS/C mit Externen Halte-
+rungen
+
+Die Seriennummer der Maschine
+wird entsprechend der modularen
+Zeichenreihe der Standardma-
+schine, mit einem “X” am Ende,
+erstellt.
+
+Beispiel
+
+Seriennummer der Standard-
+Zellradschleuse: RV101010000
+Seriennummer der ATEX Zellrad-
+schleuse: RV101010000X
+
+Ce document contient des indica-
+tions spécifiques pour le modéle
+série "RV-RVR-RVC/S - X" cer-
+tifiée selon la directive ATEX
+94/9/CE pour gr.ll Cat.1D/3D ¢
+T135°C.
+
+Il ne contient pas toutes les infor-
+mations nécessaires pour ['utilisa-
+tion correcte de la machine. Il faut
+lire les Instructions d'utilisation
+et d’entretien des vannes alvéo-
+laires “RV-RVR" ou “RVS/C”,
+fournies avec la machine et dispo-
+nibles sur le site “WAMGROUP".
+Si vous ne l'avez pas regu et
+vous ne pouvez pas y accéder,
+nous vous prions de contacter le
+Département de Vente TOREX ou
+bien votre filiale WAM®.
+
+La série “RV-RVR et RVS/C - X"
+NE DOIT PAS étre considérée
+comme protection contre les
+explosions ou comme un arréte
+flammes.
+
+CODE COMMANDE
+
+Les possibles configurations de
+la machine sont les mémes que
+celles disponibles pour les séries
+standard RV, RV, RVR, RVS/C
+avec les exclusions suivantes:
+
+e RVS/C taille 80
+
+@ RVS/C avec supports externes
+
+Le code de la machine est compo-
+sé selon le code alphanumérique
+de la machine standard, ajoutant
+un “X" a la fin.
+
+Exemple
+
+Code vanne alvéolaire standard:
+RV101010000
+
+Code vanne alvéolaire ATEX:
+RV101010000X
+
+ 
+
+Questo documento contiene
+istruzioni specifiche concernenti le
+rotovalvole ATEX serie “RV-RVR-
+RVS/C - X" certificate secondo
+direttiva ATEX 94/9/CE per gr.ll
+cat.1D/3D ¢ T135°C.
+
+Non contiene tutte le informazioni
+per il corretto funzionamento della
+macchina. Bisogna leggere il
+Manuale di Uso e Manutenzione
+per le rotovalvole “RV-RVR” o
+“RVS/C", fornito con la macchi-
+na e disponibile sul nostro sito
+“WAMGROUP". Se non I'ha rice-
+vuto e non pud accedere al nostro
+sito, La preghiamo di contattare
+I'Ufficio Vendite TOREX o la Sua
+filiale WAM®:.
+
+Le rotovalvole serie “RV-RVR
+RVS/C - X" NON DEVONO es-
+sere considerate come dis-
+positivi di protezione contro
+le esplosioni o il passaggio di
+fiamma.
+
+CODICI DI ORDINAZIONE
+
+Le configurazioni macchina possi-
+bili sono le stesse disponibili per le
+serie RV, RV, RVR, RVS/C Stand-
+ard con le seguenti esclusioni:
+
+e RVS/C taglia 80
+
+e RVS/C con Supporti Esterni
+
+Il codice della macchina viene
+composto secondo la sigla modu-
+lare della macchina standard ag-
+giungendo una “X" alla fine.
+
+Esempio
+
+Codice Rotovalvola Standard:
+RV101010000
+
+Codice Rotovalvola ATEX:
+RV101010000X
+
+ 
+
+® - USAGE LIMITS
+
+- AUSLASTUNGSGRENZEN
+RV-RVR-RVC/S arex . LIMITES D’EMPLOI
+
+TOREX®
+
+02.12
+
+o
+
+& LIMITLOLUTILIZZO TOR.184.EXAA4L 2
+
+ 
+
+ 
+
+ 
+
+   
+
+-10+40°C
+ZONE 22
+
+ 
+
+ 
+
+ 
+
+   
+  
+      
+
+AOMOC 10+40°C
+
+ZONE 22
+
+ 
+
+ 
+ 
+
+-20+60°C
+ZONE 20
+
+ 
+
+ 
+
+ 
+
+ 
+D
+
+TOREX®
+
+USAGE LIMITS
+AUSLASTUNGSGRENZEN
+LIMITES D’EMPLOI
+
+LIMITI DI UTILIZZO
+
+RV-RVR-RVC/S ,7ex
+
+02.12
+
+TOR.184.EX.A4L 3
+
+ 
+
+ 
+
+Powders Class / Staubklassen | Classe des poudres / Classe delle polveri
+
+St1 e ST2
+
+ 
+
+Minimum ignition energy / Mindestziindenergie
+Energie minimum d'’ignition / Minima energia di accensione
+
+>3 mj
+
+ 
+
+Minimum ignition temp. / Mindestziindtemperatur
+Temp. minimale d'ignition / Minima temp.di accensione
+
+ 
+
+Ignition temperature of powder layer deposited
+
+Ziindtemperatur der abgelagerten Staubschicht
+
+Température d’inflammation de la couche de poussiére déposée
+Temperatura di accensione dello strato di polvere depositato
+
+2150
+
+ 
+
+Reactivity parameter KST (bar m/s) / Reaktivitatsparameter KST (bar m/s)
+Parametre de reactivite KST (bar m/s) / Parametro di resistivita' KST (bar m/s)
+
+<300
+
+ 
+
+Surface resistivity / Oberfldchenwiderstand | Résistivité superficielle
+Resistivita superficiale
+
+ 
+
+<1x102Q
+
+ 
+
+LIMIT FOR EFFECTIVE VERTICAL LOAD ON ROTOR Lmax
+EFFEKTIVES LIMIT VERTIKALE BELASTUNG AUF ROTOR Lmax
+LIMITE VERTICALE EFECTIVE SUR LE ROTOR Lmax
+
+LIMITE DEL CARICO VERTICALE EFFETTIVO SUL ROTORE Lmax
+
+ 
+
+RV- RVR 02 225 Kg
+
+ 
+
+RV-RVR 05 400 Kg
+
+ 
+
+RV-RVR 10 630 Kg
+
+ 
+
+RV-RVR 20 165 Kg
+
+ 
+
+ 
+
+RVS/C05 205 Kg
+
+ 
+
+RVS/C10 320 Kg
+
+ 
+
+RVS/C15 405 Kg
+
+ 
+
+RVS/C20 660 Kg
+
+ 
+
+ 
+
+ 
+
+RVS/C35 1120 Kg
+
+ 
+
+ 
+
+ 
+
+L 9N 1oREX"
+
+MACHINE IDENTIFICATION
+IDENTIFIKATION DER MASCHINE
+
+RV-RVR-RVCI/S ,:ex
+
+DONNEES D’IDENTIFICATION MACHINE
+DATI IDENTIFICAZIONE MACCHINA
+
+02.12
+
+TOR.184.EX.A4L 4
+
+ 
+
+The rotary valve can be identi-
+fied by means of the plate that
+contains the following indications:
+
+1. Machine type o series
+
+2. Year of manufacture
+
+3. Serial number
+
+4, Operator
+
+5. Group and category
+
+6. Maximum surface temperature
+
+7. EC type certificate (ATEX)
+
+8. Maximum rotor speed
+
+9. External temperature range
+
+10. Manufactorer’'s Name and
+Address
+
+Die Zellradschleuse kann durch
+den Bezeichnungsschild erkennt
+werden, der die folgenden Anga-
+ben beinhaltet:
+
+1. Maschine der Serien Typ 0
+Baujahr
+
+Seriennummer
+
+Benutzer
+
+Gruppe und Kategorie
+Maximale Oberflachentem-
+peratur
+
+7. Zertifikat Typ EC (ATEX)
+8.MaximaIeDrehzah|
+9
+1
+
+D oswN
+
+. Externer Temperaturbereich
+0. Name und Anschrift des
+Herstellers
+
+La vanne alvéolaire est identifice
+par la plaque contenant les indi-
+cations suivantes:
+
+Type et série vanne alvéolaire
+
+Année de fabrication
+
+Numéro de série
+
+Opérateur
+
+Groupe et catégorie
+
+Température maximale de
+
+surface
+
+. Certificat type CE (ATEX)
+
+Vitesse maximale du rotor
+
+9. Limites de température exté-
+rieure
+
+10. Nom et Adresse du Fabricant
+
+o o LIRS
+
+o~
+
+La rotovalvola & identificata me-
+diante la targhetta contenente le
+seguenti indicazioni:
+
+1. Tipo e serie rotovalvola
+
+. Anno di costruzione
+
+Numero matricola
+
+Operatore
+
+Gruppo e categoria
+
+. Temperatura massima super-
+
+ficiale
+
+Certificato tipo CE N. (ATEX)
+
+Velocita massima del rotore
+
+. Limiti temperatura esterna
+
+0. Nome e indirizzo del costrut-
+tore
+
+oA wN
+
+o P
+
+ 
+
+ 
+
+Type
+
+@
+
+|Year @
+
+ 
+
+Serial No. @
+
+|Op. @
+
+ 
+
+0948
+
+Tamb
+
+ 
+
+CE & P cT1adc
+0
+
+Cert.No.EX5 07 01 61456 002
+Max.Rotor spe%d: 30 rpm
+
+.-10°C / +40°C @
+
+@
+TOREX SpA
+
+Via Canaletto 139/A
+
+ 
+
+41030 S.Prospero (MO) - ITALY
+
+o
+<
+
+WAMGROUP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sicherstellen, dass das Ge-
+
+Assurez-vous que la caisse de la
+
+ 
+
+Make sure the rotary valve's hous-
+ing and the plant (or machines)
+
+héuse der Zellenradschleuse und
+
+vanne alvéolaire et les parties de
+
+ 
+
+Assicurarsi che il corpo della ro-
+tovalvola e I'impianto (oppure le
+
+ 
+
+parts connected to the valve's
+
+die Teile der Anlage (oder der
+
+l'installation (ou des machines)
+
+macchine) collegato alla valvola
+
+ 
+
+are in equipotential connection.
+
+Maschinen). die zu den Schleus-
+
+connectée a la vanne soit en
+
+siano in collegamento equipoten-
+
+ 
+
+Connect the machine electrically
+to the plant structure by means
+
+en angeschlossen sind, in Span-
+
+liaison équipotentielle. Réaliser
+
+ziale. Collegare la macchina alla
+
+ 
+
+nungsausgleichverbindung sind.
+
+la_connexion de la machine a la
+
+struttura dell'impianto mediante
+
+ 
+
+of the earthing point meant for
+
+Schliessen Sie die Maschine
+
+structure de l'installation a travers
+
+il punto di collegamento di terra
+
+ 
+
+the purpose.
+
+ 
+
+idoneo.
+
+ 
+
+elektrisch zu der Anlagestruktur
+durch die dafiir bestimmte Er-
+
+dungsstelle ab.
+
+ 
+
+la prise de terre correspondante.
+
+ 
+
+ 
+e
+
+TOREX®
+
+RV-RVR-RVC/S 7oy
+
+IMPORTANT INDICATIONS FOR SAFE USE OF THE MACHINE
+
+WICHTIGE HINWEISE FUR DIE SICHERE VERWENDUNG DER MASCHINE
+INSTRUCTIONS IMPORTANTES CONCERNANT L'UTILISATION DE LA MACHINE EN TOUTE SECURITE
+ISTRUZIONI IMPORTANTI PER L'USO SICURO DELLA MACCHINA
+
+02.12
+
+TOR.184.EX.A4L 5
+
+ 
+
+The user must make sure the
+plant in which the rotary valve
+has to be installed has been ap-
+propriately set in safe conditions
+from the point of view of risk of
+explosion before it is started up
+and that the “document regarding
+protection against explosions”
+has been prepared as envisaged
+by ATEX Directive 99/92/EC.
+Avoid accumulation of layers of
+dust on the machine surfaces
+and avoid using compressed air
+jets to clean the dust from the
+machine. Before every mainte-
+nance operation, it is important
+to make sure all the electricity
+and compressed air supplies are
+disconnected.
+
+Before opening the machine, wait
+for the dust inside it to settle down
+completely.
+
+Use only original spare parts
+supplied or recommended by
+TOREX. Check to make sure
+there are no surface overheating
+anomalies.
+
+If this happens, stop the machine
+and carry out the necessary
+checks.
+
+During operation on the machine,
+take into account the possibility
+of local formation of potentially
+combustible atmospheres. For
+any operation to be performed
+on the machine (maintenance
+and cleaning), the operators must
+use the special personal protec-
+tion devices (PPD) meant for the
+purpose, including:
+
+- Antistatic safety footwear (certi-
+fied)
+
+- Antistatic protective clothing
+(certified)
+
+- Antistatic cut-proof gloves
+
+The electrical equipment, if any,
+used for maintenance or clean-
+ing performed with the machine
+closed must be ATEX certified
+in category Il 3 D with IP 5X\6X.
+If the actions are out inside the
+machine without cleaning, the
+electrical equipment used must
+be ATEX certified in Category Il
+1D with IP6X.
+
+ 
+
+Der Benutzer hat sicherzustellen,
+dass die Anlage, in der die Zellen-
+radschleuse montiert wird, aus
+der Sicht des Explosionsrisikos
+unter sicheren Umsténden vor
+dem Anlauf entsprechend einge-
+stellt wurde und das “Dokument
+beziiglich des Schutzes gegen
+Explosion” gemaR der ATEX-
+Richtlinie 99/92/EG vorbereitet
+wurde.
+
+Vermeiden Sie die Ablagerung
+von Staubschichten auf den
+Maschinenflachen und die Be-
+nut zung von Druckluft fir die
+Staubabreinigung. Vor jeder
+Wartung ist es wichtig sicherzu-
+stellen, dass sémtliche Strom-
+und Druckluftversorgungen ab-
+geschaltet sind.
+
+Bevor Sie die Maschine &ffnen,
+warten Sie, dass sich der Staub
+im Inneren der Maschine vollstan-
+dig absetzen kann.
+
+Benutzen Sie nur die Original-
+Ersatzteile, die von TOREX
+geliefert oder empfohlen werden.
+Uberpriifen Sie, dass keine Fla-
+chen Uberhitzt sind.
+
+Sollte dies der Fall sein, stoppen
+Sie die Maschine und fithren Sie
+die notwendigen Uberpriifungen
+durch.
+
+Wahrend der Maschinenbedie-
+nung beriicksichtigen Sie, dass
+die lokale Bildung von poten-
+ziell brennbarer Atmosphére
+mdglich ist.
+
+Fur jede Arbeit an der Maschine
+(Wartung und Abreinigung), mis-
+sen die Benutzer die spezielle
+persoénliche Schutzausristung
+(PPD), die diesem Zweck dient,
+tragen:
+
+- Antistatische Sicherheitsschuhe
+(zertifiziert)
+
+- Antistatische Schutzkleidung
+(zerifiziert)
+
+- Antistatische schnittfeste Hand-
+schuhe
+
+Die elektrische Ausstattung, falls
+vorhanden, die fur die Wartung
+oder Abreinigung der geschlos-
+senen Maschine verwendet wird,
+muss ATEX-zertifiziert in Katego-
+rie 11 3 D mit [P 5X\6X sein.
+Sollten die Arbeitsgdnge ohne
+Abreinigung auferhalb des In-
+neren der Maschine durchgefiihrt
+werden, muss die elektrische
+Ausstattung ATEX-zertifiziert in
+Kategorie Il 1D mit IP6X sein.
+
+L'utilisateur doit s’assurer que
+I'équipement sur lequel la vanne
+alvéolaire a été installée, a été
+monté en conditions de toute
+sécurité du point de vue di risque
+d’explosion avant de le mettre
+en service et que le « document
+concernant la protection contre
+les explosions » a été élaboré
+selon les dispositions de la Di-
+rective ATEX 99/92/EC. Evitez
+I'accumulation des couches de
+poussiére sur les surfaces de la
+machine et évitez |'utilisation des
+jets d’air comprimé a fin d’enlever
+la poussiére de la machine.
+Avant d'effectuer toute opération
+d’entretien, il est important de
+s'assurer que tous les raccords
+électriques et d’air comprimé ont
+été débranchés. Avant d’ouvrir
+la machine, attendez jusqu'a la
+poussiére a l'intérieure soit com-
+plétement déposée. N'utilisez
+que des piéces de rechange
+originales ou recommandées
+par TOREX Vérifiez bien pour
+qu’il n'y ait pas d'anomalies
+de surchauffe des surfaces. Si
+cela arrive, arrétez la machine
+et faites les vérifications néces-
+saires. Pendant les opérations
+déroulées sur la machine, prenez
+en considération la possibilité
+de formation des atmosphéres
+potentiellement explosives. com-
+bustible atmospheres.
+
+Pour les opérations a effectuer
+sur la machine (entretien et net-
+toyage), les opérateurs doivent
+utiliser les équipements spéciaux
+de protection individuelle (EPI)
+prévus, qui comprend :
+
+- Chaussures de sécurité antista-
+tiques (certifiées)
+
+- Vétements de protection antista-
+tiques (certifiés)
+
+- Gants anti-coupure antista-
+tiques
+
+L'appareillage électrique utilisé
+pour les interventions d’entretien
+ou de nettoyage de la machine
+fermée, doit étre certifié ATEX
+de catégorie 113 D a IP 5X\6X.
+Si les interventions sont effec-
+tuées a l'intérieur de la machine
+sans nettoyage préalable, les
+appareillages électriques utilisés
+devront étre certifiés ATEX de
+catégorie Il 1D a IP6X.
+
+ 
+
+L'utilizzatore deve assicurarsi
+che I'impianto sul quale viene
+installata la rotovalvola sia stato
+messo in sicurezza dal punto di
+vista del rischio di esplosione
+prima avviarlo e che il “docu-
+mento concernente la protezione
+contro le esplosioni” & stato
+elaborato come previsto dalla
+Direttiva ATEX 99/92/EC.
+Evitare I'accumulo di strati di
+polvere sulla superficie della
+macchina ed evitare I'uso di
+aria compressa per la pulizia
+della macchina. Prima di eseguire
+qualsiasi intervento di manutenzi-
+one, & importante assicurarsi che
+l'alimentazione elettrica e quella
+con aria compressa sono state
+scollegate.
+
+Prima di aprire la macchina, at-
+tendere che la polvere contenuta
+al suo interno sia completamente
+depositata.
+
+Utilizzare solo pezzi di ricambio
+originali forniti o raccomandati
+dalla TOREX.
+
+Verificare e assicurarsi che non
+ci siano anomalie di surriscalda-
+mento della superficie.
+
+Nel caso, arrestare la macchina
+e procedere alle verifiche neces-
+sarie.
+
+Durante gli interventi sulla mac-
+china, prendere in considerazi-
+one la possibilita di formazione
+di atmosfere potenzialmente
+esplosive.
+
+Per qualsiasi intervento da es-
+eguire sulla macchina (manuten-
+zione e pulizia), gli operatori
+devono utilizzare idonei dis-
+positivi di protezione individuale
+(DPI), inclusi:
+
+- Scarpe antinfortunistiche anti-
+statiche (certificate)
+
+- Indumenti protettivi antistatici
+(certificati)
+
+- Guanti antitaglio antistatici
+L'apparecchiatura elettrica, se
+presente, utilizzata per la ma-
+nutenzione o per la pulizia es-
+eguita con macchina fermata
+deve essere certificata ATEX
+nella categoria Il 3 D con IP
+5X\6X.
+
+Se gli interventi sono eseguiti
+all'interno della macchina senza
+pulirla, I'apparecchiatura elettrica
+utilizzata deve essere certificata
+ATEX nella categoria Il 1D con
+IP6X.
+
+O
+
+TOREX®
+
+RV-RVR-RVC/S rex
+
+ADDITIONAL MAINTENANCE INDICATIONS FOR ATEX ROTARY VALVE
+ZUSATZLICHE WARTUNGSANWEISUNGEN FUR ATEX ZELLENRADSCHLEUSE
+INDICATIONS SUPPLEMENTAIRES POUR L'ENTRETIEN DES VANNES ALVEOLAIRES ATEX
+
+ISTRUZIONI SUPPLEMMENTERI DI MANUTENZIONE PER ROTOVALVOLE CERTIFICATEATEX T 184 EX A4L 6
+
+02.12
+
+ 
+
+Further to those indicated in RV/
+RVR and RVS/C Maintenance
+manual, the following operations
+are necessary for rotary valve
+ATEX certified 94/9/CE.
+
+PERIODIC MAINTENANCE
+
+Follow the maintenance schedule
+given below for replacement of
+the bearings:
+
+Zusatlich zu den im RV/RVR
+und RVS/C Wartungshandbuch
+angegebenen Arbeiten, sind die
+folgenden Arbeiten fir die Zel-
+lenradschleuse ATEX zertifiziert
+94/9/CE notwendig.
+
+REGELMASSIGE WARTUNG
+
+Fur den Austausch der Lager,
+befolgen Sie den unten angege-
+benen Wartungsplan:
+
+Outre les opérations indiquées
+dans le manuel RV/RVR et RVS/C
+sont aussi requises les vérifica-
+tions suivantes pour les vannes
+certifiées selon ATEX 94/9/CE.
+
+ENTRETIEN PERIODIQUE
+
+Il est recommandé de remplacer
+les paliers selon le tableau ci-
+dessous:
+
+Oltre alle operazioni indicate
+sul manuale RV/RVR e RVS/C
+sono necessari anche i seguenti
+controlli per le valvole certificate
+secondo ATEX 94/9/CE.
+
+MANUTENZIONE PERIODICA
+
+Si raccomanda di sostituire i cus-
+cinetti seguendo la tabella sotto
+riportata:
+
+ 
+
+Type - Typ - Type - Tipo
+
+ 
+
+Configuration - Configuration - Configuration -
+
+Configurazione
+
+Bearings maintenance table - Lager Wartungstabelle - Tableau d’entretien des roulements - Tabella manutenzione cuscinetti
+
+Recommended maintenance interval - Empfohlmes Wartungsintervall
+- Intervalle d’entretien conseille - Intervallo di manutenzione consigliato
+(hours - h - heures - ore)
+
+ 
+
+ 
+
+30 rpm
+
+20 rpm
+
+ 
+
+10 rpm
+
+ 
+
+RV/RVR
+02-05-10-20
+
+Direct drive unit - Direkter Antrieb - Motorisa-
+tion directe - Motorizzazione diretta
+
+Chain drive - Kettenantrieb - Motorisation par
+chaine - Motorizzazione a catena
+
+9000
+
+ 
+
+RVS/C 05-10-15-20-35
+
+Direct drive unit - Direkter Antrieb - Motorisa-
+tion directe - Motorizzazione diretta
+
+9000
+
+ 
+
+RVS/C 05-10-20
+RVSIC 15
+RVS/C 35
+
+Chain drive - Kettenantrieb - Motorisation par
+chaine - Motorizzazione a catena
+
+9000
+
+ 
+
+7000 |
+
+9000
+
+ 
+
+ 
+
+5000 |
+
+7500
+
+9000
+
+ 
+
+ 
+
+ 
+
+SPARE PARTS
+
+ 
+
+For replacement parts refer to the
+manual valve RV-RVR and RVS/C
+specifying the serial number of the
+machine.
+
+See the following table for motors
+and gearboxes of direct driven
+rotary valves:
+
+ 
+
+| ERSATZTEILE
+
+RVC/S
+
+ 
+
+Fur Ersatzteile nehmen Sie
+Bezug auf das Handbuch der
+Schleuse RV-RVR und RVS/C,
+indem man die Seriennummer
+der Maschine angibt.
+
+Siehe die untere Tabelle fiir Mo-
+toren und Untersetzungsgetriebe
+der direkt angetriebenen Zellrad-
+schleusen:
+
+| PIECES DETACHEES
+
+ 
+
+ 
+
+| RICAMBI
+
+ 
+
+Pour les piéces détachées de la
+vanne voir le manuel RV-RVR et
+RVS/C en spécifiant le numéro de
+série de la machine.
+
+Pour les moteurs et les réducteurs
+des vannes avec entrainement
+direct, voir le tableau ci-dessous:
+
+ 
+
+ 
+
+Per i componenti di ricambio
+della valvola fare riferimento al
+manuale RV-RVR ed RVS/C
+specificando il numero di serie
+della macchina.
+
+Per motori e riduttori di rotovalvole
+con motorizzazione diretta vedere
+tabella seguente:
+
+ 
+@
+'
+
+SPARE PARTS 02.12
+ERSATZTEILE
+
+PIECES DETACHEES
+RICAMBI
+
+RV-RVR-RVC/S ,7ex
+L 9N ToREX"
+
+TOR.184.EX.A4L 7
+
+ 
+
+Code RV-RVR - Code RV-RVR - Code RV-RVR - Codici RV-RVR
+
+ 
+
+Gear unit - Variator -
+Untersetzungsgetriebe - Motor - Mofor - Drehzahiregler -
+R - Moteur - Motore (2) : 2
+educteur — Riduttore (1) Variateur - Variatore
+
+10 rpm 7202MOX400 572742200000
+20 rpm 573863200000
+30 rppm 7202MOX100 573843200000
+M 572742200000
+10 rpm 7202MOX400 572742200000
+RV—RVR 05 20 rpm 7202100 573863200000
+30 rpm 574843200000
+
+M 572742200000
+10 rpm 7202MOX500 573842200000
+RV—RVR A0 20 rpm T202MOX120 574963200000
+30 rpm 575943200000
+
+VM 574842200000
+
+10 rpm 7202MOX500 574842200000
+RV— RVR 20 20 rpm 7202MOK120 575963200000
+30 rppm 576943200000
+
+VM 574842200000
+
+Type - Typ - Type - Tipo
+
+ 
+
+RV —-RVR 02
+
+ 
+
+ 
+
+ 
+
+ 
+
+8202MOX730
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8202MOX730
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8202MOX760
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8202MOX760
+
+ 
+
+Code RVS/C - Code RVS/C - Code RVS/C - Codici RVS/C
+
+ 
+
+Gear unit - T Variator -
+Untersetzungsgetriebe - M:::::r"- 'MAZ‘:;‘:; '(2) Drehzahlregler -
+
+Reducteur — Riduttore (1) Variateur - Variatore
+10 rpm 7202MOX400 572742200000
+RVS/C 05 20 rpm 7202MOX100 573863200000
+30 rpm 573843200000
+
+VM 572742200000
+
+10 rpm 7202MOX400 572742200000
+RVS/C 10 20 rpm 573863200000
+
+30 rpm 7202MOX100 574843200000
+
+VM | 572742200000
+10 rpm 7202MOX500 573842200000
+
+RVS/C 15 20 rpm 574963200000
+30 rpm
+
+Type - Typ - Type - Tipo
+
+ 
+
+ 
+
+ 
+
+ 
+
+8202MOX730
+
+ 
+
+ 
+
+ 
+
+ 
+
+8202MOX730
+
+ 
+
+ 
+
+7202MOX120 575943200000
+
+VM 574842200000
+10 rpm 7202MOX500 574842200000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RVS/C 20 20 rpm OMOX120 575963200000
+30 rpm 7 576943200000
+
+VM 574842200000
+10 rpm 7202BOX400 575942200000
+RVS/C 35 20 rpm 7202B0OX200 576A62200000
+30 rpm 7202MOX610 577A42200000
+
+VM - - -
+
+ 
+
+ 
+
+8202MOX760
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For other configurations please | Fiir andere Configurationen wen- | Pour des configurations diffé- | Per altre configurazioni contattare
+contact Torex or your local WAM | den Sie sich bitte an Torex oder | rentes, veuillez contacter Torex | Torex o filiale WAM di riferimento.
+subsidiary. an ihre lokale WAM Niederlas- | ou votre filiale locale WAM.
+
+sung.
+
+ 
+
+8202MOX760 -
+
+@
+
+@
+'
+
+DECLARATION OF CONFORMITY 02.12
+KONFORMITATSERKLARUNG
+DECLARATION DE CONFORMITE
+DICHIARAZIONE DI CONFORMITA’
+
+RV-RVR-RVC/S gy
+29N ToREx:
+
+TOR.184.EX.A4L 8
+
+29N Torex: &5 oo
+
+The manufacturer:
+
+TOREX S.p.A.
+
+located in
+Via Canaletto ,139/A - 41030 (Mo) - Italy
+
+under its own responsibility declares that:
+the rotary valves type RV-RVR-RVS/C - X
+Declaration Of Incorporation Of Partly Completed Machinery Annex Il B 2006/42/CE Directive
+
+comply with the RES Directive 2006/42/EC
+of the European Parliament and the Council of 17 May 2006 on machinery
+
+Definitions
+
+Principles of safety integration
+
+Materials and products
+
+. - Design of machinery to facilitate its handling
+- Risk of loss of stability
+
+- Risk of break-up during operation
+
+1.5.6. - Fire
+1
+1
+1
+1
+- Risks due to falling or ejected objects 1
+1
+1
+1
+1
+1
+1
+
+.5.7. - Explosion
+
+.5.8. - Noise
+
+.5.9. - Vibrations
+
+.5.13. - Emissions of hazardous materials and substances
+.5.15. - Risk of slipping, tripping or falling
+
+6.1 - Machinery maintenance
+
+6.2 - Access to operating positions and servicing points
+6
+
+181!
+
+T
+
+e
+
+T
+
+- Risks due to surfaces, edges or angles
+4. - Operator intervention
+
+5. - Cleaning of internal parts
+
+1. - Information and warnings on the machinery
+2. - Warning of residual risks
+
+4. - Instructions
+
+ 
+
+They comply with the Directive 94/9/EC 23 March 1994 (ATEX)
+
+CE€E& 110D CcTI35°C
+
+Goa5
+
+Cert.No. EX5 07 01 61456 002
+
+Ambient temperature -10°C / +40°C; Process temperature -20°C / +60°C
+Maximum rotor speed: 30 rpm
+mie > 3mJ
+
+and, where applicable, the requirements imposed by the following EC Directives
+
+Directive 2004/108/EC of the European Parliament and the Council of 15 December 2004 on the approximation of the laws
+of the Member States relating to electromagnetic compatibility.
+
+Directive 2006/95/EC of the European Parliament and the Council of 12 December 2006 on the approximation of the laws
+of the Member States relating to electrical equipment designed for use within certain voltage limits.
+
+The relevant technical documentation is compiled in accordance with Annex Vil B
+of the Machinery Directive 2006/42/EC
+Harmonized standards, national standards and technical regulations in question:
+EN ISO 12100: 2010
+
+The signing company is committed to provide, in response to a reasoned request by national authorities, relevant informa-
+tion on products covered by this declaration, without prejudice to the rights of intellectual property of the manufacturer. The
+information will be transmitted directly to the national authorities having requested.
+
+ 
+
+It's forbidden to operate all these products before the machine, in which they will be installed, is declared in con-
+formity with 2006/42/EEC AND SUBSEQUENT AMENDMENTS
+
+Via Canaletto, 139/A - 41030 — S.Prospero (Mo) - Italy, 9/1/2012
+
+The person authorized to provide
+the technical documentation:
+Nino Ratti
+
+The legal representative:
+
+Nino Ratti
+
+4'5 /)
+
+1
+!\'/' b \.J? ;/\’/’, \\'57
+{
+TOREX S.p.A. Via Canaletto, 139/A - 41030 — S.Prospero (Mo) - ltaly
+
+ 
+®
+.
+
+DECLARATION OF CONFORMITY 02.12
+KONFORMITATSERKLARUNG
+DECLARATION DE CONFORMITE
+DICHIARAZIONE DI CONFORMITA’
+
+RV-RVR-RVC/S ,:ex
+) 98 ToREX"
+
+TOR.184.EX.A4L 9
+
+)98 1oREXC
+
+s 0‘
+%% WAMGROUP
+
+0’0
+
+Der Hersteller:
+
+TOREX S.p.A.
+Via Canaletto ,139/A -41030 (Mo) - Italy
+erklért unter eigener Verantwortung wie folgt:
+Zellradschleusen Typ RV-RVR-RVS/C - X
+EINBAUERKLARUNG fiir unvolistdndige Maschinen gem. Anhang Il B der MRL 2006/42/EG
+
+Diese Produkte entsprechen den Anforderungen der Maschinenrichtlinie 2006/42/EG
+des européischen Parlamentes und des Rates vom 17. Mai 2006
+
+- Begriffsbestimmungen
+- Grundsétze fir die Integration der Sicherheit
+- Materialien und Produkie
+
+1.5.7. - Explosion
+1
+1
+- Konstruktion der Maschine im Hinblick auf die Hanhabung 1
+1
+1
+1
+
+.8. - Larm
+9. - Vibrationen
+3. - Emission geféhrlicher Werkstoffe und Substanzen
+5. - Ausrutsch-, Stolper- und Sturzrisiko
+- Wartung der Maschine
+- Zugang zu den Bedienungssténden und den Eingriffspunkten fiir die
+Instandhaltung
+
+1
+- Risiko des Verlustes der Standsicherheit 1
+2. -
+4. - Eingriffe des Bedienungspersonals
+5. -
+1.
+2.
+A
+
+- Bruchrisiko beim Betrieb
+- Risiken durch herabfallende oder herausgeschleuderte Gegenstéande
+- Risiken durch Oberflachen, Kanten und Ecken
+
+  
+
+ 
+
+- Risiken durch bewegliche Teile
+.8. - Wahl der Schutzeinrichtungen gegen Risiken durch bewegliche Teile
+
+1
+
+1 - Reinigen innen liegender Maschinenteile
+.9. - Risiko unkontrollierter Bewegungen %
+
+1
+
+.
+
+- Informationen und Warnhinweise an der Maschine
+- Warnung vor Restrisiken
+- Betriebsanleitung
+
+.4. - Montagefehler
+.5. - Extreme Temperaturen
+6. - Brand
+
+Des weiteren sind die Geréte konform mit: 94/9/CE vom 23. Mérz 1994 (ATEX Richtlinie)
+
+CE€E 111D3D cT135°C
+
+Zert.Nr. EX5 07 01 61456 002
+
+Umgebungstemperatur -10°C / +40°C; Prozesstemperatur -20°C / +60°C
+Maximale Rotordrehzahl: 30 m
+mie >3mJ
+
+Wo anwendbar wurden die Anforderungen folgender EG Richtlinien erfiillt
+
+Richtlinie 2004/108/EG des Européischen Parlaments und des Rates vom 15. Dezember 2004 zur Angleichung der Re-
+chtsvorschriften der Mitgliedstaaten tiber die elektromagnetische Vertraglichkeit.
+
+Richtlinie 2006/95/EG des Europdischen Parlaments und des Rates vom 12. Dezember 2006 zur Angleichung der Rechts-
+vorschriften der Mitgliedstaaten betreffend elektrische Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen.
+
+Die speziellen technischen Unterlagen gem. Anhang VII B der MRL 2006/42/EG wurden erstellt.
+Folgende harmonisierte Normen, nationale Normen und technische Vorschriften fanden Anwendung:
+EN ISO 12100: 2010
+
+Das ausstellende Unternehmen ist verpflichtet, die technischen Unterlagen fiir diese Produkte auf begriindetes Verlangen
+den Marktaufsichtsbehdrden, unbeschadet der Rechte am geistigen Eigentum des Herstellers, zur Verfiigung zu stellen.
+Die Unterlagen werden direkt an die anfordernde Behérde gesandt.
+
+ 
+
+Es ist verboten diese Produkte in Betrieb zu nehmen, bevor die Maschine, in welche diese eingebaut werden, den
+Anforderungen der MRL entspricht und die EG Konformitétserklarung gem. MRL 2006/42/EG und nachfolgenden
+Anderungen vorliegt.
+
+Via Canaletto, 139/A - 41030 — S.Prospero (Mo) - Italy, 9/1/2012
+
+Bevollmachtigter fir die Zusammenstellung
+der relevanten Technischen Unterlagen:
+Nino Ratti . Nino Ratti
+
+M~ I
+
+i {
+TOREX S.p.A. Via Canaletto, 139/A — 41030 — S.Prospero (Mo) - Italy
+
+Fur den Hersteller:
+
+ 
+
+ 
+
+®
+'
+
+DECLARATION OF CONFORMITY 02.12
+KONFORMITATSERKLARUNG
+DECLARATION DE CONFORMITE
+DICHIARAZIONE DI CONFORMITA’
+
+RV-RVR-RVC/S ,:ex
+) 9N ToREX"
+
+TOR.184.EX.A4L 10
+
+ 
+
+() TOREX® ":‘:‘:‘: WAMGROUP
+
+Le fabricant:
+
+TOREX S.p.A.
+
+son siége social &
+Via Canaletto ,139/A - 41030 (Mo) - Italy
+
+déclare sous sa propre responsabilité que
+les vannes alvéolaires type RV-RVR-RVS/C - X
+Déclaration d’Incorporation des machines partiellement construites - Directive 2006/42/CE Annexe Il B
+
+sont en conformité avec la Directive RES 2006/42/EC
+du Parlement Européen et du conseil du 17 mai 2006 sur les machines
+
+- Definitions
+
+- Principes d'intégration en sécurité
+
+— Matériels et produits
+
+— Conception des machines pour faciliter leur manipulation
+.3.1. — Risque de perte de stabilite
+
+.3.2. - Risque de casse pendant fonctionnement
+
+1.5.6. — Feu
+1.5
+1.5,
+1.5
+1.5
+1.8
+— Risques causés par la chute ou I'éjection d'objets 1.6.
+1.6.
+1.6,
+1.6.
+1.7:
+1.7
+17
+
+7. — Explosion
+8. — Bruit
+9. - Vibrations
+3 - Emission de matiéres et substances dangereuses
+5. — Risque de glisser, trébucher ou tomber
+— Maintenance des machines
+
+1
+1
+1
+— Risques liés aux surfaces, aux bords et aux angles 2. —Acceés aux postes de travail et aux points d'intervention
+5. —
+1.—
+2.
+
+— Risques liés aux piéces en mouvement
+
+— Choix de protection contre les risques résultant de piéces mobiles
+— Risques de mouvements non désirés
+
+— Erreurs de montage
+
+— Températures extrémes
+
+— Intervention de I'opérateur
+
+— Nettoyage des parties internes
+
+Informations et avertissements sur la machine
+— Avertissements sur les risques résiduels
+
+4. — Notices de fonctionnement
+
+Elles sont également conformes a la directive: 94/9/CE du 23 Mars 1994 (directive ATEX)
+
+CEE 111D3D cT135°C
+
+o4
+
+Cert.No. EX5 07 01 61456 002
+
+La température ambiante -10°C / +40°C; Température du processus -20°C / +60°C
+Vitesse maximale du rotor: 30 tr/min
+mie >3mJ
+
+ 
+
+et, quand applicable, avec les exigences imposées par les directives européennes suivantes
+
+La Directive 2004/108/CE du Parlement européen et du Conseil du 15 Décembre 2004 sur le rapprochement des législa-
+tions des Etats membres concernant la compatlblhte électromagnétique.
+
+La Directive 2006/95/CE du Parlement européen et du Conseil du 12 Décembre 2006 sur le rapprochement des législations
+des Etats membres concernant le matériel électrique destiné & étre employé dans certaines limites de tension.
+
+La documentation technique appropriée est constituée conformément a I’lannexe
+VII B de la Directive Machines 2006/42/CE
+Les normes harmonisées, les normes et régles techniques nationales en question:
+EN ISO 12100: 2010
+
+La société signataire s'engage & fournir, en réponse & une demande motivée par les autorités nationales, toute informa-
+tion sur les produits couverts par cette déclaration, sans préjudice des droits de propriété intellectuelle du fabricant. Les
+informations seront transmises directement aux autorités nationales demanderesses.
+
+ 
+
+Il est interdit d’utiliser tous ces produits avant que la machine, dans laquelle ils seront installés, soit déclarée
+conforme a la Directive 2006/42/CEE et ses amendements successifs.
+
+Via Canaletto, 139/A - 41030 — S.Prospero (Mo) - ltaly, 9/1/2012
+
+La personne autorisée a fournir
+la documentation technique:
+
+Nino Ratti Nino Ratti
+A \ﬁ) A
+P U~
+i
+TOREX S.p.A. Via Canaletto, 139/A — 41030 — S.Prospero (Mo) - Italy
+
+Le représentant légal:
+® - DECLARATION OF CONFORMITY 02.12
+- KONFORMITATSERKLARUNG
+DECLARATION DE CONFORMITE
+
+( RV-RVR-RVC/S ey
+) TOREX® - DICHIARAZIONE DI CONFORMITA’
+
+TOR.184.EX.A4L 11
+
+ 
+
+4
+b
+
+>
+
+.
+
+24N Torex:
+
+%,
+
+»
+
+9,
+
+& WAMGROUP
+
+Il sottoscritto fabbricante:
+
+TOREX S.p.A.
+
+con sede legale in
+Via Canaletto ,139/A - 41030 (Mo) - Italy
+
+dichiara sotto la propria responsabilita che:
+le quasi macchine serie RV-RVR-RVS/C - X
+ai sensi dell’Allegato Il B della Direttiva Macchine 2006/42/CE (DICHIARAZIONE DI INCORPORAZIONE)
+
+risultano conformi ai RES della Direttiva 2006/42/CE
+del Parlamento Europeo e del Consiglio del 17 maggio 2006 relativa alle macchine
+
+- Definizioni 157. - Esplosione
+
+- Principi di integrazione della sicurezza 1.5.8. - Rumore
+
+- Materiali e prodotti 1.5.9. - Vibrazioni
+
+- Progettazione della macchina ai fini della movimentazione 1.5.13. - Emissioni di materie e sostanze pericolose
+- Rischio di perdita di stabilita 1.5.15. - Rischio di scivolamento, inciampo o caduta
+- Rischio di rottura durante il funzionamento 1.6.1. - Manutenzione della macchina
+
+- Rischi dovuti alla caduta o alla proiezione di oggetti 1.6.2. - Accesso ai posti di lavoro e ai punti d'intervento utilizzati per la ma-
+- Rischi dovuti a superfici, spigoli ed angoli nutenzione
+
+- Rischi dovuti agli elementi mobili 16.4. - Intervento dell'operatore
+
+- Scelta di una protezione contro i rischi dovuti agli elementi mobili 1.6.5. - Pulitura delle parti interne
+
+- Rischi di movimenti incontrollati 1.7.1. - Informazioni e avvertenze sulla macchina
+. Avvertenze in merito ai rischi residui
+1.7.4. - Istruzioni
+
+    
+
+- Errori di montaggio
+- Temperature estreme
+- Incendio
+
+Risultano inoltre conformi alla direttiva : 94/9/CE 23 Marzo 1994 (direttiva ATEX)
+
+C€E 111D/3D c T135°C
+
+0048
+
+N° cert. EX5 07 01 61456 002
+
+Temperatura ambiente -10°C / +40°C; Temperatura processo -20°C / +60°C
+Massima velocita rotore: 30 rpm
+mie > 3mJ
+
+1941,
+1.1.2.
+1:4:3. 5.
+1.1.6. 5
+1.3.1. 5
+1.3.2. 6.
+1.33. 6.
+1.3.4.
+
+1:3:7; 6.
+1.3.8. 6.
+1.3.9. 7
+1.54. T
+1.5.5. 7:
+1.5.6.
+
+e, qualora applicabili, alle esigenze imposte dalle seguenti Direttive Comunitarie
+
+Direttiva 2004/108/CE del Parlamento Europeo e del Consiglio del 15 dicembre 2004 concernente il riavvicinamento
+delle legislazioni degli Stati membri relative alla compatibilita elettromagnetica.
+
+Direttiva 2006/95/CE del Parlamento Europeo e del Consiglio del 12 dicembre 2006 concernente il riavvicinamento delle
+legislazioni degli Stati membri relative al materiale elettrico destinato ad essere adoperato entro taluni limiti di tensione.
+
+La documentazione tecnica pertinente & stata compilata in conformita dell’Allegato VIl B
+della Direttiva Macchine 2006/42/CE
+Norme armonizzate, norme nazionali e regole tecniche considerate:
+UNI EN ISO 12100: 2010
+
+L'azienda firmataria della presente si impegna a trasmettere, in risposta a una richiesta adeguatamente motivata delle
+autorita nazionali, informazioni pertinenti sui prodotti oggetto della presente dichiarazione, fatti salvi i diritti di proprieta
+intellettuale del fabbricante. Le informazioni verranno trasmesse direttamente all’autorita nazionale che le ha richieste.
+
+ 
+
+AVVERTENZA IMPORTANTE. E’ vietato mettere in servizio la quasi macchina oggetto della presente dichiarazione
+finché la macchina finale in cui deve essere incorporata non @ stata dichiarata conforme, se del caso, alle dispo-
+sizioni della Direttiva Macchine 2006/42/CE
+
+Via Canaletto, 139/A - 41030 — S.Prospero (Mo) - Italy, 9/1/2012
+
+La persona autorizzata Il rappresentante legale:
+a costituire il fascicolo tecnico:
+
+Nino Ratti . Nino Ratti
+
+{ {
+TOREX S.p.A. Via Canaletto, 139/A - 41030 — S.Prospero (Mo) - Italy
+
+ 
+

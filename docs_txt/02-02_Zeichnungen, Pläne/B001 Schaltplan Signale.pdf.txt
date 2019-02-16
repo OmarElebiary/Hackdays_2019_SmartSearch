@@ -1,0 +1,181 @@
+: 0 . . | : . s | : - % T . ]
+
+24VDC =
+
+ 
+
+ 
+
+170.8/ 4P24 —»— VT
+
+—4P24 / 172.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+VR A z o %o [
+
+-171W1
+
+7x1,5mm? '__l I_ l—
+
+Az T T AL A T T L T 7777 A i;“%g‘x&1
+|
+
+ 
+
+2
+6pol. Harting | * il .
+
+*mOE:::f::F::::::{::Z::Zi::::::q:::::ﬁ:
+
+=+/4.4
+
+—|
+|
+|
+
+Absackanlage 1 l + |
+
+X3 f1 }2 3 {4 5 6 7 8 PE :
+|
+I
+|
+|
+I
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 27 28
+-30A3 -30A3
+/40.5 /40.5
+E2.5 E2.6
+-X200-K6:34 -X200-K3:34
+
+RM von Sackbefiillung 1 RM von Sackbefiillung 1
+Stérung Dosierung Grob
+
+ 
+
+    
+    
+  
+    
+
+ 
+
+-30A3
+/40.5
+E2.3
+
+-X200-K5:34
+
+RM von Sackbefiillung 1
+Betriebsbereit
+
+ 
+
+ 
+
+ 
+
+      
+  
+
+    
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+-X200-K4:34
+RM von Sackbefiillung 1
+Dosierung gesamt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+171.8/ L- —>—
+Signalaustausch mit
+
+Absackanlage 1
+
+-Eearb
+Gepr
+Anderung Datum Name Urspr
+
+Pulveranlage P20
+
+ 
+
+73\ Maintenance
+?3'/ Stidwest
+
+ 
+
+ 
+
+—> -/ 171.0
+
+172
+
+     
+   
+  
+
+ 
+ 
+
+   
+
+ 
+
+Signale von u. zu Absackanlage 1
+
+‘Auftragsnummer
+
+1049484
+
+    
+ 
+
+ 
+
+  
+

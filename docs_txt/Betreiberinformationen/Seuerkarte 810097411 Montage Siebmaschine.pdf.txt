@@ -1,0 +1,258 @@
+T Mocart 2412
+
+Steuerkarte MORASTC Original
+26.10.2011 Seite 1 / 1
+
+Auftrag 810097411 DORTRI AN
+
+Montage der Siebmaschine in der Pulveran
+
+Kundenbestellnr. Hr. Lob
+Starttermin 26.10.2011 Endtermin 30.12.2011
+Prioritat
+Status FREI KGES KKMP VOKL
+Technischer Platz 07024650 P20_R235_Pulveranlage
+Equipment
+Baugruppe
+Standort
+IH-Planergruppe HM1 HN Mechanik IH-Werk HI70
+V.Arbeitsplatz 773-51 HI70 Industriemechaniker
+Wartungsplan Wart.planPos
+Auftraggeber 44653 Miinzing Chemie GmbH
+
+Salzstr.
+
+74076 Heilbronn
+V.Gruppe Krawczyk
+
+Montage der Siebmaschine in der Pulveranlage zur Aufarbeitung von
+Pulverprodukten
+
+:: Aufstellung E3 tber Mannlach Mischer 1
+
+:: Einfiillung Pulver Gber Trichter (alter Trichter PO5)
+
+Abnahmeerklarung
+
+Nach erfolgreich durchgefiihrter Priifung, die ergeben hat, dass die/das von der
+BIS Maintenance Siidwest GmbH erstellte Maschine/Maschinenteil bzw. die erbrachte Leistung in allen wesentlichen Punkten die
+vertraglich vorgesehenen Anforderungen erfillt, erklart der Auftraggeber,
+
+dass die BIS Maintenance Stidwest GmbH mit Ausnahme der nachfolgend unter d) genannten, noch vorzunehmenden
+Arbeiten, samtliche geschuldeten Leistungen ordnungsgemaf erbracht hat,
+
+dass der Auftraggeber diese ordnungsgemaf erbrachten Leistungen abnimmt und
+
+dass das auf der Grundlage des o. g. Vertrags von der BIS Maintenance Siidwest GmbH zu erstellende Werk hiermit, bis
+auf die nachfolgend unter d) genannten Arbeiten, abgeschlossen ist.
+
+Bei der Abnahme wurden )ﬁ(eine umseitig aufgefiihrte Mangel festgestelit.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Beginn der Gewahrleistung ist der Tag der Abnahme.
+
+Auftrag erledigt: - Xia O nein
+Anlage libergeben: a nein
+
+. 2.42
+
+Datum Name, UnteYschrift BIS arbeiter nterschrift Kunde
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vorgang 0010 Montage der Siebmaschine in der Pulveran
+
+Status FREI KGES KKMP VOKL
+
+Arbeitsplatz 773-51 HI70 Industriemechaniker
+
+Arbeit 0,0 H
+
+Ausfiihrungsfaktor 1
+
+Letzter Anderer: MORASTC ;- e A\
+‘K@“Af A QS L{/-% IO ~
+
+e s M Qe ~ 299 &
+
+Dieses Dokument ist als Anlage zum Auftrag zu archivieren!
+
+ 
+o
+
+BILFINGER|BERGER
+
+ 
+
+Industrial Services
+
+iA‘ Maintenance
+
+ 
+
+&is7 Stidwest
+Leistungsnachweis vom 10.04.2012, Beleg 1, Reg.Nr.: 820150749
+Ausgabedatum: 10.04.2012
+Ersteller: MORASTC
+Seite 1von 2
+Kunde: Miinzing Chemie GmbH Kd-Best-Nr.: Hr. Lob Uberg. Auf.:
+StraRe: Salzstr. 174 Best-Kurzt.: Montage der Siebmaschine in der Pulveran Auftrag-Nr.: 810097411
+PLZ, Ort: 74076 Heilbronn Telefon: Kundennr.: 44653
+Anspr.Kd.: Fax:
+Tech.Anspr: Kundenbetreuer:
+( " “heitszeitnachweis | Arbeitszeit* | | Durchgefiihrte Arbeiten
+\_ _opl. VK-Mat Name Datum |ges. Kz Std. |Fahrzeit km | T
+773-72 LE-571772 Krempels 24.10.2011 | 1,00 0,00 | 0,00 0,00 | Pulveranl. Siebm. El-Anschluss Probelauf
+773-51 LE-571441 Laumann 24.10.2011 | 1.22 0,00 | 0,00 0,00 | P20 Pulveranlage aufbau Siebmaschine
+773-72 LE-571772 Borowsky 24.10.2011 | 1,50 0,00 | 0,00 0,00 | AnschluB und Probelauf Ruttler
+773-51 LE-571441 Laumann 25.10.2011 | 3,70 0,00 | 0,00 0,00 | P20 Pulveranlage aufbau Siebmaschine
+773-51 LE-571441 Laumann 26.10.2011 | 2,50 0,00 | 0,00 0,00 | P20 Pulveranlage aufbau Siebmaschine
+773-51 LE-571441 Laumann 27.10.2011 | 3,00 0,00 | 0,00 0,00 | P20 Pulveranlage aufbau Siebmaschine
+773-51 LE-571441 Laumann 28.10.2011 | 2,00 0,00 | 0,00 0,00 | P20 Pulveranlage aufbau Siebmaschine
+773-51 LE-571441 Laumann 07.11.2011 | 1,00 0,00 | 0,00 0,00 | P20 Pulveranlage aufbau Siebmaschine
+773-72 LE-571772 Borowsky 10.01.2012 | 2,00 0,00 | 0,00 0,00 | Aufbau Siebrttler
+773-51 LE-571441 Laumann 11.01.2012 | 4,55 0,00 | 0,00 0,00 | P20-R235 Pulveranlage mon. Siebmaschine
+773-72 LE-571772 Borowsky 11.01.2012 | 1,00 0,00 | 0,00 0,00 | Einbau Motorschutzschalter fir Ruttler
+773-72 LE-571772 Krempels 11.01.2012 | 1,50 0,00 | 0,00 0,00 | Pulveranl Rittler Schalter angeschlossen
+772-48 LE-571991 Mmonko 26.01.2012 | 8,83 0,00 | 0,00 0,00 | Aufarbeitung Agitan P841
+772-48 LE-571991 Glesing 26.01.2012 | 8,45 0,00 | 0,00 0,00 | Aufarbeitung Agitan P841
+772-48 LE-571991 Thellmann 26.01.2012 | 4,50 0,00 | 0,00 0,00 | Logistik-Tatigkeiten Pulverproduktion
+773-52 LE-571442 Keller 26.01.2012 | 5,00 0,00 | 0,00 0,00 | Aufbereitung Pulver tiber Ruttelsieb
+773-74 LE-571444 02.02.2012 | 1,50 0,00 | 0,00 0,00 | L20:Pulveraniage:Montage Rittelsieb.
+773-51 LE-571441 02.02.2012 | 1,50 0,00 | 0,00 0,00 | L20-Pulveraniage:Montage Rittelsieb.
+( 31 LE-571441 03.02.2012 | 1,25 0,00 | 0,00 0,00 | L20-Pulveranlage:Einfilirinne von
+
+ 
+
+| | | Riittelsieb neu befestigen.
+
+ 
+
+ 
+
+773-74 LE-571444 03.02.2012 | 3,00 0,00 | 0,00 0,00 | Siebruttler montiert.
+773-74 LE-571444 07.02.2012 | 2,00 0,00 | 0,00 0,00 | Pulveranlage Ruttelsieb demontiert.
+773-74 LE-571444 Kilber 08.02.2012 | 1,00 0,00 | 0,00 0,00 | Pulveranlage Ruttelsieb Transportfahig
+| | | befestigt
+773-72 LE-571772 Krempels 10.02.2012 | 2,20 0,00 | 0,00 0,00 | Pulveranl. Rittler, Schalter Motor 2
+| | | angeklemmt
+773-52 LE-571442 Keller 13.02.2012 | 4,00 0,00 | 0,00 0,00 | Aufbau Siebmaschine
+773-72 LE-571772 Borowsky 13.02.2012 | 0,50 0,00 | 0,00 0,00 | Sicherheitsschalter Gberbriickt, Siebvers
+773-51 LE-571441 Laumann 13.02.2012 | 4,00 0,00 | 0,00 0,00 | P20 Pulveranlage Siebmaschine mon.
+773-72 LE-571772 Krempels 13.02.2012 | 0,75 0,00 | 0,00 0,00 | Pulveranl. Ruttler Drehrichtung tberpriif
+773-74 LE-571444 Kilber 13.02.2012 | 3,80 0,00 | 0,00 0,00 | Pulveranlage Nassreinigung + Montage
+| | | Riittelsieb
+773-74 LE-571444 Kilber 13.02.2012 | 0,50 0,00 | 0,00 0,00 | Pulveranlage Reinigung Rittelsieb
+773-74 LE-571444 Bertram 13.02.2012 | 0,50 0,00 | 0,00 0,00 | P20: Drehrichtung Rattler kontrolliert
+773-51 LE-571441 Laumann 14.02.2012 | 221 0,00 | 0,00 0,00 | P20 Pulveranlage Siebmaschine demon.
+BIS Maintenance Sudwest GmbH Geschéftsfihrer: Amtsgericht Mannheim Bankverbindung:
+An der Bundesstralie 3 Franz Braun HRB 336670 Deutsche Bank AG, Aachen
+D- 69181 Leimen Volker Wirkus USt.-IdNr. DEB13047567 Konto: 5819 552
+Steuer-Nr: 38182/01002 BLZ: 390 700 20
+www.BIS.bilfinger.com IBAN: DE36 3907 0020 0581 9552 00
+
+Swift-Code(BIC): DEUTDEDK390
+O
+
+BILFINGER|BERGER
+
+ 
+
+| industrial Services
+
+Auftrag-Nr.: 810097411
+Leistungsnachweis vom 10.04.2012, Beleg 1, Reg.Nr.: 820150749
+
+Ausgabedatum: 10.04.2012
+
+Ersteller: MORASTC
+
+Seite 2von 2
+
+e SSNSSNSS———————
+
+Arbeitszeitnachweis | Arbeitszeit" | | Durchgefiihrte Arbeiten
+Arbpl. VK-Mat Name Datum |ges. Kz Std. |Fahrzeit km | LT
+-
+773-74 LE-571444 Kilber 14.02.2012 | 1,00 0,00 | 0,00 0,00 | P20 Pulveranlage Siebmaschine
+| | | demontiert.
+773-72 LE-571772 Borowsky 14.02.2012 | 0,50 0,00 | 0,00 0,00 | Rickbau Siebversuch
+772-48 LE-571991 Glesing 14.02.2012 | 738 0,00 | 0,00 0,00 |Aufarbeitung an der P.A.
+772-48 LE-571991 Mmonko 14.02.2012 | 825 0,00 | 0,00 0,00 |Aufarbeitung an der P.A.
+773-52 LE-571442 Keller 14.02.2012 | 10,02 0,00 | 0,00 0,00 | Aufarbeitung tber Sieb und demontage
+773-51 LE-571441 Laumann 15.02.2012 | 4,50 0,00 | 0,00 0,00 | P20 Siebmaschine reinig. rickbau versand
+(i ‘ 74 LE-571444 Kilber 15.02.2012 | 2,20 0,00 | 0,00 0,00 | P20 Siebmaschine reinig. riickbau versand
+
+VDM
+
+Summe pro Verkaufsmaterial
+
+LE-571441 | 3143 0,00 | 0,00 0,00 | Industrie-Mechaniker
+LE-571442 | 19,02 0,00 | 0,00 0,00 | Mechaniker-Spezialist
+LE-571444 | 15,50 0,00 | 0,00 0,00 | Mechatroniker
+LE-571772 | 10,95 0,00 | 0,00 0,00 | EMR-Instandhalter
+LE-571991 | 37,41 0,00 | 0,00 0,00 | Lagerist/ Logistiker
+Summe | 114,31 0,00 | 0,00 0,00 |
+
+- - M
+-
+
+Materialnummer Menge ME  Materialbezeichnung Buchungsdatum
+-
+MAT-POS 4,000 ST  Schwingungsdampfer/Puffer 27.10.2011
+MAT-POS1 1,000 LE  Aufmass 810097411 06.02.2012
+MAT-POS1 1,000 LE  Aufmass 810097411 05.03.2012
+MAT-POS1 1,000 ST  Transport zu Fa. Briiggemann 19.03.2012
+
+ 
+
+Sonderverrechnung
+
+Text Menge ME  Materialbezeichnung Buchungsdatum
+
+ 
+
+ 
+
+ 
+
+Diese Arbeiten wurden gemiB unseren Arbeitsbedingungen ausgefithrt. Durch Unterschrift des Auftraggebers werden
+
+diese Eintragungen anerkannt.
+
+   
+
+Untedschrift |verantwértlicher Monteur Unterschrift Kunde
+
+0.0% .\
+
+ 
+
+*norm: normale Arbeitszeit
+U: Uberstunden
+
+N: Nachtarbeit
+
+F: Feiertagsarbeit
+
+Sa: Samstagsarbeit
+
+So: Sonntagsarbeit
+
