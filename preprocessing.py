@@ -61,5 +61,5 @@ def preprocess(data):
     for t in tokens:
         tokens_filtered.append(_remove_stopwords(t))
 
-    # tokens_filtered_syn = match_synms(tokens_filtered)
-    return tokens_filtered
+    tokens_filtered_syn = match_synms(tokens_filtered)
+    return tokens_filtered_syn
