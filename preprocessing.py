@@ -35,7 +35,7 @@ def _remove_stopwords(tokens):
 
     #punctuations_filtered_tokens = _remove_punctuation(tokens_filt)
 
-    return [gs.stem(word).strip() for word in tokens_filt]
+    return tokens_filt #[gs.stem(word).strip() for word in tokens_filt]
 
 
 def _tokenize(data):
@@ -61,5 +61,5 @@ def preprocess(data):
     for t in tokens:
         tokens_filtered.append(_remove_stopwords(t))
 
-    tokens_filtered_syn = match_synms(tokens_filtered)
-    return tokens_filtered_syn
+    # tokens_filtered_syn = match_synms(tokens_filtered)
+    return tokens_filtered
