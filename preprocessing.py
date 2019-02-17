@@ -35,7 +35,7 @@ def _remove_stopwords(tokens):
 
     #punctuations_filtered_tokens = _remove_punctuation(tokens_filt)
 
-    return tokens_filt #[gs.stem(word).strip() for word in tokens_filt]
+    return [gs.stem(word).strip() for word in tokens_filt]
 
 
 def _tokenize(data):
